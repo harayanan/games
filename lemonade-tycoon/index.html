@@ -18,8 +18,8 @@ body {
 }
 #game-container {
   position: relative;
-  width: 960px;
-  height: 640px;
+  width: 1200px;
+  height: 800px;
   max-width: 100vw;
   max-height: 100vh;
   aspect-ratio: 3/2;
@@ -53,20 +53,20 @@ body {
 }
 .panel h2 {
   color: #FFD700;
-  font-size: 14px;
-  margin-bottom: 12px;
+  font-size: 18px;
+  margin-bottom: 14px;
   text-align: center;
   text-shadow: 2px 2px #000;
 }
 .panel h3 {
   color: #FFA500;
-  font-size: 10px;
-  margin-bottom: 8px;
+  font-size: 14px;
+  margin-bottom: 10px;
 }
 .btn {
   font-family: 'Press Start 2P', monospace;
-  font-size: 10px;
-  padding: 8px 16px;
+  font-size: 13px;
+  padding: 10px 18px;
   border: 3px solid #FFD700;
   background: #2a2a4a;
   color: #FFD700;
@@ -80,14 +80,14 @@ body {
   background: #4CAF50;
   border-color: #66BB6A;
   color: #fff;
-  font-size: 12px;
-  padding: 12px 24px;
+  font-size: 16px;
+  padding: 14px 28px;
 }
 .btn-primary:hover { background: #66BB6A; }
 .btn-small {
-  font-size: 8px;
-  padding: 4px 8px;
-  min-width: 28px;
+  font-size: 11px;
+  padding: 6px 10px;
+  min-width: 34px;
 }
 .money { color: #4CAF50; }
 .loss { color: #F44336; }
@@ -116,38 +116,39 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 8px;
-  font-size: 8px;
+  margin-bottom: 10px;
+  font-size: 12px;
   color: #ddd;
 }
-.supply-row .name { width: 80px; }
-.supply-row .stock { color: #888; font-size: 7px; }
-.supply-row .controls { display: flex; gap: 4px; align-items: center; }
-.supply-row .qty { min-width: 24px; text-align: center; color: #FFD700; }
-.supply-row .cost { min-width: 50px; text-align: right; color: #4CAF50; }
+.supply-row .name { width: 120px; }
+.supply-row .stock { color: #aaa; font-size: 10px; }
+.supply-row .price-each { color: #888; font-size: 9px; }
+.supply-row .controls { display: flex; gap: 6px; align-items: center; }
+.supply-row .qty { min-width: 30px; text-align: center; color: #FFD700; font-size: 14px; }
+.supply-row .cost { min-width: 70px; text-align: right; color: #4CAF50; }
 .price-display {
-  font-size: 24px;
-  text-align: center;
-  color: #FFD700;
-  margin: 8px 0;
-  text-shadow: 2px 2px #000;
-}
-.price-controls { display: flex; justify-content: center; gap: 8px; }
-.weather-icon {
   font-size: 32px;
   text-align: center;
-  margin: 8px 0;
+  color: #FFD700;
+  margin: 10px 0;
+  text-shadow: 2px 2px #000;
+}
+.price-controls { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; }
+.weather-icon {
+  font-size: 48px;
+  text-align: center;
+  margin: 10px 0;
 }
 .weather-temp {
-  font-size: 16px;
+  font-size: 22px;
   text-align: center;
   color: #FFD700;
 }
 .weather-desc {
-  font-size: 8px;
+  font-size: 11px;
   text-align: center;
   color: #aaa;
-  margin-top: 4px;
+  margin-top: 6px;
 }
 .planning-bottom {
   display: flex;
@@ -158,7 +159,7 @@ body {
 .inventory-bar {
   display: flex;
   gap: 16px;
-  font-size: 8px;
+  font-size: 12px;
   color: #aaa;
 }
 .inventory-bar span { color: #FFD700; }
@@ -189,39 +190,39 @@ body {
 }
 #summary-screen.active { display: flex; }
 .summary-content {
-  max-width: 420px;
+  max-width: 540px;
   width: 100%;
 }
 .summary-line {
   display: flex;
   justify-content: space-between;
-  font-size: 9px;
-  padding: 4px 0;
+  font-size: 13px;
+  padding: 6px 0;
   border-bottom: 1px solid #333;
   color: #ccc;
 }
 .summary-line.total {
   border-top: 3px solid #FFD700;
   border-bottom: none;
-  font-size: 12px;
-  padding: 8px 0;
-  margin-top: 4px;
+  font-size: 16px;
+  padding: 10px 0;
+  margin-top: 6px;
 }
 .summary-stars {
   text-align: center;
-  font-size: 20px;
-  margin: 12px 0;
-  letter-spacing: 4px;
+  font-size: 28px;
+  margin: 14px 0;
+  letter-spacing: 6px;
 }
 .tip-box {
   background: #1a3a1a;
   border: 2px solid #4CAF50;
   border-radius: 4px;
-  padding: 10px;
-  font-size: 7px;
+  padding: 12px;
+  font-size: 11px;
   color: #8BC34A;
-  line-height: 1.8;
-  margin: 8px 0;
+  line-height: 2;
+  margin: 10px 0;
 }
 
 /* Sim HUD */
@@ -230,10 +231,10 @@ body {
   bottom: 0; left: 0;
   width: 100%;
   display: none;
-  padding: 6px 12px;
+  padding: 10px 16px;
   background: rgba(20, 20, 40, 0.88);
   border-top: 3px solid #FFD700;
-  font-size: 8px;
+  font-size: 13px;
   color: #ddd;
   justify-content: space-between;
   align-items: center;
@@ -242,7 +243,7 @@ body {
 .hud-section { display: flex; gap: 12px; align-items: center; }
 .hud-label { color: #888; }
 .hud-value { color: #FFD700; }
-.speed-btn { font-size: 7px; padding: 3px 6px; }
+.speed-btn { font-size: 11px; padding: 5px 10px; }
 .speed-btn.active { background: #FFD700; color: #1a1a2e; }
 
 /* Cutscene */
@@ -257,14 +258,14 @@ body {
 }
 #cutscene-screen.active { display: flex; }
 .cutscene-box {
-  max-width: 440px;
+  max-width: 600px;
   width: 100%;
   text-align: center;
-  line-height: 2;
-  font-size: 9px;
+  line-height: 2.2;
+  font-size: 14px;
 }
-.cutscene-box .msg { color: #fff; min-height: 60px; margin-bottom: 12px; }
-.cutscene-box .hint { color: #666; font-size: 7px; }
+.cutscene-box .msg { color: #fff; min-height: 70px; margin-bottom: 14px; }
+.cutscene-box .hint { color: #888; font-size: 11px; }
 
 /* Chapter complete */
 #chapter-screen {
@@ -292,25 +293,26 @@ body {
   <div id="ui">
     <!-- Planning Screen -->
     <div id="planning-screen">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
-        <span style="font-size:9px;color:#888;">Chapter 1: Your First Stand</span>
-        <span id="day-label" style="font-size:10px;color:#FFD700;">Day 1 / 7</span>
-        <span id="money-label" style="font-size:10px;" class="money">$20.00</span>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+        <span style="font-size:12px;color:#aaa;">Chapter 1: Your First Stand</span>
+        <span id="day-label" style="font-size:15px;color:#FFD700;">Day 1 / 7</span>
+        <span id="yesterday-profit" style="font-size:11px;color:#888;"></span>
+        <span id="money-label" style="font-size:15px;" class="money">$20.00</span>
       </div>
       <div class="planning-top">
         <!-- Weather Panel -->
-        <div class="panel" style="max-width:140px;">
+        <div class="panel" style="max-width:180px;">
           <h3>Forecast</h3>
           <div id="weather-icon" class="weather-icon">☀️</div>
           <div id="weather-temp" class="weather-temp">82°F</div>
           <div id="weather-desc" class="weather-desc">Sunny & warm</div>
-          <div style="font-size:6px;color:#666;text-align:center;margin-top:8px;">80% accurate</div>
+          <div style="font-size:9px;color:#888;text-align:center;margin-top:8px;">Might change! (80% right)</div>
         </div>
         <!-- Supply Shop -->
         <div class="panel" style="flex:2;">
           <h3>Buy Supplies</h3>
           <div class="supply-row">
-            <span class="name">🍋 Lemons</span>
+            <span class="name">🍋 Lemons<br><span class="price-each">$0.50 ea · 2 cups/lemon</span></span>
             <span class="stock" id="stock-lemons">have: 0</span>
             <div class="controls">
               <button class="btn btn-small" onclick="adjustSupply('lemons',-5)">-5</button>
@@ -322,7 +324,7 @@ body {
             <span class="cost" id="cost-lemons">$0.00</span>
           </div>
           <div class="supply-row">
-            <span class="name">🍬 Sugar</span>
+            <span class="name">🍬 Sugar<br><span class="price-each">$0.30 ea · 6 cups/bag</span></span>
             <span class="stock" id="stock-sugar">have: 0</span>
             <div class="controls">
               <button class="btn btn-small" onclick="adjustSupply('sugar',-5)">-5</button>
@@ -334,7 +336,7 @@ body {
             <span class="cost" id="cost-sugar">$0.00</span>
           </div>
           <div class="supply-row">
-            <span class="name">🧊 Ice</span>
+            <span class="name">🧊 Ice<br><span class="price-each">$0.20 ea · 5 cups/bag · MELTS!</span></span>
             <span class="stock" id="stock-ice">have: 0</span>
             <div class="controls">
               <button class="btn btn-small" onclick="adjustSupply('ice',-5)">-5</button>
@@ -346,7 +348,7 @@ body {
             <span class="cost" id="cost-ice">$0.00</span>
           </div>
           <div class="supply-row">
-            <span class="name">🥤 Cups</span>
+            <span class="name">🥤 Cups<br><span class="price-each">$0.05 ea · 1 per serving</span></span>
             <span class="stock" id="stock-cups">have: 0</span>
             <div class="controls">
               <button class="btn btn-small" onclick="adjustSupply('cups',-5)">-5</button>
@@ -357,12 +359,15 @@ body {
             </div>
             <span class="cost" id="cost-cups">$0.00</span>
           </div>
-          <div style="text-align:right;font-size:9px;margin-top:8px;border-top:2px solid #555;padding-top:6px;">
+          <div id="day1-hint" class="tip-box" style="margin-top:8px;font-size:10px;">
+            💡 First day tip: Try buying 10 lemons, 4 sugar, 5 ice, 25 cups — that's 25 cups of lemonade for $8.75! Set your price around $1.00.
+          </div>
+          <div style="text-align:right;font-size:14px;margin-top:10px;border-top:2px solid #555;padding-top:8px;">
             Total: <span id="total-cost" class="warn">$0.00</span>
           </div>
         </div>
         <!-- Price Panel -->
-        <div class="panel" style="max-width:160px;text-align:center;">
+        <div class="panel" style="max-width:200px;text-align:center;">
           <h3>Set Price</h3>
           <div class="price-display" id="price-display">$1.00</div>
           <div class="price-controls">
@@ -371,20 +376,20 @@ body {
             <button class="btn btn-small" onclick="adjustPrice(0.05)">+5¢</button>
             <button class="btn btn-small" onclick="adjustPrice(0.25)">+25¢</button>
           </div>
-          <div style="font-size:7px;color:#888;margin-top:12px;">
+          <div style="font-size:11px;color:#aaa;margin-top:14px;">
             Cost/cup: <span id="cost-per-cup" class="warn">$0.39</span>
           </div>
-          <div style="font-size:7px;color:#888;margin-top:4px;">
+          <div style="font-size:11px;color:#aaa;margin-top:6px;">
             Profit/cup: <span id="profit-per-cup" class="money">$0.61</span>
           </div>
         </div>
       </div>
-      <div class="planning-bottom panel" style="padding:8px 12px;">
+      <div class="planning-bottom panel" style="padding:10px 16px;">
         <div>
-          <div style="font-size:8px;color:#888;">Goal: <span class="highlight">$50 profit</span></div>
+          <div style="font-size:12px;color:#aaa;">Goal: <span class="highlight">$50 profit</span></div>
           <div class="goal-bar"><div class="goal-bar-fill" id="goal-fill" style="width:0%"></div></div>
         </div>
-        <div style="font-size:8px;text-align:center;">
+        <div style="font-size:12px;text-align:center;">
           <span id="can-make-label" style="color:#aaa;">Can make: <span class="highlight" id="can-make">0</span> cups</span>
         </div>
         <button class="btn btn-primary" id="start-day-btn" onclick="startDay()">Start Day ▶</button>
@@ -405,8 +410,8 @@ body {
         <span><span class="hud-label">🥤</span><span class="hud-value" id="sim-cups">0</span></span>
       </div>
       <div class="hud-section">
-        <button class="btn speed-btn active" id="speed-1" onclick="setSpeed(1)">1x</button>
-        <button class="btn speed-btn" id="speed-2" onclick="setSpeed(2)">2x</button>
+        <button class="btn speed-btn" id="speed-1" onclick="setSpeed(1)">1x</button>
+        <button class="btn speed-btn active" id="speed-2" onclick="setSpeed(2)">2x</button>
         <button class="btn speed-btn" id="speed-5" onclick="setSpeed(5)">5x</button>
       </div>
     </div>
@@ -415,7 +420,10 @@ body {
     <div id="cutscene-screen">
       <div class="cutscene-box panel">
         <div class="msg" id="cutscene-msg"></div>
-        <div class="hint blink">Click to continue...</div>
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <div class="hint blink" style="flex:1;">Click to continue...</div>
+          <button class="btn" style="font-size:10px;" onclick="skipCutscene()">SKIP >></button>
+        </div>
       </div>
     </div>
 
@@ -427,7 +435,7 @@ body {
         <div id="summary-lines"></div>
         <div id="summary-tip" class="tip-box"></div>
         <div style="margin-top:8px;">
-          <div style="font-size:8px;color:#888;">Goal Progress: <span class="highlight" id="summary-goal-text">$0 / $50</span></div>
+          <div style="font-size:13px;color:#aaa;">Goal Progress: <span class="highlight" id="summary-goal-text">$0 / $50</span></div>
           <div class="goal-bar"><div class="goal-bar-fill" id="summary-goal-fill" style="width:0%"></div></div>
         </div>
         <div style="text-align:center;margin-top:12px;">
@@ -439,8 +447,8 @@ body {
     <!-- Chapter Complete Screen -->
     <div id="chapter-screen">
       <div class="panel" style="text-align:center;max-width:420px;width:100%;">
-        <h2 id="chapter-title" style="font-size:16px;margin-bottom:16px;"></h2>
-        <div id="chapter-body" style="font-size:9px;color:#ccc;line-height:2;"></div>
+        <h2 id="chapter-title" style="font-size:20px;margin-bottom:18px;"></h2>
+        <div id="chapter-body" style="font-size:13px;color:#ccc;line-height:2.2;"></div>
         <div style="margin-top:16px;">
           <button class="btn btn-primary" onclick="restartGame()">Play Again</button>
         </div>
@@ -455,7 +463,7 @@ body {
 // ============================================================
 const CANVAS_W = 480, CANVAS_H = 320;
 const SUPPLY_PRICES = { lemons: 0.50, sugar: 0.30, ice: 0.20, cups: 0.05 };
-const SUPPLY_PER_CUP = { lemons: 0.5, sugar: 0.167, ice: 0.2, cups: 1 };
+const SUPPLY_PER_CUP = { lemons: 0.5, sugar: 1/6, ice: 0.2, cups: 1 };
 const COST_PER_CUP = SUPPLY_PRICES.lemons * SUPPLY_PER_CUP.lemons +
   SUPPLY_PRICES.sugar * SUPPLY_PER_CUP.sugar +
   SUPPLY_PRICES.ice * SUPPLY_PER_CUP.ice +
@@ -463,8 +471,8 @@ const COST_PER_CUP = SUPPLY_PRICES.lemons * SUPPLY_PER_CUP.lemons +
 const WEATHER_TYPES = ['sunny', 'hot', 'cloudy', 'rainy'];
 const WEATHER_EMOJI = { sunny: '☀️', hot: '🔥', cloudy: '⛅', rainy: '🌧️' };
 const WEATHER_DESC = {
-  sunny: 'Sunny & pleasant', hot: 'Hot & scorching',
-  cloudy: 'Overcast & mild', rainy: 'Rainy & cold'
+  sunny: 'Sunny — good crowd!', hot: 'Hot — very thirsty!',
+  cloudy: 'Cloudy — fewer visitors', rainy: 'Rainy — very few visitors'
 };
 const CHAPTER1_GOAL = 50;
 const CHAPTER1_DAYS = 7;
@@ -498,9 +506,9 @@ let state = {
   buying: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
   today: { revenue: 0, costOfGoods: 0, cupsSold: 0, customersTotal: 0, customersLost: 0, supplyCost: 0 },
   history: [],
-  simTime: 8, simSpeed: 1,
+  simTime: 8, simSpeed: 2,
   customers: [], particles: [], clouds: [],
-  cutsceneIdx: 0,
+  cutsceneIdx: 0, bailedOut: false,
   titleTime: 0, animTime: 0,
 };
 
@@ -884,6 +892,10 @@ function serveCup() {
   state.inventory.sugar -= SUPPLY_PER_CUP.sugar;
   state.inventory.ice -= SUPPLY_PER_CUP.ice;
   state.inventory.cups -= SUPPLY_PER_CUP.cups;
+  // Round to prevent floating point drift
+  state.inventory.lemons = Math.round(state.inventory.lemons * 1000) / 1000;
+  state.inventory.sugar = Math.round(state.inventory.sugar * 1000) / 1000;
+  state.inventory.ice = Math.round(state.inventory.ice * 1000) / 1000;
 }
 
 function getWillingnessToPay(weather) {
@@ -898,13 +910,13 @@ function getWillingnessToPay(weather) {
 }
 
 function getCustomerRate(weather, hour) {
-  // Bell curve around noon
+  // Bell curve around noon — boosted rates for fun gameplay
   const hourFactor = 1 - Math.pow((hour - 13) / 5, 2);
-  let base = 3 * Math.max(0.1, hourFactor);
-  if (weather.type === 'hot') base *= 1.6;
-  if (weather.type === 'sunny') base *= 1.2;
-  if (weather.type === 'cloudy') base *= 0.7;
-  if (weather.type === 'rainy') base *= 0.35;
+  let base = 4.5 * Math.max(0.15, hourFactor);
+  if (weather.type === 'hot') base *= 1.8;
+  if (weather.type === 'sunny') base *= 1.3;
+  if (weather.type === 'cloudy') base *= 0.75;
+  if (weather.type === 'rainy') base *= 0.4;
   return base;
 }
 
@@ -1182,20 +1194,35 @@ function updateSimHUD() {
   document.getElementById('sim-sold').textContent = state.today.cupsSold;
   document.getElementById('sim-revenue').textContent = '$' + state.today.revenue.toFixed(2);
   document.getElementById('sim-lemons').textContent = Math.floor(state.inventory.lemons);
-  document.getElementById('sim-sugar').textContent = Math.floor(state.inventory.sugar * 6); // show bags approx
-  document.getElementById('sim-ice').textContent = Math.floor(state.inventory.ice * 5);
+  document.getElementById('sim-sugar').textContent = Math.floor(state.inventory.sugar);
+  document.getElementById('sim-ice').textContent = Math.floor(state.inventory.ice);
   document.getElementById('sim-cups').textContent = Math.floor(state.inventory.cups);
 }
 
 // ============================================================
 // DAY START / END
 // ============================================================
+function flashWarning(msg) {
+  const el = document.getElementById('start-day-btn');
+  el.textContent = msg;
+  el.style.background = '#F44336';
+  el.style.borderColor = '#F44336';
+  sfxFail();
+  setTimeout(() => { el.textContent = 'Start Day ▶'; el.style.background = ''; el.style.borderColor = ''; }, 1500);
+}
 function startDay() {
   initAudio();
-  sfxStart();
-  // Apply purchases
+  // Check affordability
   const totalCost = calcTotalCost();
-  if (totalCost > state.money) { sfxFail(); return; }
+  if (totalCost > state.money) { flashWarning('Not enough money!'); return; }
+  // Check if player can make any cups
+  const totalLemons = state.inventory.lemons + state.buying.lemons;
+  const totalSugar = state.inventory.sugar + state.buying.sugar;
+  const totalIce = state.inventory.ice + state.buying.ice;
+  const totalCups = state.inventory.cups + state.buying.cups;
+  const canMake = Math.floor(Math.min(totalLemons/SUPPLY_PER_CUP.lemons, totalSugar/SUPPLY_PER_CUP.sugar, totalIce/SUPPLY_PER_CUP.ice, totalCups/SUPPLY_PER_CUP.cups));
+  if (canMake === 0) { flashWarning('No lemonade to sell!'); return; }
+  sfxStart();
   state.money -= totalCost;
   state.today.supplyCost = totalCost;
   state.inventory.lemons += state.buying.lemons;
@@ -1216,23 +1243,25 @@ function startDay() {
 }
 
 function endDay() {
-  // Calculate spoilage
-  const spoilageCost = state.inventory.ice * SUPPLY_PRICES.ice; // all ice melts
+  // Calculate cost of goods ACTUALLY SOLD (not total purchased)
+  const costOfGoodsSold = state.today.cupsSold * COST_PER_CUP;
+  // Calculate spoilage: leftover ice melts, lemons lose 30%
+  const iceWasted = state.inventory.ice;
+  const spoilageCost = iceWasted * SUPPLY_PRICES.ice;
   state.inventory.ice = 0;
-  // Lemons last 3 days - simplified: lose 30% per day
   const lemonLoss = Math.floor(state.inventory.lemons * 0.3);
   state.inventory.lemons = Math.max(0, state.inventory.lemons - lemonLoss);
   const lemonSpoilageCost = lemonLoss * SUPPLY_PRICES.lemons;
-  const costOfGoodsSold = state.today.cupsSold * COST_PER_CUP;
   const totalSpoilage = spoilageCost + lemonSpoilageCost;
-  const profit = state.today.revenue - state.today.supplyCost - totalSpoilage;
+  // Profit = revenue - what you used - what spoiled (NOT total supply cost)
+  const profit = state.today.revenue - costOfGoodsSold - totalSpoilage;
   state.money += state.today.revenue;
   state.totalProfit += profit;
   // Store day data
   const dayData = {
     day: state.day,
     revenue: state.today.revenue,
-    supplyCost: state.today.supplyCost,
+    costOfGoods: costOfGoodsSold,
     spoilage: totalSpoilage,
     profit: profit,
     cupsSold: state.today.cupsSold,
@@ -1251,13 +1280,13 @@ function endDay() {
 function showSummary(data) {
   setScreen('summary');
   document.getElementById('summary-title').textContent = `Day ${data.day} Summary`;
-  // Stars
-  const margin = data.revenue > 0 ? (data.profit / data.revenue) : 0;
-  let stars = 1;
-  if (margin > 0.2) stars = 2;
-  if (margin > 0.4) stars = 3;
-  if (margin > 0.55) stars = 4;
-  if (margin > 0.7 && data.customersLost === 0) stars = 5;
+  // Stars based on absolute profit (easier for kids to understand)
+  let stars = 0;
+  if (data.profit > 0) stars = 1;
+  if (data.profit > 3) stars = 2;
+  if (data.profit > 7) stars = 3;
+  if (data.profit > 12) stars = 4;
+  if (data.profit > 18 && data.customersLost <= 2) stars = 5;
   document.getElementById('summary-stars').textContent = '⭐'.repeat(stars) + '☆'.repeat(5 - stars);
   // Lines
   const lines = document.getElementById('summary-lines');
@@ -1271,13 +1300,13 @@ function showSummary(data) {
   addLine('Cups Sold', `${data.cupsSold} cups`);
   addLine('Price per Cup', '$' + data.price.toFixed(2));
   addLine('Revenue', '$' + data.revenue.toFixed(2), 'money');
-  addLine('Supply Cost', '-$' + data.supplyCost.toFixed(2), 'loss');
-  if (data.spoilage > 0) addLine('Spoilage', '-$' + data.spoilage.toFixed(2), 'loss');
+  addLine('Ingredients Used', '-$' + data.costOfGoods.toFixed(2), 'loss');
+  if (data.spoilage > 0.01) addLine('Spoilage (melted/rotten)', '-$' + data.spoilage.toFixed(2), 'loss');
   addLine('Customers Lost', data.customersLost + (data.customersLost > 0 ? ' 😞' : ' 🎉'));
   const profitDiv = document.createElement('div');
   profitDiv.className = 'summary-line total slide-up';
   const profitClass = data.profit >= 0 ? 'money' : 'loss';
-  profitDiv.innerHTML = `<span>NET PROFIT</span><span class="${profitClass}" style="font-size:14px;">${data.profit >= 0 ? '+' : ''}$${data.profit.toFixed(2)}</span>`;
+  profitDiv.innerHTML = `<span>NET PROFIT</span><span class="${profitClass}" style="font-size:20px;">${data.profit >= 0 ? '+' : ''}$${data.profit.toFixed(2)}</span>`;
   lines.appendChild(profitDiv);
   if (data.profit > 0) sfxWin(); else sfxFail();
   // Tip
@@ -1323,6 +1352,14 @@ function nextDay() {
   state.weather = generateWeather();
   state.forecast = generateForecast(state.weather);
   state.buying = { lemons: 0, sugar: 0, ice: 0, cups: 0 };
+  // Bankruptcy protection: parents lend money if too broke to buy anything
+  if (state.money < 2) {
+    const loan = 5;
+    state.money += loan;
+    state.bailedOut = true;
+  } else {
+    state.bailedOut = false;
+  }
   setScreen('planning');
   updatePlanningUI();
 }
@@ -1374,9 +1411,9 @@ function restartGame() {
     buying: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
     today: { revenue: 0, costOfGoods: 0, cupsSold: 0, customersTotal: 0, customersLost: 0, supplyCost: 0 },
     history: [],
-    simTime: 8, simSpeed: 1,
+    simTime: 8, simSpeed: 2,
     customers: [], particles: [], clouds: [],
-    cutsceneIdx: 0,
+    cutsceneIdx: 0, bailedOut: false,
     titleTime: 0, animTime: 0,
   };
   initClouds();
@@ -1388,10 +1425,10 @@ function restartGame() {
 // CUTSCENE
 // ============================================================
 const CUTSCENE_MSGS = [
-  "It's a beautiful summer day in your neighborhood...",
-  "You have $20, a folding table, and a big dream. 🍋",
-  "Your goal: earn $50 in profit over the next 7 days!",
-  "Watch the weather, buy smart, price right, and maybe — just maybe — you'll be a Lemonade Tycoon!",
+  "It's a beautiful summer day... You have $20 and a dream! 🍋",
+  "Buy Lemons + Sugar + Ice + Cups each morning, then set your price per cup.",
+  "☀️ Hot days = lots of thirsty customers!  🌧️ Rainy days = very few visitors.",
+  "Ice melts overnight, so only buy what you need! Your goal: earn $50 profit in 7 days. Let's go! 💰",
 ];
 
 function drawCutsceneBg(dt) {
@@ -1406,13 +1443,20 @@ function drawCutsceneBg(dt) {
 function advanceCutscene() {
   state.cutsceneIdx++;
   if (state.cutsceneIdx >= CUTSCENE_MSGS.length) {
-    state.weather = generateWeather();
-    state.forecast = generateForecast(state.weather);
-    setScreen('planning');
-    updatePlanningUI();
+    startPlanning();
     return;
   }
   document.getElementById('cutscene-msg').textContent = CUTSCENE_MSGS[state.cutsceneIdx];
+}
+function skipCutscene() {
+  sfxClick();
+  startPlanning();
+}
+function startPlanning() {
+  state.weather = generateWeather();
+  state.forecast = generateForecast(state.weather);
+  setScreen('planning');
+  updatePlanningUI();
 }
 
 // ============================================================
@@ -1459,6 +1503,15 @@ function calcCanMake() {
 function updatePlanningUI() {
   document.getElementById('day-label').textContent = `Day ${state.day} / ${CHAPTER1_DAYS}`;
   document.getElementById('money-label').textContent = '$' + state.money.toFixed(2);
+  // Show yesterday's result
+  const yEl = document.getElementById('yesterday-profit');
+  if (state.history.length > 0) {
+    const last = state.history[state.history.length - 1];
+    const cls = last.profit >= 0 ? 'money' : 'loss';
+    yEl.innerHTML = `Yesterday: <span class="${cls}">${last.profit >= 0 ? '+' : ''}$${last.profit.toFixed(2)}</span>`;
+  } else {
+    yEl.textContent = '';
+  }
   // Supply stocks
   document.getElementById('stock-lemons').textContent = 'have: ' + Math.floor(state.inventory.lemons);
   document.getElementById('stock-sugar').textContent = 'have: ' + Math.floor(state.inventory.sugar);
@@ -1491,6 +1544,18 @@ function updatePlanningUI() {
   // Goal progress
   const goalPct = Math.min(100, Math.max(0, (state.totalProfit / CHAPTER1_GOAL) * 100));
   document.getElementById('goal-fill').style.width = goalPct + '%';
+  // Show hint only on day 1, or bailout message
+  const hintEl = document.getElementById('day1-hint');
+  if (hintEl) {
+    if (state.bailedOut) {
+      hintEl.style.display = 'block';
+      hintEl.textContent = '💸 You were running low, so your parents lent you $5! Make it count!';
+    } else if (state.day === 1) {
+      hintEl.style.display = 'block';
+    } else {
+      hintEl.style.display = 'none';
+    }
+  }
 }
 
 function setSpeed(s) {
@@ -1515,7 +1580,7 @@ function setScreen(screen) {
 // ============================================================
 // INPUT
 // ============================================================
-canvas.addEventListener('click', () => {
+document.getElementById('game-container').addEventListener('click', (e) => {
   initAudio();
   if (state.screen === 'title') {
     sfxStart();
