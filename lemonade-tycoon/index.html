@@ -1,0 +1,1592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lemonade Tycoon 8-Bit</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #1a1a2e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Press Start 2P', monospace;
+  overflow: hidden;
+}
+#game-container {
+  position: relative;
+  width: 960px;
+  height: 640px;
+  max-width: 100vw;
+  max-height: 100vh;
+  aspect-ratio: 3/2;
+}
+#game {
+  width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  display: block;
+  border: 4px solid #333;
+  border-radius: 4px;
+}
+#ui {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}
+#ui > * { pointer-events: auto; }
+.panel {
+  background: rgba(20, 20, 40, 0.92);
+  border: 3px solid #FFD700;
+  border-radius: 8px;
+  padding: 16px;
+  color: #fff;
+  font-family: 'Press Start 2P', monospace;
+}
+.panel h2 {
+  color: #FFD700;
+  font-size: 14px;
+  margin-bottom: 12px;
+  text-align: center;
+  text-shadow: 2px 2px #000;
+}
+.panel h3 {
+  color: #FFA500;
+  font-size: 10px;
+  margin-bottom: 8px;
+}
+.btn {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 10px;
+  padding: 8px 16px;
+  border: 3px solid #FFD700;
+  background: #2a2a4a;
+  color: #FFD700;
+  cursor: pointer;
+  transition: all 0.1s;
+  text-transform: uppercase;
+}
+.btn:hover { background: #3a3a5a; transform: scale(1.05); }
+.btn:active { transform: scale(0.95); }
+.btn-primary {
+  background: #4CAF50;
+  border-color: #66BB6A;
+  color: #fff;
+  font-size: 12px;
+  padding: 12px 24px;
+}
+.btn-primary:hover { background: #66BB6A; }
+.btn-small {
+  font-size: 8px;
+  padding: 4px 8px;
+  min-width: 28px;
+}
+.money { color: #4CAF50; }
+.loss { color: #F44336; }
+.warn { color: #FFC107; }
+.highlight { color: #FFD700; }
+.hidden { display: none !important; }
+
+/* Planning Screen */
+#planning-screen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  display: none;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px;
+}
+#planning-screen.active { display: flex; }
+.planning-top {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+}
+.planning-top > div { flex: 1; }
+.supply-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  font-size: 8px;
+  color: #ddd;
+}
+.supply-row .name { width: 80px; }
+.supply-row .stock { color: #888; font-size: 7px; }
+.supply-row .controls { display: flex; gap: 4px; align-items: center; }
+.supply-row .qty { min-width: 24px; text-align: center; color: #FFD700; }
+.supply-row .cost { min-width: 50px; text-align: right; color: #4CAF50; }
+.price-display {
+  font-size: 24px;
+  text-align: center;
+  color: #FFD700;
+  margin: 8px 0;
+  text-shadow: 2px 2px #000;
+}
+.price-controls { display: flex; justify-content: center; gap: 8px; }
+.weather-icon {
+  font-size: 32px;
+  text-align: center;
+  margin: 8px 0;
+}
+.weather-temp {
+  font-size: 16px;
+  text-align: center;
+  color: #FFD700;
+}
+.weather-desc {
+  font-size: 8px;
+  text-align: center;
+  color: #aaa;
+  margin-top: 4px;
+}
+.planning-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+}
+.inventory-bar {
+  display: flex;
+  gap: 16px;
+  font-size: 8px;
+  color: #aaa;
+}
+.inventory-bar span { color: #FFD700; }
+.goal-bar {
+  width: 100%;
+  height: 12px;
+  background: #333;
+  border: 2px solid #555;
+  border-radius: 2px;
+  margin-top: 6px;
+  overflow: hidden;
+}
+.goal-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #4CAF50, #8BC34A);
+  transition: width 0.5s;
+}
+
+/* Summary Screen */
+#summary-screen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+#summary-screen.active { display: flex; }
+.summary-content {
+  max-width: 420px;
+  width: 100%;
+}
+.summary-line {
+  display: flex;
+  justify-content: space-between;
+  font-size: 9px;
+  padding: 4px 0;
+  border-bottom: 1px solid #333;
+  color: #ccc;
+}
+.summary-line.total {
+  border-top: 3px solid #FFD700;
+  border-bottom: none;
+  font-size: 12px;
+  padding: 8px 0;
+  margin-top: 4px;
+}
+.summary-stars {
+  text-align: center;
+  font-size: 20px;
+  margin: 12px 0;
+  letter-spacing: 4px;
+}
+.tip-box {
+  background: #1a3a1a;
+  border: 2px solid #4CAF50;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 7px;
+  color: #8BC34A;
+  line-height: 1.8;
+  margin: 8px 0;
+}
+
+/* Sim HUD */
+#sim-hud {
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%;
+  display: none;
+  padding: 6px 12px;
+  background: rgba(20, 20, 40, 0.88);
+  border-top: 3px solid #FFD700;
+  font-size: 8px;
+  color: #ddd;
+  justify-content: space-between;
+  align-items: center;
+}
+#sim-hud.active { display: flex; }
+.hud-section { display: flex; gap: 12px; align-items: center; }
+.hud-label { color: #888; }
+.hud-value { color: #FFD700; }
+.speed-btn { font-size: 7px; padding: 3px 6px; }
+.speed-btn.active { background: #FFD700; color: #1a1a2e; }
+
+/* Cutscene */
+#cutscene-screen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  display: none;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 24px;
+}
+#cutscene-screen.active { display: flex; }
+.cutscene-box {
+  max-width: 440px;
+  width: 100%;
+  text-align: center;
+  line-height: 2;
+  font-size: 9px;
+}
+.cutscene-box .msg { color: #fff; min-height: 60px; margin-bottom: 12px; }
+.cutscene-box .hint { color: #666; font-size: 7px; }
+
+/* Chapter complete */
+#chapter-screen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+#chapter-screen.active { display: flex; }
+
+/* Animations */
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+@keyframes bounceIn { 0% { transform: scale(0); } 60% { transform: scale(1.1); } 100% { transform: scale(1); } }
+@keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+.blink { animation: blink 1s infinite; }
+.bounce-in { animation: bounceIn 0.4s ease-out; }
+.slide-up { animation: slideUp 0.3s ease-out; }
+</style>
+</head>
+<body>
+<div id="game-container">
+  <canvas id="game" width="480" height="320"></canvas>
+  <div id="ui">
+    <!-- Planning Screen -->
+    <div id="planning-screen">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
+        <span style="font-size:9px;color:#888;">Chapter 1: Your First Stand</span>
+        <span id="day-label" style="font-size:10px;color:#FFD700;">Day 1 / 7</span>
+        <span id="money-label" style="font-size:10px;" class="money">$20.00</span>
+      </div>
+      <div class="planning-top">
+        <!-- Weather Panel -->
+        <div class="panel" style="max-width:140px;">
+          <h3>Forecast</h3>
+          <div id="weather-icon" class="weather-icon">☀️</div>
+          <div id="weather-temp" class="weather-temp">82°F</div>
+          <div id="weather-desc" class="weather-desc">Sunny & warm</div>
+          <div style="font-size:6px;color:#666;text-align:center;margin-top:8px;">80% accurate</div>
+        </div>
+        <!-- Supply Shop -->
+        <div class="panel" style="flex:2;">
+          <h3>Buy Supplies</h3>
+          <div class="supply-row">
+            <span class="name">🍋 Lemons</span>
+            <span class="stock" id="stock-lemons">have: 0</span>
+            <div class="controls">
+              <button class="btn btn-small" onclick="adjustSupply('lemons',-5)">-5</button>
+              <button class="btn btn-small" onclick="adjustSupply('lemons',-1)">-</button>
+              <span class="qty" id="buy-lemons">0</span>
+              <button class="btn btn-small" onclick="adjustSupply('lemons',1)">+</button>
+              <button class="btn btn-small" onclick="adjustSupply('lemons',5)">+5</button>
+            </div>
+            <span class="cost" id="cost-lemons">$0.00</span>
+          </div>
+          <div class="supply-row">
+            <span class="name">🍬 Sugar</span>
+            <span class="stock" id="stock-sugar">have: 0</span>
+            <div class="controls">
+              <button class="btn btn-small" onclick="adjustSupply('sugar',-5)">-5</button>
+              <button class="btn btn-small" onclick="adjustSupply('sugar',-1)">-</button>
+              <span class="qty" id="buy-sugar">0</span>
+              <button class="btn btn-small" onclick="adjustSupply('sugar',1)">+</button>
+              <button class="btn btn-small" onclick="adjustSupply('sugar',5)">+5</button>
+            </div>
+            <span class="cost" id="cost-sugar">$0.00</span>
+          </div>
+          <div class="supply-row">
+            <span class="name">🧊 Ice</span>
+            <span class="stock" id="stock-ice">have: 0</span>
+            <div class="controls">
+              <button class="btn btn-small" onclick="adjustSupply('ice',-5)">-5</button>
+              <button class="btn btn-small" onclick="adjustSupply('ice',-1)">-</button>
+              <span class="qty" id="buy-ice">0</span>
+              <button class="btn btn-small" onclick="adjustSupply('ice',1)">+</button>
+              <button class="btn btn-small" onclick="adjustSupply('ice',5)">+5</button>
+            </div>
+            <span class="cost" id="cost-ice">$0.00</span>
+          </div>
+          <div class="supply-row">
+            <span class="name">🥤 Cups</span>
+            <span class="stock" id="stock-cups">have: 0</span>
+            <div class="controls">
+              <button class="btn btn-small" onclick="adjustSupply('cups',-5)">-5</button>
+              <button class="btn btn-small" onclick="adjustSupply('cups',-1)">-</button>
+              <span class="qty" id="buy-cups">0</span>
+              <button class="btn btn-small" onclick="adjustSupply('cups',1)">+</button>
+              <button class="btn btn-small" onclick="adjustSupply('cups',5)">+5</button>
+            </div>
+            <span class="cost" id="cost-cups">$0.00</span>
+          </div>
+          <div style="text-align:right;font-size:9px;margin-top:8px;border-top:2px solid #555;padding-top:6px;">
+            Total: <span id="total-cost" class="warn">$0.00</span>
+          </div>
+        </div>
+        <!-- Price Panel -->
+        <div class="panel" style="max-width:160px;text-align:center;">
+          <h3>Set Price</h3>
+          <div class="price-display" id="price-display">$1.00</div>
+          <div class="price-controls">
+            <button class="btn btn-small" onclick="adjustPrice(-0.25)">-25¢</button>
+            <button class="btn btn-small" onclick="adjustPrice(-0.05)">-5¢</button>
+            <button class="btn btn-small" onclick="adjustPrice(0.05)">+5¢</button>
+            <button class="btn btn-small" onclick="adjustPrice(0.25)">+25¢</button>
+          </div>
+          <div style="font-size:7px;color:#888;margin-top:12px;">
+            Cost/cup: <span id="cost-per-cup" class="warn">$0.39</span>
+          </div>
+          <div style="font-size:7px;color:#888;margin-top:4px;">
+            Profit/cup: <span id="profit-per-cup" class="money">$0.61</span>
+          </div>
+        </div>
+      </div>
+      <div class="planning-bottom panel" style="padding:8px 12px;">
+        <div>
+          <div style="font-size:8px;color:#888;">Goal: <span class="highlight">$50 profit</span></div>
+          <div class="goal-bar"><div class="goal-bar-fill" id="goal-fill" style="width:0%"></div></div>
+        </div>
+        <div style="font-size:8px;text-align:center;">
+          <span id="can-make-label" style="color:#aaa;">Can make: <span class="highlight" id="can-make">0</span> cups</span>
+        </div>
+        <button class="btn btn-primary" id="start-day-btn" onclick="startDay()">Start Day ▶</button>
+      </div>
+    </div>
+
+    <!-- Simulation HUD -->
+    <div id="sim-hud">
+      <div class="hud-section">
+        <span><span class="hud-label">Time:</span> <span class="hud-value" id="sim-time">8:00 AM</span></span>
+        <span><span class="hud-label">Sold:</span> <span class="hud-value" id="sim-sold">0</span></span>
+        <span><span class="hud-label">Revenue:</span> <span class="money" id="sim-revenue">$0.00</span></span>
+      </div>
+      <div class="hud-section">
+        <span><span class="hud-label">🍋</span><span class="hud-value" id="sim-lemons">0</span></span>
+        <span><span class="hud-label">🍬</span><span class="hud-value" id="sim-sugar">0</span></span>
+        <span><span class="hud-label">🧊</span><span class="hud-value" id="sim-ice">0</span></span>
+        <span><span class="hud-label">🥤</span><span class="hud-value" id="sim-cups">0</span></span>
+      </div>
+      <div class="hud-section">
+        <button class="btn speed-btn active" id="speed-1" onclick="setSpeed(1)">1x</button>
+        <button class="btn speed-btn" id="speed-2" onclick="setSpeed(2)">2x</button>
+        <button class="btn speed-btn" id="speed-5" onclick="setSpeed(5)">5x</button>
+      </div>
+    </div>
+
+    <!-- Cutscene Screen -->
+    <div id="cutscene-screen">
+      <div class="cutscene-box panel">
+        <div class="msg" id="cutscene-msg"></div>
+        <div class="hint blink">Click to continue...</div>
+      </div>
+    </div>
+
+    <!-- Summary Screen -->
+    <div id="summary-screen">
+      <div class="summary-content panel slide-up">
+        <h2 id="summary-title">Day 1 Summary</h2>
+        <div id="summary-stars" class="summary-stars"></div>
+        <div id="summary-lines"></div>
+        <div id="summary-tip" class="tip-box"></div>
+        <div style="margin-top:8px;">
+          <div style="font-size:8px;color:#888;">Goal Progress: <span class="highlight" id="summary-goal-text">$0 / $50</span></div>
+          <div class="goal-bar"><div class="goal-bar-fill" id="summary-goal-fill" style="width:0%"></div></div>
+        </div>
+        <div style="text-align:center;margin-top:12px;">
+          <button class="btn btn-primary" id="next-day-btn" onclick="nextDay()">Next Day ▶</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Chapter Complete Screen -->
+    <div id="chapter-screen">
+      <div class="panel" style="text-align:center;max-width:420px;width:100%;">
+        <h2 id="chapter-title" style="font-size:16px;margin-bottom:16px;"></h2>
+        <div id="chapter-body" style="font-size:9px;color:#ccc;line-height:2;"></div>
+        <div style="margin-top:16px;">
+          <button class="btn btn-primary" onclick="restartGame()">Play Again</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ============================================================
+// CONFIGURATION
+// ============================================================
+const CANVAS_W = 480, CANVAS_H = 320;
+const SUPPLY_PRICES = { lemons: 0.50, sugar: 0.30, ice: 0.20, cups: 0.05 };
+const SUPPLY_PER_CUP = { lemons: 0.5, sugar: 0.167, ice: 0.2, cups: 1 };
+const COST_PER_CUP = SUPPLY_PRICES.lemons * SUPPLY_PER_CUP.lemons +
+  SUPPLY_PRICES.sugar * SUPPLY_PER_CUP.sugar +
+  SUPPLY_PRICES.ice * SUPPLY_PER_CUP.ice +
+  SUPPLY_PRICES.cups * SUPPLY_PER_CUP.cups;
+const WEATHER_TYPES = ['sunny', 'hot', 'cloudy', 'rainy'];
+const WEATHER_EMOJI = { sunny: '☀️', hot: '🔥', cloudy: '⛅', rainy: '🌧️' };
+const WEATHER_DESC = {
+  sunny: 'Sunny & pleasant', hot: 'Hot & scorching',
+  cloudy: 'Overcast & mild', rainy: 'Rainy & cold'
+};
+const CHAPTER1_GOAL = 50;
+const CHAPTER1_DAYS = 7;
+const SIM_START_HOUR = 8, SIM_END_HOUR = 18;
+const COLORS = {
+  sky_top: '#4AA4E0', sky_bot: '#87CEEB', sky_hot_top: '#E08040', sky_hot_bot: '#FFB060',
+  sky_rain_top: '#4A5568', sky_rain_bot: '#718096', sky_cloud_top: '#7BA4C7', sky_cloud_bot: '#A0C4E0',
+  sun: '#FFD700', sun_glow: '#FFF4B0', cloud: '#F0F0F0', cloud_dark: '#B0B8C0',
+  rain: '#6B9BD2', ground: '#8B7355', sidewalk: '#D4C5A9', sidewalk_line: '#C0B090',
+  road: '#555555', road_line: '#FFD700', grass: '#5CBF60', grass_dark: '#3A9F40',
+  tree_trunk: '#6B4423', tree_top: '#3A8F3A', tree_light: '#5CBF60',
+  stand_wood: '#A0622D', stand_dark: '#7A4417', stand_light: '#C07830',
+  awning1: '#E74C3C', awning2: '#FFFFFF', awning_shadow: '#C0392B',
+  lemon: '#FFE135', lemon_dark: '#E0C020', pitcher: '#B8E8FF', pitcher_lemon: '#FFE888',
+  sign_bg: '#FFF8DC', sign_border: '#8B4513',
+  skin: ['#FFDBB4', '#E8B88A', '#C68C5C', '#8D5524'],
+  shirt: ['#E74C3C', '#3498DB', '#2ECC71', '#9B59B6', '#F39C12', '#1ABC9C', '#E67E22', '#E84393'],
+  hair: ['#2C1810', '#5C3317', '#8B4513', '#D4A030', '#C0392B', '#1a1a1a'],
+};
+
+// ============================================================
+// GAME STATE
+// ============================================================
+let state = {
+  screen: 'title', chapter: 1, day: 1,
+  money: 20.00, totalProfit: 0,
+  inventory: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
+  price: 1.00,
+  weather: { type: 'sunny', temp: 82 },
+  forecast: { type: 'sunny', temp: 82 },
+  buying: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
+  today: { revenue: 0, costOfGoods: 0, cupsSold: 0, customersTotal: 0, customersLost: 0, supplyCost: 0 },
+  history: [],
+  simTime: 8, simSpeed: 1,
+  customers: [], particles: [], clouds: [],
+  cutsceneIdx: 0,
+  titleTime: 0, animTime: 0,
+};
+
+// ============================================================
+// EVENT BUS
+// ============================================================
+const bus = { _h: {}, on(e, f) { (this._h[e] = this._h[e] || []).push(f); }, emit(e, d) { (this._h[e] || []).forEach(f => f(d)); } };
+
+// ============================================================
+// AUDIO ENGINE
+// ============================================================
+let audioCtx = null;
+function initAudio() { if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)(); }
+function playTone(freq, dur, type = 'square', vol = 0.08) {
+  if (!audioCtx) return;
+  const o = audioCtx.createOscillator(), g = audioCtx.createGain();
+  o.type = type; o.frequency.value = freq;
+  g.gain.setValueAtTime(vol, audioCtx.currentTime);
+  g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + dur);
+  o.connect(g); g.connect(audioCtx.destination);
+  o.start(); o.stop(audioCtx.currentTime + dur);
+}
+function sfxCoin() { playTone(880, 0.1); setTimeout(() => playTone(1320, 0.15), 60); }
+function sfxBuy() { playTone(440, 0.08); playTone(554, 0.08); setTimeout(() => playTone(659, 0.12), 80); }
+function sfxFail() { playTone(300, 0.15, 'sawtooth', 0.06); setTimeout(() => playTone(220, 0.25, 'sawtooth', 0.06), 100); }
+function sfxStart() { [523, 659, 784, 1047].forEach((f, i) => setTimeout(() => playTone(f, 0.12, 'square', 0.06), i * 80)); }
+function sfxWin() { [523, 659, 784, 1047, 1318].forEach((f, i) => setTimeout(() => playTone(f, 0.18, 'triangle', 0.08), i * 100)); }
+function sfxClick() { playTone(660, 0.04, 'square', 0.04); }
+
+// ============================================================
+// CANVAS SETUP
+// ============================================================
+const canvas = document.getElementById('game');
+const ctx = canvas.getContext('2d');
+ctx.imageSmoothingEnabled = false;
+
+// ============================================================
+// DRAWING UTILITIES
+// ============================================================
+function drawRect(x, y, w, h, color) { ctx.fillStyle = color; ctx.fillRect(Math.round(x), Math.round(y), Math.round(w), Math.round(h)); }
+function drawCircle(x, y, r, color) {
+  ctx.fillStyle = color; ctx.beginPath();
+  ctx.arc(Math.round(x), Math.round(y), r, 0, Math.PI * 2); ctx.fill();
+}
+function drawText(text, x, y, color = '#fff', size = 8, align = 'left') {
+  ctx.fillStyle = color; ctx.font = `${size}px 'Press Start 2P', monospace`;
+  ctx.textAlign = align; ctx.textBaseline = 'top';
+  ctx.fillText(text, Math.round(x), Math.round(y));
+}
+function drawGradient(x, y, w, h, c1, c2) {
+  const g = ctx.createLinearGradient(x, y, x, y + h);
+  g.addColorStop(0, c1); g.addColorStop(1, c2);
+  ctx.fillStyle = g; ctx.fillRect(x, y, w, h);
+}
+
+// ============================================================
+// CLOUD SYSTEM
+// ============================================================
+function initClouds() {
+  state.clouds = [];
+  for (let i = 0; i < 6; i++) {
+    state.clouds.push({
+      x: Math.random() * CANVAS_W * 1.5 - 100,
+      y: 15 + Math.random() * 50,
+      w: 40 + Math.random() * 60,
+      speed: 3 + Math.random() * 8,
+      puffs: 3 + Math.floor(Math.random() * 3)
+    });
+  }
+}
+
+function drawCloud(c, dark = false) {
+  const color = dark ? COLORS.cloud_dark : COLORS.cloud;
+  const r = c.w / (c.puffs + 1);
+  for (let i = 0; i < c.puffs; i++) {
+    const cx = c.x + i * r * 0.8;
+    const cy = c.y + Math.sin(i * 1.5) * r * 0.3;
+    drawCircle(cx, cy, r * 0.7, color);
+    drawCircle(cx + r * 0.3, cy - r * 0.3, r * 0.5, color);
+  }
+}
+
+// ============================================================
+// SCENE RENDERING: BACKGROUND
+// ============================================================
+function getSkyColors(weather) {
+  if (weather === 'hot') return [COLORS.sky_hot_top, COLORS.sky_hot_bot];
+  if (weather === 'rainy') return [COLORS.sky_rain_top, COLORS.sky_rain_bot];
+  if (weather === 'cloudy') return [COLORS.sky_cloud_top, COLORS.sky_cloud_bot];
+  return [COLORS.sky_top, COLORS.sky_bot];
+}
+
+function drawSky(weather, time) {
+  const [c1, c2] = getSkyColors(weather);
+  drawGradient(0, 0, CANVAS_W, 180, c1, c2);
+  // Time-of-day tint
+  const progress = (time - SIM_START_HOUR) / (SIM_END_HOUR - SIM_START_HOUR);
+  if (progress > 0.7) {
+    const alpha = (progress - 0.7) / 0.3 * 0.3;
+    ctx.fillStyle = `rgba(255, 120, 50, ${alpha})`;
+    ctx.fillRect(0, 0, CANVAS_W, 180);
+  }
+}
+
+function drawSun(weather, time) {
+  if (weather === 'rainy') return;
+  const progress = (time - SIM_START_HOUR) / (SIM_END_HOUR - SIM_START_HOUR);
+  const sunX = 60 + progress * 360;
+  const sunY = 40 + Math.sin(progress * Math.PI) * -25;
+  if (weather === 'cloudy') {
+    ctx.globalAlpha = 0.3;
+  }
+  // Glow
+  drawCircle(sunX, sunY, 22, COLORS.sun_glow + '40');
+  drawCircle(sunX, sunY, 16, COLORS.sun_glow + '60');
+  drawCircle(sunX, sunY, 11, COLORS.sun);
+  // Rays
+  const rayCount = 8;
+  for (let i = 0; i < rayCount; i++) {
+    const angle = (i / rayCount) * Math.PI * 2 + state.animTime * 0.3;
+    const x1 = sunX + Math.cos(angle) * 14;
+    const y1 = sunY + Math.sin(angle) * 14;
+    const x2 = sunX + Math.cos(angle) * (18 + Math.sin(state.animTime * 2 + i) * 3);
+    const y2 = sunY + Math.sin(angle) * (18 + Math.sin(state.animTime * 2 + i) * 3);
+    ctx.strokeStyle = COLORS.sun;
+    ctx.lineWidth = 1.5;
+    ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+}
+
+function drawClouds(weather, dt) {
+  const dark = weather === 'rainy' || weather === 'cloudy';
+  state.clouds.forEach(c => {
+    c.x += c.speed * dt;
+    if (c.x > CANVAS_W + 100) { c.x = -c.w - 50; c.y = 15 + Math.random() * 50; }
+    drawCloud(c, dark);
+  });
+}
+
+function drawBuildings() {
+  const buildings = [
+    { x: 10, w: 45, h: 65, color: '#7B6B8A' },
+    { x: 60, w: 35, h: 50, color: '#8B7B6B' },
+    { x: 100, w: 50, h: 75, color: '#6B7B8A' },
+    { x: 340, w: 40, h: 55, color: '#8A7B6B' },
+    { x: 385, w: 55, h: 70, color: '#7B8A7B' },
+    { x: 445, w: 40, h: 45, color: '#8B7070' },
+  ];
+  buildings.forEach(b => {
+    const baseY = 155 - b.h;
+    drawRect(b.x, baseY, b.w, b.h, b.color);
+    // Windows
+    for (let wy = baseY + 8; wy < 150; wy += 14) {
+      for (let wx = b.x + 6; wx < b.x + b.w - 8; wx += 12) {
+        drawRect(wx, wy, 5, 6, '#FFE888' + '90');
+      }
+    }
+    // Roof detail
+    drawRect(b.x, baseY, b.w, 3, '#555');
+  });
+}
+
+function drawTrees() {
+  const trees = [155, 175, 325, 420];
+  trees.forEach(tx => {
+    // Trunk
+    drawRect(tx + 5, 140, 6, 25, COLORS.tree_trunk);
+    // Canopy layers
+    drawCircle(tx + 8, 128, 14, COLORS.tree_top);
+    drawCircle(tx + 2, 135, 10, COLORS.tree_top);
+    drawCircle(tx + 14, 135, 10, COLORS.tree_top);
+    drawCircle(tx + 8, 122, 10, COLORS.tree_light);
+  });
+}
+
+function drawGround() {
+  // Grass strip
+  drawRect(0, 155, CANVAS_W, 20, COLORS.grass);
+  for (let gx = 0; gx < CANVAS_W; gx += 8) {
+    if (Math.sin(gx * 0.7) > 0.3) drawRect(gx, 155, 4, 3, COLORS.grass_dark);
+  }
+  // Sidewalk
+  drawRect(0, 175, CANVAS_W, 55, COLORS.sidewalk);
+  for (let sx = 0; sx < CANVAS_W; sx += 40) {
+    drawRect(sx, 175, 1, 55, COLORS.sidewalk_line);
+  }
+  drawRect(0, 175, CANVAS_W, 2, '#B0A080');
+  // Road
+  drawRect(0, 230, CANVAS_W, 90, COLORS.road);
+  // Road lines
+  for (let rx = 0; rx < CANVAS_W; rx += 30) {
+    drawRect(rx + 5, 270, 15, 3, COLORS.road_line);
+  }
+  // Curb
+  drawRect(0, 228, CANVAS_W, 4, '#888');
+}
+
+// ============================================================
+// DRAW LEMONADE STAND
+// ============================================================
+function drawStand(time) {
+  const sx = 195, sy = 155;
+  // Awning poles
+  drawRect(sx, sy + 2, 4, 50, COLORS.stand_dark);
+  drawRect(sx + 86, sy + 2, 4, 50, COLORS.stand_dark);
+  // Counter front
+  drawRect(sx - 2, sy + 38, 94, 18, COLORS.stand_wood);
+  drawRect(sx, sy + 40, 90, 14, COLORS.stand_light);
+  // Wood grain
+  for (let i = 0; i < 3; i++) {
+    drawRect(sx + 2, sy + 42 + i * 4, 86, 1, COLORS.stand_dark + '60');
+  }
+  // Counter top
+  drawRect(sx - 4, sy + 35, 98, 5, COLORS.stand_dark);
+  // Awning
+  const stripeW = 10;
+  for (let i = 0; i < 10; i++) {
+    const color = i % 2 === 0 ? COLORS.awning1 : COLORS.awning2;
+    drawRect(sx - 6 + i * stripeW, sy - 5, stripeW, 12, color);
+  }
+  // Awning scallop
+  for (let i = 0; i < 20; i++) {
+    const ax = sx - 6 + i * 5;
+    drawRect(ax, sy + 5 + (i % 2) * 3, 5, 4, i % 2 === 0 ? COLORS.awning1 : COLORS.awning_shadow);
+  }
+  // Bunting flags
+  for (let i = 0; i < 8; i++) {
+    const bx = sx + 4 + i * 11;
+    const flagColors = ['#E74C3C', '#FFD700', '#3498DB', '#2ECC71'];
+    const fc = flagColors[i % 4];
+    const sway = Math.sin(time * 2 + i * 0.8) * 1.5;
+    ctx.fillStyle = fc;
+    ctx.beginPath();
+    ctx.moveTo(bx, sy + 10);
+    ctx.lineTo(bx + 5, sy + 10);
+    ctx.lineTo(bx + 2.5 + sway, sy + 18);
+    ctx.fill();
+  }
+  // Bunting rope
+  ctx.strokeStyle = '#888';
+  ctx.lineWidth = 1;
+  ctx.beginPath(); ctx.moveTo(sx + 2, sy + 10); ctx.lineTo(sx + 88, sy + 10); ctx.stroke();
+  // Sign
+  drawRect(sx + 20, sy - 18, 50, 14, COLORS.sign_bg);
+  drawRect(sx + 20, sy - 18, 50, 14, 'transparent');
+  ctx.strokeStyle = COLORS.sign_border; ctx.lineWidth = 2;
+  ctx.strokeRect(sx + 20, sy - 18, 50, 14);
+  drawText('$' + state.price.toFixed(2), sx + 45, sy - 15, '#333', 7, 'center');
+  // Pitcher
+  const pitchBob = Math.sin(time * 3) * 1;
+  drawRect(sx + 55, sy + 22 + pitchBob, 16, 14, COLORS.pitcher);
+  drawRect(sx + 57, sy + 24 + pitchBob, 12, 10, COLORS.pitcher_lemon);
+  // Lemon handle
+  drawRect(sx + 71, sy + 26 + pitchBob, 4, 3, COLORS.pitcher);
+  // Bubbles in pitcher
+  for (let b = 0; b < 3; b++) {
+    const bby = sy + 28 + pitchBob - Math.abs(Math.sin(time * 2 + b * 1.2)) * 4;
+    drawCircle(sx + 61 + b * 3, bby, 1, '#fff');
+  }
+  // Lemons on counter
+  for (let l = 0; l < Math.min(state.inventory.lemons, 6); l++) {
+    drawCircle(sx + 10 + l * 7, sy + 32, 3, COLORS.lemon);
+    drawCircle(sx + 10 + l * 7, sy + 31, 2, COLORS.lemon_dark);
+  }
+  // Cups stack
+  if (state.inventory.cups > 0) {
+    for (let c = 0; c < Math.min(3, Math.ceil(state.inventory.cups / 10)); c++) {
+      drawRect(sx + 75, sy + 30 - c * 4, 8, 5, '#F5F0E0');
+      drawRect(sx + 76, sy + 31 - c * 4, 6, 3, '#E8E0D0');
+    }
+  }
+}
+
+// ============================================================
+// CUSTOMER SYSTEM
+// ============================================================
+function createCustomer(fromLeft) {
+  const skinIdx = Math.floor(Math.random() * COLORS.skin.length);
+  const shirtIdx = Math.floor(Math.random() * COLORS.shirt.length);
+  const hairIdx = Math.floor(Math.random() * COLORS.hair.length);
+  return {
+    x: fromLeft ? -20 : CANVAS_W + 20,
+    targetX: 210 + Math.random() * 40,
+    y: 190,
+    dir: fromLeft ? 1 : -1,
+    speed: 25 + Math.random() * 15,
+    state: 'walking', // walking, waiting, drinking, leaving
+    timer: 0,
+    hasCup: false,
+    willBuy: false,
+    thought: '',
+    thoughtTimer: 0,
+    skin: COLORS.skin[skinIdx],
+    shirt: COLORS.shirt[shirtIdx],
+    hair: COLORS.hair[hairIdx],
+    walkFrame: 0,
+    decided: false,
+  };
+}
+
+function drawCustomer(c) {
+  const x = Math.round(c.x), y = Math.round(c.y);
+  const legOffset = Math.sin(c.walkFrame * 6) * 3;
+  const isWalking = c.state === 'walking' || c.state === 'leaving';
+  // Shadow
+  ctx.fillStyle = 'rgba(0,0,0,0.15)';
+  ctx.beginPath(); ctx.ellipse(x, y + 24, 7, 2, 0, 0, Math.PI * 2); ctx.fill();
+  // Legs
+  const l1 = isWalking ? legOffset : 0;
+  const l2 = isWalking ? -legOffset : 0;
+  drawRect(x - 3, y + 16, 3, 7 + l1, '#4A4A6A');
+  drawRect(x + 1, y + 16, 3, 7 + l2, '#3A3A5A');
+  // Shoes
+  drawRect(x - 4, y + 22 + Math.max(l1, 0), 4, 2, '#333');
+  drawRect(x, y + 22 + Math.max(l2, 0), 4, 2, '#333');
+  // Body
+  drawRect(x - 5, y + 4, 11, 13, c.shirt);
+  // Arms
+  const armSwing = isWalking ? Math.sin(c.walkFrame * 6) * 2 : 0;
+  drawRect(x - 7, y + 5 + armSwing, 3, 9, c.shirt);
+  drawRect(x + 5, y + 5 - armSwing, 3, 9, c.shirt);
+  // Hands
+  drawRect(x - 7, y + 13 + armSwing, 3, 2, c.skin);
+  drawRect(x + 5, y + 13 - armSwing, 3, 2, c.skin);
+  // Cup in hand
+  if (c.hasCup) {
+    drawRect(x + 5, y + 10, 4, 6, '#F5F0E0');
+    drawRect(x + 6, y + 11, 2, 4, COLORS.pitcher_lemon);
+  }
+  // Head
+  drawCircle(x, y + 1, 6, c.skin);
+  // Hair
+  drawRect(x - 6, y - 6, 12, 5, c.hair);
+  drawRect(x - 6, y - 4, 2, 4, c.hair);
+  drawRect(x + 4, y - 4, 2, 4, c.hair);
+  // Eyes
+  const eyeDir = c.state === 'leaving' ? c.dir * 2 : 0;
+  drawRect(x - 3 + eyeDir, y, 2, 2, '#333');
+  drawRect(x + 2 + eyeDir, y, 2, 2, '#333');
+  // Mouth
+  if (c.hasCup) {
+    drawRect(x - 1, y + 3, 3, 1, '#E07070'); // smile
+  } else if (c.thought === 'expensive') {
+    drawRect(x - 1, y + 4, 3, 1, '#888'); // frown
+  }
+  // Thought bubble
+  if (c.thoughtTimer > 0) {
+    const bubbleX = x + 10;
+    const bubbleY = y - 20;
+    // Bubble dots
+    drawCircle(x + 5, y - 8, 1.5, '#fff');
+    drawCircle(x + 7, y - 12, 2, '#fff');
+    // Bubble
+    drawRect(bubbleX - 2, bubbleY - 2, 30, 16, '#fff');
+    drawRect(bubbleX, bubbleY, 26, 12, '#fff');
+    // Border
+    ctx.strokeStyle = '#333'; ctx.lineWidth = 1;
+    ctx.strokeRect(bubbleX - 2, bubbleY - 2, 30, 16);
+    if (c.thought === 'buy') {
+      drawText('YUM!', bubbleX + 12, bubbleY + 1, '#4CAF50', 6, 'center');
+    } else if (c.thought === 'expensive') {
+      drawText('$$$!', bubbleX + 12, bubbleY + 1, '#E74C3C', 6, 'center');
+    } else if (c.thought === 'great') {
+      drawText('WOW!', bubbleX + 12, bubbleY + 1, '#FFD700', 6, 'center');
+    } else if (c.thought === 'nostock') {
+      drawText('OUT?', bubbleX + 12, bubbleY + 1, '#888', 6, 'center');
+    }
+  }
+}
+
+function canServeCup() {
+  return state.inventory.lemons >= SUPPLY_PER_CUP.lemons &&
+    state.inventory.sugar >= SUPPLY_PER_CUP.sugar &&
+    state.inventory.ice >= SUPPLY_PER_CUP.ice &&
+    state.inventory.cups >= SUPPLY_PER_CUP.cups;
+}
+
+function serveCup() {
+  state.inventory.lemons -= SUPPLY_PER_CUP.lemons;
+  state.inventory.sugar -= SUPPLY_PER_CUP.sugar;
+  state.inventory.ice -= SUPPLY_PER_CUP.ice;
+  state.inventory.cups -= SUPPLY_PER_CUP.cups;
+}
+
+function getWillingnessToPay(weather) {
+  let base = 0.75 + Math.random() * 1.25;
+  if (weather.type === 'hot') base += 0.50 + Math.random() * 0.30;
+  if (weather.type === 'sunny') base += 0.20;
+  if (weather.type === 'cloudy') base -= 0.15;
+  if (weather.type === 'rainy') base -= 0.40;
+  // Temperature bonus
+  base += (weather.temp - 75) * 0.01;
+  return Math.max(0.25, base);
+}
+
+function getCustomerRate(weather, hour) {
+  // Bell curve around noon
+  const hourFactor = 1 - Math.pow((hour - 13) / 5, 2);
+  let base = 3 * Math.max(0.1, hourFactor);
+  if (weather.type === 'hot') base *= 1.6;
+  if (weather.type === 'sunny') base *= 1.2;
+  if (weather.type === 'cloudy') base *= 0.7;
+  if (weather.type === 'rainy') base *= 0.35;
+  return base;
+}
+
+// ============================================================
+// WEATHER SYSTEM
+// ============================================================
+function generateWeather() {
+  const types = ['sunny', 'sunny', 'hot', 'cloudy', 'rainy'];
+  const type = types[Math.floor(Math.random() * types.length)];
+  let temp;
+  if (type === 'hot') temp = 90 + Math.floor(Math.random() * 15);
+  else if (type === 'sunny') temp = 75 + Math.floor(Math.random() * 10);
+  else if (type === 'cloudy') temp = 65 + Math.floor(Math.random() * 10);
+  else temp = 55 + Math.floor(Math.random() * 10);
+  return { type, temp };
+}
+
+function generateForecast(actual) {
+  if (Math.random() < 0.8) return { ...actual };
+  const types = WEATHER_TYPES.filter(t => t !== actual.type);
+  return { type: types[Math.floor(Math.random() * types.length)], temp: actual.temp + Math.floor(Math.random() * 10 - 5) };
+}
+
+// ============================================================
+// PARTICLE SYSTEM
+// ============================================================
+function spawnCoin(x, y) {
+  state.particles.push({
+    x, y, vx: (Math.random() - 0.5) * 20, vy: -40 - Math.random() * 20,
+    life: 1.2, maxLife: 1.2, type: 'coin'
+  });
+}
+
+function spawnSparkle(x, y) {
+  for (let i = 0; i < 5; i++) {
+    state.particles.push({
+      x: x + (Math.random() - 0.5) * 20, y: y + (Math.random() - 0.5) * 10,
+      vx: (Math.random() - 0.5) * 30, vy: -20 - Math.random() * 30,
+      life: 0.6, maxLife: 0.6, type: 'sparkle',
+      color: ['#FFD700', '#FFF', '#FFE888'][Math.floor(Math.random() * 3)]
+    });
+  }
+}
+
+function drawRaindrops(dt) {
+  if (state.weather.type !== 'rainy') return;
+  for (let i = 0; i < 40; i++) {
+    const rx = (i * 37 + state.animTime * 200) % CANVAS_W;
+    const ry = (i * 53 + state.animTime * 350) % 250;
+    ctx.strokeStyle = COLORS.rain + '80';
+    ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(rx, ry); ctx.lineTo(rx - 2, ry + 8); ctx.stroke();
+  }
+  // Puddles
+  for (let p = 0; p < 5; p++) {
+    const px = 30 + p * 100;
+    ctx.fillStyle = COLORS.rain + '30';
+    ctx.beginPath(); ctx.ellipse(px, 225, 12 + Math.sin(state.animTime * 3 + p) * 2, 2, 0, 0, Math.PI * 2); ctx.fill();
+  }
+}
+
+function drawHeatShimmer() {
+  if (state.weather.type !== 'hot') return;
+  ctx.globalAlpha = 0.04;
+  for (let i = 0; i < 8; i++) {
+    const hx = i * 65;
+    const hOffset = Math.sin(state.animTime * 2 + i * 0.8) * 3;
+    ctx.drawImage(canvas, hx, 200, 60, 30, hx + hOffset, 198, 60, 30);
+  }
+  ctx.globalAlpha = 1;
+}
+
+function updateParticles(dt) {
+  state.particles = state.particles.filter(p => {
+    p.x += p.vx * dt;
+    p.y += p.vy * dt;
+    p.vy += 60 * dt; // gravity
+    p.life -= dt;
+    return p.life > 0;
+  });
+}
+
+function drawParticles() {
+  state.particles.forEach(p => {
+    const alpha = Math.min(1, p.life / p.maxLife * 2);
+    ctx.globalAlpha = alpha;
+    if (p.type === 'coin') {
+      drawCircle(p.x, p.y, 4, '#FFD700');
+      drawText('$', p.x - 2, p.y - 3, '#8B6914', 5);
+    } else if (p.type === 'sparkle') {
+      drawRect(p.x - 1, p.y - 1, 3, 3, p.color);
+    }
+    ctx.globalAlpha = 1;
+  });
+}
+
+// ============================================================
+// SCENE: TITLE
+// ============================================================
+function drawTitle(dt) {
+  state.titleTime += dt;
+  const t = state.titleTime;
+  // Sky
+  drawGradient(0, 0, CANVAS_W, CANVAS_H, '#FF9F43', '#F8B500');
+  // Sun
+  drawCircle(CANVAS_W / 2, 200, 80 + Math.sin(t) * 5, '#FFE888' + '30');
+  drawCircle(CANVAS_W / 2, 200, 60 + Math.sin(t * 1.5) * 3, '#FFE888' + '50');
+  drawCircle(CANVAS_W / 2, 200, 45, '#FFD700');
+  // Ground
+  drawRect(0, 220, CANVAS_W, 100, '#8BC34A');
+  drawRect(0, 230, CANVAS_W, 90, '#7CB342');
+  // Stand silhouette
+  drawRect(190, 180, 100, 50, '#6D4C20');
+  drawRect(185, 172, 110, 12, '#E74C3C');
+  // Title
+  const titleY = 40 + Math.sin(t * 1.2) * 5;
+  // Shadow
+  drawText('LEMONADE', CANVAS_W / 2 + 2, titleY + 2, '#00000060', 20, 'center');
+  drawText('TYCOON', CANVAS_W / 2 + 2, titleY + 32, '#00000060', 20, 'center');
+  // Text
+  drawText('LEMONADE', CANVAS_W / 2, titleY, '#FFD700', 20, 'center');
+  drawText('TYCOON', CANVAS_W / 2, titleY + 30, '#FFF', 20, 'center');
+  // Lemon decorations
+  for (let i = 0; i < 5; i++) {
+    const lx = 60 + i * 90;
+    const ly = 100 + Math.sin(t * 2 + i) * 8;
+    drawCircle(lx, ly, 8, COLORS.lemon);
+    drawCircle(lx + 2, ly - 2, 3, '#FFF4');
+  }
+  // Subtitle
+  drawText('8-BIT EDITION', CANVAS_W / 2, 85, '#FFE888', 7, 'center');
+  // Start prompt
+  if (Math.sin(t * 3) > 0) {
+    drawText('CLICK TO START', CANVAS_W / 2, 280, '#FFF', 10, 'center');
+  }
+  // Version
+  drawText('Chapter 1: Your First Stand', CANVAS_W / 2, 305, '#00000060', 6, 'center');
+}
+
+// ============================================================
+// SCENE: SIMULATION
+// ============================================================
+function drawSimulation(dt) {
+  const weather = state.weather;
+  const t = state.animTime;
+  // Sky
+  drawSky(weather.type, state.simTime);
+  // Sun
+  drawSun(weather.type, state.simTime);
+  // Clouds
+  drawClouds(weather.type, dt);
+  // Buildings
+  drawBuildings();
+  // Trees
+  drawTrees();
+  // Ground
+  drawGround();
+  // Weather effects
+  drawRaindrops(dt);
+  drawHeatShimmer();
+  // Stand
+  drawStand(t);
+  // Customers
+  state.customers.forEach(c => drawCustomer(c));
+  // Particles
+  drawParticles();
+}
+
+// ============================================================
+// SIMULATION LOGIC
+// ============================================================
+let simAccumulator = 0;
+const SIM_TICK_RATE = 0.5; // seconds per game-hour at 1x
+
+function updateSimulation(dt) {
+  if (state.screen !== 'simulation') return;
+  simAccumulator += dt * state.simSpeed;
+  while (simAccumulator >= SIM_TICK_RATE) {
+    simAccumulator -= SIM_TICK_RATE;
+    simTick();
+  }
+  // Update customer animations
+  state.customers.forEach(c => {
+    if (c.state === 'walking') {
+      c.walkFrame += dt * 4;
+      c.x += c.dir * c.speed * dt * state.simSpeed;
+      if ((c.dir === 1 && c.x >= c.targetX) || (c.dir === -1 && c.x <= c.targetX)) {
+        c.x = c.targetX;
+        c.state = 'waiting';
+        c.timer = 0.8;
+      }
+    } else if (c.state === 'waiting') {
+      c.timer -= dt * state.simSpeed;
+      if (c.timer <= 0 && !c.decided) {
+        c.decided = true;
+        decideCustomer(c);
+      }
+    } else if (c.state === 'drinking') {
+      c.timer -= dt * state.simSpeed;
+      if (c.timer <= 0) {
+        c.state = 'leaving';
+        c.dir = Math.random() > 0.5 ? 1 : -1;
+      }
+    } else if (c.state === 'leaving') {
+      c.walkFrame += dt * 4;
+      c.x += c.dir * c.speed * dt * state.simSpeed;
+    }
+    if (c.thoughtTimer > 0) c.thoughtTimer -= dt * state.simSpeed;
+  });
+  // Remove offscreen leaving customers
+  state.customers = state.customers.filter(c =>
+    !(c.state === 'leaving' && (c.x < -30 || c.x > CANVAS_W + 30))
+  );
+  updateParticles(dt);
+}
+
+function simTick() {
+  state.simTime += 0.25; // quarter hour per tick
+  if (state.simTime >= SIM_END_HOUR) {
+    endDay();
+    return;
+  }
+  // Spawn customers
+  const rate = getCustomerRate(state.weather, state.simTime);
+  if (Math.random() < rate * 0.25) { // per quarter-hour chance
+    const fromLeft = Math.random() > 0.5;
+    state.customers.push(createCustomer(fromLeft));
+    state.today.customersTotal++;
+  }
+  updateSimHUD();
+}
+
+function decideCustomer(c) {
+  if (!canServeCup()) {
+    c.thought = 'nostock';
+    c.thoughtTimer = 1.5;
+    c.state = 'leaving';
+    c.dir = Math.random() > 0.5 ? 1 : -1;
+    state.today.customersLost++;
+    return;
+  }
+  const wtp = getWillingnessToPay(state.weather);
+  if (state.price <= wtp) {
+    // Buy!
+    serveCup();
+    state.today.revenue += state.price;
+    state.today.cupsSold++;
+    c.hasCup = true;
+    c.state = 'drinking';
+    c.timer = 1.0;
+    if (state.price <= wtp * 0.6) {
+      c.thought = 'great';
+    } else {
+      c.thought = 'buy';
+    }
+    c.thoughtTimer = 1.5;
+    sfxCoin();
+    spawnCoin(c.x, c.y - 15);
+  } else {
+    // Too expensive
+    c.thought = 'expensive';
+    c.thoughtTimer = 1.5;
+    c.state = 'leaving';
+    c.dir = Math.random() > 0.5 ? 1 : -1;
+    state.today.customersLost++;
+  }
+}
+
+function updateSimHUD() {
+  const h = Math.floor(state.simTime);
+  const m = Math.round((state.simTime % 1) * 60);
+  const ampm = h >= 12 ? 'PM' : 'AM';
+  const h12 = h > 12 ? h - 12 : h;
+  document.getElementById('sim-time').textContent = `${h12}:${m.toString().padStart(2, '0')} ${ampm}`;
+  document.getElementById('sim-sold').textContent = state.today.cupsSold;
+  document.getElementById('sim-revenue').textContent = '$' + state.today.revenue.toFixed(2);
+  document.getElementById('sim-lemons').textContent = Math.floor(state.inventory.lemons);
+  document.getElementById('sim-sugar').textContent = Math.floor(state.inventory.sugar * 6); // show bags approx
+  document.getElementById('sim-ice').textContent = Math.floor(state.inventory.ice * 5);
+  document.getElementById('sim-cups').textContent = Math.floor(state.inventory.cups);
+}
+
+// ============================================================
+// DAY START / END
+// ============================================================
+function startDay() {
+  initAudio();
+  sfxStart();
+  // Apply purchases
+  const totalCost = calcTotalCost();
+  if (totalCost > state.money) { sfxFail(); return; }
+  state.money -= totalCost;
+  state.today.supplyCost = totalCost;
+  state.inventory.lemons += state.buying.lemons;
+  state.inventory.sugar += state.buying.sugar;
+  state.inventory.ice += state.buying.ice;
+  state.inventory.cups += state.buying.cups;
+  // Reset today
+  state.today.revenue = 0;
+  state.today.costOfGoods = 0;
+  state.today.cupsSold = 0;
+  state.today.customersTotal = 0;
+  state.today.customersLost = 0;
+  state.simTime = SIM_START_HOUR;
+  state.customers = [];
+  state.particles = [];
+  simAccumulator = 0;
+  setScreen('simulation');
+}
+
+function endDay() {
+  // Calculate spoilage
+  const spoilageCost = state.inventory.ice * SUPPLY_PRICES.ice; // all ice melts
+  state.inventory.ice = 0;
+  // Lemons last 3 days - simplified: lose 30% per day
+  const lemonLoss = Math.floor(state.inventory.lemons * 0.3);
+  state.inventory.lemons = Math.max(0, state.inventory.lemons - lemonLoss);
+  const lemonSpoilageCost = lemonLoss * SUPPLY_PRICES.lemons;
+  const costOfGoodsSold = state.today.cupsSold * COST_PER_CUP;
+  const totalSpoilage = spoilageCost + lemonSpoilageCost;
+  const profit = state.today.revenue - state.today.supplyCost - totalSpoilage;
+  state.money += state.today.revenue;
+  state.totalProfit += profit;
+  // Store day data
+  const dayData = {
+    day: state.day,
+    revenue: state.today.revenue,
+    supplyCost: state.today.supplyCost,
+    spoilage: totalSpoilage,
+    profit: profit,
+    cupsSold: state.today.cupsSold,
+    customers: state.today.customersTotal,
+    customersLost: state.today.customersLost,
+    weather: { ...state.weather },
+    price: state.price,
+  };
+  state.history.push(dayData);
+  showSummary(dayData);
+}
+
+// ============================================================
+// SUMMARY SCREEN
+// ============================================================
+function showSummary(data) {
+  setScreen('summary');
+  document.getElementById('summary-title').textContent = `Day ${data.day} Summary`;
+  // Stars
+  const margin = data.revenue > 0 ? (data.profit / data.revenue) : 0;
+  let stars = 1;
+  if (margin > 0.2) stars = 2;
+  if (margin > 0.4) stars = 3;
+  if (margin > 0.55) stars = 4;
+  if (margin > 0.7 && data.customersLost === 0) stars = 5;
+  document.getElementById('summary-stars').textContent = '⭐'.repeat(stars) + '☆'.repeat(5 - stars);
+  // Lines
+  const lines = document.getElementById('summary-lines');
+  lines.innerHTML = '';
+  const addLine = (label, value, cls = '') => {
+    const div = document.createElement('div');
+    div.className = 'summary-line slide-up';
+    div.innerHTML = `<span>${label}</span><span class="${cls}">${value}</span>`;
+    lines.appendChild(div);
+  };
+  addLine('Cups Sold', `${data.cupsSold} cups`);
+  addLine('Price per Cup', '$' + data.price.toFixed(2));
+  addLine('Revenue', '$' + data.revenue.toFixed(2), 'money');
+  addLine('Supply Cost', '-$' + data.supplyCost.toFixed(2), 'loss');
+  if (data.spoilage > 0) addLine('Spoilage', '-$' + data.spoilage.toFixed(2), 'loss');
+  addLine('Customers Lost', data.customersLost + (data.customersLost > 0 ? ' 😞' : ' 🎉'));
+  const profitDiv = document.createElement('div');
+  profitDiv.className = 'summary-line total slide-up';
+  const profitClass = data.profit >= 0 ? 'money' : 'loss';
+  profitDiv.innerHTML = `<span>NET PROFIT</span><span class="${profitClass}" style="font-size:14px;">${data.profit >= 0 ? '+' : ''}$${data.profit.toFixed(2)}</span>`;
+  lines.appendChild(profitDiv);
+  if (data.profit > 0) sfxWin(); else sfxFail();
+  // Tip
+  const tip = generateTip(data);
+  document.getElementById('summary-tip').textContent = '💡 ' + tip;
+  // Goal
+  const goalPct = Math.min(100, Math.max(0, (state.totalProfit / CHAPTER1_GOAL) * 100));
+  document.getElementById('summary-goal-text').textContent = `$${state.totalProfit.toFixed(0)} / $${CHAPTER1_GOAL}`;
+  document.getElementById('summary-goal-fill').style.width = goalPct + '%';
+  // Button text
+  const btn = document.getElementById('next-day-btn');
+  if (state.totalProfit >= CHAPTER1_GOAL) {
+    btn.textContent = 'Chapter Complete! 🎉';
+    btn.onclick = () => showChapterEnd(true);
+  } else if (state.day >= CHAPTER1_DAYS) {
+    btn.textContent = state.totalProfit >= CHAPTER1_GOAL ? 'Chapter Complete!' : 'Try Again';
+    btn.onclick = () => showChapterEnd(state.totalProfit >= CHAPTER1_GOAL);
+  } else {
+    btn.textContent = 'Next Day ▶';
+    btn.onclick = nextDay;
+  }
+}
+
+function generateTip(data) {
+  if (data.customersLost > data.cupsSold && data.customersLost > 3) {
+    if (data.customersLost > 5 && data.cupsSold > 0) return "Many customers walked away! Try lowering your price to match what they're willing to pay.";
+    return "You lost a lot of customers. Your price might be too high for today's weather.";
+  }
+  if (data.cupsSold === 0) return "No sales today! Make sure to buy enough supplies and set a competitive price.";
+  if (data.spoilage > data.revenue * 0.3) return "Spoilage ate into your profits! Buy only what you can sell — ice melts overnight.";
+  if (data.profit < 0) return "You lost money today. Try to keep costs low and price high enough to cover them.";
+  if (data.customersLost === 0 && data.cupsSold > 10) return "Great day! You served everyone. Could you charge a bit more and still keep them coming?";
+  if (data.profit > 15) return "Excellent profit! You found a sweet spot between price and volume.";
+  if (data.weather.type === 'rainy' && data.cupsSold > 5) return "Good work selling in the rain! On bad weather days, buy fewer supplies to reduce waste.";
+  return "Solid day! Keep experimenting with your price to find what customers will pay.";
+}
+
+// ============================================================
+// NEXT DAY / CHAPTER END
+// ============================================================
+function nextDay() {
+  state.day++;
+  state.weather = generateWeather();
+  state.forecast = generateForecast(state.weather);
+  state.buying = { lemons: 0, sugar: 0, ice: 0, cups: 0 };
+  setScreen('planning');
+  updatePlanningUI();
+}
+
+function showChapterEnd(won) {
+  setScreen('chapter');
+  const title = document.getElementById('chapter-title');
+  const body = document.getElementById('chapter-body');
+  if (won) {
+    title.textContent = '🎉 Chapter 1 Complete! 🎉';
+    title.style.color = '#4CAF50';
+    const totalRev = state.history.reduce((s, d) => s + d.revenue, 0);
+    const totalCups = state.history.reduce((s, d) => s + d.cupsSold, 0);
+    const bestDay = state.history.reduce((best, d) => d.profit > best.profit ? d : best, state.history[0]);
+    body.innerHTML = `
+      <p style="margin-bottom:12px;">You've proven you can run a lemonade stand!</p>
+      <p>📊 <span class="highlight">Final Stats:</span></p>
+      <p>Total Revenue: <span class="money">$${totalRev.toFixed(2)}</span></p>
+      <p>Total Profit: <span class="money">$${state.totalProfit.toFixed(2)}</span></p>
+      <p>Cups Sold: <span class="highlight">${totalCups}</span></p>
+      <p>Best Day: Day ${bestDay.day} (<span class="money">+$${bestDay.profit.toFixed(2)}</span>)</p>
+      <p style="margin-top:12px;color:#888;">You learned about pricing, supply & demand, weather risk, and basic accounting!</p>
+      <p style="margin-top:8px;color:#FFD700;">Chapter 2 coming soon: Upgrades & Growth!</p>
+    `;
+    sfxWin();
+  } else {
+    title.textContent = 'Chapter 1 — Not Quite!';
+    title.style.color = '#FFC107';
+    body.innerHTML = `
+      <p style="margin-bottom:12px;">You earned <span class="highlight">$${state.totalProfit.toFixed(2)}</span> but needed <span class="warn">$${CHAPTER1_GOAL}</span>.</p>
+      <p style="margin-bottom:12px;color:#aaa;">Business is tough — but every great entrepreneur learns from failure!</p>
+      <p>💡 Tips for next time:</p>
+      <p>• Watch the weather and adjust your supplies</p>
+      <p>• Don't buy more ice than you can sell in a day</p>
+      <p>• Find the price customers are willing to pay</p>
+    `;
+    sfxFail();
+  }
+}
+
+function restartGame() {
+  state = {
+    screen: 'title', chapter: 1, day: 1,
+    money: 20.00, totalProfit: 0,
+    inventory: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
+    price: 1.00,
+    weather: generateWeather(),
+    forecast: { type: 'sunny', temp: 82 },
+    buying: { lemons: 0, sugar: 0, ice: 0, cups: 0 },
+    today: { revenue: 0, costOfGoods: 0, cupsSold: 0, customersTotal: 0, customersLost: 0, supplyCost: 0 },
+    history: [],
+    simTime: 8, simSpeed: 1,
+    customers: [], particles: [], clouds: [],
+    cutsceneIdx: 0,
+    titleTime: 0, animTime: 0,
+  };
+  initClouds();
+  state.forecast = generateForecast(state.weather);
+  setScreen('title');
+}
+
+// ============================================================
+// CUTSCENE
+// ============================================================
+const CUTSCENE_MSGS = [
+  "It's a beautiful summer day in your neighborhood...",
+  "You have $20, a folding table, and a big dream. 🍋",
+  "Your goal: earn $50 in profit over the next 7 days!",
+  "Watch the weather, buy smart, price right, and maybe — just maybe — you'll be a Lemonade Tycoon!",
+];
+
+function drawCutsceneBg(dt) {
+  drawGradient(0, 0, CANVAS_W, CANVAS_H, '#FF9F43', '#FFB84D');
+  drawCircle(CANVAS_W / 2, 160, 50, '#FFE88860');
+  drawCircle(CANVAS_W / 2, 160, 35, '#FFD700');
+  drawRect(0, 200, CANVAS_W, 120, '#8BC34A');
+  drawRect(180, 160, 120, 50, '#8B6035');
+  drawRect(175, 152, 130, 12, '#E74C3C');
+}
+
+function advanceCutscene() {
+  state.cutsceneIdx++;
+  if (state.cutsceneIdx >= CUTSCENE_MSGS.length) {
+    state.weather = generateWeather();
+    state.forecast = generateForecast(state.weather);
+    setScreen('planning');
+    updatePlanningUI();
+    return;
+  }
+  document.getElementById('cutscene-msg').textContent = CUTSCENE_MSGS[state.cutsceneIdx];
+}
+
+// ============================================================
+// PLANNING UI
+// ============================================================
+function adjustSupply(item, delta) {
+  sfxClick();
+  state.buying[item] = Math.max(0, state.buying[item] + delta);
+  // Check if we can afford
+  while (calcTotalCost() > state.money && state.buying[item] > 0) {
+    state.buying[item]--;
+  }
+  updatePlanningUI();
+}
+
+function adjustPrice(delta) {
+  sfxClick();
+  state.price = Math.max(0.25, Math.min(5.00, Math.round((state.price + delta) * 100) / 100));
+  updatePlanningUI();
+}
+
+function calcTotalCost() {
+  return state.buying.lemons * SUPPLY_PRICES.lemons +
+    state.buying.sugar * SUPPLY_PRICES.sugar +
+    state.buying.ice * SUPPLY_PRICES.ice +
+    state.buying.cups * SUPPLY_PRICES.cups;
+}
+
+function calcCanMake() {
+  const total = {
+    lemons: state.inventory.lemons + state.buying.lemons,
+    sugar: state.inventory.sugar + state.buying.sugar,
+    ice: state.inventory.ice + state.buying.ice,
+    cups: state.inventory.cups + state.buying.cups,
+  };
+  return Math.floor(Math.min(
+    total.lemons / SUPPLY_PER_CUP.lemons,
+    total.sugar / SUPPLY_PER_CUP.sugar,
+    total.ice / SUPPLY_PER_CUP.ice,
+    total.cups / SUPPLY_PER_CUP.cups
+  ));
+}
+
+function updatePlanningUI() {
+  document.getElementById('day-label').textContent = `Day ${state.day} / ${CHAPTER1_DAYS}`;
+  document.getElementById('money-label').textContent = '$' + state.money.toFixed(2);
+  // Supply stocks
+  document.getElementById('stock-lemons').textContent = 'have: ' + Math.floor(state.inventory.lemons);
+  document.getElementById('stock-sugar').textContent = 'have: ' + Math.floor(state.inventory.sugar);
+  document.getElementById('stock-ice').textContent = 'have: ' + Math.floor(state.inventory.ice);
+  document.getElementById('stock-cups').textContent = 'have: ' + Math.floor(state.inventory.cups);
+  // Buy quantities
+  document.getElementById('buy-lemons').textContent = state.buying.lemons;
+  document.getElementById('buy-sugar').textContent = state.buying.sugar;
+  document.getElementById('buy-ice').textContent = state.buying.ice;
+  document.getElementById('buy-cups').textContent = state.buying.cups;
+  // Costs
+  document.getElementById('cost-lemons').textContent = '$' + (state.buying.lemons * SUPPLY_PRICES.lemons).toFixed(2);
+  document.getElementById('cost-sugar').textContent = '$' + (state.buying.sugar * SUPPLY_PRICES.sugar).toFixed(2);
+  document.getElementById('cost-ice').textContent = '$' + (state.buying.ice * SUPPLY_PRICES.ice).toFixed(2);
+  document.getElementById('cost-cups').textContent = '$' + (state.buying.cups * SUPPLY_PRICES.cups).toFixed(2);
+  document.getElementById('total-cost').textContent = '$' + calcTotalCost().toFixed(2);
+  // Price
+  document.getElementById('price-display').textContent = '$' + state.price.toFixed(2);
+  document.getElementById('cost-per-cup').textContent = '$' + COST_PER_CUP.toFixed(2);
+  const profitPerCup = state.price - COST_PER_CUP;
+  const ppcEl = document.getElementById('profit-per-cup');
+  ppcEl.textContent = (profitPerCup >= 0 ? '+' : '') + '$' + profitPerCup.toFixed(2);
+  ppcEl.className = profitPerCup >= 0 ? 'money' : 'loss';
+  // Can make
+  document.getElementById('can-make').textContent = calcCanMake();
+  // Weather
+  document.getElementById('weather-icon').textContent = WEATHER_EMOJI[state.forecast.type];
+  document.getElementById('weather-temp').textContent = state.forecast.temp + '°F';
+  document.getElementById('weather-desc').textContent = WEATHER_DESC[state.forecast.type];
+  // Goal progress
+  const goalPct = Math.min(100, Math.max(0, (state.totalProfit / CHAPTER1_GOAL) * 100));
+  document.getElementById('goal-fill').style.width = goalPct + '%';
+}
+
+function setSpeed(s) {
+  state.simSpeed = s;
+  [1, 2, 5].forEach(v => {
+    document.getElementById('speed-' + v).className = 'btn speed-btn' + (v === s ? ' active' : '');
+  });
+}
+
+// ============================================================
+// SCREEN MANAGEMENT
+// ============================================================
+function setScreen(screen) {
+  state.screen = screen;
+  document.getElementById('planning-screen').className = screen === 'planning' ? 'active' : 'hidden';
+  document.getElementById('sim-hud').className = screen === 'simulation' ? 'active' : 'hidden';
+  document.getElementById('cutscene-screen').className = screen === 'cutscene' ? 'active' : 'hidden';
+  document.getElementById('summary-screen').className = screen === 'summary' ? 'active' : 'hidden';
+  document.getElementById('chapter-screen').className = screen === 'chapter' ? 'active' : 'hidden';
+}
+
+// ============================================================
+// INPUT
+// ============================================================
+canvas.addEventListener('click', () => {
+  initAudio();
+  if (state.screen === 'title') {
+    sfxStart();
+    state.cutsceneIdx = 0;
+    document.getElementById('cutscene-msg').textContent = CUTSCENE_MSGS[0];
+    setScreen('cutscene');
+  }
+});
+
+document.getElementById('cutscene-screen').addEventListener('click', () => {
+  sfxClick();
+  advanceCutscene();
+});
+
+// Keyboard
+document.addEventListener('keydown', (e) => {
+  if (e.code === 'Space' || e.code === 'Enter') {
+    if (state.screen === 'title') {
+      canvas.click();
+    } else if (state.screen === 'cutscene') {
+      document.getElementById('cutscene-screen').click();
+    }
+  }
+  if (state.screen === 'simulation') {
+    if (e.key === '1') setSpeed(1);
+    if (e.key === '2') setSpeed(2);
+    if (e.key === '5') setSpeed(5);
+  }
+});
+
+// ============================================================
+// MAIN GAME LOOP
+// ============================================================
+let lastFrameTime = 0;
+
+function gameLoop(timestamp) {
+  const dt = Math.min(0.1, (timestamp - lastFrameTime) / 1000);
+  lastFrameTime = timestamp;
+  state.animTime += dt;
+  // Clear
+  ctx.clearRect(0, 0, CANVAS_W, CANVAS_H);
+  // Render based on screen
+  if (state.screen === 'title') {
+    drawTitle(dt);
+  } else if (state.screen === 'cutscene') {
+    drawCutsceneBg(dt);
+  } else if (state.screen === 'planning') {
+    drawSimulation(dt); // Draw scene behind planning UI
+  } else if (state.screen === 'simulation') {
+    updateSimulation(dt);
+    drawSimulation(dt);
+  } else if (state.screen === 'summary') {
+    drawSimulation(dt); // Background
+  } else if (state.screen === 'chapter') {
+    drawSimulation(dt); // Background
+  }
+  requestAnimationFrame(gameLoop);
+}
+
+// ============================================================
+// INIT
+// ============================================================
+function init() {
+  initClouds();
+  state.weather = generateWeather();
+  state.forecast = generateForecast(state.weather);
+  setScreen('title');
+  requestAnimationFrame(gameLoop);
+}
+
+init();
+</script>
+</body>
+</html>
