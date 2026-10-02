@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "senses-odd-18",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Eyelashes",
+      "Eyebrows",
+      "Retina",
+      "Eyelids",
+      "Tears"
+    ],
+    "answer": "Retina",
+    "notes": [
+      "Catch dust before it gets in",
+      "Stop sweat running into the eyes",
+      "Senses light at the back of the eye",
+      "Close to shield and wipe the eye",
+      "Wash away dirt and germs"
+    ],
+    "reason": "The retina senses light; the other four protect the eye.",
+    "explain": "Your eyes are delicate, so the body surrounds them with guards. Eyebrows steer sweat and rain away, eyelashes catch dust, eyelids blink to wipe and shut the eye, and tears wash it clean. The retina has a different job: it lines the back of the eye and turns light into nerve signals for the brain."
+  },
+  {
+    "id": "senses-odd-19",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Thunder",
+      "Birdsong",
+      "A whisper",
+      "Doorbell",
+      "Bat's ultrasound call"
+    ],
+    "answer": "Bat's ultrasound call",
+    "notes": [
+      "Low, loud sound we hear",
+      "High sound but within our range",
+      "Quiet sound we can hear",
+      "Sound well within our range",
+      "Too high-pitched for human ears"
+    ],
+    "reason": "A bat's ultrasound call is too high-pitched for humans; we can hear the other four.",
+    "explain": "Pitch depends on how many times a sound wave vibrates each second. Young people can hear from about 20 to about 20,000 vibrations per second. Sounds higher than that are called ultrasound. Many bats use ultrasound calls to find insects in the dark by listening for the echoes, but our ears cannot pick them up.",
+    "fact": "Dogs can hear much higher sounds than people, which is how dog whistles work."
+  },
+  {
+    "id": "senses-odd-20",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Lemon: sour",
+      "Sugar: sour",
+      "Honey: sweet",
+      "Karela: bitter",
+      "Sea water: salty"
+    ],
+    "answer": "Sugar: sour",
+    "notes": [
+      "Correct: lemons are acidic",
+      "Wrong: sugar tastes sweet",
+      "Correct: honey is full of sugars",
+      "Correct: bitter gourd tastes bitter",
+      "Correct: sea water is full of salt"
+    ],
+    "reason": "Sugar tastes sweet, not sour; the other four pairs are correct.",
+    "explain": "Your tongue can sense five basic tastes: sweet, sour, salty, bitter and umami. Each taste comes from a type of chemical in food. Sugars give sweetness, acids like those in lemons give sourness, and salt gives saltiness. Bitterness, like in karela, can warn the body about possible poisons, which is why many children dislike it at first."
+  },
+  {
+    "id": "senses-odd-21",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Seeing colours",
+      "Reading small print",
+      "Seeing in daylight",
+      "Seeing in dim light",
+      "Telling red from green"
+    ],
+    "answer": "Seeing in dim light",
+    "notes": [
+      "Done by cones",
+      "Sharp detail comes from cones",
+      "Cones work best in bright light",
+      "Mainly done by rods",
+      "Needs different kinds of cones"
+    ],
+    "reason": "Seeing in dim light is mainly done by rods; the other four rely on cones.",
+    "explain": "The retina has two kinds of light-sensing cells. Cones work in bright light and give you colour and sharp detail; there are three kinds, for red, green and blue light. Rods are far more sensitive, so they let you see in dim light, but only in shades of grey. That is why colours fade when it gets dark.",
+    "fact": "Each retina has about 120 million rods but only about 6 million cones."
+  },
+  {
+    "id": "senses-odd-22",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Scratching insect bites",
+      "Gentle washing",
+      "Sunscreen outdoors",
+      "Moisturising dry skin",
+      "Covering a cut"
+    ],
+    "answer": "Scratching insect bites",
+    "notes": [
+      "Breaks skin and lets germs in",
+      "Removes dirt and sweat",
+      "Blocks harmful UV rays",
+      "Keeps the skin barrier soft",
+      "Keeps germs out while it heals"
+    ],
+    "reason": "Scratching bites can break the skin; the other four keep skin healthy.",
+    "explain": "Skin is your body's outer barrier against germs, sun and water loss. Washing gently, using sunscreen, moisturising dry patches and covering cuts all help that barrier do its job. Scratching an itchy bite can break the skin, letting germs in and causing an infection. A cool cloth helps the itch instead."
+  },
+  {
+    "id": "senses-odd-23",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Hair",
+      "Fingernails",
+      "Eyelashes",
+      "Bone",
+      "Outer skin layer"
+    ],
+    "answer": "Bone",
+    "notes": [
+      "Made of keratin",
+      "Made of keratin",
+      "Made of keratin",
+      "Made mostly of collagen and calcium",
+      "Its top cells are filled with keratin"
+    ],
+    "reason": "Bone is not made of keratin; the other four are.",
+    "explain": "Keratin is a tough protein made by skin cells. As cells in the outer skin, hair roots and nail beds fill with keratin, they die and harden into a strong, waterproof material. That is why hair and nails can be cut without pain. Bone is different: it is living tissue made of collagen fibres hardened with calcium."
+  },
+  {
+    "id": "senses-odd-24",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Firecracker close by",
+      "Normal chatting",
+      "Loud concert",
+      "Headphones at full volume",
+      "Road drill nearby"
+    ],
+    "answer": "Normal chatting",
+    "notes": [
+      "A sudden, very loud bang",
+      "A safe sound level",
+      "Can be over 100 decibels",
+      "Loud sound right next to the eardrum",
+      "Loud noise that goes on and on"
+    ],
+    "reason": "Normal chatting is safe for hearing; the other four can damage it.",
+    "explain": "Very loud sounds, or loud sounds that last a long time, can damage the tiny hair cells in the cochlea that turn sound into nerve signals. Once these cells are destroyed they do not grow back. Keeping a distance from loud noises, turning the volume down and using earplugs protect your hearing for life."
+  },
+  {
+    "id": "senses-odd-25",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Fingertips",
+      "Lips",
+      "Tongue tip",
+      "Palm of the hand",
+      "Middle of the back"
+    ],
+    "answer": "Middle of the back",
+    "notes": [
+      "Packed with touch sensors",
+      "Very sensitive to touch",
+      "One of the most sensitive spots",
+      "Many touch sensors",
+      "Few touch sensors, spread far apart"
+    ],
+    "reason": "The middle of the back has few touch sensors; the other four have many.",
+    "explain": "Touch sensors are not spread evenly over the skin. Fingertips, lips and the tip of the tongue are packed with them, so you can feel tiny details, like the dots of Braille. The middle of the back has far fewer, so two pencil points touching it a few centimetres apart can feel like one. The brain also gives more space to areas with more sensors."
+  },
+  {
+    "id": "senses-odd-26",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Washing away dust",
+      "Keeping eyes moist",
+      "Focusing light on the retina",
+      "Fighting germs",
+      "Helping eyelids glide"
+    ],
+    "answer": "Focusing light on the retina",
+    "notes": [
+      "Tears rinse the eye",
+      "Tears stop drying out",
+      "Done by the cornea and lens",
+      "Tears contain germ-killing substances",
+      "Tears work like a lubricant"
+    ],
+    "reason": "Focusing light is done by the cornea and lens; tears do the other four jobs.",
+    "explain": "Tears are not only for crying. Small glands make a thin layer of tears all the time, and every blink spreads it over the eye. Tears keep the eye moist, wash away dust, help the eyelids slide smoothly and contain substances that kill germs. The focusing of light is done by the clear cornea and the lens."
+  },
+  {
+    "id": "senses-odd-27",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Red blood cell",
+      "Rod cell",
+      "Cone cell",
+      "Ear hair cell",
+      "Taste receptor cell"
+    ],
+    "answer": "Red blood cell",
+    "notes": [
+      "Carries oxygen around the body",
+      "Senses dim light",
+      "Senses colour and detail",
+      "Senses sound vibrations",
+      "Senses chemicals in food"
+    ],
+    "reason": "A red blood cell carries oxygen; the other four are sense receptor cells.",
+    "explain": "Every sense starts with special receptor cells that detect one kind of change. Rods and cones in the eye detect light, hair cells in the ear detect vibrations, and taste cells on the tongue detect chemicals. Each turns what it detects into a nerve signal for the brain. Red blood cells have a different job: carrying oxygen."
+  },
+  {
+    "id": "senses-odd-28",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Cornea",
+      "Lens",
+      "Vitreous jelly",
+      "Aqueous fluid",
+      "Iris"
+    ],
+    "answer": "Iris",
+    "notes": [
+      "Clear front dome",
+      "Clear focusing disc",
+      "Clear jelly filling the eyeball",
+      "Clear watery fluid at the front",
+      "Coloured and blocks light"
+    ],
+    "reason": "The iris is coloured and blocks light; the other four are clear so light can pass.",
+    "explain": "Light has to travel through the eye to reach the retina, so everything along its path must be see-through. It passes the clear cornea, the watery aqueous fluid, the lens and the clear vitreous jelly that fills the eyeball. The iris is different: it is coloured and blocks light, and its muscles change the size of the pupil to control how much gets in."
+  },
+  {
+    "id": "senses-odd-29",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Optician",
+      "Optic nerve",
+      "Otoscope",
+      "Optometrist",
+      "Ophthalmologist"
+    ],
+    "answer": "Otoscope",
+    "notes": [
+      "Makes and fits glasses",
+      "Carries signals from eye to brain",
+      "Light tool for looking inside the ear",
+      "Tests eyes and prescribes glasses",
+      "Doctor for eye diseases"
+    ],
+    "reason": "An otoscope is for the ear; the other four are about the eyes.",
+    "explain": "Many body words come from Greek. \"Opt\" and \"ophthalm\" are linked to the eye and seeing, so opticians, optometrists, ophthalmologists and the optic nerve all deal with vision. \"Oto\" means ear, so an otoscope is the small light a doctor uses to look down your ear canal at the eardrum."
+  },
+  {
+    "id": "senses-odd-30",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Dark cinema",
+      "Sunny beach",
+      "Night-time walk",
+      "Dim bedroom",
+      "Moonlit garden"
+    ],
+    "answer": "Sunny beach",
+    "notes": [
+      "Pupils widen to let in light",
+      "Pupils shrink to block bright light",
+      "Pupils widen in the dark",
+      "Pupils widen in dim light",
+      "Pupils widen in weak light"
+    ],
+    "reason": "On a sunny beach the pupils get smaller; in the other four they get bigger.",
+    "explain": "The pupil works like a camera opening. In dim places, muscles in the iris pull it wider so more light reaches the retina. In bright light, other iris muscles squeeze it small to protect the retina from too much light. This happens automatically within seconds."
+  },
+  {
+    "id": "senses-odd-31",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Letter chart test",
+      "Colour dot test",
+      "Eye pressure test",
+      "Beep hearing test",
+      "Side vision test"
+    ],
+    "answer": "Beep hearing test",
+    "notes": [
+      "Checks how sharp sight is",
+      "Checks colour vision",
+      "Checks for a disease called glaucoma",
+      "Checks the ears",
+      "Checks how wide you can see"
+    ],
+    "reason": "The beep test checks hearing; the other four check the eyes.",
+    "explain": "An eye check is more than reading letters. A letter chart tests sharpness, a colour dot test checks colour vision, an eye pressure test looks for glaucoma, a disease that can harm the optic nerve, and a side vision test checks how wide your view is. A beep test with headphones checks hearing."
+  },
+  {
+    "id": "senses-odd-32",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Goosebumps",
+      "Sunburn",
+      "Tanning",
+      "Darker freckles",
+      "Making vitamin D"
+    ],
+    "answer": "Goosebumps",
+    "notes": [
+      "Caused by cold or strong feelings",
+      "Skin damaged by UV rays",
+      "Extra melanin made because of UV",
+      "UV makes freckles darker",
+      "Skin uses UV to make it"
+    ],
+    "reason": "Goosebumps are caused by cold or emotions; UV light causes the other four.",
+    "explain": "Sunlight carries invisible ultraviolet (UV) rays. A little UV helps the skin make vitamin D for strong bones. UV also makes skin cells produce more melanin, which darkens tans and freckles. Too much UV burns the skin. Goosebumps are caused by tiny muscles pulling hairs upright when you are cold or excited."
+  },
+  {
+    "id": "senses-odd-33",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Smoke",
+      "Perfume",
+      "Carbon monoxide",
+      "Rotten eggs",
+      "Baking bread"
+    ],
+    "answer": "Carbon monoxide",
+    "notes": [
+      "Strong smell that warns of fire",
+      "Sweet smell",
+      "Has no smell at all",
+      "Smelly gas from rotting food",
+      "Smell of food cooking"
+    ],
+    "reason": "Carbon monoxide has no smell; you can smell the other four.",
+    "explain": "Your nose detects chemicals floating in the air, but only some of them. Carbon monoxide is a poisonous gas from burning fuel with too little air, and it has no smell or colour. That is why homes use carbon monoxide alarms. Cooking gas has a strong smell added on purpose so that leaks can be noticed."
+  },
+  {
+    "id": "senses-odd-34",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Cochlea",
+      "Semicircular canals",
+      "Hair cells",
+      "Ear fluid",
+      "Hammer"
+    ],
+    "answer": "Hammer",
+    "notes": [
+      "Hearing organ in the inner ear",
+      "Balance tubes in the inner ear",
+      "Sensors inside the inner ear",
+      "Fills the inner ear tubes",
+      "Tiny bone in the middle ear"
+    ],
+    "reason": "The hammer is in the middle ear; the other four are in the inner ear.",
+    "explain": "The ear has three sections. The outer ear collects sound, the middle ear has the eardrum and three tiny bones, including the hammer, that pass on vibrations, and the inner ear is deep in the skull. The inner ear is filled with fluid and holds the cochlea for hearing and the semicircular canals for balance, both lined with hair cells."
+  },
+  {
+    "id": "senses-taboo-18",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Lens",
+    "forbidden": [
+      "Focus",
+      "Eye",
+      "Clear",
+      "Glasses"
+    ],
+    "clues": [
+      "Tiny muscles change its shape, making it fatter for near things and thinner for far things.",
+      "With age it can turn cloudy, which is called a cataract.",
+      "It sits just behind the pupil and bends light so a sharp picture lands on the retina."
+    ],
+    "decoys": [
+      "Cornea",
+      "Iris",
+      "Retina"
+    ],
+    "explain": "The lens is a clear, bendy disc behind the pupil. It fine-tunes the focus so light lands sharply on the retina. Muscles around it change its shape: fatter for close objects and flatter for distant ones. With age the lens gets stiffer, which is why many older people need reading glasses."
+  },
+  {
+    "id": "senses-taboo-19",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cornea",
+    "forbidden": [
+      "Clear",
+      "Front",
+      "Window",
+      "Eye"
+    ],
+    "clues": [
+      "It does more of the light-bending for vision than the lens does.",
+      "It has no blood vessels, so it gets oxygen straight from the air and from tears.",
+      "This transparent dome covers the iris and pupil."
+    ],
+    "decoys": [
+      "Lens",
+      "Sclera",
+      "Retina"
+    ],
+    "explain": "The cornea is the clear dome at the front of the eye. Because it is curved, it bends incoming light and does about two-thirds of the eye's focusing, with the lens doing the rest. It has no blood vessels, which keeps it perfectly clear. It is also one of the most sensitive parts of the body, which is why a speck of dust hurts."
+  },
+  {
+    "id": "senses-taboo-20",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Eyelash",
+    "forbidden": [
+      "Eye",
+      "Hair",
+      "Lid",
+      "Blink"
+    ],
+    "clues": [
+      "Each one falls out and is replaced every few months.",
+      "Some people put mascara on these to make them look darker.",
+      "These short curved strands along the edge of your peepers catch dust before it gets in."
+    ],
+    "decoys": [
+      "Eyebrow",
+      "Nose hair",
+      "Eyelid"
+    ],
+    "explain": "Eyelashes are short, curved hairs along the edges of the eyelids. They catch dust and tiny bits in the air, and when something touches them, the eyelids blink shut by reflex. Like other hairs, each lash grows, falls out and is replaced."
+  },
+  {
+    "id": "senses-taboo-21",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Sclera",
+    "forbidden": [
+      "White",
+      "Eye",
+      "Tough",
+      "Outer"
+    ],
+    "clues": [
+      "In newborn babies it can look slightly bluish because it is still thin.",
+      "Thin red blood vessels can show on it when you are tired or have an infection.",
+      "It is the strong, pale part you see around the coloured iris."
+    ],
+    "decoys": [
+      "Cornea",
+      "Iris",
+      "Retina"
+    ],
+    "explain": "The sclera is the white of the eye. It is a tough coat that covers most of the eyeball and keeps its round shape. At the front it joins the clear cornea. The six muscles that move your eye attach to the sclera."
+  },
+  {
+    "id": "senses-taboo-22",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Hypermetropia",
+    "forbidden": [
+      "Long-sighted",
+      "Near",
+      "Blurry",
+      "Convex"
+    ],
+    "clues": [
+      "The eyeball is a little too short, so light comes to a focus behind the retina.",
+      "Reading a book up close is hard, but faraway trees look sharp.",
+      "Glasses with lenses that are thicker in the middle fix it."
+    ],
+    "decoys": [
+      "Myopia",
+      "Astigmatism",
+      "Cataract"
+    ],
+    "explain": "Hypermetropia, or long-sightedness, means distant things look clear but close things look blurred. The eyeball is slightly short, or the cornea and lens are too weak, so light would focus behind the retina. Convex lenses, thicker in the middle, bend light inward a little extra so it focuses on the retina."
+  },
+  {
+    "id": "senses-taboo-23",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Astigmatism",
+    "forbidden": [
+      "Cornea",
+      "Blurry",
+      "Curve",
+      "Lens"
+    ],
+    "clues": [
+      "Instead of being round like a football, the front of the eye is shaped more like a rugby ball.",
+      "Straight lines in some directions look sharp, while lines in other directions look smeared.",
+      "It is very common and is usually corrected with special glasses or contacts."
+    ],
+    "decoys": [
+      "Myopia",
+      "Hypermetropia",
+      "Colour blindness"
+    ],
+    "explain": "In astigmatism the cornea, or sometimes the lens, is shaped more like the back of a spoon stretched one way. Light in one direction focuses at a different point from light in another, so some lines look sharp and others blurred. Glasses or contact lenses shaped to match correct it."
+  },
+  {
+    "id": "senses-taboo-24",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Papillae",
+    "forbidden": [
+      "Tongue",
+      "Bumps",
+      "Taste bud",
+      "Rough"
+    ],
+    "clues": [
+      "A cat's are shaped like tiny hooks, which is why its lick feels like sandpaper.",
+      "Most kinds hold taste receptors, but the most common thread-shaped kind does not.",
+      "These tiny raised dots cover the upper surface of the organ you lick with."
+    ],
+    "decoys": [
+      "Villi",
+      "Cilia",
+      "Alveoli"
+    ],
+    "explain": "Papillae are the small bumps on top of the tongue. Most kinds contain taste buds, which hold the cells that detect taste. The most common kind is thread-shaped and has no taste buds; it helps grip and move food. Together they give the tongue its rough feel."
+  },
+  {
+    "id": "senses-taboo-25",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pinna",
+    "forbidden": [
+      "Ear",
+      "Outer",
+      "Earring",
+      "Flap"
+    ],
+    "clues": [
+      "It is made of bendy cartilage covered in skin, with no bone inside.",
+      "Its folds and curves catch sound and guide it inwards.",
+      "It is the part of your hearing organ you can see on the side of your head."
+    ],
+    "decoys": [
+      "Eardrum",
+      "Cochlea",
+      "Nostril"
+    ],
+    "explain": "The pinna is the outer part of the ear that you can see. It is made of cartilage, which is why it bends. Its curved shape collects sound waves and funnels them into the ear canal, and it also helps the brain tell whether a sound is coming from in front or behind."
+  },
+  {
+    "id": "senses-taboo-26",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Decibel",
+    "forbidden": [
+      "Loud",
+      "Sound",
+      "Measure",
+      "Unit"
+    ],
+    "clues": [
+      "A quiet whisper is about 30 of these, and a rock concert can be over 100.",
+      "Every 10 more of them means the noise carries ten times more energy.",
+      "Long exposure to noise above about 85 of these can harm hearing."
+    ],
+    "decoys": [
+      "Hertz",
+      "Kilogram",
+      "Calorie"
+    ],
+    "explain": "Decibels (dB) measure how loud a sound is. The scale climbs fast: 10 more decibels means ten times more sound energy. Normal talking is about 60 dB. Sounds above about 85 dB can damage the hair cells in the cochlea if you hear them for a long time, and very loud bangs can do it at once."
+  },
+  {
+    "id": "senses-taboo-27",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sweat gland",
+    "forbidden": [
+      "Sweat",
+      "Cool",
+      "Skin",
+      "Salty"
+    ],
+    "clues": [
+      "You have between 2 and 4 million of these tiny coiled tubes.",
+      "The soles of your feet, your palms and your forehead have lots of them.",
+      "They release watery drops when you run or feel hot, and the drying liquid takes heat away."
+    ],
+    "decoys": [
+      "Tear gland",
+      "Oil gland",
+      "Hair follicle"
+    ],
+    "explain": "Sweat glands are tiny coiled tubes in the dermis that open onto the skin through pores. When you get hot, your brain tells them to release sweat, which is mostly water with some salt. As sweat evaporates it carries heat away and cools you down."
+  },
+  {
+    "id": "senses-taboo-28",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Epidermis",
+    "forbidden": [
+      "Skin",
+      "Outer",
+      "Layer",
+      "Dermis"
+    ],
+    "clues": [
+      "Its top is made of flat, dead cells that flake off all the time.",
+      "Its bottom row of cells keeps dividing to replace the ones that are lost.",
+      "It is the thin top covering of your body, the part you can touch."
+    ],
+    "decoys": [
+      "Dermis",
+      "Enamel",
+      "Cornea"
+    ],
+    "explain": "The epidermis is the thin outer layer of skin. New cells form at its base and move upward, filling with tough keratin and dying as they go. The dead top cells form a waterproof barrier and flake off all the time. Below it is the thicker dermis, with blood vessels, nerves, hair roots and sweat glands.",
+    "fact": "Your outer skin replaces itself roughly every month."
+  },
+  {
+    "id": "senses-taboo-29",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pore",
+    "forbidden": [
+      "Hole",
+      "Sweat",
+      "Skin",
+      "Tiny"
+    ],
+    "clues": [
+      "Blocked ones can turn into blackheads.",
+      "Oil from the roots of your hairs comes out through these openings.",
+      "They are small openings dotted over your body, where salty water comes out on hot days."
+    ],
+    "decoys": [
+      "Freckle",
+      "Pimple",
+      "Mole"
+    ],
+    "explain": "Pores are small openings in the skin. Some let out sweat from sweat glands; others are the openings of hair follicles, where natural oil reaches the surface. When oil and dead skin cells block a pore, it can become a blackhead or a pimple. Gentle washing keeps pores clear."
+  },
+  {
+    "id": "senses-taboo-30",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Freckle",
+    "forbidden": [
+      "Spots",
+      "Sun",
+      "Brown",
+      "Face"
+    ],
+    "clues": [
+      "They are flat and harmless, and often run in families, especially in people with red or fair hair.",
+      "They have extra melanin pigment and get darker in summer.",
+      "They are small light-tan dots, often sprinkled across the nose and cheeks."
+    ],
+    "decoys": [
+      "Mole",
+      "Birthmark",
+      "Pimple"
+    ],
+    "explain": "Freckles are small flat patches where skin cells make extra melanin, the pigment that colours skin. Sunlight makes them darker, and they often fade in winter. They run in families and are harmless, but they are also a sign that skin is sensitive to the sun."
+  },
+  {
+    "id": "senses-taboo-31",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Callus",
+    "forbidden": [
+      "Hard",
+      "Thick",
+      "Rub",
+      "Skin"
+    ],
+    "clues": [
+      "Guitar players, cricketers and people who walk barefoot often get them.",
+      "It forms where something presses or scrapes on the same spot again and again.",
+      "It is a tough, yellowish patch on a palm or heel that protects the area underneath."
+    ],
+    "decoys": [
+      "Blister",
+      "Wart",
+      "Bruise"
+    ],
+    "explain": "A callus is an area of skin that has become thick and tough because of repeated pressure or rubbing. The epidermis responds by making extra layers of keratin-filled cells. This protects the tissue underneath. A blister is different: it is a sudden bubble of fluid from fresh rubbing."
+  },
+  {
+    "id": "senses-taboo-32",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nail",
+    "forbidden": [
+      "Finger",
+      "Toe",
+      "Paint",
+      "Keratin"
+    ],
+    "clues": [
+      "The pale half-moon near its base is called the lunula.",
+      "It grows from a root under the skin, about 3 millimetres a month.",
+      "It is the hard plate that protects the tip of each digit on your hands and feet."
+    ],
+    "decoys": [
+      "Hair",
+      "Claw",
+      "Tooth"
+    ],
+    "explain": "Nails are plates of hard keratin that grow from a root under the skin at their base. They protect the tips of fingers and toes and help you pick up small things. The nail itself has no nerves, so cutting it does not hurt, but the skin beneath it is very sensitive.",
+    "fact": "Fingernails grow faster than toenails."
+  },
+  {
+    "id": "senses-taboo-33",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Eyebrow",
+    "forbidden": [
+      "Eye",
+      "Hair",
+      "Forehead",
+      "Above"
+    ],
+    "clues": [
+      "When you are surprised, these shoot upwards.",
+      "They help stop sweat and rain running down into your vision.",
+      "They are two curved strips of short strands that help show feelings on your face."
+    ],
+    "decoys": [
+      "Eyelash",
+      "Moustache",
+      "Eyelid"
+    ],
+    "explain": "Eyebrows are the strips of hair above the eyes. Their shape and the way the hairs point steer sweat and rain to the sides, away from the eyes. They also help people show and read feelings such as surprise, worry or anger."
+  },
+  {
+    "id": "senses-taboo-34",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Hearing aid",
+    "forbidden": [
+      "Ear",
+      "Deaf",
+      "Louder",
+      "Sound"
+    ],
+    "clues": [
+      "Unlike an implant, it needs no operation and simply slips on.",
+      "A small microphone picks up noises and a speaker plays them back more strongly.",
+      "People with weak hearing wear one, and modern ones run on tiny batteries."
+    ],
+    "decoys": [
+      "Cochlear implant",
+      "Earplug",
+      "Headphones"
+    ],
+    "explain": "A hearing aid is a small device for people with hearing loss. A microphone picks up sound, a tiny computer makes the important parts stronger, and a speaker sends it into the ear canal. A cochlear implant is different: it is placed by an operation and sends electrical signals straight to the hearing nerve."
+  },
+  {
+    "id": "senses-case-17",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Ophthalmologist",
+    "scenario": "A classmate's eye is pink, itchy and sticky in the morning. The doctor says it is conjunctivitis, which can spread to others. What should she do while it heals?",
+    "options": [
+      "Share eye drops with friends",
+      "Wash hands; use her own towel",
+      "Rub her eye to clean it",
+      "Swim in a crowded pool"
+    ],
+    "answer": "Wash hands; use her own towel",
+    "optionNotes": [
+      "Spreads germs from eye to eye",
+      "Stops germs spreading to others",
+      "Irritates the eye and spreads germs",
+      "Can spread the infection"
+    ],
+    "explain": "Conjunctivitis, often called pink eye, is swelling of the thin clear layer covering the white of the eye. Germs or allergies can cause it. The infectious kind spreads through hands, towels and pillows, so washing hands and not sharing are the most important steps. A doctor decides if drops are needed."
+  },
+  {
+    "id": "senses-case-18",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "Ophthalmologist",
+    "scenario": "When a boy cries hard, his nose starts to run too, even though he does not have a cold. Why does this happen?",
+    "options": [
+      "Crying gives him a cold",
+      "His nose makes its own tears",
+      "Water comes up from his stomach",
+      "Tears drain into the nose"
+    ],
+    "answer": "Tears drain into the nose",
+    "optionNotes": [
+      "Colds are caused by viruses",
+      "The nose makes mucus, not tears",
+      "Tears come from glands near the eye",
+      "The tear duct links eye and nose"
+    ],
+    "explain": "Tears are made by glands above the outer corner of each eye. After washing over the eye, they drain through tiny holes in the inner corner of the eyelids, down a tear duct into the nose. Usually the amount is small. When you cry, there are so many tears that your nose starts to run."
+  },
+  {
+    "id": "senses-case-19",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "Ophthalmologist",
+    "scenario": "A 50-year-old woman now holds her phone at arm's length to read it, though her distance vision is fine. Her eye lens has become stiffer with age. What will help her read?",
+    "options": [
+      "Reading glasses with convex lenses",
+      "Concave lenses",
+      "Sunglasses",
+      "Ear drops"
+    ],
+    "answer": "Reading glasses with convex lenses",
+    "optionNotes": [
+      "Add extra focusing power for close work",
+      "Help short sight, not this",
+      "Only cut down brightness",
+      "Treat ears, not eyes"
+    ],
+    "explain": "To focus on close things, the lens must become fatter. With age, usually from the mid-forties, the lens gets stiffer and cannot change shape as much, so close reading becomes blurry. This is called presbyopia. Reading glasses with convex lenses give the extra focusing power needed."
+  },
+  {
+    "id": "senses-case-20",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "After a heavy cold, a 5-year-old has earache and a fever. The doctor finds infection behind his eardrum, in the middle ear. Germs reached it through a tube from the back of his throat. Which tube?",
+    "options": [
+      "Windpipe",
+      "Food pipe",
+      "Eustachian tube",
+      "Ear canal"
+    ],
+    "answer": "Eustachian tube",
+    "optionNotes": [
+      "Carries air to the lungs",
+      "Carries food to the stomach",
+      "Links the middle ear to the throat",
+      "Lies outside the eardrum"
+    ],
+    "explain": "The Eustachian tube links the middle ear to the back of the nose and throat. It lets air in and out to keep pressure equal on both sides of the eardrum. In young children it is short and level, so germs from a cold can travel up it easily. That is why middle ear infections are common in small children."
+  },
+  {
+    "id": "senses-case-21",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "Ophthalmologist",
+    "scenario": "A boy walks from a sunny street into a dark cinema. At first he sees nothing, but after a few minutes he can find his seat, though colours look dull. Which retina cells are now doing most of the work?",
+    "options": [
+      "Cone cells",
+      "Lens cells",
+      "Rod cells",
+      "Blood cells"
+    ],
+    "answer": "Rod cells",
+    "optionNotes": [
+      "Need bright light for colour",
+      "The lens is not part of the retina",
+      "Sensitive cells that work in dim light",
+      "Carry oxygen, do not sense light"
+    ],
+    "explain": "Rods are very sensitive to light, but they take several minutes to adjust after bright sunlight. As they do, you start to see shapes in the dark. Rods cannot tell colours apart, so dim scenes look grey and dull. Cones, which give colour, need brighter light."
+  },
+  {
+    "id": "senses-case-22",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "A 14-year-old has pimples on his face and back. He wants to squeeze them. What should the dermatologist advise?",
+    "options": [
+      "Wash gently, don't squeeze",
+      "Scrub hard with a rough cloth",
+      "Squeeze every pimple",
+      "Stop washing his face"
+    ],
+    "answer": "Wash gently, don't squeeze",
+    "optionNotes": [
+      "Keeps pores clear and avoids scars",
+      "Irritates skin and makes it worse",
+      "Pushes germs deeper and can scar",
+      "Lets oil and dirt build up"
+    ],
+    "explain": "During puberty, oil glands in the skin become more active. Oil and dead skin cells can block pores, and bacteria grow inside, making red, swollen pimples. This is acne. Gentle washing helps, while squeezing pushes germs deeper and can leave scars. A dermatologist can suggest creams if acne is bad."
+  },
+  {
+    "id": "senses-case-23",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "ENT Doctor",
+    "scenario": "After standing next to huge speakers at a concert, a teenager hears ringing in his ears and sounds seem muffled for a day. Which part was strained by the noise?",
+    "options": [
+      "His earlobes",
+      "The semicircular canals",
+      "His taste buds",
+      "Hair cells in the cochlea"
+    ],
+    "answer": "Hair cells in the cochlea",
+    "optionNotes": [
+      "Only collect sound, not harmed by it",
+      "Sense balance, not loudness",
+      "Sense taste, not sound",
+      "Turn vibrations into nerve signals"
+    ],
+    "explain": "Inside the cochlea, thousands of tiny hair cells bend with sound vibrations and send signals to the brain. Very loud noise over-bends and tires them, causing muffled hearing and ringing, called tinnitus. Usually it settles in a day, but repeated loud noise can kill hair cells, and they do not grow back. Earplugs and keeping a distance from speakers protect them."
+  },
+  {
+    "id": "senses-case-24",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "In hot, humid weather, a baby gets tiny itchy red bumps on her neck and back where sweat gets trapped. What helps most?",
+    "options": [
+      "Wrap her in thick blankets",
+      "Keep her cool in loose cotton clothes",
+      "Rub on thick, greasy cream",
+      "Keep her in the hot sun"
+    ],
+    "answer": "Keep her cool in loose cotton clothes",
+    "optionNotes": [
+      "Traps more heat and sweat",
+      "Lets sweat dry and skin breathe",
+      "Can block sweat pores even more",
+      "Makes her sweat more"
+    ],
+    "explain": "This is heat rash, also called prickly heat. When sweat ducts get blocked, sweat leaks under the skin and causes small itchy bumps. Keeping the skin cool and dry, with loose cotton clothes and a fan or shade, lets the ducts clear. It usually fades in a few days."
+  },
+  {
+    "id": "senses-case-25",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "When a girl enters a room where incense is burning, the smell is strong. After ten minutes she hardly notices it, though it is still there. Why?",
+    "options": [
+      "Her senses tune out a steady smell",
+      "Her nose has been damaged",
+      "The incense stopped smelling",
+      "Her tongue is blocking it"
+    ],
+    "answer": "Her senses tune out a steady smell",
+    "optionNotes": [
+      "This is called adaptation",
+      "Her sense of smell is fine",
+      "The smell is still in the room",
+      "The tongue does not block smells"
+    ],
+    "explain": "Your senses are built to notice changes. When a smell stays the same, the smell receptors and the brain gradually respond less to it. This is called sensory adaptation, and it frees your attention for new smells, like smoke. The same thing happens when you stop feeling the clothes on your skin."
+  },
+  {
+    "id": "senses-case-26",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "ENT Doctor",
+    "scenario": "A book says the tip of the tongue tastes only sweet and the back tastes only bitter. A girl tests this with sugar and lemon on different parts of her tongue. What will she find?",
+    "options": [
+      "Only the tip tastes sugar",
+      "Only the sides taste lemon",
+      "All areas can sense every basic taste",
+      "The tongue cannot taste lemon"
+    ],
+    "answer": "All areas can sense every basic taste",
+    "optionNotes": [
+      "Sugar is tasted all over",
+      "Sourness is tasted all over",
+      "Taste buds everywhere sense all five",
+      "Lemon tastes clearly sour"
+    ],
+    "explain": "The \"tongue map\" with separate zones for each taste is a myth based on a misread old study. Taste buds on all parts of the tongue can detect sweet, sour, salty, bitter and umami. Some areas may be slightly more sensitive to a taste, but every area can sense all five."
+  },
+  {
+    "id": "senses-case-27",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Ophthalmologist",
+    "scenario": "A boy closes one eye and tries to catch a ball. He keeps misjudging how far away it is. Why does he catch better with both eyes open?",
+    "options": [
+      "One eye cannot see colours",
+      "Two views let the brain judge distance",
+      "Closing an eye makes the ball faster",
+      "Two eyes make the ball bigger"
+    ],
+    "answer": "Two views let the brain judge distance",
+    "optionNotes": [
+      "Each eye sees colour",
+      "Gives depth perception",
+      "The ball speed does not change",
+      "Size stays the same"
+    ],
+    "explain": "Your two eyes are a few centimetres apart, so each sees a slightly different picture. The brain compares the two views to work out how far away things are. This is called depth perception. With one eye shut, the brain has fewer clues, so judging distance is harder."
+  },
+  {
+    "id": "senses-case-28",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "Ophthalmologist",
+    "scenario": "A 5-year-old's left eye sees poorly, though it is healthy, because her brain has been relying on the stronger right eye. The doctor wants the weaker eye to work harder. What treatment is common?",
+    "options": [
+      "Patch the weaker eye",
+      "Stop wearing glasses",
+      "Avoid reading altogether",
+      "Patch the stronger eye daily"
+    ],
+    "answer": "Patch the stronger eye daily",
+    "optionNotes": [
+      "Lets the weak eye rest, so no help",
+      "Glasses may be part of treatment",
+      "Using the eyes is fine",
+      "Makes the brain use the weaker eye"
+    ],
+    "explain": "This is a lazy eye, or amblyopia. If one eye sends a blurrier picture in early childhood, the brain starts ignoring it. Covering the stronger eye forces the brain to use and train the weaker one. Treatment works best in young children, while the brain's vision pathways are still developing, so early eye checks matter."
+  },
+  {
+    "id": "senses-case-29",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "After football, a boy's armpits smell, though fresh sweat has almost no smell. What causes the odour?",
+    "options": [
+      "Sweat glands making perfume",
+      "Drinking too much water",
+      "Dust from the field",
+      "Skin bacteria breaking down sweat"
+    ],
+    "answer": "Skin bacteria breaking down sweat",
+    "optionNotes": [
+      "Sweat glands make no scent",
+      "Water does not cause odour",
+      "Dust is not the cause",
+      "Their waste products smell"
+    ],
+    "explain": "Sweat itself is almost odourless. Armpits have special sweat glands that become active at puberty, and bacteria living on the skin feed on their sweat. The waste the bacteria make has a strong smell. Washing daily, drying well and wearing clean clothes keep bacteria numbers down."
+  },
+  {
+    "id": "senses-case-30",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "Dermatologist",
+    "scenario": "A paper scratch scrapes away a thin flake of skin. It stings slightly but does not bleed. A deeper cut does bleed. Why?",
+    "options": [
+      "Paper seals the wound at once",
+      "Top skin layer has no blood vessels",
+      "Skin has no blood anywhere",
+      "Only the hands have blood"
+    ],
+    "answer": "Top skin layer has no blood vessels",
+    "optionNotes": [
+      "Paper cannot seal a cut",
+      "Blood vessels start in the dermis",
+      "The dermis has many blood vessels",
+      "Blood reaches all skin"
+    ],
+    "explain": "Skin has two main layers. The epidermis on top has no blood vessels; it gets food and oxygen from the dermis below. A very shallow scratch only removes epidermis, so it does not bleed. A cut that reaches the dermis breaks tiny blood vessels and bleeds."
+  },
+  {
+    "id": "senses-case-31",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "A girl who hears with only one ear finds it hard to tell where a car horn is coming from. Why do two ears help locate sounds?",
+    "options": [
+      "Two ears make sounds higher",
+      "One ear hears and the other balances",
+      "The brain compares sound at each ear",
+      "Two ears block background noise"
+    ],
+    "answer": "The brain compares sound at each ear",
+    "optionNotes": [
+      "Pitch does not change",
+      "Both ears hear and both help balance",
+      "Tiny differences reveal direction",
+      "They do not block noise"
+    ],
+    "explain": "A sound from your left reaches your left ear a tiny fraction of a second sooner, and a little louder, than your right ear. The brain compares these small differences to work out direction. With only one working ear, these clues are missing, so finding where a sound is coming from is harder."
+  },
+  {
+    "id": "senses-case-32",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A boy bites into a very hot green chilli and his mouth burns. Gulping water barely helps. Which drink usually soothes the burn better?",
+    "options": [
+      "A glass of milk",
+      "Fizzy cola",
+      "More cold water",
+      "Hot tea"
+    ],
+    "answer": "A glass of milk",
+    "optionNotes": [
+      "Milk helps wash the chilli chemical away",
+      "Fizz can sting more",
+      "The chemical does not mix well with water",
+      "Heat makes the burn feel worse"
+    ],
+    "explain": "The heat of chilli comes from a chemical called capsaicin. It does not have a taste; it switches on the same sensors in your mouth that detect heat and pain, so your brain thinks your mouth is burning. Capsaicin does not mix well with water, but milk helps wash it away. The burning fades as the sensors settle."
+  }
+]

@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "brain-odd-18",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Body temperature",
+      "Feeling hungry",
+      "Reading a map",
+      "Feeling thirsty",
+      "Sleep-wake timing"
+    ],
+    "answer": "Reading a map",
+    "notes": [
+      "Hypothalamus acts like a thermostat",
+      "Hypothalamus signals when to eat",
+      "Done by the thinking cerebrum",
+      "Hypothalamus signals when to drink",
+      "Hypothalamus helps run the body clock"
+    ],
+    "reason": "Reading a map is a cerebrum job; the hypothalamus controls the other four.",
+    "explain": "The hypothalamus is a small area deep in the middle of the brain. It keeps your inner body steady: it senses when you are too hot or cold, and it makes you feel hungry or thirsty when you need food or water. It also helps set your daily sleep-wake rhythm. Reading a map needs thinking and planning, which is done by the cerebrum.",
+    "fact": "The hypothalamus is only about the size of an almond."
+  },
+  {
+    "id": "brain-odd-19",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Tapping the knee",
+      "Walking in a straight line",
+      "Squeezing the doctor's fingers",
+      "Feeling a light touch",
+      "Checking blood group"
+    ],
+    "answer": "Checking blood group",
+    "notes": [
+      "Tests a reflex",
+      "Tests balance and coordination",
+      "Tests muscle strength from motor nerves",
+      "Tests the sensory nerves",
+      "Needs a blood test, not a nerve check"
+    ],
+    "reason": "Blood group is found with a blood test; the other four are nerve checks a neurologist does.",
+    "explain": "A neurologist checks how well the brain, spinal cord and nerves are working, often with simple tests in the clinic. Tapping the knee checks a reflex, walking heel-to-toe checks balance, squeezing fingers checks the nerves that work muscles, and a light touch checks the nerves that carry feeling. Your blood group is about proteins on red blood cells and needs a sample of blood sent to a lab."
+  },
+  {
+    "id": "brain-odd-20",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Optic nerve",
+      "Sciatic nerve",
+      "Olfactory nerve",
+      "Auditory nerve",
+      "Facial nerve"
+    ],
+    "answer": "Sciatic nerve",
+    "notes": [
+      "Carries sight from eye to brain",
+      "Runs from the lower back down the leg",
+      "Carries smell from nose to brain",
+      "Carries hearing from ear to brain",
+      "Moves face muscles for smiling"
+    ],
+    "reason": "The sciatic nerve comes from the spinal cord; the other four come straight from the brain.",
+    "explain": "Most nerves branch out of the spinal cord, but 12 pairs, called cranial nerves, connect directly to the brain. They mainly serve the head and face: seeing, smelling, hearing and moving your face. The sciatic nerve leaves the lower part of the spinal cord and travels down the back of each leg.",
+    "fact": "The sciatic nerve is the longest and thickest nerve in the body."
+  },
+  {
+    "id": "brain-odd-21",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Enough sleep",
+      "Regular exercise",
+      "Learning new skills",
+      "Gaming all night",
+      "Balanced meals"
+    ],
+    "answer": "Gaming all night",
+    "notes": [
+      "Lets the brain sort and store memories",
+      "Sends more blood and oxygen to the brain",
+      "Builds new links between neurons",
+      "Robs the brain of rest it needs",
+      "Gives steady fuel and nutrients"
+    ],
+    "reason": "Gaming all night harms the brain; the other four keep it healthy.",
+    "explain": "Your brain stays healthy when you look after the whole body. Sleep lets it store what you learned, exercise pumps more blood and oxygen to it, and learning new things builds fresh connections between nerve cells. Good food gives it steady fuel. Staying up all night leaves you forgetful, slow and grumpy the next day."
+  },
+  {
+    "id": "brain-odd-22",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "ECG",
+      "EEG",
+      "MRI scan",
+      "CT scan",
+      "Knee reflex test"
+    ],
+    "answer": "ECG",
+    "notes": [
+      "Records the heart's electrical beats",
+      "Records the brain's electrical waves",
+      "Detailed brain pictures using magnets",
+      "Quick brain pictures using X-rays",
+      "Checks a nerve pathway"
+    ],
+    "reason": "An ECG checks the heart; the other four can check the brain or nerves.",
+    "explain": "Doctors have several ways to check the nervous system. An EEG records the electrical activity of the brain, MRI and CT scans take pictures of the brain, and a reflex test checks if a nerve pathway works. An ECG also records electricity, but from the heart, to check that it is beating in a healthy rhythm."
+  },
+  {
+    "id": "brain-odd-23",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Face drooping on one side",
+      "Weakness in one arm",
+      "Slurred speech",
+      "Runny nose",
+      "Sudden trouble seeing"
+    ],
+    "answer": "Runny nose",
+    "notes": [
+      "The smile looks uneven",
+      "One arm drifts down when lifted",
+      "Words come out muddled",
+      "Usually a sign of a cold",
+      "Vision suddenly blurs or goes"
+    ],
+    "reason": "A runny nose is a cold sign; the other four are sudden warning signs of a stroke.",
+    "explain": "A stroke happens when blood stops flowing to part of the brain, so brain cells there stop getting oxygen. Warning signs come on suddenly: one side of the face droops, one arm goes weak, speech is slurred, or sight suddenly blurs. The FAST rule reminds people to check Face, Arms and Speech, and that it is Time to call an ambulance, because quick treatment saves brain cells. A runny nose is a common sign of a cold."
+  },
+  {
+    "id": "brain-odd-24",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Neurologist",
+      "Nephron",
+      "Neuron",
+      "Neurotransmitter",
+      "Neurosurgeon"
+    ],
+    "answer": "Nephron",
+    "notes": [
+      "Doctor for brain and nerve illnesses",
+      "Tiny filter unit in the kidney",
+      "A nerve cell",
+      "Chemical that passes nerve signals on",
+      "Surgeon who operates on brain or nerves"
+    ],
+    "reason": "A nephron belongs to the kidney; the other four are about nerves.",
+    "explain": "\"Neuro\" comes from an old Greek word for nerve, so words that start with it are about the nervous system. A neuron is a nerve cell, a neurotransmitter is a chemical that carries signals between neurons, and neurologists and neurosurgeons are doctors who treat the brain and nerves. A nephron is one of about a million tiny filters inside each kidney that clean the blood."
+  },
+  {
+    "id": "brain-odd-25",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Poor memory",
+      "Slow reactions",
+      "Grumpy mood",
+      "Trouble focusing",
+      "Faster growth"
+    ],
+    "answer": "Faster growth",
+    "notes": [
+      "Memories are stored during sleep",
+      "A tired brain responds slowly",
+      "Tiredness makes feelings harder to manage",
+      "Attention drops when you are tired",
+      "Growth hormone is mostly released in deep sleep"
+    ],
+    "reason": "Losing sleep does not speed up growth; the other four are effects of too little sleep.",
+    "explain": "While you sleep, your brain files away what you learned and clears out waste, and your body releases most of its growth hormone. Without enough sleep, memory gets worse, reactions slow down, moods swing and it is hard to pay attention. Children grow best when they get enough sleep, not less."
+  },
+  {
+    "id": "brain-odd-26",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Feeling heat",
+      "Hearing a bell",
+      "Kicking a ball",
+      "Seeing a light",
+      "Smelling food"
+    ],
+    "answer": "Kicking a ball",
+    "notes": [
+      "Skin sends a message in",
+      "Ears send a message in",
+      "An order sent out to muscles",
+      "Eyes send a message in",
+      "Nose sends a message in"
+    ],
+    "reason": "Kicking uses motor neurons carrying orders out; the other four use sensory neurons carrying messages in.",
+    "explain": "Nerve messages travel in two directions. Sensory neurons carry information in from your senses, such as heat on your skin, a sound or a smell, towards the brain and spinal cord. Motor neurons carry orders out from the brain and spinal cord to muscles, such as the order to kick a ball."
+  },
+  {
+    "id": "brain-odd-27",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Storing your memories",
+      "Carrying touch messages up",
+      "Sending move orders down",
+      "Running some reflexes",
+      "Linking brain and body"
+    ],
+    "answer": "Storing your memories",
+    "notes": [
+      "Done by the brain, not the cord",
+      "From skin up to the brain",
+      "From brain down to muscles",
+      "Like pulling away from a hot pan",
+      "Main highway for nerve signals"
+    ],
+    "reason": "Memories are stored in the brain; the other four are spinal cord jobs.",
+    "explain": "The spinal cord is a thick bundle of nerves running down inside your backbone. It is the main highway between the brain and the body: messages about touch travel up it, and orders to move muscles travel down it. It can also handle simple reflexes on its own for speed. Memories are made and stored in the brain, for example with help from the hippocampus."
+  },
+  {
+    "id": "brain-odd-28",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Epilepsy",
+      "Migraine",
+      "Parkinson's disease",
+      "Concussion",
+      "Asthma"
+    ],
+    "answer": "Asthma",
+    "notes": [
+      "Bursts of electrical activity cause seizures",
+      "Strong headaches that come and go",
+      "Shaking and slow movement",
+      "Brain injury from a knock",
+      "Airways in the lungs get narrow"
+    ],
+    "reason": "Asthma affects the lungs; the other four affect the brain.",
+    "explain": "Illnesses are often grouped by the body system they affect, which helps decide which doctor to see. Epilepsy, migraine, Parkinson's disease and concussion all affect the brain, so a neurologist usually treats them. Asthma makes the airways in the lungs swell and narrow, so it is a lung condition."
+  },
+  {
+    "id": "brain-odd-29",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Coffee",
+      "Tea",
+      "Milk",
+      "Cola",
+      "Energy drink"
+    ],
+    "answer": "Milk",
+    "notes": [
+      "Has lots of caffeine",
+      "Has some caffeine",
+      "Has no caffeine",
+      "Has added caffeine",
+      "Has a lot of caffeine"
+    ],
+    "reason": "Milk has no caffeine; the other four contain caffeine.",
+    "explain": "Caffeine is a chemical that acts on the brain and makes you feel more awake. It blocks a natural chemical that builds up during the day to make you sleepy. That is why caffeine drinks late in the day can stop you falling asleep. Children are advised to avoid energy drinks and limit other caffeine drinks."
+  },
+  {
+    "id": "brain-odd-30",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Not drinking water",
+      "Eating vegetables",
+      "Skipping meals",
+      "Too little sleep",
+      "Hours of screens"
+    ],
+    "answer": "Eating vegetables",
+    "notes": [
+      "Dehydration can cause a headache",
+      "Part of a healthy diet",
+      "Low blood sugar can cause a headache",
+      "Tiredness can trigger a headache",
+      "Eye strain can cause a headache"
+    ],
+    "reason": "Eating vegetables does not cause headaches; the other four commonly do.",
+    "explain": "Most everyday headaches have simple causes. Not drinking enough water, going too long without food, poor sleep and staring at screens without breaks can all bring one on. Drinking water, eating regular meals and resting your eyes often help. A headache that is very bad or keeps coming back should be checked by a doctor."
+  },
+  {
+    "id": "brain-odd-31",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Feeling happy",
+      "Feeling scared",
+      "Feeling angry",
+      "Pumping blood",
+      "Feeling proud"
+    ],
+    "answer": "Pumping blood",
+    "notes": [
+      "Made by the brain",
+      "Made by the brain",
+      "Made by the brain",
+      "The heart's job",
+      "Made by the brain"
+    ],
+    "reason": "Pumping blood is the heart's job; feelings are made by the brain.",
+    "explain": "People often say feelings come from the heart, but emotions are actually produced by the brain. Deep areas of the brain react to what happens and create feelings like fear, anger and joy, and the cerebrum helps you understand and control them. Your heart may beat faster when you are scared, but that is because the brain sent it a signal."
+  },
+  {
+    "id": "brain-odd-32",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Smell",
+      "Sight",
+      "Hearing",
+      "Touch",
+      "Taste"
+    ],
+    "answer": "Smell",
+    "notes": [
+      "Goes straight to smell areas first",
+      "Relayed through the thalamus",
+      "Relayed through the thalamus",
+      "Relayed through the thalamus",
+      "Relayed through the thalamus"
+    ],
+    "reason": "Smell signals skip the thalamus at first; the other four senses pass through it.",
+    "explain": "The thalamus sits in the middle of the brain and works like a sorting office. Signals from your eyes, ears, skin and tongue stop there first and are sent on to the right part of the cerebrum. Smell signals take a different route: they go from the nose to smell areas of the brain first, close to the areas for memory and feelings.",
+    "fact": "This short route may be one reason a smell can bring back an old memory so quickly."
+  },
+  {
+    "id": "brain-odd-33",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Sight: occipital lobe",
+      "Hearing: temporal lobe",
+      "Balance: frontal lobe",
+      "Touch: parietal lobe",
+      "Planning: frontal lobe"
+    ],
+    "answer": "Balance: frontal lobe",
+    "notes": [
+      "Correct: back of the brain",
+      "Correct: sides, near the ears",
+      "Wrong: balance is the cerebellum",
+      "Correct: top of the brain",
+      "Correct: front of the brain"
+    ],
+    "reason": "Balance is controlled by the cerebellum, not the frontal lobe; the other four pairs are correct.",
+    "explain": "Each half of the cerebrum has four lobes with different main jobs. The frontal lobe at the front plans and makes decisions, the parietal lobe on top handles touch, the temporal lobe near the ears handles hearing, and the occipital lobe at the back handles sight. Balance and smooth movement are mainly the job of the cerebellum, which sits below the back of the cerebrum."
+  },
+  {
+    "id": "brain-odd-34",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Brain",
+      "Spinal cord",
+      "Retina",
+      "Wall of the gut",
+      "Hair"
+    ],
+    "answer": "Hair",
+    "notes": [
+      "Billions of neurons",
+      "Long bundles of neurons",
+      "Light-sensing layer made of neurons",
+      "Has its own net of neurons",
+      "Dead strands with no living cells"
+    ],
+    "reason": "Hair has no neurons; the other four contain nerve cells.",
+    "explain": "Neurons are not only in the brain and spinal cord. The retina at the back of the eye is made of layers of neurons that start processing what you see. The wall of your gut has hundreds of millions of neurons that control the squeezing that moves food along. The hair you can see is made of dead cells, which is why a haircut does not hurt."
+  },
+  {
+    "id": "brain-taboo-18",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Axon",
+    "forbidden": [
+      "Neuron",
+      "Long",
+      "Wire",
+      "Signal"
+    ],
+    "clues": [
+      "In the cell that runs from your spine to your big toe, this part can be about a metre in length.",
+      "It is often wrapped in a fatty coat that makes messages travel faster.",
+      "It is the single thin tail that carries a nerve cell's message away from the cell body."
+    ],
+    "decoys": [
+      "Dendrite",
+      "Synapse",
+      "Myelin"
+    ],
+    "explain": "An axon is the long, thin fibre of a neuron that carries its electrical message away from the cell body to the next cell or to a muscle. Each neuron usually has one axon but many dendrites. Many axons are coated in myelin, which lets signals travel much faster.",
+    "fact": "Signals in some coated axons travel at over 100 metres per second."
+  },
+  {
+    "id": "brain-taboo-19",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Dendrite",
+    "forbidden": [
+      "Branch",
+      "Receive",
+      "Neuron",
+      "Tree"
+    ],
+    "clues": [
+      "Under a microscope, these look like the bare twigs of a bush.",
+      "A single nerve cell can have many of these short, spreading fibres around its cell body.",
+      "They pick up incoming messages from neighbouring nerve cells and pass them to the cell body."
+    ],
+    "decoys": [
+      "Axon",
+      "Myelin",
+      "Cilia"
+    ],
+    "explain": "Dendrites are the short branches around the cell body of a neuron. They collect messages from other neurons, often thousands of them, and pass them to the cell body. If the messages are strong enough, the neuron sends its own signal down its axon. The name comes from the Greek word for tree."
+  },
+  {
+    "id": "brain-taboo-20",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Corpus callosum",
+    "forbidden": [
+      "Bridge",
+      "Halves",
+      "Left",
+      "Right"
+    ],
+    "clues": [
+      "It is a thick band of about 200 million nerve fibres deep in the middle of the brain.",
+      "It lets the two sides of the cerebrum share information.",
+      "Thanks to it, what one hemisphere learns can quickly reach the other."
+    ],
+    "decoys": [
+      "Brain stem",
+      "Spinal cord",
+      "Cerebellum"
+    ],
+    "explain": "The cerebrum is split into a left and a right half, called hemispheres. The corpus callosum is a thick band of nerve fibres that joins them, so the two halves can work as a team. For example, it lets your left hand and right hand coordinate when you clap or tie shoelaces."
+  },
+  {
+    "id": "brain-taboo-21",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Meninges",
+    "forbidden": [
+      "Layers",
+      "Skull",
+      "Protect",
+      "Membrane"
+    ],
+    "clues": [
+      "An infection of these can cause a stiff neck, fever and a very bad headache.",
+      "There are three of them, and a clear fluid flows between two of them.",
+      "These thin sheets wrap around the brain and spinal cord, just under the bone."
+    ],
+    "decoys": [
+      "Myelin",
+      "Cerebrospinal fluid",
+      "Scalp"
+    ],
+    "explain": "The meninges are three thin layers that wrap the brain and spinal cord inside the skull and backbone. Cerebrospinal fluid flows between two of the layers and cushions the brain. If germs infect the meninges, the illness is called meningitis, which needs urgent hospital care."
+  },
+  {
+    "id": "brain-taboo-22",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Grey matter",
+    "forbidden": [
+      "Grey",
+      "White",
+      "Colour",
+      "Cell body"
+    ],
+    "clues": [
+      "In the brain it forms the outer wrinkly layer, called the cortex, but in the spinal cord it sits in the centre.",
+      "It is packed with the main bodies of nerve cells, their short branches and the gaps where they meet.",
+      "It looks darker than the fatty, coated wiring that lies beneath it in the brain."
+    ],
+    "decoys": [
+      "White matter",
+      "Myelin",
+      "Cerebrospinal fluid"
+    ],
+    "explain": "Brain tissue comes in two kinds. Grey matter is made mostly of neuron cell bodies and dendrites, where information is processed. White matter is made of axons coated in fatty myelin, which looks pale and carries signals between areas. In the brain the grey matter is on the outside; in the spinal cord it is in the middle."
+  },
+  {
+    "id": "brain-taboo-23",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Neurotransmitter",
+    "forbidden": [
+      "Chemical",
+      "Synapse",
+      "Gap",
+      "Message"
+    ],
+    "clues": [
+      "Dopamine and serotonin are two examples.",
+      "A nerve cell releases these tiny molecules from the end of its axon.",
+      "They float across the tiny space between two nerve cells to pass a signal on."
+    ],
+    "decoys": [
+      "Hormone",
+      "Enzyme",
+      "Antibody"
+    ],
+    "explain": "Neurons do not touch each other. When a signal reaches the end of an axon, the neuron releases chemicals called neurotransmitters into the tiny gap, the synapse. They fit into the next neuron like keys in locks and start a new signal. Hormones are also chemical messengers, but they travel in the blood."
+  },
+  {
+    "id": "brain-taboo-24",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Paralysis",
+    "forbidden": [
+      "Move",
+      "Muscles",
+      "Wheelchair",
+      "Spinal"
+    ],
+    "clues": [
+      "It can happen after a serious injury to the cord inside the backbone.",
+      "Messages from the brain cannot reach some body parts.",
+      "The person cannot control those body parts, such as their legs."
+    ],
+    "decoys": [
+      "Cramp",
+      "Numbness",
+      "Fainting"
+    ],
+    "explain": "Paralysis means losing the ability to move part of the body. It happens when the nerve pathway between the brain and the muscles is damaged, for example by a spinal cord injury or a stroke. The muscles may be healthy, but they no longer get the orders to work. Many people with paralysis live full, active lives with the right support."
+  },
+  {
+    "id": "brain-taboo-25",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Insomnia",
+    "forbidden": [
+      "Sleep",
+      "Awake",
+      "Night",
+      "Bed"
+    ],
+    "clues": [
+      "Worry, caffeine or screens late in the evening can all cause it.",
+      "A person lies in the dark for hours, wishing they could drift off.",
+      "It is the name for trouble dozing off, or waking too early, again and again."
+    ],
+    "decoys": [
+      "Sleepwalking",
+      "Nightmare",
+      "Snoring"
+    ],
+    "explain": "Insomnia means having trouble falling asleep or staying asleep, regularly. Stress, caffeine, bright screens and an irregular bedtime are common causes. A regular routine, a dark quiet room and no screens before bed usually help. If it goes on for weeks, a doctor can help find the cause."
+  },
+  {
+    "id": "brain-taboo-26",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sleepwalking",
+    "forbidden": [
+      "Sleep",
+      "Walk",
+      "Bed",
+      "Night"
+    ],
+    "clues": [
+      "It is most common in children and usually stops as they grow up.",
+      "The person may get up with their eyes open, but they are not really awake.",
+      "Next morning they usually remember nothing about wandering around the house."
+    ],
+    "decoys": [
+      "Nightmare",
+      "Insomnia",
+      "Daydream"
+    ],
+    "explain": "Sleepwalking happens during deep sleep, when part of the brain wakes enough to move the body but the parts for awareness and memory stay asleep. It is common in children and usually harmless. Family members can gently guide the person back to bed and keep doors and stairs safe."
+  },
+  {
+    "id": "brain-taboo-27",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nightmare",
+    "forbidden": [
+      "Dream",
+      "Scary",
+      "Night",
+      "Sleep"
+    ],
+    "clues": [
+      "It mostly happens during REM, the stage when the eyes move quickly.",
+      "Afterwards you might wake with a racing heart, glad it was not real.",
+      "It is a frightening story your mind plays while your eyes are shut in bed."
+    ],
+    "decoys": [
+      "Daydream",
+      "Sleepwalking",
+      "Memory"
+    ],
+    "explain": "A nightmare is a frightening dream that often wakes you up. Most vivid dreams happen in REM sleep, when the brain is very active while the body stays still. Nightmares are common in children and can come after a stressful day or a scary film. Talking about them with an adult often helps."
+  },
+  {
+    "id": "brain-taboo-28",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Daydream",
+    "forbidden": [
+      "Dream",
+      "Awake",
+      "Imagine",
+      "Mind"
+    ],
+    "clues": [
+      "It often happens when a lesson or task feels slow or boring.",
+      "Your eyes are open, but your thoughts drift far away from where you are.",
+      "You might picture yourself scoring a goal or flying, while sitting at your desk."
+    ],
+    "decoys": [
+      "Nightmare",
+      "Sleepwalking",
+      "Memory"
+    ],
+    "explain": "A daydream is when your attention drifts from the world around you into your own thoughts and pictures, while you are fully awake. Everyone does it. Daydreaming can help with creativity and planning, but it can make you miss things, so it helps to notice when your attention wanders and bring it back."
+  },
+  {
+    "id": "brain-taboo-29",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nervous system",
+    "forbidden": [
+      "Nerve",
+      "Brain",
+      "Spinal cord",
+      "Neuron"
+    ],
+    "clues": [
+      "It works like the body's electrical wiring and control centre.",
+      "Its central part sits inside the skull and backbone, and its outer part reaches every finger and toe.",
+      "It lets you feel, think, remember and move."
+    ],
+    "decoys": [
+      "Circulatory system",
+      "Skeletal system",
+      "Digestive system"
+    ],
+    "explain": "The nervous system is the body's control and messaging network. The brain and spinal cord form the central nervous system, which makes decisions. Nerves branching out to the whole body form the peripheral nervous system, which carries messages in from the senses and orders out to the muscles."
+  },
+  {
+    "id": "brain-taboo-30",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Body clock",
+    "forbidden": [
+      "Clock",
+      "Time",
+      "Day",
+      "Sleep"
+    ],
+    "clues": [
+      "Scientists call it the circadian rhythm.",
+      "Flying across the world can throw it out of step for a while.",
+      "It makes you feel drowsy when it gets dark and alert in the morning, even without an alarm."
+    ],
+    "decoys": [
+      "Reflex",
+      "Memory",
+      "Heartbeat"
+    ],
+    "explain": "Your body clock is a roughly 24-hour rhythm run by a tiny area in the hypothalamus. It uses light from your eyes to stay in step with day and night, and it controls when you feel sleepy and alert. Morning light, regular meals and a fixed bedtime keep it on track."
+  },
+  {
+    "id": "brain-taboo-31",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pins and needles",
+    "forbidden": [
+      "Tingle",
+      "Numb",
+      "Nerve",
+      "Prickly"
+    ],
+    "clues": [
+      "It often happens after you sit cross-legged or lean on your arm for a long time.",
+      "Pressure on the message pathways in a limb causes it.",
+      "When you move again, the limb feels fizzy, as if tiny ants are crawling on it."
+    ],
+    "decoys": [
+      "Cramp",
+      "Paralysis",
+      "Itch"
+    ],
+    "explain": "Pins and needles happens when pressure squeezes a nerve, or the blood supply around it, in an arm or leg. The nerve stops sending normal signals, so the limb feels numb. When the pressure is released, the nerve fires mixed-up signals for a minute, which feel like prickling. If it happens often without a clear reason, a doctor should check it."
+  },
+  {
+    "id": "brain-taboo-32",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Dyslexia",
+    "forbidden": [
+      "Reading",
+      "Letters",
+      "Words",
+      "Spelling"
+    ],
+    "clues": [
+      "It is a learning difference that often runs in families and has nothing to do with how clever someone is.",
+      "People with it can have great ideas but find it hard to match sounds to written symbols.",
+      "Audiobooks, extra time in exams and patient teaching help pupils with it do well."
+    ],
+    "decoys": [
+      "Colour blindness",
+      "Stammer",
+      "Myopia"
+    ],
+    "explain": "Dyslexia is a difference in how the brain processes written language. People with dyslexia find it hard to link letters to sounds, so reading and spelling take more effort. It is not linked to intelligence. With the right teaching and support, people with dyslexia do well in school and work."
+  },
+  {
+    "id": "brain-taboo-33",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Hemisphere",
+    "forbidden": [
+      "Half",
+      "Left",
+      "Right",
+      "Side"
+    ],
+    "clues": [
+      "The cerebrum is made of two of these, joined by a thick band of fibres.",
+      "Each one mainly controls the muscles on the opposite part of the body.",
+      "Planet Earth is also split into a northern and a southern one."
+    ],
+    "decoys": [
+      "Lobe",
+      "Cortex",
+      "Ventricle"
+    ],
+    "explain": "Hemisphere means half of a sphere. The cerebrum has a left and a right hemisphere. Each one mainly controls and feels the opposite side of the body, so the left hemisphere moves your right hand. The two halves share information through the corpus callosum."
+  },
+  {
+    "id": "brain-taboo-34",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Motor neuron",
+    "forbidden": [
+      "Muscle",
+      "Move",
+      "Nerve",
+      "Brain"
+    ],
+    "clues": [
+      "In a reflex arc, it is the last cell in the chain before the action.",
+      "Its long axon carries orders out from the spinal cord.",
+      "When it fires, your biceps tightens and your arm bends."
+    ],
+    "decoys": [
+      "Sensory neuron",
+      "Relay neuron",
+      "Red blood cell"
+    ],
+    "explain": "Motor neurons carry orders from the brain and spinal cord out to muscles and glands. Their cell bodies sit in the spinal cord or brain, and their long axons reach the muscles. When a motor neuron fires, the muscle fibres it is connected to contract. Sensory neurons do the opposite job, carrying information in."
+  },
+  {
+    "id": "brain-case-17",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "A boy bumps the inner side of his elbow on a table. A strange tingling shoots down to his little finger. People call this spot the 'funny bone'. What did he actually hit?",
+    "options": [
+      "A muscle",
+      "The ulnar nerve",
+      "A blood vessel",
+      "A tendon"
+    ],
+    "answer": "The ulnar nerve",
+    "optionNotes": [
+      "Would ache, not tingle down the hand",
+      "Nerve to the little and ring fingers",
+      "Would bruise, not tingle",
+      "Joins muscle to bone"
+    ],
+    "explain": "The \"funny bone\" is really the ulnar nerve. At the elbow it runs through a groove just under the skin, with little padding, so a knock squeezes it. The nerve then sends a burst of odd signals that you feel as tingling in your little and ring fingers, because that is the area it serves.",
+    "fact": "One idea is that the name is a joke: the nerve runs past the humerus bone, which sounds like \"humorous\"."
+  },
+  {
+    "id": "brain-case-18",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A family flies from Delhi to London, where clocks are several hours behind. The first night, a girl is wide awake at 3 am and very sleepy by early evening. What will help her adjust fastest?",
+    "options": [
+      "Keep to Delhi times all trip",
+      "Sleep all day, stay up all night",
+      "Drink cola in the evening",
+      "Daylight outdoors and local meal and bed times"
+    ],
+    "answer": "Daylight outdoors and local meal and bed times",
+    "optionNotes": [
+      "Keeps her body clock out of step",
+      "Makes the mismatch worse",
+      "Caffeine makes sleep harder",
+      "Light and routine reset the body clock"
+    ],
+    "explain": "Her body clock is still set to Delhi time, so it tells her to wake and sleep at the wrong local hours. This is jet lag. Light reaching the eyes is the strongest signal for resetting the body clock, so time outdoors in daylight helps. Eating and going to bed at local times also helps her settle in a few days."
+  },
+  {
+    "id": "brain-case-19",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "An 80-year-old grandfather keeps asking the same question and gets lost on his own street, yet remembers his school days clearly. These problems have slowly grown worse over two years. Which condition is most likely?",
+    "options": [
+      "Alzheimer's disease",
+      "Concussion",
+      "Migraine",
+      "Epilepsy"
+    ],
+    "answer": "Alzheimer's disease",
+    "optionNotes": [
+      "Slowly damages memory areas of the brain",
+      "Follows a knock to the head",
+      "Causes strong headaches",
+      "Causes seizures"
+    ],
+    "explain": "Alzheimer's disease slowly damages neurons, often starting in areas such as the hippocampus that store new memories. That is why recent events are forgotten first while old memories last longer. It is not a normal part of growing old. There is no cure yet, but treatment, routines and patient family support help people live well for longer."
+  },
+  {
+    "id": "brain-case-20",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "A 70-year-old man has a shaking hand while it rests, slow, stiff movements and very small handwriting. Brain cells that make one chemical messenger have slowly been dying. Which messenger is running low?",
+    "options": [
+      "Insulin",
+      "Haemoglobin",
+      "Dopamine",
+      "Adrenaline"
+    ],
+    "answer": "Dopamine",
+    "optionNotes": [
+      "Hormone that controls blood sugar",
+      "Carries oxygen in red blood cells",
+      "Helps the brain control smooth movement",
+      "Prepares the body for action"
+    ],
+    "explain": "These are signs of Parkinson's disease. Deep in the brain, a small group of neurons makes dopamine, a neurotransmitter that helps control smooth movement. When these cells slowly die, movements become shaky, slow and stiff. Medicines that boost dopamine, along with exercise and therapy, help many people stay active."
+  },
+  {
+    "id": "brain-case-21",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A cyclist hit his head in a fall. He was knocked out for a minute and has vomited twice since. The doctor needs a quick picture of his brain to look for bleeding. Which test is usually done first?",
+    "options": [
+      "ECG",
+      "Urine test",
+      "CT scan",
+      "Eye chart test"
+    ],
+    "answer": "CT scan",
+    "optionNotes": [
+      "Checks the heart rhythm",
+      "Checks kidneys and sugar",
+      "Fast X-ray pictures of the brain",
+      "Checks how sharp eyesight is"
+    ],
+    "explain": "After a serious head injury, doctors need to see inside the skull quickly. A CT scan takes X-ray pictures from many angles and a computer builds them into slices of the brain. It takes only a few minutes and clearly shows bleeding or swelling, so the team can decide on treatment fast."
+  },
+  {
+    "id": "brain-case-22",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Just before speaking on stage, a girl's heart pounds, her palms sweat, her mouth feels dry and her breathing speeds up. Which body response is this?",
+    "options": [
+      "Fight-or-flight response",
+      "Knee-jerk reflex",
+      "Deep sleep",
+      "Migraine attack"
+    ],
+    "answer": "Fight-or-flight response",
+    "optionNotes": [
+      "Nerves and adrenaline prepare for action",
+      "Only the lower leg kicks",
+      "The body is relaxed and still",
+      "A strong, throbbing headache"
+    ],
+    "explain": "When the brain senses a challenge, part of the nervous system and the hormone adrenaline get the body ready to act. The heart beats faster, breathing quickens and digestion slows, so the mouth feels dry. This is the fight-or-flight response. It is normal before a performance, and slow, deep breaths help calm it down."
+  },
+  {
+    "id": "brain-case-23",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "A boy practises a new piano tune for 15 minutes every day. After two weeks he can play it smoothly without looking at the notes. What has changed inside his brain?",
+    "options": [
+      "His fingers grew longer",
+      "His brain gained a kilo",
+      "His blood got thicker",
+      "Links between his neurons got stronger"
+    ],
+    "answer": "Links between his neurons got stronger",
+    "optionNotes": [
+      "Fingers do not grow that fast",
+      "Brain weight barely changes",
+      "Has nothing to do with skill",
+      "Practice strengthens the pathways used"
+    ],
+    "explain": "Every time you practise, the same group of neurons fires together, and the connections between them grow stronger. The signal travels more easily, so the skill feels automatic. This ability of the brain to change with use is called plasticity. Short, regular practice works better than one long session."
+  },
+  {
+    "id": "brain-case-24",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "In a science lesson, one student holds a ruler and drops it without warning. Her partner tries to catch it, and they note how far it fell. What does this test measure?",
+    "options": [
+      "Eyesight",
+      "Reaction time",
+      "Muscle size",
+      "Memory"
+    ],
+    "answer": "Reaction time",
+    "optionNotes": [
+      "Needs an eye chart",
+      "Time from seeing to acting",
+      "Needs a tape measure",
+      "Needs recalling facts"
+    ],
+    "explain": "Reaction time is how long it takes to respond to something. The eyes see the ruler fall, a message travels to the brain, the brain decides, and motor neurons tell the hand muscles to grab. The further the ruler falls, the longer that chain took. Tiredness and distraction make reaction time slower."
+  },
+  {
+    "id": "brain-case-25",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A teenager suddenly has a high fever, a very bad headache and a stiff neck, and bright light hurts his eyes. What should the family do?",
+    "options": [
+      "Go to hospital straight away",
+      "Wait a week to see",
+      "Rest in a dark room only",
+      "Take a cold shower"
+    ],
+    "answer": "Go to hospital straight away",
+    "optionNotes": [
+      "These can be signs of meningitis",
+      "Delay can be dangerous",
+      "Helps migraine, but this needs urgent care",
+      "Does not treat an infection"
+    ],
+    "explain": "Fever, a severe headache, a stiff neck and pain from bright light together can be signs of meningitis, an infection of the meninges around the brain and spinal cord. It needs urgent hospital treatment, which works best when started early. Vaccines protect children against several germs that cause it."
+  },
+  {
+    "id": "brain-case-26",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "A man injured his spinal cord in the middle of his back. His arms work normally. Which body parts are most likely to have trouble moving?",
+    "options": [
+      "His arms",
+      "His eyes",
+      "His legs",
+      "His jaw"
+    ],
+    "answer": "His legs",
+    "optionNotes": [
+      "Their nerves leave the cord above it",
+      "Served by nerves from the brain",
+      "Their nerves leave the cord below the injury",
+      "Served by nerves from the brain"
+    ],
+    "explain": "Nerves leave the spinal cord at every level, from the neck down. Messages from the brain travel down the cord, so an injury blocks messages to parts served by nerves below it. Nerves to the arms leave from the neck, above this injury, so the arms still work. Nerves to the legs leave lower down, so the legs may not move."
+  },
+  {
+    "id": "brain-case-27",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Dentist",
+    "scenario": "Before filling a tooth, the dentist injects a numbing medicine into the gum. The tooth is drilled, but the girl feels no pain. What has the medicine blocked?",
+    "options": [
+      "Blood flow to her brain",
+      "Nerve signals from that area",
+      "Her hearing",
+      "Her heartbeat"
+    ],
+    "answer": "Nerve signals from that area",
+    "optionNotes": [
+      "Blood still flows normally",
+      "Pain messages cannot reach the brain",
+      "She can still hear the drill",
+      "Her heart beats as usual"
+    ],
+    "explain": "Pain is a message carried by nerves to the brain. A local anaesthetic stops nerves in one small area from sending signals for a few hours. The tooth is still being worked on, but the brain never gets the pain message. The rest of the body works normally, and feeling returns as the medicine wears off.",
+    "fact": "A numb lip is easy to bite by accident, so avoid chewing until the feeling comes back."
+  },
+  {
+    "id": "brain-case-28",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "A boy bumped his head at the park. A doctor checked him and sent him home, but his parents must watch him closely for the next day. Which sign means he should go back to hospital at once?",
+    "options": [
+      "Being hungry for dinner",
+      "A small bruise on his forehead",
+      "Wanting to watch cartoons",
+      "Vomiting again and again"
+    ],
+    "answer": "Vomiting again and again",
+    "optionNotes": [
+      "A normal, healthy sign",
+      "Common after a bump; usually harmless",
+      "A normal, healthy sign",
+      "Can mean pressure building in the brain"
+    ],
+    "explain": "After a head injury, the brain can sometimes bleed or swell slowly, so problems may appear hours later. Warning signs include repeated vomiting, a headache that gets worse, unusual sleepiness, confusion or a fit. Any of these means going straight back to hospital. A small bruise and a normal appetite are reassuring."
+  },
+  {
+    "id": "brain-case-29",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "After an injury to the front of his head, a man sees and hears normally, but he struggles to plan his day, makes rash choices and loses his temper easily. Which brain part is most likely affected?",
+    "options": [
+      "Occipital lobe",
+      "Cerebellum",
+      "Brain stem",
+      "Frontal lobe"
+    ],
+    "answer": "Frontal lobe",
+    "optionNotes": [
+      "Handles sight",
+      "Handles balance and coordination",
+      "Runs breathing and heartbeat",
+      "Plans, decides and controls behaviour"
+    ],
+    "explain": "The frontal lobe sits just behind your forehead. It helps you plan, make sensible decisions, focus on goals and control impulses and temper. Damage here can change behaviour even though vision, hearing and movement are fine. The frontal lobe is one of the last brain areas to finish developing, in a person's mid-twenties."
+  },
+  {
+    "id": "brain-case-30",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "Tests show a woman's immune system has damaged the fatty coating around some of her nerve fibres. What happens to the signals along those fibres?",
+    "options": [
+      "They travel much faster",
+      "They slow down or get muddled",
+      "They turn into blood",
+      "They only travel to the brain"
+    ],
+    "answer": "They slow down or get muddled",
+    "optionNotes": [
+      "The coating helps speed, so losing it slows signals",
+      "Myelin is what speeds them up",
+      "Signals are electrical, not blood",
+      "Direction does not change"
+    ],
+    "explain": "The fatty coating is myelin. It works like insulation on a wire and lets signals jump quickly along the axon. In multiple sclerosis, the immune system attacks myelin by mistake, so signals slow down or get blocked. This can cause tingling, weakness or blurred vision. Treatments can slow the illness and help people stay active."
+  },
+  {
+    "id": "brain-case-31",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "For some brain operations, surgeons numb only the scalp and keep the patient awake and talking. The patient feels no pain as the surgeon works on the brain itself. Why?",
+    "options": [
+      "The skull blocks all pain",
+      "Pain only travels in the legs",
+      "Brain tissue has no pain sensors",
+      "The patient is too busy talking"
+    ],
+    "answer": "Brain tissue has no pain sensors",
+    "optionNotes": [
+      "The skull does not block pain signals",
+      "Pain can come from anywhere in the body",
+      "It senses the body but not itself",
+      "Talking does not stop pain signals"
+    ],
+    "explain": "Pain is felt when pain sensors send signals to the brain. The skin, scalp and coverings of the brain have these sensors, but brain tissue itself has none. Surgeons sometimes keep patients awake so they can check that speech and movement are working while they operate. Headaches come from sensors in the coverings, blood vessels and muscles around the brain."
+  },
+  {
+    "id": "brain-case-32",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "A girl steps on a drawing pin. In a flash, a message about the sharp point travels from her foot to her spinal cord. Which kind of nerve cell carries it there?",
+    "options": [
+      "Sensory neuron",
+      "Motor neuron",
+      "Red blood cell",
+      "Muscle cell"
+    ],
+    "answer": "Sensory neuron",
+    "optionNotes": [
+      "Carries messages in from the senses",
+      "Carries orders out to muscles",
+      "Carries oxygen, not messages",
+      "Contracts, but does not send messages"
+    ],
+    "explain": "Sensory neurons carry information from sense receptors, like pain sensors in the skin, to the spinal cord and brain. In the spinal cord the message is passed on, and motor neurons carry orders back out to the leg muscles to lift the foot. That is why she pulls her foot away before she has even thought about it."
+  }
+]

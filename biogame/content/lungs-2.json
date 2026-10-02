@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "lungs-odd-18",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Tadpole",
+      "Goldfish",
+      "Adult frog",
+      "Crab",
+      "Prawn"
+    ],
+    "answer": "Adult frog",
+    "notes": [
+      "Breathes with gills at first",
+      "Gills under flaps on its head",
+      "Lungs and thin, moist skin",
+      "Gills hidden under its shell",
+      "Gills tucked near its legs"
+    ],
+    "reason": "An adult frog breathes with lungs and skin; the other four breathe with gills.",
+    "explain": "Gills take oxygen from water, while lungs take it from air. A frog starts life as a tadpole with gills, then grows lungs as it changes into an adult that can live on land. An adult frog also takes in oxygen through its thin, moist skin."
+  },
+  {
+    "id": "lungs-odd-19",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Warmer",
+      "Damper",
+      "More carbon dioxide",
+      "More oxygen",
+      "Less oxygen"
+    ],
+    "answer": "More oxygen",
+    "notes": [
+      "Heated inside your body",
+      "Picks up water vapour in the lungs",
+      "Made by cells, then breathed out",
+      "Wrong: it has less oxygen",
+      "Blood keeps some of the oxygen"
+    ],
+    "reason": "Breathed-out air has less oxygen than breathed-in air, not more; the other four describe it correctly.",
+    "explain": "In your lungs, blood takes some oxygen out of the air and adds carbon dioxide made by your cells. The air also picks up warmth and water vapour from the moist lining of your airways. So breathed-out air is warmer and damper, with more carbon dioxide and less oxygen, though it still holds about 16% oxygen compared with 21% in fresh air.",
+    "fact": "Breathing on a cold mirror makes it fog up because of the water vapour in your breath."
+  },
+  {
+    "id": "lungs-odd-20",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Runny nose",
+      "Sneezing",
+      "Sore throat",
+      "Sprained ankle",
+      "Blocked nose"
+    ],
+    "answer": "Sprained ankle",
+    "notes": [
+      "Extra mucus from the nose lining",
+      "Nose tries to clear itself",
+      "Throat lining gets irritated",
+      "Injury to a joint, not an illness",
+      "Swollen lining inside the nose"
+    ],
+    "reason": "A sprained ankle is a joint injury; the other four are signs of a common cold.",
+    "explain": "A cold is an infection of the nose and throat caused by a virus. The lining of the nose swells and makes extra mucus, giving a runny or blocked nose and sneezes, and the throat often feels sore. A sprained ankle is an injury to the ligaments at a joint and has nothing to do with a cold."
+  },
+  {
+    "id": "lungs-odd-21",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cigarette smoke",
+      "Coal mine dust",
+      "Swimming",
+      "Smoky wood stove",
+      "Vehicle exhaust"
+    ],
+    "answer": "Swimming",
+    "notes": [
+      "Damages airways and air sacs",
+      "Can scar the lungs over years",
+      "Exercise that trains breathing",
+      "Fills kitchens with smoke",
+      "Traffic fumes irritate airways"
+    ],
+    "reason": "Swimming is healthy exercise; the other four can damage the lungs when breathed in for years.",
+    "explain": "Your lungs have defences such as mucus and tiny sweeping hairs, but breathing smoke or dust every day for years can overwhelm them and harm the airways. Cigarette smoke, smoke from indoor wood stoves, coal dust and traffic fumes can all damage lungs over time. Swimming is exercise that trains you to control your breathing."
+  },
+  {
+    "id": "lungs-odd-22",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Mango tree",
+      "Mushroom",
+      "Earthworm",
+      "Yeast",
+      "Pebble"
+    ],
+    "answer": "Pebble",
+    "notes": [
+      "A living plant",
+      "A living fungus",
+      "A living animal",
+      "A tiny living fungus",
+      "Not alive at all"
+    ],
+    "reason": "A pebble is not alive, so it does not respire; the other four are living things that respire.",
+    "explain": "Respiration is the process in which living cells release energy from food, usually using oxygen. Every living thing respires, including plants like a mango tree, fungi like mushrooms and yeast, and animals like earthworms. A pebble is not alive, so it does not respire."
+  },
+  {
+    "id": "lungs-odd-23",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Air enters the nose",
+      "Chest gets bigger",
+      "Diaphragm tightens",
+      "Cells break down glucose",
+      "Air leaves the mouth"
+    ],
+    "answer": "Cells break down glucose",
+    "notes": [
+      "Part of breathing in",
+      "Part of breathing in",
+      "Pulls air into the lungs",
+      "Respiration inside cells",
+      "Part of breathing out"
+    ],
+    "reason": "Breaking down glucose is respiration inside cells; the other four are parts of breathing, which moves air.",
+    "explain": "Breathing and respiration are different. Breathing is the movement of air in and out of the lungs, powered by the diaphragm and rib muscles. Respiration happens inside every cell, where glucose is broken down using oxygen to release energy. Breathing supplies the oxygen that respiration needs."
+  },
+  {
+    "id": "lungs-odd-24",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Yellow-stained teeth",
+      "Bad breath",
+      "Stronger lungs",
+      "Morning cough",
+      "Shortness of breath"
+    ],
+    "answer": "Stronger lungs",
+    "notes": [
+      "Tar in smoke stains teeth",
+      "Smoke leaves a stale smell",
+      "Smoking never does this",
+      "Mucus builds up in airways",
+      "Damaged lungs take in less oxygen"
+    ],
+    "reason": "Smoking never makes lungs stronger; the other four are effects of smoking.",
+    "explain": "Cigarette smoke stains teeth and fingers, leaves a stale smell on the breath and damages the tiny hairs that clean the airways. Mucus then builds up, causing a cough, and over years the lungs work less well, so smokers get out of breath sooner. Smoking never makes lungs stronger."
+  },
+  {
+    "id": "lungs-odd-25",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Spacesuit",
+      "Scuba tank",
+      "Firefighter's air tank",
+      "Snorkel",
+      "Hospital oxygen cylinder"
+    ],
+    "answer": "Snorkel",
+    "notes": [
+      "Carries its own oxygen supply",
+      "Carries compressed air underwater",
+      "Stored air for smoky buildings",
+      "Just a tube to surface air",
+      "Stored oxygen for patients"
+    ],
+    "reason": "A snorkel only lets you breathe outside air through a tube; the other four carry a stored supply of breathing gas.",
+    "explain": "Astronauts, divers and firefighters work where there is no safe air to breathe, so they carry their own supply in a tank, and hospitals keep oxygen in cylinders for patients. A snorkel is just a short tube whose top stays above the water, so the swimmer breathes ordinary air from the surface. That is why snorkellers must stay near the surface."
+  },
+  {
+    "id": "lungs-odd-26",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cannot speak",
+      "Cannot cough",
+      "Loud coughing",
+      "Hands clutching throat",
+      "Cannot breathe in"
+    ],
+    "answer": "Loud coughing",
+    "notes": [
+      "Airway is fully blocked",
+      "No air to push out",
+      "Air still getting through",
+      "A common sign of severe choking",
+      "Airway is fully blocked"
+    ],
+    "reason": "Loud coughing means air is still getting through; the other four are signs of severe choking.",
+    "explain": "When food partly blocks the airway, a person can still cough loudly and talk, and coughing is the best way to clear it. If the airway is fully blocked, they cannot speak, cough or breathe, and often grab their throat. That is an emergency: an adult must act at once and call for help."
+  },
+  {
+    "id": "lungs-odd-27",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Windpipe",
+      "Larynx",
+      "Alveolus",
+      "Left bronchus",
+      "Right bronchus"
+    ],
+    "answer": "Alveolus",
+    "notes": [
+      "C-shaped cartilage rings",
+      "Made of cartilage plates",
+      "Soft, thin-walled air sac",
+      "Cartilage keeps it open",
+      "Cartilage keeps it open"
+    ],
+    "reason": "An alveolus is a soft air sac with no cartilage; the other four are held open by cartilage.",
+    "explain": "The larger airways need to stay open even when you breathe in hard, so they are stiffened by cartilage, a tough, bendy tissue. You can feel the ridged rings of your windpipe at the front of your neck. The alveoli at the ends of the airways are tiny, thin-walled sacs with no cartilage, so gases can pass through their walls easily."
+  },
+  {
+    "id": "lungs-odd-28",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Pneumonia",
+      "Pulmonologist",
+      "Pancreas",
+      "Pleurisy",
+      "Pulmonary"
+    ],
+    "answer": "Pancreas",
+    "notes": [
+      "Infection that fills air sacs",
+      "Lung doctor",
+      "Gland near the stomach",
+      "Swelling of the layers around lungs",
+      "To do with the lungs"
+    ],
+    "reason": "The pancreas is a digestive gland; the other four words are linked to the lungs.",
+    "explain": "'Pneumo' and 'pulmo' are old Greek and Latin word parts linked to the lungs, and 'pleura' is the thin covering around them. So pneumonia is a lung infection, a pulmonologist is a lung doctor, pleurisy is swelling of the lung's covering and pulmonary means 'of the lungs'. The pancreas is a gland near the stomach that makes digestive juices and insulin."
+  },
+  {
+    "id": "lungs-odd-29",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Burning candle",
+      "Running child",
+      "Rusting nail",
+      "Plant in sunlight",
+      "Rotting leaves"
+    ],
+    "answer": "Plant in sunlight",
+    "notes": [
+      "Burning uses oxygen",
+      "Fast respiration uses oxygen",
+      "Rust forms using oxygen",
+      "Gives out more oxygen than it uses",
+      "Microbes respire as they break them down"
+    ],
+    "reason": "A plant in sunlight gives out more oxygen than it uses; the other four use oxygen up.",
+    "explain": "Burning, rusting and respiration all use oxygen from the air. A running child respires quickly, and the microbes breaking down rotting leaves respire too. A green plant in sunlight also respires, but its photosynthesis makes far more oxygen than it uses, so overall it adds oxygen to the air."
+  },
+  {
+    "id": "lungs-odd-30",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Lung",
+      "Kidney",
+      "Heart",
+      "Eye",
+      "Ear"
+    ],
+    "answer": "Heart",
+    "notes": [
+      "You have two",
+      "You have two",
+      "You have only one",
+      "You have two",
+      "You have two"
+    ],
+    "reason": "You have one heart; the other four organs come in pairs.",
+    "explain": "Many organs come in pairs: two lungs, two kidneys, two eyes and two ears. Your lungs fill most of your chest, one on each side of the heart. The heart is a single organ, though inside it works as two pumps side by side."
+  },
+  {
+    "id": "lungs-odd-31",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Nostrils",
+      "Elephant's trunk",
+      "Spiracles on insects",
+      "Sweat pores",
+      "Whale's blowhole"
+    ],
+    "answer": "Sweat pores",
+    "notes": [
+      "Air enters your body here",
+      "Ends in the elephant's nostrils",
+      "Tiny air holes on an insect's sides",
+      "Let out sweat, not air",
+      "A whale's nostril on its head"
+    ],
+    "reason": "Sweat pores release sweat; the other four are openings that take in air for breathing.",
+    "explain": "Animals need openings to take in air. You use nostrils, an elephant breathes through nostrils at the tip of its trunk, a whale breathes through a blowhole on top of its head, and insects have tiny holes called spiracles along their sides. Sweat pores in your skin release sweat to cool you down; they are not for breathing."
+  },
+  {
+    "id": "lungs-odd-32",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Opening windows",
+      "Chimney over the stove",
+      "Burning mosquito coils",
+      "Kitchen exhaust fan",
+      "No smoking indoors"
+    ],
+    "answer": "Burning mosquito coils",
+    "notes": [
+      "Lets fresh air in",
+      "Carries cooking smoke outside",
+      "Releases smoke into the room",
+      "Pulls fumes out of the kitchen",
+      "Keeps smoke out of the home"
+    ],
+    "reason": "Burning mosquito coils adds smoke to indoor air; the other four help keep it clean.",
+    "explain": "Indoor air can hold smoke and fumes from cooking, smoking and burning things. Open windows, chimneys and exhaust fans carry them outside, and keeping the home smoke-free stops them building up. Mosquito coils work by burning, so they release smoke and tiny particles into the room; nets and screens are a cleaner way to keep mosquitoes away."
+  },
+  {
+    "id": "lungs-odd-33",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Ribs",
+      "Breastbone",
+      "Skull",
+      "Backbone",
+      "Shoulder blades"
+    ],
+    "answer": "Skull",
+    "notes": [
+      "Curve around the lungs",
+      "Front of the chest cage",
+      "Protects the brain",
+      "Back of the chest cage",
+      "Shield the upper back"
+    ],
+    "reason": "The skull protects the brain; the other four bones help protect the lungs.",
+    "explain": "Lungs are soft and spongy, so they sit inside a bony cage. The ribs curve around them, joined to the breastbone at the front and the backbone at the back, and the shoulder blades add a shield over the upper back. The skull protects the brain, far from the chest."
+  },
+  {
+    "id": "lungs-odd-34",
+    "system": "lungs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cough into your elbow",
+      "Use a tissue, then bin it",
+      "Cough into the air",
+      "Wash hands afterwards",
+      "Wear a mask when ill"
+    ],
+    "answer": "Cough into the air",
+    "notes": [
+      "Catches droplets on your sleeve",
+      "Traps germs, then throws them away",
+      "Sprays droplets at others",
+      "Removes germs from your hands",
+      "Blocks droplets you breathe out"
+    ],
+    "reason": "Coughing into the air spreads germs; the other four help stop them spreading.",
+    "explain": "Coughs and sneezes spray tiny droplets that can carry cold and flu viruses to other people. Catching them in a tissue or your elbow, washing your hands and wearing a mask when you are ill all slow the spread. Coughing openly into the air can send droplets more than a metre away."
+  },
+  {
+    "id": "lungs-taboo-18",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nostril",
+    "forbidden": [
+      "Nose",
+      "Hole",
+      "Breathe",
+      "Hair"
+    ],
+    "clues": [
+      "You have two of these, side by side, in the middle of your face.",
+      "Air usually enters your body through them, and tiny bristles inside trap dust.",
+      "An elephant has a pair at the tip of its trunk, and a whale's blowhole is one."
+    ],
+    "decoys": [
+      "Earlobe",
+      "Eyelid",
+      "Tonsil"
+    ],
+    "explain": "Nostrils are the two openings of your nose. Air enters through them and is cleaned by hairs and sticky mucus, warmed and moistened before it travels down to the lungs. A wall called the septum separates the left nostril from the right."
+  },
+  {
+    "id": "lungs-taboo-19",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Exhale",
+    "forbidden": [
+      "Breathe",
+      "Out",
+      "Inhale",
+      "Air"
+    ],
+    "clues": [
+      "Your diaphragm relaxes and moves up when you do this.",
+      "Your chest gets smaller and gases leave through your nose or mouth.",
+      "You do this when you blow on birthday candles or fog up a cold mirror."
+    ],
+    "decoys": [
+      "Inhale",
+      "Swallow",
+      "Sneeze"
+    ],
+    "explain": "To exhale means to breathe out. The diaphragm relaxes and rises, the ribs move down and in, and the chest gets smaller, which pushes air out of the lungs. Breathed-out air carries away carbon dioxide and water vapour."
+  },
+  {
+    "id": "lungs-taboo-20",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Yawn",
+    "forbidden": [
+      "Tired",
+      "Mouth",
+      "Sleepy",
+      "Bored"
+    ],
+    "clues": [
+      "It is a long, deep, slow breath with your jaw stretched wide open.",
+      "It often happens late in the evening or just after you wake up.",
+      "Seeing someone else do it can make you do it too."
+    ],
+    "decoys": [
+      "Sneeze",
+      "Hiccup",
+      "Sigh"
+    ],
+    "explain": "A yawn is a slow, deep breath in with the jaw opened wide, followed by a shorter breath out. People yawn most when drowsy or just waking up. Scientists are still studying exactly why we yawn, and why seeing someone else yawn so often makes us copy them."
+  },
+  {
+    "id": "lungs-taboo-21",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Snoring",
+    "forbidden": [
+      "Sleep",
+      "Noise",
+      "Night",
+      "Loud"
+    ],
+    "clues": [
+      "It is a rumbling sound some people make while resting in bed with their eyes closed.",
+      "It happens when soft parts at the back of the throat flap as air passes over them.",
+      "A blocked nose or lying flat on your back can make it worse."
+    ],
+    "decoys": [
+      "Wheezing",
+      "Yawning",
+      "Hiccuping"
+    ],
+    "explain": "Snoring is a rough, rattling sound made during sleep. When we sleep, the muscles in the throat relax, and the soft tissues at the back of the mouth and nose can vibrate as air moves past them. A child who snores loudly every night should be checked by a doctor, as large tonsils can partly block the airway."
+  },
+  {
+    "id": "lungs-taboo-22",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Smog",
+    "forbidden": [
+      "Smoke",
+      "Fog",
+      "Pollution",
+      "Air"
+    ],
+    "clues": [
+      "This brown-grey haze hangs over some cities, especially in winter.",
+      "It forms when fumes from traffic, factories and burning crops mix with mist.",
+      "On bad days, schools may close and people with asthma are told to stay indoors."
+    ],
+    "decoys": [
+      "Mist",
+      "Dust storm",
+      "Rain cloud"
+    ],
+    "explain": "Smog is a mix of smoke and fog, or more broadly a thick haze of polluted air. In winter, cold, still air near the ground traps fumes from vehicles, factories and burning, so they build up instead of drifting away. Breathing smog irritates the airways and can set off asthma."
+  },
+  {
+    "id": "lungs-taboo-23",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Common cold",
+    "forbidden": [
+      "Virus",
+      "Sneeze",
+      "Runny",
+      "Nose"
+    ],
+    "clues": [
+      "It is the illness people catch most often, sometimes a few times a year.",
+      "It usually goes away in about a week with rest and fluids.",
+      "Antibiotics do not help it, and it often brings a sore throat and lots of tissues."
+    ],
+    "decoys": [
+      "Pneumonia",
+      "Asthma",
+      "Chickenpox"
+    ],
+    "explain": "The common cold is a mild infection of the nose and throat caused by viruses. It spreads through droplets from coughs and sneezes and through hands that touch the face. Antibiotics only kill bacteria, so they do not help a cold; rest, fluids and time do."
+  },
+  {
+    "id": "lungs-taboo-24",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Oxygen cylinder",
+    "forbidden": [
+      "Tank",
+      "Hospital",
+      "Gas",
+      "Mask"
+    ],
+    "clues": [
+      "It is a strong metal container that holds something we need from every breath, squeezed in tightly.",
+      "Patients who are short of breath may get a supply from it through thin tubes under the nose.",
+      "Mountain climbers carry small ones near the top of Mount Everest."
+    ],
+    "decoys": [
+      "Fire extinguisher",
+      "Nebuliser",
+      "Inhaler"
+    ],
+    "explain": "An oxygen cylinder stores oxygen under high pressure so it fits in a small space. Doctors give extra oxygen to patients whose lungs cannot take in enough, and climbers use it where the air is thin. The flow is set carefully, because the right amount depends on the patient."
+  },
+  {
+    "id": "lungs-taboo-25",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Wheeze",
+    "forbidden": [
+      "Asthma",
+      "Whistle",
+      "Breathing",
+      "Chest"
+    ],
+    "clues": [
+      "It is a high, musical sound made as air squeezes through narrowed tubes.",
+      "Doctors can sometimes hear it even without a stethoscope.",
+      "It is common during a flare-up of a long-term condition that may need an inhaler."
+    ],
+    "decoys": [
+      "Hiccup",
+      "Snore",
+      "Sneeze"
+    ],
+    "explain": "A wheeze is a whistling sound made when air is forced through airways that have become narrow, usually while breathing out. It is a common sign of asthma, but can also happen with a chest infection. A child who wheezes should be seen by a doctor."
+  },
+  {
+    "id": "lungs-taboo-26",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Face mask",
+    "forbidden": [
+      "Cover",
+      "Mouth",
+      "Nose",
+      "Wear"
+    ],
+    "clues": [
+      "Surgeons put one on before an operation.",
+      "On smoggy days, a well-fitting one can filter out some dust and smoke particles.",
+      "Many people used one when a new virus spread around the world in 2020."
+    ],
+    "decoys": [
+      "Goggles",
+      "Gloves",
+      "Scarf"
+    ],
+    "explain": "A face mask covers the nose and mouth to catch droplets and particles. Surgical masks mainly stop the wearer's droplets reaching others, while tighter-fitting masks also filter some dust and smoke from the air breathed in. A mask works only if it fits well over both nose and mouth."
+  },
+  {
+    "id": "lungs-taboo-27",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Vocal cords",
+    "forbidden": [
+      "Voice",
+      "Throat",
+      "Larynx",
+      "Sing"
+    ],
+    "clues": [
+      "These two folds of tissue sit inside a box at the top of your windpipe.",
+      "They vibrate when air from your lungs passes between them, making sound.",
+      "In teenage boys they grow longer and thicker, so the sound they make gets deeper."
+    ],
+    "decoys": [
+      "Epiglottis",
+      "Tonsils",
+      "Eardrum"
+    ],
+    "explain": "Your vocal cords are two bands of tissue stretched across the voice box. When you speak, air from the lungs makes them vibrate, and muscles tighten or loosen them to make higher or lower sounds. Shouting for a long time can make them swollen, which makes the voice hoarse."
+  },
+  {
+    "id": "lungs-taboo-28",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Nicotine",
+    "forbidden": [
+      "Cigarette",
+      "Smoking",
+      "Tobacco",
+      "Addictive"
+    ],
+    "clues": [
+      "This chemical comes from the leaves of a plant grown in many countries, including India.",
+      "It acts on the brain and makes people crave more, which is why quitting is hard.",
+      "It is the substance in bidis and gutka that keeps people using them."
+    ],
+    "decoys": [
+      "Caffeine",
+      "Tar",
+      "Carbon monoxide"
+    ],
+    "explain": "Nicotine is a chemical found in the tobacco plant. It reaches the brain within seconds and makes the body crave more, which is why people find it hard to stop smoking or chewing tobacco. Most of the lung damage from smoking comes from tar and other chemicals in the smoke, but nicotine keeps people exposed to them."
+  },
+  {
+    "id": "lungs-taboo-29",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Respiration",
+    "forbidden": [
+      "Energy",
+      "Glucose",
+      "Breathing",
+      "Cells"
+    ],
+    "clues": [
+      "This process happens in every living thing, from bacteria to blue whales.",
+      "It releases the power stored in food so the body can move, grow and keep warm.",
+      "It usually uses oxygen and gives off carbon dioxide and water."
+    ],
+    "decoys": [
+      "Photosynthesis",
+      "Digestion",
+      "Circulation"
+    ],
+    "explain": "Respiration is the chemical process inside cells that releases energy from food, usually by combining glucose with oxygen. It produces carbon dioxide and water as waste. Breathing is how we bring in the oxygen respiration needs and get rid of the carbon dioxide it makes."
+  },
+  {
+    "id": "lungs-taboo-30",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Lung capacity",
+    "forbidden": [
+      "Volume",
+      "Air",
+      "Litres",
+      "Hold"
+    ],
+    "clues": [
+      "This is the total amount your breathing organs can take in when filled as full as possible.",
+      "Swimmers, flute players and singers often train to make good use of it.",
+      "A doctor can measure part of it by asking you to blow hard into a tube on a machine."
+    ],
+    "decoys": [
+      "Heart rate",
+      "Blood pressure",
+      "Breathing rate"
+    ],
+    "explain": "Lung capacity is how much air your lungs can hold when you breathe in as deeply as you can. An adult's lungs hold about 6 litres in total, though a normal breath moves only about half a litre. It depends on body size, age and fitness, and smoking reduces how well the lungs can use it."
+  },
+  {
+    "id": "lungs-taboo-31",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ventilator",
+    "forbidden": [
+      "Machine",
+      "Breathing",
+      "Hospital",
+      "Tube"
+    ],
+    "clues": [
+      "Doctors use it in intensive care for patients too ill to manage on their own.",
+      "It gently pushes measured puffs of oxygen-rich air into the lungs.",
+      "A doctor or nurse watches its screen and adjusts it until the patient recovers."
+    ],
+    "decoys": [
+      "Nebuliser",
+      "Pacemaker",
+      "Spirometer"
+    ],
+    "explain": "A ventilator is a machine that helps a very ill patient breathe by pushing air into the lungs and letting it out again. It gives the patient's body time to heal while their breathing muscles rest. Doctors slowly reduce its help as the patient gets better."
+  },
+  {
+    "id": "lungs-taboo-32",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Bronchiole",
+    "forbidden": [
+      "Bronchi",
+      "Tubes",
+      "Branch",
+      "Alveoli"
+    ],
+    "clues": [
+      "These are the thinnest airways, narrower than a pencil lead.",
+      "Thousands of them spread through each lung like twigs on a tree.",
+      "Each one ends in a bunch of tiny air sacs."
+    ],
+    "decoys": [
+      "Capillaries",
+      "Windpipe",
+      "Villi"
+    ],
+    "explain": "The windpipe divides into two bronchi, and these keep dividing into smaller and smaller tubes called bronchioles. The smallest bronchioles are less than a millimetre wide and end in clusters of air sacs called alveoli. In asthma, the muscle around the bronchioles tightens, making them narrower."
+  },
+  {
+    "id": "lungs-taboo-33",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Pharynx",
+    "forbidden": [
+      "Throat",
+      "Food",
+      "Air",
+      "Neck"
+    ],
+    "clues": [
+      "This muscular passage sits at the back of your mouth and nose.",
+      "Both what you swallow and what you breathe pass through it before going separate ways.",
+      "When it is sore during a cold, swallowing hurts."
+    ],
+    "decoys": [
+      "Larynx",
+      "Oesophagus",
+      "Epiglottis"
+    ],
+    "explain": "The pharynx is the scientific name for the throat, the passage behind your nose and mouth. Air and food both travel through it; below it, air goes into the larynx and windpipe while food goes into the food pipe. A flap called the epiglottis covers the windpipe when you swallow."
+  },
+  {
+    "id": "lungs-taboo-34",
+    "system": "lungs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Spiracle",
+    "forbidden": [
+      "Insect",
+      "Hole",
+      "Breathe",
+      "Grasshopper"
+    ],
+    "clues": [
+      "These are tiny openings found in rows along the sides of a cockroach.",
+      "Air enters through them and travels down fine tubes straight to the body's cells.",
+      "Ants and butterflies use them instead of lungs."
+    ],
+    "decoys": [
+      "Gills",
+      "Stomata",
+      "Nostrils"
+    ],
+    "explain": "Insects do not have lungs. Instead, air enters through small openings called spiracles along their bodies and travels through a network of tiny tubes directly to their cells. This system works well only over short distances, which is one reason insects stay small."
+  },
+  {
+    "id": "lungs-case-17",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A man at a wedding dinner suddenly clutches his throat. He cannot speak, cough or breathe. A trained first-aider is beside him and someone is calling for help. What should she do first?",
+    "options": [
+      "Give him a glass of water",
+      "Lay him down to rest",
+      "Give five firm back blows",
+      "Wait for him to cough"
+    ],
+    "answer": "Give five firm back blows",
+    "optionNotes": [
+      "Water cannot pass a blocked airway",
+      "Lying down will not clear it",
+      "Can knock the blockage loose",
+      "He cannot cough; waiting is unsafe"
+    ],
+    "explain": "When the airway is completely blocked, no air can get in, so coughing is impossible. A trained first-aider leans the person forward and gives up to five firm blows between the shoulder blades with the heel of the hand. If that does not work, they move on to abdominal thrusts while emergency help comes."
+  },
+  {
+    "id": "lungs-case-18",
+    "system": "lungs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "Aarav, 8, coughs a lot and has had three chest infections this year. He does not smoke, but his father smokes inside their flat. What is the most helpful change?",
+    "options": [
+      "Smoke only near an open window",
+      "Keep the home completely smoke-free",
+      "Light incense to hide the smell",
+      "Give Aarav cough syrup daily"
+    ],
+    "answer": "Keep the home completely smoke-free",
+    "optionNotes": [
+      "Smoke still drifts through the home",
+      "Removes the smoke he breathes",
+      "Adds even more smoke",
+      "Does not remove the cause"
+    ],
+    "explain": "Breathing in other people's smoke is called passive smoking. Children's airways are small and still growing, so smoke irritates them and makes chest infections and asthma more likely. An open window does not clear the smoke well; the best protection is no smoking indoors at all, and quitting helps the smoker too."
+  },
+  {
+    "id": "lungs-case-19",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "After a cold, Meena has a cough that brings up thick mucus for about two weeks. Her chest feels sore from coughing. The doctor says the main air tubes in her lungs are swollen and irritated. What is this called?",
+    "options": [
+      "Asthma",
+      "Pneumonia",
+      "Laryngitis",
+      "Bronchitis"
+    ],
+    "answer": "Bronchitis",
+    "optionNotes": [
+      "Long-term; comes and goes with triggers",
+      "Air sacs fill with fluid; high fever",
+      "Swollen voice box; hoarse voice",
+      "Swollen bronchi making extra mucus"
+    ],
+    "explain": "Bronchitis means swelling of the bronchi, the main tubes carrying air into the lungs. The swollen lining makes extra mucus, so the person coughs it up. Most cases follow a cold, are caused by viruses and get better on their own with rest and fluids, though a doctor should check any cough that lasts more than three weeks."
+  },
+  {
+    "id": "lungs-case-20",
+    "system": "lungs",
+    "mode": "case",
+    "level": 3,
+    "role": "Pulmonologist",
+    "scenario": "A patient feels a sharp, stabbing pain in his side every time he breathes in deeply. The thin, slippery layers that wrap around his lungs have become swollen and rub together. Which layers are these?",
+    "options": [
+      "Alveoli",
+      "Pleura",
+      "Bronchi",
+      "Diaphragm"
+    ],
+    "answer": "Pleura",
+    "optionNotes": [
+      "Air sacs inside the lungs",
+      "Two thin layers around the lungs",
+      "Airways inside the lungs",
+      "Breathing muscle below the lungs"
+    ],
+    "explain": "The pleura is made of two thin layers, one covering the lungs and one lining the inside of the chest wall. A thin film of fluid between them lets the lungs slide smoothly as you breathe. When the layers become swollen, a condition called pleurisy, they rub together and cause sharp pain with each deep breath."
+  },
+  {
+    "id": "lungs-case-21",
+    "system": "lungs",
+    "mode": "case",
+    "level": 3,
+    "role": "Pulmonologist",
+    "scenario": "A man who smoked for 40 years has damaged lungs. Many tiny air-sac walls have broken down, leaving fewer, larger sacs. He gets breathless easily. Why does this make breathing harder?",
+    "options": [
+      "Too much oxygen in his blood",
+      "Less surface for oxygen to cross",
+      "His windpipe has grown longer",
+      "His ribs have become too strong"
+    ],
+    "answer": "Less surface for oxygen to cross",
+    "optionNotes": [
+      "His blood actually gets less",
+      "Fewer, bigger sacs mean less surface",
+      "The windpipe is not affected",
+      "Ribs are not the problem"
+    ],
+    "explain": "Millions of tiny air sacs give the lungs a huge inner surface, many times larger than your skin, where oxygen passes into the blood. When the walls between sacs break down, small sacs merge into a few big ones and that surface shrinks. Less oxygen gets into the blood with each breath, so the person tires quickly. This damage, called emphysema, is mostly caused by smoking."
+  },
+  {
+    "id": "lungs-case-22",
+    "system": "lungs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A nurse watches a resting 10-year-old's chest rise and fall and counts 5 breaths in 15 seconds. What is her breathing rate per minute?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "answer": "20",
+    "optionNotes": [
+      "Too low: that is 5 × 2",
+      "Too low: that is 5 × 3",
+      "5 breaths × 4 = 20",
+      "Too high: that is 5 × 6"
+    ],
+    "explain": "There are four 15-second blocks in a minute, so 5 × 4 = 20 breaths per minute. A resting child of this age usually breathes about 18 to 25 times a minute, and adults about 12 to 20. Breathing speeds up during exercise, fever or when a person is anxious."
+  },
+  {
+    "id": "lungs-case-23",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Every spring, when trees and grasses flower, Kabir sneezes a lot and has a runny nose and itchy, watery eyes. He has no fever, and the problem goes away after the season. What is the most likely cause?",
+    "options": [
+      "Pneumonia",
+      "Common cold",
+      "Pollen allergy",
+      "Food poisoning"
+    ],
+    "answer": "Pollen allergy",
+    "optionNotes": [
+      "Fever and a deep chesty cough",
+      "Virus; not tied to a season",
+      "Comes back each flowering season",
+      "Affects the stomach, not the nose"
+    ],
+    "explain": "Pollen is a fine powder released by flowering plants. In people with a pollen allergy, often called hay fever, the body treats harmless pollen as an invader and releases chemicals that make the nose run and the eyes itch. A cold comes from a virus and can happen at any time of year, while hay fever returns in the same season each year."
+  },
+  {
+    "id": "lungs-case-24",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "Pulmonologist",
+    "scenario": "A 3-year-old with asthma is too young to use a puffer properly. The doctor gives a small machine that turns liquid medicine into a fine mist, which she breathes in through a face mask. What is the machine?",
+    "options": [
+      "Nebuliser",
+      "Spirometer",
+      "Ventilator",
+      "Pulse oximeter"
+    ],
+    "answer": "Nebuliser",
+    "optionNotes": [
+      "Turns medicine into a mist to breathe",
+      "Measures how hard you can blow",
+      "Breathes for very ill patients",
+      "Measures oxygen in the blood"
+    ],
+    "explain": "A nebuliser uses air pressure or vibration to turn liquid medicine into a mist of tiny droplets. The child simply breathes normally through a mask for a few minutes, and the medicine reaches the airways. Older children usually use an inhaler with a spacer, which does the same job faster."
+  },
+  {
+    "id": "lungs-case-25",
+    "system": "lungs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "On a cold winter morning in Shimla, Tara sees a little white cloud each time she breathes out. What is the cloud made of?",
+    "options": [
+      "Smoke from her lungs",
+      "Frozen carbon dioxide",
+      "Dust from her nose",
+      "Tiny water droplets"
+    ],
+    "answer": "Tiny water droplets",
+    "optionNotes": [
+      "Healthy lungs make no smoke",
+      "Needs about −78 °C to freeze",
+      "Dust is not a white cloud",
+      "Water vapour cools into droplets"
+    ],
+    "explain": "Air leaving your lungs is warm and carries water vapour, an invisible gas form of water. When it meets very cold air, the vapour cools and turns into tiny droplets of liquid water, which we see as a small cloud. Carbon dioxide freezes only at about −78 °C, far colder than any winter morning in India."
+  },
+  {
+    "id": "lungs-case-26",
+    "system": "lungs",
+    "mode": "case",
+    "level": 1,
+    "role": "Pulmonologist",
+    "scenario": "In a science class, Kiran blows gently through a straw into clear limewater. After a while the liquid turns milky. Which gas in her breath caused this?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Water vapour"
+    ],
+    "answer": "Carbon dioxide",
+    "optionNotes": [
+      "Does not change limewater",
+      "Forms tiny chalk particles",
+      "Does not change limewater",
+      "Just adds a little water"
+    ],
+    "explain": "Limewater is a simple test for carbon dioxide: the gas reacts with the lime to form tiny white particles of chalk, which make the liquid cloudy. Breathed-out air has far more carbon dioxide than room air, because your cells make it during respiration and the blood carries it to the lungs."
+  },
+  {
+    "id": "lungs-case-27",
+    "system": "lungs",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "A smoke alarm goes off and the corridor is filling with smoke from a fire. Arjun needs to get out of the building. What is the safest way to move?",
+    "options": [
+      "Stand tall and run through",
+      "Crawl low under the smoke",
+      "Hide under a bed and wait",
+      "Take the lift down"
+    ],
+    "answer": "Crawl low under the smoke",
+    "optionNotes": [
+      "Head is in the thickest smoke",
+      "Cleaner, cooler air is near the floor",
+      "Smoke can fill the room",
+      "Lifts can stop working in a fire"
+    ],
+    "explain": "Hot smoke rises, so the cleanest, coolest air is near the floor. Smoke contains poisonous gases such as carbon monoxide that can make people drowsy quickly. Staying low, covering the nose and mouth with a cloth if possible, and leaving by the stairs gives the best chance of breathing safely."
+  },
+  {
+    "id": "lungs-case-28",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "Pulmonologist",
+    "scenario": "Looking at a chest scan, a student notices that the left lung is a little smaller than the right one. The doctor says this leaves room for another organ. Which organ?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Stomach",
+      "Spleen"
+    ],
+    "answer": "Heart",
+    "optionNotes": [
+      "Sits below the right lung",
+      "Tilts to the left of the chest",
+      "Below the diaphragm, not beside lung",
+      "Below the diaphragm, not beside lung"
+    ],
+    "explain": "The heart sits in the middle of the chest but tilts to the left. To make room, the left lung has a dip called the cardiac notch and only two lobes, while the right lung has three. The liver, stomach and spleen all sit below the diaphragm, under the lungs."
+  },
+  {
+    "id": "lungs-case-29",
+    "system": "lungs",
+    "mode": "case",
+    "level": 3,
+    "role": "Pulmonologist",
+    "scenario": "Since birth, a child's airway mucus has been very thick and sticky, so the tiny sweeping hairs cannot clear it, and she often gets chest infections. The condition is passed down in families. What is it?",
+    "options": [
+      "Asthma",
+      "Common cold",
+      "Tuberculosis",
+      "Cystic fibrosis"
+    ],
+    "answer": "Cystic fibrosis",
+    "optionNotes": [
+      "Airways tighten; mucus is not the cause",
+      "Short virus infection, not from birth",
+      "Caught from germs, not inherited",
+      "Inherited; makes mucus thick and sticky"
+    ],
+    "explain": "Cystic fibrosis is an inherited condition, passed on through genes from both parents. It makes mucus much thicker than usual, so it clogs the airways and germs grow in it more easily. Children with it do daily breathing exercises and chest physiotherapy to clear the mucus, along with medicines from their doctors."
+  },
+  {
+    "id": "lungs-case-30",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "After a bad cold, Rohan has a blocked nose, thick mucus and a dull ache in his cheeks and forehead that gets worse when he bends forward. Which air-filled spaces in his skull bones are swollen?",
+    "options": [
+      "Alveoli",
+      "Bronchi",
+      "Sinuses",
+      "Tonsils"
+    ],
+    "answer": "Sinuses",
+    "optionNotes": [
+      "Air sacs deep in the lungs",
+      "Airways inside the chest",
+      "Air spaces around nose and eyes",
+      "Lumps of tissue, not air spaces"
+    ],
+    "explain": "Sinuses are hollow, air-filled spaces in the bones around your nose, cheeks and forehead. They are lined with the same mucus-making lining as the nose and drain into it through small openings. After a cold, these openings can block, mucus collects and the lining swells, causing pressure and pain. This is called sinusitis."
+  },
+  {
+    "id": "lungs-case-31",
+    "system": "lungs",
+    "mode": "case",
+    "level": 2,
+    "role": "Pulmonologist",
+    "scenario": "Air reaches the tiny air sacs of the lungs, which are wrapped in capillaries. Which way do the two main gases move across the thin walls?",
+    "options": [
+      "Carbon dioxide in, oxygen out",
+      "Oxygen in, carbon dioxide out",
+      "Both gases into the blood",
+      "Both gases out of the blood"
+    ],
+    "answer": "Oxygen in, carbon dioxide out",
+    "optionNotes": [
+      "Backwards: blood would lose oxygen",
+      "Into blood: oxygen; out: carbon dioxide",
+      "Carbon dioxide leaves the blood",
+      "Oxygen enters the blood"
+    ],
+    "explain": "Gases move from where there is more of them to where there is less. Fresh air in the air sacs is rich in oxygen while blood arriving from the body has little, so oxygen moves into the blood. Blood carries lots of carbon dioxide from the cells, so it moves out into the air sacs and is breathed out."
+  },
+  {
+    "id": "lungs-case-32",
+    "system": "lungs",
+    "mode": "case",
+    "level": 3,
+    "role": "Pulmonologist",
+    "scenario": "During a breath-holding game, Sana keeps her mouth and nose shut. After about a minute she feels a strong urge to breathe. Which change in her blood mainly causes this urge?",
+    "options": [
+      "Rising oxygen",
+      "Falling sugar",
+      "Rising carbon dioxide",
+      "Rising nitrogen"
+    ],
+    "answer": "Rising carbon dioxide",
+    "optionNotes": [
+      "Oxygen falls, it does not rise",
+      "Sugar barely changes in a minute",
+      "Detected by sensors in the brain",
+      "Nitrogen is not used or made"
+    ],
+    "explain": "Cells keep respiring while you hold your breath, so carbon dioxide builds up in the blood and makes it slightly more acidic. Sensors in the brain stem, the part of the brain that controls breathing automatically, detect this and send stronger and stronger signals to breathe. That is why the urge keeps growing until you take a breath."
+  }
+]

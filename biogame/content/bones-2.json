@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "bones-odd-18",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Fish",
+      "Crab",
+      "Ant",
+      "Beetle",
+      "Prawn"
+    ],
+    "answer": "Fish",
+    "notes": [
+      "Bony skeleton inside the body",
+      "Hard shell skeleton on the outside",
+      "Hard skeleton on the outside",
+      "Hard skeleton on the outside",
+      "Hard shell skeleton on the outside"
+    ],
+    "reason": "A fish has a skeleton inside its body; the other four have a hard skeleton on the outside.",
+    "explain": "Some animals, like crabs, ants, beetles and prawns, wear their skeleton on the outside as a hard shell called an exoskeleton. Fish, like humans, have an endoskeleton: bones inside the body with muscles attached around them. An inside skeleton can grow along with the animal, while animals with an outside skeleton must shed it to grow bigger.",
+    "fact": "A crab that has just shed its old shell is soft for a few days until its new shell hardens."
+  },
+  {
+    "id": "bones-odd-19",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Wrist",
+      "Ankle",
+      "Knee",
+      "Shin",
+      "Elbow"
+    ],
+    "answer": "Shin",
+    "notes": [
+      "A joint; the hand bends here",
+      "A joint; the foot bends here",
+      "A joint; the leg bends here",
+      "Middle of a bone; cannot bend",
+      "A joint; the arm bends here"
+    ],
+    "reason": "The shin is the middle of a long bone with no joint; the other four are places where the body bends.",
+    "explain": "Bones are hard and cannot bend. Your body bends only at joints, the places where two bones meet. The wrist, ankle, knee and elbow are all joints. The shin is the front of the shin bone, a single stiff bone, so the leg cannot bend there.",
+    "fact": "Not every joint moves: the joints between the bones of your skull are fixed."
+  },
+  {
+    "id": "bones-odd-20",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Helmet",
+      "Sunglasses",
+      "Knee pads",
+      "Elbow pads",
+      "Wrist guards"
+    ],
+    "answer": "Sunglasses",
+    "notes": [
+      "Protects the skull in a fall",
+      "Protects eyes from bright sunlight",
+      "Cushions the knee joint",
+      "Cushions the elbow joint",
+      "Support wrists in a fall"
+    ],
+    "reason": "Sunglasses protect the eyes from sunlight; the other four protect bones and joints from knocks in a fall.",
+    "explain": "When you skate or cycle, a fall can crack bones or hurt joints. A helmet protects the skull and the brain inside it, while pads and guards spread out the force of a hit on the knees, elbows and wrists. Sunglasses are useful too, but they protect the eyes from bright light, not the skeleton from impact.",
+    "fact": "When people fall, they often put out a hand to catch themselves, which is why wrists are among the most commonly broken bones."
+  },
+  {
+    "id": "bones-odd-21",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Smiling",
+      "Blinking",
+      "Heartbeat",
+      "Chewing",
+      "Hair growing"
+    ],
+    "answer": "Hair growing",
+    "notes": [
+      "Face muscles pull the lips",
+      "Eyelid muscles close the eye",
+      "Heart muscle squeezes",
+      "Jaw muscles move the jaw",
+      "New cells at the root; no muscle"
+    ],
+    "reason": "Hair grows when cells at its root divide; the other four are movements made by muscles.",
+    "explain": "Every movement in your body is made by muscles pulling. Face muscles make a smile, eyelid muscles make a blink, jaw muscles chew, and heart muscle squeezes to pump blood. Hair grows because cells at its root keep dividing and push the hair outward, which does not need a muscle.",
+    "fact": "You blink around 15 to 20 times a minute, mostly without noticing."
+  },
+  {
+    "id": "bones-odd-22",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Plaster cast",
+      "Sling",
+      "Thermometer",
+      "Crutches",
+      "Splint"
+    ],
+    "answer": "Thermometer",
+    "notes": [
+      "Holds a broken bone still",
+      "Rests an injured arm",
+      "Measures body temperature",
+      "Keeps weight off an injured leg",
+      "Keeps an injured limb straight"
+    ],
+    "reason": "A thermometer measures temperature; the other four support injured bones or joints.",
+    "explain": "A broken bone heals best when it is kept still in the right position. A cast or splint holds the bone in place, a sling rests an injured arm against the body, and crutches let a person move without putting weight on an injured leg. A thermometer measures whether someone has a fever.",
+    "fact": "Many casts today are made of light fibreglass instead of heavy plaster, and come in bright colours."
+  },
+  {
+    "id": "bones-odd-23",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Upper arm",
+      "Hand",
+      "Foot",
+      "Skull",
+      "Spine"
+    ],
+    "answer": "Upper arm",
+    "notes": [
+      "Just one bone, the humerus",
+      "27 bones",
+      "26 bones",
+      "22 bones joined together",
+      "About 33 small bones in a stack"
+    ],
+    "reason": "The upper arm has just one bone; the other four are each made of many bones.",
+    "explain": "More than half of your 206 bones are in your hands and feet. Many small bones let hands grip and feet flex as you walk. The skull is made of 22 bones joined together, and the spine is a stack of small vertebrae. The upper arm has a single long, strong bone called the humerus.",
+    "fact": "Some vertebrae at the bottom of the spine join together as you grow, so adults have fewer separate spine bones than babies."
+  },
+  {
+    "id": "bones-odd-24",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Hamstrings",
+      "Quadriceps",
+      "Calf muscle",
+      "Biceps",
+      "Gluteus maximus"
+    ],
+    "answer": "Biceps",
+    "notes": [
+      "Back of the thigh",
+      "Front of the thigh",
+      "Back of the lower leg",
+      "Front of the upper arm",
+      "Buttock muscle"
+    ],
+    "reason": "The biceps is in the arm; the other four are leg and hip muscles.",
+    "explain": "The biggest muscles in your body are in your legs and hips, because they carry your weight and push you forward. The quadriceps straightens the knee, the hamstrings bend it, the calf lifts your heel, and the gluteus maximus straightens your hip when you climb stairs. The biceps bends your elbow.",
+    "fact": "The gluteus maximus, in your bottom, is the largest muscle in the human body."
+  },
+  {
+    "id": "bones-odd-25",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Blood vessels",
+      "Muscle fibres",
+      "Nerves",
+      "Bone cells",
+      "Marrow"
+    ],
+    "answer": "Muscle fibres",
+    "notes": [
+      "Bring food and oxygen to bone",
+      "Lie outside bone, attached by tendons",
+      "Carry signals; why breaks hurt",
+      "Build and repair bone",
+      "Soft tissue in the centre"
+    ],
+    "reason": "Muscle fibres lie outside the bone; the other four are found inside a living bone.",
+    "explain": "Bone is living tissue, not a dead stick. It has bone cells that build and repair it, blood vessels that bring food and oxygen, nerves that sense pain, and soft marrow in the middle. Muscles sit outside the bone and pull on it through tendons.",
+    "fact": "Your whole skeleton slowly rebuilds itself, so most of the bone you have now will be replaced over the next ten years or so."
+  },
+  {
+    "id": "bones-odd-26",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Contract",
+      "Relax",
+      "Shorten",
+      "Pull",
+      "Push"
+    ],
+    "answer": "Push",
+    "notes": [
+      "Muscle tightens",
+      "Muscle loosens and lengthens",
+      "Muscle gets shorter when working",
+      "A working muscle pulls on bone",
+      "Muscles cannot push"
+    ],
+    "reason": "Muscles cannot push; contracting, relaxing, shortening and pulling are all things muscles do.",
+    "explain": "A muscle can only pull. It contracts and shortens to pull on a bone, then relaxes and is stretched back. That is why muscles work in pairs: the biceps pulls to bend your elbow, and the triceps pulls to straighten it. Even when you push a door, muscles are pulling on the bones of your arm.",
+    "fact": "A muscle that bends a joint is paired with one that straightens it; doctors call such a team an antagonistic pair."
+  },
+  {
+    "id": "bones-odd-27",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Keep it still",
+      "Pad and support it",
+      "Push the bone back",
+      "Call an adult",
+      "Cold pack in a cloth"
+    ],
+    "answer": "Push the bone back",
+    "notes": [
+      "Stops further damage",
+      "Holds it in a comfortable position",
+      "Never do this; leave it to doctors",
+      "Get help and medical care",
+      "Eases pain and swelling"
+    ],
+    "reason": "Never try to push a broken bone back; the other four are correct first aid for a suspected fracture.",
+    "explain": "If someone may have broken a bone, keep the injured part still and supported in the position you found it, and call an adult so they can get medical help. A cold pack wrapped in cloth eases pain and swelling. Pushing the bone back can tear blood vessels and nerves, so only doctors set bones, after an X-ray."
+  },
+  {
+    "id": "bones-odd-28",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Conjunctivitis",
+      "Arthritis",
+      "Osteoporosis",
+      "Scoliosis",
+      "Gout"
+    ],
+    "answer": "Conjunctivitis",
+    "notes": [
+      "Red, itchy eyes",
+      "Painful, stiff joints",
+      "Weak, thin bones",
+      "Spine curves sideways",
+      "Crystals form in a joint"
+    ],
+    "reason": "Conjunctivitis affects the eye; the other four affect bones or joints.",
+    "explain": "Several conditions affect the skeleton. Arthritis makes joints painful and stiff, osteoporosis makes bones thin and easy to break, scoliosis is a sideways curve of the spine, and gout happens when sharp crystals build up in a joint, often the big toe. Conjunctivitis is redness and swelling of the thin layer covering the eye.",
+    "fact": "The word 'arthritis' comes from Greek: 'arthron' means joint and '-itis' means swelling."
+  },
+  {
+    "id": "bones-odd-29",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Kneecap",
+      "Femur",
+      "Collarbone",
+      "Lower jaw",
+      "Shoulder blade"
+    ],
+    "answer": "Lower jaw",
+    "notes": [
+      "One on each side; you have two",
+      "Left and right thigh bones",
+      "Left and right collarbones",
+      "Just one, in the middle",
+      "Left and right shoulder blades"
+    ],
+    "reason": "You have only one lower jaw bone; the other four come in left-and-right pairs.",
+    "explain": "Your skeleton is mostly symmetrical, so most bones come in pairs, one on the left and one on the right, like your two kneecaps, thigh bones, collarbones and shoulder blades. A few bones sit on the midline and are single, such as the lower jaw (mandible), the breastbone and each vertebra.",
+    "fact": "The lower jaw is the largest and strongest bone in the face."
+  },
+  {
+    "id": "bones-odd-30",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Pulled muscle",
+      "Cracked shin bone",
+      "Twisted ankle",
+      "Torn ligament",
+      "Tendon tear"
+    ],
+    "answer": "Cracked shin bone",
+    "notes": [
+      "Soft tissue: muscle fibres overstretched",
+      "Hard tissue: a fracture of the bone",
+      "Soft tissue: ankle ligaments stretched",
+      "Soft tissue: ligament damaged",
+      "Soft tissue: tendon damaged"
+    ],
+    "reason": "A cracked shin bone is a bone injury; the other four are soft-tissue injuries.",
+    "explain": "Sports injuries are often sorted into two groups. Soft-tissue injuries harm muscles, tendons and ligaments, such as a pulled muscle or a twisted ankle. Bone injuries are fractures, where the bone itself cracks or breaks. Both can swell and hurt, so an X-ray is often used to tell them apart."
+  },
+  {
+    "id": "bones-odd-31",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Tuna",
+      "Frog",
+      "Human",
+      "Eagle",
+      "Shark"
+    ],
+    "answer": "Shark",
+    "notes": [
+      "Skeleton of bone",
+      "Skeleton of bone",
+      "Skeleton of bone",
+      "Skeleton of light, hollow bone",
+      "Skeleton of cartilage"
+    ],
+    "reason": "A shark's skeleton is made of cartilage; the other four have skeletons made of bone.",
+    "explain": "Most animals with a backbone have skeletons made of hard bone. Sharks and rays are different: their skeletons are made of cartilage, the same firm, bendy tissue found in your nose and ears. Cartilage is lighter than bone, which helps sharks stay up in the water.",
+    "fact": "Sharks' teeth are not part of their cartilage skeleton; they are constantly replaced, and one shark can lose thousands in its life."
+  },
+  {
+    "id": "bones-odd-32",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Human",
+      "Giraffe",
+      "Owl",
+      "Mouse",
+      "Camel"
+    ],
+    "answer": "Owl",
+    "notes": [
+      "7 neck vertebrae",
+      "7 very long neck vertebrae",
+      "14 neck vertebrae",
+      "7 tiny neck vertebrae",
+      "7 neck vertebrae"
+    ],
+    "reason": "An owl has 14 neck bones; the four mammals each have 7.",
+    "explain": "Almost all mammals, from mice to giraffes, have exactly seven vertebrae in the neck. A giraffe's neck is long because each vertebra is very long, not because it has more of them. Birds are different: an owl has 14 neck vertebrae, which lets it turn its head much further around than you can.",
+    "fact": "An owl can turn its head about 270 degrees, three-quarters of a full circle."
+  },
+  {
+    "id": "bones-odd-33",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Turn into cartilage",
+      "Get longer",
+      "Get harder",
+      "Some bones join",
+      "Growth plates close"
+    ],
+    "answer": "Turn into cartilage",
+    "notes": [
+      "The reverse is true",
+      "Happens through childhood",
+      "Minerals build up over the years",
+      "Babies' bones fuse; count falls to 206",
+      "Happens at the end of puberty"
+    ],
+    "reason": "As you grow, cartilage turns into bone, not the other way round; the other four do happen.",
+    "explain": "A baby's skeleton has a lot of cartilage, which slowly turns into hard bone as calcium and other minerals are added. Long bones grow at growth plates, bands of cartilage near their ends. At the end of puberty these plates harden into bone and growth in height stops. Some separate bones also join together, which is why adults have fewer bones than babies.",
+    "fact": "Doctors can estimate a child's age from an X-ray of the hand by looking at how far the growth plates have closed."
+  },
+  {
+    "id": "bones-odd-34",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Hip bone",
+      "Breastbone",
+      "Ribs",
+      "Middle of the shin bone",
+      "Vertebrae"
+    ],
+    "answer": "Middle of the shin bone",
+    "notes": [
+      "Red marrow makes blood cells",
+      "Red marrow makes blood cells",
+      "Red marrow makes blood cells",
+      "Mostly yellow, fatty marrow in adults",
+      "Red marrow makes blood cells"
+    ],
+    "reason": "In adults the middle of long bones like the shin holds mainly fatty yellow marrow; the other four still have red marrow that makes blood cells.",
+    "explain": "Bone marrow comes in two kinds. Red marrow makes red blood cells, white blood cells and platelets. Yellow marrow is mostly fat. In babies almost all marrow is red, but by adulthood the middle of long bones like the shin turns yellow, and blood cells are made mainly in the hip bones, breastbone, ribs, vertebrae and skull.",
+    "fact": "When doctors need a sample of marrow from an adult, they usually take it from the hip bone."
+  },
+  {
+    "id": "bones-taboo-18",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Triceps",
+    "forbidden": [
+      "Arm",
+      "Back",
+      "Straighten",
+      "Biceps"
+    ],
+    "clues": [
+      "Its name means 'three heads', because it starts from three places.",
+      "It does much of the work as you rise from the bottom of a push-up.",
+      "It sits on the rear of your upper limb and opens your elbow out flat."
+    ],
+    "decoys": [
+      "Deltoid",
+      "Quadriceps",
+      "Calf muscle"
+    ],
+    "explain": "The triceps is the large muscle at the back of the upper arm. When it contracts, it pulls on the forearm and straightens the elbow. It works as a pair with the biceps at the front, which bends the elbow. Push-ups and throwing a ball both use the triceps."
+  },
+  {
+    "id": "bones-taboo-19",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Hinge joint",
+    "forbidden": [
+      "Door",
+      "Elbow",
+      "Knee",
+      "Bend"
+    ],
+    "clues": [
+      "Your fingers have several of these, which let them curl up into a fist.",
+      "It moves in only one direction and back, like the lid of a box.",
+      "The joint in the middle of your leg is the biggest one of this kind."
+    ],
+    "decoys": [
+      "Ball-and-socket joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "explain": "A hinge joint lets bones move in one plane only, back and forth, like a door on its hinges. The elbow, knee and the joints in your fingers and toes are hinge joints. A ball-and-socket joint, like the shoulder, can move in many directions."
+  },
+  {
+    "id": "bones-taboo-20",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pelvis",
+    "forbidden": [
+      "Hip",
+      "Bowl",
+      "Basin",
+      "Bones"
+    ],
+    "clues": [
+      "In women it is wider, which helps when a baby is born.",
+      "The tops of your thighs fit into it at two deep sockets.",
+      "This strong ring at the bottom of your belly holds up your gut and bladder."
+    ],
+    "decoys": [
+      "Rib cage",
+      "Spine",
+      "Collarbone"
+    ],
+    "explain": "The pelvis is a ring of bones at the base of the spine, sometimes called the hip girdle. It carries the weight of the upper body to the legs, gives strong muscles a place to attach, and protects organs like the bladder. The thigh bones fit into its two cup-shaped sockets to form the hip joints."
+  },
+  {
+    "id": "bones-taboo-21",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Posture",
+    "forbidden": [
+      "Sit",
+      "Stand",
+      "Straight",
+      "Back"
+    ],
+    "clues": [
+      "Doctors check it by looking at how your body lines up from head to toe.",
+      "Slumping over a phone for hours is bad for it.",
+      "Your teacher reminds you about it when you slouch in your chair."
+    ],
+    "decoys": [
+      "Balance",
+      "Reflex",
+      "Flexibility"
+    ],
+    "explain": "Posture is the way you hold your body when sitting, standing or moving. Good posture keeps the spine in its natural curves, so muscles and joints are not strained. Slouching for long periods can lead to neck and back aches. Taking breaks and keeping screens at eye level help."
+  },
+  {
+    "id": "bones-taboo-22",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Crutches",
+    "forbidden": [
+      "Walk",
+      "Leg",
+      "Armpit",
+      "Support"
+    ],
+    "clues": [
+      "They usually come in a pair and are often made of light metal.",
+      "They let someone keep weight off an injured foot while it heals.",
+      "A person with a cast on their ankle swings along using one under each shoulder."
+    ],
+    "decoys": [
+      "Sling",
+      "Splint",
+      "Wheelchair"
+    ],
+    "explain": "Crutches are a pair of sticks that take the body's weight through the arms and hands, so an injured leg or foot can rest while it heals. The padded tops should sit a little below the armpits, and most of the weight goes through the hands. A doctor or physiotherapist shows how to use them safely."
+  },
+  {
+    "id": "bones-taboo-23",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Collarbone",
+    "forbidden": [
+      "Clavicle",
+      "Shoulder",
+      "Neck",
+      "Chest"
+    ],
+    "clues": [
+      "It is one of the most commonly broken bones when people fall on an outstretched hand.",
+      "It is long, thin and slightly S-shaped, and you can feel it just under the skin.",
+      "It runs sideways across the top of your body, from your breastbone towards your upper arm."
+    ],
+    "decoys": [
+      "Shoulder blade",
+      "Rib",
+      "Sternum"
+    ],
+    "explain": "The collarbone, or clavicle, is a long, thin bone that runs from the breastbone to the shoulder blade. It works like a strut that holds the shoulder out to the side, so your arm can swing freely. Because it is thin and near the surface, it often breaks in falls, and usually heals well with a sling."
+  },
+  {
+    "id": "bones-taboo-24",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sling",
+    "forbidden": [
+      "Arm",
+      "Cloth",
+      "Neck",
+      "Hang"
+    ],
+    "clues": [
+      "It keeps an injured limb still and close to the body so it can heal.",
+      "It is often a large triangle of fabric tied in a knot.",
+      "People with a broken wrist or collarbone often wear one around their shoulders."
+    ],
+    "decoys": [
+      "Crutches",
+      "Splint",
+      "Bandage"
+    ],
+    "explain": "A sling is a support, often a triangle of fabric, that holds an injured arm against the body. It keeps the arm still and takes its weight off the injured part, which eases pain and helps healing. Slings are used for broken wrists, collarbones and some shoulder injuries."
+  },
+  {
+    "id": "bones-taboo-25",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Shoulder blade",
+    "forbidden": [
+      "Scapula",
+      "Back",
+      "Wing",
+      "Flat"
+    ],
+    "clues": [
+      "Many muscles that move the upper limb attach to this large, triangle-shaped bone.",
+      "It glides over your ribs when you swing your arms in circles.",
+      "You have two of these on the rear of your upper body, and they stick out a little when you reach behind you."
+    ],
+    "decoys": [
+      "Collarbone",
+      "Sternum",
+      "Pelvis"
+    ],
+    "explain": "The shoulder blade, or scapula, is a large triangular bone at the upper back. It is not fixed to the ribs but held in place by muscles, so it can slide around and let the arm move freely. Its shallow socket holds the top of the upper arm bone to form the shoulder joint."
+  },
+  {
+    "id": "bones-taboo-26",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Hamstring",
+    "forbidden": [
+      "Thigh",
+      "Back",
+      "Knee",
+      "Muscle"
+    ],
+    "clues": [
+      "Sprinters sometimes pull this when running very fast.",
+      "It runs from the bones you sit on down to the top of the lower leg.",
+      "It is a group of three that pulls your heel up towards your bottom."
+    ],
+    "decoys": [
+      "Quadriceps",
+      "Calf muscle",
+      "Biceps"
+    ],
+    "explain": "The hamstrings are a group of three muscles at the back of the thigh. They bend the knee and help straighten the hip when you run or climb. They work as a pair with the quadriceps at the front. Warming up and gentle stretching help lower the chance of a pulled hamstring."
+  },
+  {
+    "id": "bones-taboo-27",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Tibia",
+    "forbidden": [
+      "Shin",
+      "Leg",
+      "Fibula",
+      "Knee"
+    ],
+    "clues": [
+      "It is the second-longest bone in the body.",
+      "Below the thigh, it carries most of your weight, while its thin partner carries much less.",
+      "You can feel its sharp front edge just under the skin, where footballers wear guards."
+    ],
+    "decoys": [
+      "Femur",
+      "Fibula",
+      "Ulna"
+    ],
+    "explain": "The tibia, or shin bone, is the larger of the two bones in the lower leg and carries most of the body's weight. It runs from the knee to the ankle. Its thin partner, the fibula, sits beside it and mainly gives muscles a place to attach. Only the femur, the thigh bone, is longer."
+  },
+  {
+    "id": "bones-taboo-28",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Sternum",
+    "forbidden": [
+      "Breastbone",
+      "Chest",
+      "Ribs",
+      "Flat"
+    ],
+    "clues": [
+      "It is shaped a bit like a short sword, with a small tip at the bottom.",
+      "Trained first-aiders press on the lower half of it during CPR.",
+      "It sits in the middle of the front of your upper body, joining the curved bones that guard your heart and lungs."
+    ],
+    "decoys": [
+      "Collarbone",
+      "Shoulder blade",
+      "Spine"
+    ],
+    "explain": "The sternum, or breastbone, is a long bone in the middle of the front of the chest. Most ribs join it through strips of cartilage, which let the rib cage move as you breathe. Together with the ribs, it protects the heart and lungs. Its three parts together look a little like a sword."
+  },
+  {
+    "id": "bones-taboo-29",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Fixed joint",
+    "forbidden": [
+      "Skull",
+      "Move",
+      "Suture",
+      "Joined"
+    ],
+    "clues": [
+      "In a newborn baby's head, these are still soft gaps that slowly close up.",
+      "The bones of your braincase meet at wavy lines of this kind.",
+      "This type of joint allows no motion at all."
+    ],
+    "decoys": [
+      "Hinge joint",
+      "Pivot joint",
+      "Ball-and-socket joint"
+    ],
+    "explain": "A fixed joint is where bones meet but cannot move. The bones of the skull fit together at wavy seams called sutures, which lock them tightly to protect the brain. In babies these gaps are still soft, which lets the head change shape a little at birth and grow fast in the first years."
+  },
+  {
+    "id": "bones-taboo-30",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Humerus",
+    "forbidden": [
+      "Upper arm",
+      "Funny bone",
+      "Shoulder",
+      "Elbow"
+    ],
+    "clues": [
+      "Its rounded top fits a shallow socket to form a ball-and-socket joint.",
+      "It is the single long bone above your forearm.",
+      "Its name sounds like 'humorous', which is the joke behind the tingle you feel when you knock a nerve near its lower end."
+    ],
+    "decoys": [
+      "Femur",
+      "Radius",
+      "Ulna"
+    ],
+    "explain": "The humerus is the bone of the upper arm, running from the shoulder to the elbow. Its rounded top forms the shoulder joint, and its lower end forms the elbow with the radius and ulna. The 'funny bone' is not a bone at all: it is a nerve that runs over the lower end of the humerus, and knocking it makes your arm tingle."
+  },
+  {
+    "id": "bones-taboo-31",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Synovial fluid",
+    "forbidden": [
+      "Joint",
+      "Oil",
+      "Slippery",
+      "Lubricate"
+    ],
+    "clues": [
+      "It is made by a thin lining inside the capsule that wraps around movable bone ends.",
+      "Like grease in a bicycle chain, it stops surfaces from rubbing and wearing out.",
+      "This thick liquid fills the space inside your knee and elbow so they glide smoothly."
+    ],
+    "decoys": [
+      "Saliva",
+      "Mucus",
+      "Cerebrospinal fluid"
+    ],
+    "explain": "Synovial fluid is a thick, clear liquid inside movable joints such as the knee, elbow and shoulder. It is made by the joint's inner lining, and it reduces rubbing between the cartilage-covered bone ends. It also carries nutrients to the cartilage, which has no blood vessels of its own."
+  },
+  {
+    "id": "bones-taboo-32",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Phalanges",
+    "forbidden": [
+      "Fingers",
+      "Toes",
+      "Knuckles",
+      "Hand"
+    ],
+    "clues": [
+      "Your thumb has two of these, but each of your other digits has three.",
+      "Altogether you have 56 of them across your four limbs.",
+      "They are the small bones in the digits you use to type, point and wiggle."
+    ],
+    "decoys": [
+      "Carpals",
+      "Metatarsals",
+      "Vertebrae"
+    ],
+    "explain": "Phalanges are the bones of the fingers and toes. Each finger has three, and each thumb and big toe has two, so each hand or foot has 14. Many small bones joined by hinge joints let fingers grip, write and play music. One of these bones is called a phalanx."
+  },
+  {
+    "id": "bones-taboo-33",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Meniscus",
+    "forbidden": [
+      "Knee",
+      "Cartilage",
+      "Cushion",
+      "Shock"
+    ],
+    "clues": [
+      "Footballers can tear it when they twist on a bent leg with the foot planted.",
+      "It is a C-shaped pad, and you have two of them in each of your largest joints.",
+      "It sits between the thigh bone and shin bone, soaking up the jolts when you jump."
+    ],
+    "decoys": [
+      "Ligament",
+      "Tendon",
+      "Kneecap"
+    ],
+    "explain": "A meniscus is a C-shaped pad of tough cartilage inside the knee. Each knee has two, one on the inner side and one on the outer side. They spread out the body's weight and absorb the jolt when you land from a jump. A sudden twist with the foot fixed on the ground can tear one, and an MRI scan can show the tear."
+  },
+  {
+    "id": "bones-taboo-34",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Skeletal muscle",
+    "forbidden": [
+      "Voluntary",
+      "Bones",
+      "Striped",
+      "Biceps"
+    ],
+    "clues": [
+      "Under a microscope, its long fibres show light and dark bands.",
+      "It is joined to your skeleton by tendons and pulls on it to move you.",
+      "This is the muscle type you control when you choose to wave, kick or smile."
+    ],
+    "decoys": [
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Tendon"
+    ],
+    "explain": "Your body has three types of muscle. Skeletal muscle is attached to bones and moves them when you decide to, so it is called voluntary. Smooth muscle in the walls of the gut and blood vessels, and cardiac muscle in the heart, work without you thinking. Skeletal muscle fibres look striped under a microscope."
+  },
+  {
+    "id": "bones-case-17",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Sports Medicine Doctor",
+    "scenario": "Before a football match, the coach has the team jog slowly and do gentle stretches for ten minutes. Why?",
+    "options": [
+      "It tires players out early",
+      "It makes bones longer",
+      "It warms muscles and lowers injury risk",
+      "It replaces drinking water"
+    ],
+    "answer": "It warms muscles and lowers injury risk",
+    "optionNotes": [
+      "A warm-up is light, not tiring",
+      "Exercise does not lengthen bones",
+      "Warm muscles stretch and contract better",
+      "Players still need water"
+    ],
+    "explain": "A warm-up raises the temperature of your muscles and gets more blood flowing to them. Warm muscles are more flexible and less likely to tear when you suddenly sprint or kick. A short cool-down after exercise, with gentle stretches, helps the body settle back to rest."
+  },
+  {
+    "id": "bones-case-18",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Physiotherapist",
+    "scenario": "When a boy lifts a heavy bag by bending his elbow, a muscle on the front of his upper arm gets hard and bulges. Which muscle is it?",
+    "options": [
+      "Biceps",
+      "Triceps",
+      "Calf muscle",
+      "Hamstring"
+    ],
+    "answer": "Biceps",
+    "optionNotes": [
+      "Front of the upper arm; bends elbow",
+      "Back of the upper arm; straightens elbow",
+      "Back of the lower leg",
+      "Back of the thigh"
+    ],
+    "explain": "When a muscle contracts, it gets shorter and fatter, which is why the biceps bulges when you bend your elbow. The biceps is attached by tendons to the shoulder and the forearm. As it shortens, it pulls the forearm up. The triceps at the back does the opposite job."
+  },
+  {
+    "id": "bones-case-19",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "The day after his first long hike, a boy's legs feel sore and stiff. Nothing is swollen and he can walk normally. What will help most?",
+    "options": [
+      "A hard cast on both legs",
+      "Never exercising again",
+      "Another long hike at once",
+      "Rest, gentle stretching and water"
+    ],
+    "answer": "Rest, gentle stretching and water",
+    "optionNotes": [
+      "Casts are for broken bones",
+      "Exercise keeps muscles healthy",
+      "Muscles need time to recover first",
+      "Lets worked muscles recover"
+    ],
+    "explain": "Muscles worked harder than usual often feel sore a day or two later. The soreness comes from tiny strains in the muscle fibres, which repair and grow stronger with rest. Gentle movement, stretching and drinking water help. If pain is severe, there is swelling, or it does not ease, tell an adult and see a doctor."
+  },
+  {
+    "id": "bones-case-20",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Orthopaedic Doctor",
+    "scenario": "When you shake your head to say 'no', the top bone of your spine turns around a small peg on the bone below. What kind of joint is this?",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Fixed joint",
+      "Ball-and-socket joint"
+    ],
+    "answer": "Pivot joint",
+    "optionNotes": [
+      "Bends one way, like the elbow",
+      "One bone turns around another",
+      "Does not move, like skull bones",
+      "Moves in many directions, like the hip"
+    ],
+    "explain": "In a pivot joint, one bone turns around another like a wheel around an axle. The top two bones of your neck form a pivot joint that lets your head turn from side to side. Another pivot joint near the elbow lets you turn your palm up and down."
+  },
+  {
+    "id": "bones-case-21",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "On a cold winter morning, a girl starts to shiver and her teeth chatter. What are her muscles doing?",
+    "options": [
+      "Resting to save energy",
+      "Turning into fat",
+      "Tightening fast to make heat",
+      "Growing bigger"
+    ],
+    "answer": "Tightening fast to make heat",
+    "optionNotes": [
+      "Shivering is muscles working, not resting",
+      "Muscle does not change into fat",
+      "Quick contractions release heat",
+      "Shivering does not build muscle"
+    ],
+    "explain": "Working muscles release heat as well as making movement. When your body gets cold, your brain makes muscles tighten and relax many times a second. This shivering produces heat to warm you up. It is also why you feel warm after running."
+  },
+  {
+    "id": "bones-case-22",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A child counts the ribs on a model skeleton in the doctor's room. How many pairs of ribs does a human normally have?",
+    "options": [
+      "12 pairs",
+      "6 pairs",
+      "10 pairs",
+      "20 pairs"
+    ],
+    "answer": "12 pairs",
+    "optionNotes": [
+      "24 ribs in all, 12 on each side",
+      "Too few",
+      "Too few",
+      "Too many"
+    ],
+    "explain": "Most people have 12 pairs of ribs, 24 in total, joined at the back to the spine. The top seven pairs join the breastbone at the front through cartilage. The lowest two pairs are called 'floating ribs' because they do not reach the front. Together the ribs form a cage that protects the heart and lungs."
+  },
+  {
+    "id": "bones-case-23",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Physiotherapist",
+    "scenario": "A boy needs to lift a heavy box of books from the floor. What is the safest way to lift it?",
+    "options": [
+      "Bend at the waist, legs straight",
+      "Twist round while lifting",
+      "Jerk it up with one hand",
+      "Bend knees, keep back straight"
+    ],
+    "answer": "Bend knees, keep back straight",
+    "optionNotes": [
+      "Strains the lower back",
+      "Twisting under load hurts the spine",
+      "Uneven, sudden load causes strain",
+      "Strong leg muscles do the work"
+    ],
+    "explain": "Your leg muscles are much stronger than the muscles of your lower back. Bending your knees, keeping your back straight and holding the load close lets the legs do the lifting and protects the spine. If a box is too heavy, ask an adult to help or carry it together."
+  },
+  {
+    "id": "bones-case-24",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A newborn baby has about 300 bones and cartilage pieces, but an adult has 206 bones. What happens to the rest?",
+    "options": [
+      "They dissolve in the blood",
+      "Some join together as the child grows",
+      "They turn into muscle",
+      "They fall out like baby teeth"
+    ],
+    "answer": "Some join together as the child grows",
+    "optionNotes": [
+      "Bones are not lost this way",
+      "Separate parts fuse into single bones",
+      "Bone does not become muscle",
+      "Only teeth fall out"
+    ],
+    "explain": "Many bones start out as several separate pieces of bone and cartilage. As a child grows, these pieces join, or fuse, into single bones. For example, the skull bones lock together and five spine bones at the base fuse into one bone called the sacrum. That is why adults have fewer, larger bones."
+  },
+  {
+    "id": "bones-case-25",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Physiotherapist",
+    "scenario": "When a footballer kicks a ball, a large group of muscles on the front of the thigh straightens the knee. Which group is it?",
+    "options": [
+      "Hamstrings",
+      "Biceps",
+      "Quadriceps",
+      "Calf muscles"
+    ],
+    "answer": "Quadriceps",
+    "optionNotes": [
+      "Back of the thigh; bends the knee",
+      "In the upper arm",
+      "Four muscles; straighten the knee",
+      "Lower leg; lifts the heel"
+    ],
+    "explain": "The quadriceps is a group of four muscles on the front of the thigh. Their tendon passes over the kneecap and attaches to the shin bone, so when they contract they straighten the knee. The hamstrings at the back of the thigh bend the knee, so the two groups work as a pair."
+  },
+  {
+    "id": "bones-case-26",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A doctor shows a student the small rounded bone at the front of the knee. What is one of its jobs?",
+    "options": [
+      "Protects the front of the knee",
+      "Lets the knee twist all the way round",
+      "Joins the thigh to the hip",
+      "Pumps blood up the leg"
+    ],
+    "answer": "Protects the front of the knee",
+    "optionNotes": [
+      "A bony shield over the joint",
+      "The knee is a hinge; it cannot spin",
+      "That is the hip joint",
+      "The heart pumps blood"
+    ],
+    "explain": "The kneecap, or patella, sits inside the tendon of the quadriceps muscle at the front of the knee. It shields the joint from knocks and works like a pulley, helping the thigh muscles straighten the leg with less effort. Babies are born with a kneecap made of cartilage that slowly turns to bone."
+  },
+  {
+    "id": "bones-case-27",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Physiotherapist",
+    "scenario": "After six weeks in a cast, a girl's broken arm has healed, but the arm looks thinner and feels weak. Why?",
+    "options": [
+      "The bone has disappeared",
+      "The cast removed her bone marrow",
+      "Her arm has stopped growing for good",
+      "Unused muscles shrink and weaken"
+    ],
+    "answer": "Unused muscles shrink and weaken",
+    "optionNotes": [
+      "The bone has healed, not vanished",
+      "A cast does not affect marrow",
+      "Growth carries on normally",
+      "Muscles kept still lose size and strength"
+    ],
+    "explain": "Muscles stay strong only when they are used. When an arm is kept still in a cast, its muscles get smaller and weaker. After the cast comes off, a physiotherapist gives exercises that slowly rebuild strength and movement, and the arm usually returns to normal within weeks."
+  },
+  {
+    "id": "bones-case-28",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A man lifts a heavy load badly. A soft pad between two bones in his lower spine bulges out and presses on a nerve, sending pain down his leg. Which part has bulged?",
+    "options": [
+      "The hip socket",
+      "A disc between vertebrae",
+      "A tendon in the calf",
+      "The kneecap"
+    ],
+    "answer": "A disc between vertebrae",
+    "optionNotes": [
+      "Part of the hip joint, not the spine",
+      "Cushion between spine bones",
+      "In the leg, not the spine",
+      "At the front of the knee"
+    ],
+    "explain": "Between the vertebrae of your spine are discs, flat cushions with a tough outer ring and a softer centre. They absorb jolts and let the spine bend. If a disc bulges, it can press on a nearby nerve, causing pain that travels along that nerve into the leg. This is often called a 'slipped disc', though the disc does not actually slip."
+  },
+  {
+    "id": "bones-case-29",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "Astronauts who spend months floating in space, with no weight pressing on their bodies, come back with weaker bones. Why?",
+    "options": [
+      "Space food has no calcium",
+      "Their bones were stretched",
+      "Bones that carry no weight lose minerals",
+      "Starlight melts bone"
+    ],
+    "answer": "Bones that carry no weight lose minerals",
+    "optionNotes": [
+      "Astronaut food includes calcium",
+      "Stretching does not weaken bone",
+      "Bone rebuilds weaker without load",
+      "Light cannot melt bone"
+    ],
+    "explain": "Bone keeps rebuilding itself, and it builds itself strong where it carries weight and takes impact. In space, the legs, hips and spine carry almost no weight, so the body removes minerals from them and they become weaker. Astronauts exercise about two hours a day to slow this. On Earth, running, jumping and skipping help keep bones strong."
+  },
+  {
+    "id": "bones-case-30",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Your intestines squeeze food along all day and night without you thinking about it. Which type of muscle in their walls does this?",
+    "options": [
+      "Smooth muscle",
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Tendon"
+    ],
+    "answer": "Smooth muscle",
+    "optionNotes": [
+      "Works by itself in organ walls",
+      "Moves bones; you control it",
+      "Found only in the heart",
+      "Joins muscle to bone; not a muscle"
+    ],
+    "explain": "Smooth muscle is found in the walls of hollow organs like the stomach, intestines, bladder and blood vessels. It contracts slowly and steadily without you deciding to, which is why it is called involuntary. In the gut, waves of smooth muscle squeezing push food along."
+  },
+  {
+    "id": "bones-case-31",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Orthopaedic Doctor",
+    "scenario": "Two weeks after a fracture, an X-ray shows a soft lump of new tissue bridging the broken ends. Over the next weeks it hardens into bone. What is this lump called?",
+    "options": [
+      "Bruise",
+      "Blister",
+      "Ligament",
+      "Callus"
+    ],
+    "answer": "Callus",
+    "optionNotes": [
+      "Blood under the skin",
+      "Fluid bubble in the skin",
+      "Joins bone to bone at joints",
+      "New tissue that joins broken bone"
+    ],
+    "explain": "After a bone breaks, a blood clot forms around the break. Bone cells then build a soft bridge of new tissue, called a callus, between the broken ends. Over several weeks minerals harden the callus into bone, and over the following months the bone is reshaped to its normal form. A cast keeps the ends lined up while this happens."
+  },
+  {
+    "id": "bones-case-32",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Physiotherapist",
+    "scenario": "Unlike your other fingers, your thumb can swing across your palm to touch each fingertip. Which type of joint at the base of the thumb, near the wrist, makes this possible?",
+    "options": [
+      "Hinge joint",
+      "Saddle joint",
+      "Fixed joint",
+      "Pivot joint"
+    ],
+    "answer": "Saddle joint",
+    "optionNotes": [
+      "Moves one way only",
+      "Two curved surfaces; moves two ways",
+      "Does not move",
+      "Allows turning, as in the neck"
+    ],
+    "explain": "At the base of the thumb, two bones meet with curved surfaces shaped like a rider sitting in a saddle. This saddle joint lets the thumb move forward and back as well as side to side, so it can touch each fingertip. This ability, called opposition, lets humans grip a pencil or pick up small objects."
+  }
+]

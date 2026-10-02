@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "cells-odd-18",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Test tube",
+      "Eyepiece",
+      "Objective lens",
+      "Stage",
+      "Mirror"
+    ],
+    "answer": "Test tube",
+    "notes": [
+      "Glass tube for holding liquids",
+      "Lens you look into at the top",
+      "Lens just above the slide",
+      "Flat platform where the slide sits",
+      "Reflects light up through the slide"
+    ],
+    "reason": "A test tube holds liquids; the other four are parts of a light microscope.",
+    "explain": "A light microscope works by shining light up through a thin sample. The mirror sends light upward, the stage holds the slide, and two lenses (the objective and the eyepiece) make the image bigger. A test tube is useful lab glassware, but it is not part of a microscope.",
+    "fact": "Many school microscopes have three objective lenses on a turning wheel, so you can switch between low and high power."
+  },
+  {
+    "id": "cells-odd-19",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Keeps cytoplasm inside",
+      "Lets oxygen in",
+      "Lets waste out",
+      "Makes proteins",
+      "Controls what enters"
+    ],
+    "answer": "Makes proteins",
+    "notes": [
+      "Holds the cell's contents together",
+      "Oxygen passes through it into the cell",
+      "Waste like carbon dioxide leaves through it",
+      "Job of ribosomes, not the membrane",
+      "Acts like a gatekeeper"
+    ],
+    "reason": "Making proteins is the job of ribosomes; the other four are jobs of the cell membrane.",
+    "explain": "The cell membrane is a thin, flexible layer around every cell. It holds the contents in and works like a gatekeeper, letting useful things such as oxygen and food in and sending waste out. Proteins are built by tiny parts called ribosomes, which sit inside the cell.",
+    "fact": "The cell membrane is so thin that thousands of them stacked together would still be thinner than a sheet of paper."
+  },
+  {
+    "id": "cells-odd-20",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Lysosome",
+      "Golgi body"
+    ],
+    "answer": "Ribosome",
+    "notes": [
+      "Wrapped in a double membrane",
+      "Tiny grain with no membrane around it",
+      "Wrapped in a double membrane",
+      "A small bag with a membrane",
+      "Stack of membrane pouches"
+    ],
+    "reason": "A ribosome has no membrane around it; the other four are wrapped in membranes.",
+    "explain": "Many parts inside a cell are wrapped in their own thin membrane, like rooms with walls. The nucleus, mitochondria, lysosomes and the Golgi body all have these walls. Ribosomes are tiny grains with no membrane, which is why even bacteria, with no 'rooms' at all, still have them.",
+    "fact": "A single busy cell can contain millions of ribosomes."
+  },
+  {
+    "id": "cells-odd-21",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Grass",
+      "Tulsi",
+      "Mango tree",
+      "Moss",
+      "Mushroom"
+    ],
+    "answer": "Mushroom",
+    "notes": [
+      "Green; makes its own food",
+      "Green leaves make its food",
+      "Green leaves make food",
+      "Small green plant; makes its own food",
+      "A fungus; absorbs food from its surroundings"
+    ],
+    "reason": "A mushroom is a fungus that cannot make its own food; the other four are plants that make food using sunlight.",
+    "explain": "Plants have cells with chloroplasts, the green parts that use sunlight to make food. Grass, tulsi, mango trees and moss are all plants. A mushroom is a fungus. Its cells have no chloroplasts, so it takes in food from rotting leaves, wood or soil around it.",
+    "fact": "The mushroom you see is only a small part of the fungus; most of it is a web of fine threads hidden underground."
+  },
+  {
+    "id": "cells-odd-22",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Gene",
+      "Chromosome",
+      "Antibody",
+      "DNA",
+      "Genome"
+    ],
+    "answer": "Antibody",
+    "notes": [
+      "A section of DNA with one instruction",
+      "Coiled bundle of DNA",
+      "Protein that helps fight germs",
+      "The molecule that stores instructions",
+      "The full set of an organism's DNA"
+    ],
+    "reason": "An antibody is a germ-fighting protein; the other four are words for genetic material.",
+    "explain": "DNA is the molecule that stores a cell's instructions. A gene is one section of DNA, a chromosome is a long coiled bundle of DNA, and the genome is the complete set of DNA in an organism. An antibody is a protein made by white blood cells to fight germs, so it belongs to the immune system.",
+    "fact": "The human genome has about 20,000 genes that carry instructions for making proteins."
+  },
+  {
+    "id": "cells-odd-23",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Egg cell",
+      "Skin cell",
+      "Liver cell",
+      "Muscle cell",
+      "Cheek cell"
+    ],
+    "answer": "Egg cell",
+    "notes": [
+      "Holds only 23 chromosomes, half the usual",
+      "Nucleus holds 46 chromosomes",
+      "Nucleus holds 46 chromosomes",
+      "Each nucleus holds 46 chromosomes",
+      "Nucleus holds 46 chromosomes"
+    ],
+    "reason": "An egg cell has 23 chromosomes; the other body cells have 46.",
+    "explain": "Most human body cells carry 46 chromosomes, arranged in 23 pairs. Egg cells and sperm cells carry only one chromosome from each pair, so they have 23. When an egg and sperm join, the new cell has 23 + 23 = 46 again, half from each parent.",
+    "fact": "The human egg cell is one of the largest cells in the body, roughly the size of a full stop."
+  },
+  {
+    "id": "cells-odd-24",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Oxygen",
+      "Glucose",
+      "Amino acids",
+      "Carbon dioxide",
+      "Minerals"
+    ],
+    "answer": "Carbon dioxide",
+    "notes": [
+      "Taken in to release energy",
+      "Sugar taken in as fuel",
+      "Taken in to build proteins",
+      "Waste gas the cell gives out",
+      "Taken in for many cell jobs"
+    ],
+    "reason": "Carbon dioxide is a waste the cell gives out; the other four are things a body cell takes in.",
+    "explain": "Your body cells take in glucose and oxygen and use them in respiration to release energy. They also take in amino acids to build proteins and minerals for many small jobs. Respiration leaves carbon dioxide as waste, which the blood carries to the lungs to be breathed out.",
+    "fact": "Plant cells do the opposite during the day: they take in carbon dioxide to make food and give out oxygen."
+  },
+  {
+    "id": "cells-odd-25",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Perfume smell spreading",
+      "Ball rolling downhill",
+      "Ink spreading in water",
+      "Oxygen entering the blood",
+      "Tea colour spreading"
+    ],
+    "answer": "Ball rolling downhill",
+    "notes": [
+      "Scent particles spread through air",
+      "Pulled by gravity, not spreading out",
+      "Ink particles spread out evenly",
+      "Oxygen moves from lungs to blood",
+      "Colour spreads out from the tea bag"
+    ],
+    "reason": "A ball rolls because of gravity; the other four are examples of diffusion.",
+    "explain": "Diffusion is when tiny particles spread from a place where there are many of them to a place where there are few. Perfume, ink and tea colour all spread out this way without anyone stirring them. Oxygen gets into your blood, and then into your cells, by diffusion too. A rolling ball moves because gravity pulls it, which is a different thing.",
+    "fact": "Diffusion is faster when things are warm, which is why tea colour spreads faster in hot water than in cold."
+  },
+  {
+    "id": "cells-odd-26",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Amoeba",
+      "Sperm",
+      "Paramecium",
+      "White blood cell",
+      "Onion cell"
+    ],
+    "answer": "Onion cell",
+    "notes": [
+      "Crawls by pushing out its body",
+      "Swims with a long tail",
+      "Swims by beating tiny hairs",
+      "Crawls through tissue to chase germs",
+      "Fixed in place by its cell wall"
+    ],
+    "reason": "An onion cell cannot move by itself; the other four cells move on their own.",
+    "explain": "Some cells can move themselves. An amoeba crawls by pushing out parts of its body, a paramecium beats thousands of tiny hairs, a sperm lashes a long tail, and some white blood cells crawl out of blood vessels to reach germs. An onion cell is a plant cell, held in place by its firm cell wall inside the onion.",
+    "fact": "Sperm cells are among the smallest cells in the human body, while egg cells are among the largest."
+  },
+  {
+    "id": "cells-odd-27",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Virus",
+      "Ribosome",
+      "Tissue",
+      "Gene",
+      "Nucleus"
+    ],
+    "answer": "Tissue",
+    "notes": [
+      "Smaller than a typical body cell",
+      "Tiny part inside a cell",
+      "Made of many cells, so bigger",
+      "Short stretch of DNA in a cell",
+      "One part inside a cell"
+    ],
+    "reason": "A tissue is made of many cells, so it is bigger than one cell; the other four are smaller than a cell.",
+    "explain": "Living things are organised in levels. Inside a cell are smaller parts like the nucleus, ribosomes and genes. Above the cell come tissues, which are groups of similar cells working together. A virus is not a cell at all and is usually far smaller than a human cell.",
+    "fact": "Most viruses are so small that they can only be seen with an electron microscope."
+  },
+  {
+    "id": "cells-odd-28",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Melting",
+      "Growth",
+      "Reproduction",
+      "Respiration",
+      "Excretion"
+    ],
+    "answer": "Melting",
+    "notes": [
+      "Ice does this; not a life process",
+      "Living things get bigger",
+      "Living things make young",
+      "Releasing energy from food",
+      "Getting rid of waste"
+    ],
+    "reason": "Melting happens to non-living things like ice; the other four are life processes.",
+    "explain": "All living things, from one-celled amoebas to elephants, carry out life processes. They grow, reproduce, release energy from food through respiration, and get rid of waste through excretion. These happen inside cells. Melting is a change that happens to non-living materials such as ice or wax when they are heated.",
+    "fact": "Even a single bacterium carries out all these life processes inside one tiny cell."
+  },
+  {
+    "id": "cells-odd-29",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Ribosome",
+      "Vacuole",
+      "Mitochondrion",
+      "Cheek cell",
+      "Nucleus"
+    ],
+    "answer": "Cheek cell",
+    "notes": [
+      "Part inside a cell; builds proteins",
+      "Part inside a cell; stores things",
+      "Part inside a cell; releases energy",
+      "A whole cell, not a part",
+      "Part inside a cell; controls it"
+    ],
+    "reason": "A cheek cell is a whole cell; the other four are parts found inside cells.",
+    "explain": "The small working parts inside a cell are called organelles, which means 'little organs'. The nucleus controls the cell, mitochondria release energy, ribosomes build proteins and vacuoles store things. A cheek cell is a whole cell that contains organelles like these.",
+    "fact": "Your cheek lining constantly sheds old cells and replaces them, which is why a gentle scrape collects so many."
+  },
+  {
+    "id": "cells-odd-30",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Skin cells",
+      "Brain nerve cells",
+      "Gut lining cells",
+      "Bone marrow cells",
+      "Hair root cells"
+    ],
+    "answer": "Brain nerve cells",
+    "notes": [
+      "Divide often to replace worn skin",
+      "Most never divide after early life",
+      "Divide often; replaced every few days",
+      "Divide to make new blood cells",
+      "Divide quickly so hair keeps growing"
+    ],
+    "reason": "Most brain nerve cells do not divide after early life; the other four keep dividing.",
+    "explain": "Cells that wear out quickly are replaced by cell division. Skin, gut lining, hair root and bone marrow cells divide all the time. Most nerve cells in the brain stop dividing early in life, so the ones you have now need to last for many years. This is one reason protecting your head with a helmet matters.",
+    "fact": "The cells lining your gut are replaced every few days because food and digestive juices wear them down."
+  },
+  {
+    "id": "cells-odd-31",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Growing taller",
+      "Healing a cut",
+      "Replacing old skin",
+      "Making new blood cells",
+      "Making sperm cells"
+    ],
+    "answer": "Making sperm cells",
+    "notes": [
+      "New body cells by mitosis",
+      "New skin cells by mitosis",
+      "New skin cells by mitosis",
+      "New blood cells by mitosis",
+      "Needs meiosis to halve chromosomes"
+    ],
+    "reason": "Making sperm cells needs meiosis; the other four use mitosis.",
+    "explain": "Cells divide in two ways. Mitosis makes two new cells that are exact copies of the old one, which is how you grow, heal and replace worn cells. Meiosis is used only to make egg and sperm cells. It halves the number of chromosomes from 46 to 23, so that a fertilised egg ends up with 46.",
+    "fact": "Meiosis also shuffles genes, which is one reason brothers and sisters do not look exactly alike."
+  },
+  {
+    "id": "cells-odd-32",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Hair root",
+      "Saliva",
+      "Distilled water",
+      "Blood",
+      "Cheek swab"
+    ],
+    "answer": "Distilled water",
+    "notes": [
+      "Has living cells with DNA",
+      "Carries cheek cells with DNA",
+      "Pure water with no cells",
+      "White blood cells carry DNA",
+      "Cotton swab picks up cheek cells"
+    ],
+    "reason": "Distilled water has no cells and so no DNA; the other four contain cells with DNA.",
+    "explain": "DNA is kept inside the nucleus of cells. So anything that contains cells, like a hair with its root, saliva with cheek cells, blood with white cells, or a cotton swab rubbed inside the cheek, also contains DNA. Distilled water is pure water with no cells in it, so it has no DNA.",
+    "fact": "A hair cut from the end has almost no usable DNA; the root is the part that holds living cells."
+  },
+  {
+    "id": "cells-odd-33",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cells form from dust",
+      "All life is made of cells",
+      "New cells come from old cells",
+      "Cell is the unit of life",
+      "Cells carry out life processes"
+    ],
+    "answer": "Cells form from dust",
+    "notes": [
+      "False; cells only come from cells",
+      "Part of cell theory",
+      "Part of cell theory",
+      "Part of cell theory",
+      "True; each cell lives and works"
+    ],
+    "reason": "Cells do not form from dust; the other four are true ideas from cell theory.",
+    "explain": "Cell theory is one of the big ideas of biology. It says all living things are made of cells, the cell is the basic unit of life, and new cells come only from cells that already exist, by division. People once believed living things could appear from mud or dust, but careful experiments showed this does not happen.",
+    "fact": "Cell theory was put together in the 1830s to 1850s by Schleiden, Schwann and Virchow."
+  },
+  {
+    "id": "cells-odd-34",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Iodine",
+      "Methylene blue",
+      "Safranin",
+      "Salt water",
+      "Eosin"
+    ],
+    "answer": "Salt water",
+    "notes": [
+      "Brown stain used on onion peel",
+      "Blue stain used on cheek cells",
+      "Red stain used on plant cells",
+      "Clear liquid; adds no colour",
+      "Pink stain used in medical labs"
+    ],
+    "reason": "Salt water adds no colour; the other four are stains for colouring cells.",
+    "explain": "Many cell parts are almost see-through, so scientists add stains, which are coloured chemicals that soak into certain parts. Iodine, methylene blue, safranin and eosin each colour different parts, making the nucleus and other structures easy to see. Salt water is clear, so it cannot make anything show up.",
+    "fact": "Hospital labs often use two stains together, one for the nucleus and one for the rest of the cell, to spot problems in tissue samples."
+  },
+  {
+    "id": "cells-taboo-18",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Cell",
+    "forbidden": [
+      "Unit",
+      "Tiny",
+      "Living",
+      "Building block"
+    ],
+    "clues": [
+      "Robert Hooke gave it its name in 1665 after looking at thin slices of cork.",
+      "Your body has trillions of these, and most can only be seen with a microscope.",
+      "An amoeba is made of just one of these, while you are made of many."
+    ],
+    "decoys": [
+      "Atom",
+      "Tissue",
+      "Organ"
+    ],
+    "explain": "The cell is the smallest part of a living thing that is itself alive. Some living things, like an amoeba, are a single cell, while a human is made of trillions. Groups of cells make tissues, and tissues make organs. Robert Hooke named them 'cells' because the boxes he saw in cork reminded him of small rooms."
+  },
+  {
+    "id": "cells-taboo-19",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Cell wall",
+    "forbidden": [
+      "Plant",
+      "Rigid",
+      "Outer",
+      "Cellulose"
+    ],
+    "clues": [
+      "Bacteria and fungi have one too, but your own cells do not.",
+      "It is made of a tough material that also makes up paper and cotton.",
+      "Onion peel cells have this thick, firm layer around the membrane, giving them a fixed box shape."
+    ],
+    "decoys": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "explain": "The cell wall is a firm layer around the outside of plant cells, outside the cell membrane. In plants it is made of cellulose, the same material as cotton and paper. It gives the cell a fixed shape and stops it bursting when it fills with water. Animal cells have no cell wall, which is why they can change shape."
+  },
+  {
+    "id": "cells-taboo-20",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Organism",
+    "forbidden": [
+      "Living thing",
+      "Life",
+      "Animal",
+      "Plant"
+    ],
+    "clues": [
+      "It is the top level: cells make tissues, tissues make organs, organs make systems, and systems make this.",
+      "It means any whole, separate creature that can grow and reproduce on its own.",
+      "A mango tree, a cat and an amoeba are each one of these."
+    ],
+    "decoys": [
+      "Organ",
+      "Organ system",
+      "Tissue"
+    ],
+    "explain": "An organism is a complete living thing. It can be as small as one cell, like a bacterium, or made of trillions of cells, like a human or a tree. In large organisms, cells form tissues, tissues form organs, and organs form organ systems that keep the whole organism alive."
+  },
+  {
+    "id": "cells-taboo-21",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Magnifying glass",
+    "forbidden": [
+      "Lens",
+      "Bigger",
+      "Zoom",
+      "Detective"
+    ],
+    "clues": [
+      "It has a single curved piece of glass held in a frame, usually with a handle.",
+      "Holding it over an ant makes the ant look several times larger.",
+      "In stories, a famous investigator carries one to study clues up close."
+    ],
+    "decoys": [
+      "Microscope",
+      "Telescope",
+      "Binoculars"
+    ],
+    "explain": "A magnifying glass is a single curved lens that bends light so objects look larger, usually a few times their real size. That is enough to see an insect's legs but not individual cells. A microscope uses two or more lenses together to magnify hundreds of times, which is what you need to see cells."
+  },
+  {
+    "id": "cells-taboo-22",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Cover slip",
+    "forbidden": [
+      "Glass",
+      "Slide",
+      "Thin",
+      "Square"
+    ],
+    "clues": [
+      "It is lowered gently at an angle so that no air bubbles get trapped.",
+      "It keeps the sample flat and stops it from drying out.",
+      "This small, see-through piece is placed on top of the sample before you look through the microscope."
+    ],
+    "decoys": [
+      "Petri dish",
+      "Test tube",
+      "Dropper"
+    ],
+    "explain": "A cover slip is a very thin square of glass placed over a sample on a microscope slide. It flattens the sample into an even layer, keeps it moist and protects the lens. Lowering it slowly at an angle pushes air out, because bubbles can look like cells and confuse you."
+  },
+  {
+    "id": "cells-taboo-23",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Plant cell",
+    "forbidden": [
+      "Chloroplast",
+      "Cell wall",
+      "Leaf",
+      "Green"
+    ],
+    "clues": [
+      "It usually has one big storage sac full of watery sap in its middle.",
+      "Its firm box made of cellulose gives it a neat, brick-like shape.",
+      "You find it in onion peel, tulsi and mango trees, and many of them can make food from sunlight."
+    ],
+    "decoys": [
+      "Animal cell",
+      "Yeast cell",
+      "Nerve cell"
+    ],
+    "explain": "Plant cells have three things animal cells do not: a cell wall made of cellulose, chloroplasts that make food using sunlight, and a large central vacuole filled with sap. They also share parts with animal cells, such as the nucleus, cytoplasm, cell membrane and mitochondria. Onion peel cells have no chloroplasts because they grow underground."
+  },
+  {
+    "id": "cells-taboo-24",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Unicellular",
+    "forbidden": [
+      "One",
+      "Single",
+      "Cell",
+      "Multicellular"
+    ],
+    "clues": [
+      "The opposite word describes elephants, trees and you.",
+      "A creature described by this word must feed, move and reproduce with a body that is just a lone tiny unit.",
+      "Amoeba, paramecium and bacteria are described by this word."
+    ],
+    "decoys": [
+      "Multicellular",
+      "Microscopic",
+      "Invertebrate"
+    ],
+    "explain": "Unicellular means made of just one cell. In a unicellular organism, that one cell must do every job: take in food, release energy, get rid of waste, move and reproduce. Multicellular organisms like humans share these jobs among many specialised cells. 'Uni' means one, as in unicorn or uniform."
+  },
+  {
+    "id": "cells-taboo-25",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Osmosis",
+    "forbidden": [
+      "Water",
+      "Membrane",
+      "Diffusion",
+      "Concentration"
+    ],
+    "clues": [
+      "Plant roots take in moisture from the soil mainly by this process.",
+      "Sprinkle salt on cucumber slices and liquid seeps out of them because of it.",
+      "Raisins soaked overnight swell up because of it."
+    ],
+    "decoys": [
+      "Evaporation",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "explain": "Osmosis is the movement of water through a membrane that lets water pass but holds back bigger particles like sugar and salt. Water moves from the side where it is more plentiful to the side where there is more dissolved stuff. A raisin is full of sugar, so water moves into it and it swells. Salt on cucumber pulls water out the same way."
+  },
+  {
+    "id": "cells-taboo-26",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Heredity",
+    "forbidden": [
+      "Parents",
+      "Genes",
+      "Inherit",
+      "Traits"
+    ],
+    "clues": [
+      "Gregor Mendel's experiments with pea plants were the first careful study of this.",
+      "It explains why a puppy grows into a dog like its mother and father, never a kitten.",
+      "It is the passing of features like eye colour from a mother and father to their children."
+    ],
+    "decoys": [
+      "Mutation",
+      "Evolution",
+      "Immunity"
+    ],
+    "explain": "Heredity is the passing of features from parents to their young through genes. Each child gets half its genes from the mother and half from the father, carried in the egg and sperm. This is why children often look like their parents, and why living things always produce young of their own kind."
+  },
+  {
+    "id": "cells-taboo-27",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Clone",
+    "forbidden": [
+      "Copy",
+      "Identical",
+      "Dolly",
+      "Sheep"
+    ],
+    "clues": [
+      "Gardeners make these when they grow a whole new rose bush from a cut piece of stem.",
+      "It is a living thing with exactly the same DNA as the one it came from.",
+      "In 1996, scientists in Scotland made a famous lamb this way, using a body cell from an adult."
+    ],
+    "decoys": [
+      "Hybrid",
+      "Mutant",
+      "Embryo"
+    ],
+    "explain": "A clone is a living thing with the same DNA as the one it came from. Many plants make clones naturally, and gardeners make them from cuttings. Bacteria make clones every time they divide. In 1996, scientists made Dolly the sheep, the first mammal cloned from an adult body cell."
+  },
+  {
+    "id": "cells-taboo-28",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Stain",
+    "forbidden": [
+      "Dye",
+      "Colour",
+      "Methylene blue",
+      "Iodine"
+    ],
+    "clues": [
+      "Without it, many parts of a cell look almost see-through under a microscope.",
+      "Safranin, often used on onion peel, is one kind.",
+      "A drop of it makes the nucleus show up dark and clear."
+    ],
+    "decoys": [
+      "Glycerine",
+      "Salt water",
+      "Alcohol"
+    ],
+    "explain": "A stain is a coloured chemical added to a sample on a slide. Different parts of a cell soak up the stain by different amounts, so the nucleus or the cell wall stands out. Without a stain, most cells are pale and hard to see under a light microscope."
+  },
+  {
+    "id": "cells-taboo-29",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Robert Hooke",
+    "forbidden": [
+      "Cork",
+      "1665",
+      "Cell",
+      "Scientist"
+    ],
+    "clues": [
+      "This English thinker also studied springs, and a law about stretching is named after him.",
+      "He wrote a famous book called Micrographia, full of drawings of tiny things.",
+      "He looked at thin slices of oak bark through his microscope and named the little boxes he saw after small rooms."
+    ],
+    "decoys": [
+      "Anton van Leeuwenhoek",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ],
+    "explain": "Robert Hooke was an English scientist who, in 1665, looked at thin slices of cork through his microscope. He saw many small empty boxes and called them 'cells' because they reminded him of small rooms. Those were the walls of dead plant cells. His book Micrographia showed people a hidden world of tiny things for the first time."
+  },
+  {
+    "id": "cells-taboo-30",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Epithelium",
+    "forbidden": [
+      "Lining",
+      "Skin",
+      "Cover",
+      "Tissue"
+    ],
+    "clues": [
+      "Its cells sit tightly side by side, like tiles on a floor.",
+      "It forms the inner surface of your mouth, stomach and gut.",
+      "The cells you gently scrape from inside your cheek belong to this type."
+    ],
+    "decoys": [
+      "Connective tissue",
+      "Muscle tissue",
+      "Nerve tissue"
+    ],
+    "explain": "Epithelium is a tissue made of tightly packed cells that covers surfaces and lines spaces in the body. It forms the outer layer of skin and lines the mouth, stomach, gut and blood vessels. Because the cells fit closely together, epithelium works like a protective barrier, keeping germs out and controlling what passes through."
+  },
+  {
+    "id": "cells-taboo-31",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Lysosome",
+    "forbidden": [
+      "Digest",
+      "Enzyme",
+      "Recycle",
+      "Waste"
+    ],
+    "clues": [
+      "White blood cells have many of these to break down germs they swallow.",
+      "It is a tiny bag inside animal cells, holding strong chemicals that break things apart.",
+      "It is often called the cell's clean-up crew, breaking down worn-out parts."
+    ],
+    "decoys": [
+      "Ribosome",
+      "Vacuole",
+      "Mitochondrion"
+    ],
+    "explain": "A lysosome is a small bag inside animal cells filled with enzymes, which are chemicals that break big molecules into small ones. It breaks down worn-out cell parts so their materials can be reused, and destroys germs that a cell has swallowed. Its membrane keeps the strong enzymes from damaging the rest of the cell."
+  },
+  {
+    "id": "cells-taboo-32",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Golgi body",
+    "forbidden": [
+      "Package",
+      "Post office",
+      "Ship",
+      "Sort"
+    ],
+    "clues": [
+      "It is named after an Italian scientist, Camillo, who described it in nerve cells in 1898.",
+      "Under an electron microscope it looks like a stack of flat pouches, like a pile of pancakes.",
+      "It takes proteins made in the cell, wraps them in tiny bubbles and sends them where they are needed."
+    ],
+    "decoys": [
+      "Lysosome",
+      "Ribosome",
+      "Mitochondrion"
+    ],
+    "explain": "The Golgi body, also called the Golgi apparatus, is a stack of flat membrane pouches inside the cell. It receives proteins and other materials, finishes them off, and packs them into tiny bubbles called vesicles. These are sent to other parts of the cell or out of it, a little like a post office sorting parcels."
+  },
+  {
+    "id": "cells-taboo-33",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Meiosis",
+    "forbidden": [
+      "Half",
+      "Sex cells",
+      "Egg",
+      "Sperm"
+    ],
+    "clues": [
+      "In humans, it happens only in the testes and the ovaries.",
+      "It ends with four new cells, each with a different mix of genes.",
+      "It makes cells with 23 chromosomes instead of 46, so that when two such cells join, the result has 46."
+    ],
+    "decoys": [
+      "Mitosis",
+      "Osmosis",
+      "Fertilisation"
+    ],
+    "explain": "Meiosis is a special kind of cell division used to make egg and sperm cells. It halves the number of chromosomes, from 46 to 23, and shuffles the genes. When an egg and sperm join at fertilisation, the new cell has 46 chromosomes again. Mitosis, the everyday kind of division, makes exact copies with 46."
+  },
+  {
+    "id": "cells-taboo-34",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Flagellum",
+    "forbidden": [
+      "Tail",
+      "Whip",
+      "Swim",
+      "Sperm"
+    ],
+    "clues": [
+      "Euglena and many bacteria move using one of these.",
+      "It is a long, thin thread that sticks out from a cell and lashes back and forth.",
+      "The male cell that joins an egg uses one to travel towards it."
+    ],
+    "decoys": [
+      "Cilia",
+      "Pseudopodium",
+      "Cell wall"
+    ],
+    "explain": "A flagellum is a long, thin, whip-like thread that sticks out of some cells and moves them through liquid. Sperm cells, euglena and many bacteria use flagella. Cilia are similar but much shorter and come in large numbers, like the hairs that cover a paramecium. The plural of flagellum is flagella."
+  },
+  {
+    "id": "cells-case-17",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A student puts an onion peel slide under a microscope, but the picture looks blurry. What should she do?",
+    "options": [
+      "Add more onion peel",
+      "Switch off the light",
+      "Turn the focus knob slowly",
+      "Shake the slide"
+    ],
+    "answer": "Turn the focus knob slowly",
+    "optionNotes": [
+      "A thicker sample blocks light",
+      "Without light you see nothing",
+      "Moves the lens to the sharp distance",
+      "Moves the sample and spills it"
+    ],
+    "explain": "A lens gives a sharp picture only when it is at the right distance from the sample. The focus knob moves the stage or lens up and down to find that distance. Start with the low-power lens and turn the knob slowly until the cells look clear."
+  },
+  {
+    "id": "cells-case-18",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A curious child asks the doctor what an ant, a banyan tree and her own body are all built from. What is the smallest living unit they share?",
+    "options": [
+      "Cells",
+      "Organs",
+      "Tissues",
+      "Bones"
+    ],
+    "answer": "Cells",
+    "optionNotes": [
+      "Smallest unit of every living thing",
+      "Made of tissues, so not smallest",
+      "Made of many cells",
+      "Trees and ants have no bones"
+    ],
+    "explain": "Every living thing is made of one or more cells, and the cell is the smallest unit that is alive. Cells group into tissues, and tissues form organs. An ant, a tree and a child look very different, but all are built from cells."
+  },
+  {
+    "id": "cells-case-19",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "Under a microscope, cells from a leaf are full of small green dots. What do these green parts do?",
+    "options": [
+      "Store water and salts",
+      "Control what the cell does",
+      "Fight germs",
+      "Make food using sunlight"
+    ],
+    "answer": "Make food using sunlight",
+    "optionNotes": [
+      "Job of the vacuole",
+      "Job of the nucleus",
+      "Job of white blood cells in animals",
+      "Chloroplasts carry out photosynthesis"
+    ],
+    "explain": "The green dots are chloroplasts. They contain chlorophyll, a green substance that captures sunlight. Chloroplasts use that energy to make sugar from carbon dioxide and water, a process called photosynthesis. This sugar feeds the plant and, through food chains, nearly every animal."
+  },
+  {
+    "id": "cells-case-20",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Geneticist",
+    "scenario": "A geneticist explains that the instructions for building and running your body are stored inside almost every cell. In which part of the cell are they kept?",
+    "options": [
+      "Cell membrane",
+      "Nucleus",
+      "Cytoplasm",
+      "Vacuole"
+    ],
+    "answer": "Nucleus",
+    "optionNotes": [
+      "Controls what enters and leaves",
+      "Holds DNA on chromosomes",
+      "Jelly where cell work happens",
+      "Stores water and food"
+    ],
+    "explain": "The nucleus is the control centre of the cell. It holds DNA, packed into chromosomes, which carries the instructions for making proteins and running the cell. Almost every body cell has a full set of these instructions. Mature red blood cells are an exception, as they lose their nucleus."
+  },
+  {
+    "id": "cells-case-21",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "The mouth, stomach and intestines work together as a team to break down food. What is a team of organs like this called?",
+    "options": [
+      "Tissue",
+      "Cell",
+      "Organ system",
+      "Organelle"
+    ],
+    "answer": "Organ system",
+    "optionNotes": [
+      "A group of similar cells",
+      "Smallest unit of life",
+      "Several organs doing one big job",
+      "A small part inside a cell"
+    ],
+    "explain": "The body is organised in levels: cells form tissues, tissues form organs, and organs that work on the same big job form an organ system. The mouth, stomach and intestines belong to the digestive system. Other organ systems include the circulatory system and the nervous system."
+  },
+  {
+    "id": "cells-case-22",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "A neurologist shows a picture of nerve cells. They are very long and have many thin branches at their ends. What is their main job?",
+    "options": [
+      "Carry messages around the body",
+      "Carry oxygen",
+      "Store fat",
+      "Fight germs"
+    ],
+    "answer": "Carry messages around the body",
+    "optionNotes": [
+      "Long shape reaches far; branches connect",
+      "Job of red blood cells",
+      "Job of fat cells",
+      "Job of white blood cells"
+    ],
+    "explain": "In the body, a cell's shape often matches its job. Nerve cells are long so they can carry electrical messages over large distances, such as from your spine to your toes. Their branches connect with many other cells, so messages can be passed on quickly."
+  },
+  {
+    "id": "cells-case-23",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A scientist studies the thin, flexible layer around a cheek cell. It lets food and oxygen in and lets waste out. What is this layer?",
+    "options": [
+      "Cell wall",
+      "Nucleus",
+      "Cytoplasm",
+      "Cell membrane"
+    ],
+    "answer": "Cell membrane",
+    "optionNotes": [
+      "Animal cells like cheek cells lack one",
+      "Control centre inside the cell",
+      "Jelly filling the cell",
+      "Flexible layer that controls entry and exit"
+    ],
+    "explain": "Every cell is wrapped in a cell membrane. It is thin and flexible and lets only certain substances in and out, so it is called 'selectively permeable'. Plant cells also have a firm cell wall outside the membrane, but animal cells such as cheek cells do not."
+  },
+  {
+    "id": "cells-case-24",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A student is told to peel the thinnest possible layer of onion skin for her slide. Why must it be so thin?",
+    "options": [
+      "So the cells die faster",
+      "So light can pass through it",
+      "So it smells less",
+      "So it fits in the eyepiece"
+    ],
+    "answer": "So light can pass through it",
+    "optionNotes": [
+      "Not the reason; living or not, thick layers block light",
+      "Thick layers block light and overlap",
+      "Smell does not affect the view",
+      "The sample goes on the stage, not the eyepiece"
+    ],
+    "explain": "A school microscope shines light up through the sample. If the sample is thick, light cannot get through and many layers of cells pile on top of each other, so you see a dark blur. A layer one cell thick lets light through and shows each cell clearly."
+  },
+  {
+    "id": "cells-case-25",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A single cell in a dish divides into two. Each new cell divides again, and then again. How many cells are there after three rounds of division?",
+    "options": [
+      "6",
+      "3",
+      "8",
+      "9"
+    ],
+    "answer": "8",
+    "optionNotes": [
+      "That would be adding, not doubling",
+      "That counts the rounds, not the cells",
+      "1 to 2 to 4 to 8",
+      "That would be tripling"
+    ],
+    "explain": "In cell division one cell becomes two, so the number doubles each round: 1, 2, 4, 8. Doubling grows numbers very fast. After 20 rounds, one cell would become over a million cells, which is how a single fertilised egg can grow into a body with trillions of cells."
+  },
+  {
+    "id": "cells-case-26",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A microscope's eyepiece lens magnifies 10 times and its objective lens magnifies 40 times. How many times bigger does the cell look?",
+    "options": [
+      "400 times",
+      "50 times",
+      "30 times",
+      "4 times"
+    ],
+    "answer": "400 times",
+    "optionNotes": [
+      "10 × 40 = 400",
+      "Adds the numbers instead of multiplying",
+      "Subtracts the numbers",
+      "Divides the numbers"
+    ],
+    "explain": "In a microscope, the objective lens makes a bigger image, and the eyepiece makes that image bigger again. So the two magnifications multiply: 10 × 40 = 400. At 400 times, a cheek cell looks large enough for you to see its nucleus clearly."
+  },
+  {
+    "id": "cells-case-27",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "On the underside of a leaf, a student sees pairs of bean-shaped cells around tiny holes. What is the job of these paired cells?",
+    "options": [
+      "Make seeds",
+      "Carry water up the stem",
+      "Store starch for winter",
+      "Open and close the holes"
+    ],
+    "answer": "Open and close the holes",
+    "optionNotes": [
+      "Seeds form in flowers",
+      "Job of xylem tubes",
+      "Not their main job",
+      "Guard cells control the pores"
+    ],
+    "explain": "These are guard cells, and the holes are called stomata. When guard cells fill with water, they bend apart and the hole opens to let carbon dioxide in and oxygen and water vapour out. When they lose water, they close the hole so the plant does not dry out."
+  },
+  {
+    "id": "cells-case-28",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Geneticist",
+    "scenario": "A brother and sister have the same mother and father, yet they look quite different. Why?",
+    "options": [
+      "They ate different foods",
+      "Each got a different mix of genes",
+      "One has more cells",
+      "Only one got genes from their mother"
+    ],
+    "answer": "Each got a different mix of genes",
+    "optionNotes": [
+      "Food affects health, not eye colour",
+      "Each egg and sperm carries a different mix",
+      "Cell number does not set looks",
+      "Every child gets genes from both parents"
+    ],
+    "explain": "Each child gets half their genes from their mother and half from their father. But every egg and every sperm carries a different shuffled half, so each child gets a different combination. Only identical twins, who come from one fertilised egg, share the same genes."
+  },
+  {
+    "id": "cells-case-29",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A potted plant is not watered for days, and its leaves droop. Inside its cells, which part has shrunk the most?",
+    "options": [
+      "The cell wall",
+      "The nucleus",
+      "The large vacuole",
+      "The chloroplasts"
+    ],
+    "answer": "The large vacuole",
+    "optionNotes": [
+      "Stays firm and keeps its shape",
+      "Does not store the cell's water",
+      "Its water store empties, so the cell goes soft",
+      "Make food; not the water store"
+    ],
+    "explain": "A plant cell's large vacuole is a sac full of watery sap. When it is full, it presses outward against the cell wall and keeps the cell firm, like air in a tyre. When the plant runs short of water, the vacuoles shrink, cells go soft and the leaves droop. Watering refills them."
+  },
+  {
+    "id": "cells-case-30",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "Some cells in the pancreas make large amounts of proteins to send out. Under an electron microscope, they are packed with tiny dots that build proteins. What are these dots?",
+    "options": [
+      "Ribosomes",
+      "Vacuoles",
+      "Chloroplasts",
+      "Cell walls"
+    ],
+    "answer": "Ribosomes",
+    "optionNotes": [
+      "Build proteins from amino acids",
+      "Storage sacs, not protein builders",
+      "Found in plant cells; make sugar",
+      "Not found in animal cells"
+    ],
+    "explain": "Ribosomes are tiny structures that build proteins by joining amino acids in the order set by the cell's DNA. Cells that make a lot of protein, such as pancreas cells that make digestive enzymes and insulin, are crowded with ribosomes. A cell's parts often show what job it does."
+  },
+  {
+    "id": "cells-case-31",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Microbiologist",
+    "scenario": "Under an electron microscope, a bacterium and a human cheek cell are compared. The cheek cell has a part that the bacterium does not. Which part?",
+    "options": [
+      "A cell membrane",
+      "Cytoplasm",
+      "Ribosomes",
+      "A nucleus"
+    ],
+    "answer": "A nucleus",
+    "optionNotes": [
+      "Both have one",
+      "Both have it",
+      "Both have them",
+      "Bacteria keep DNA loose, with no nucleus"
+    ],
+    "explain": "Bacteria are simple cells. Their DNA floats in the cytoplasm instead of sitting inside a nucleus wrapped in a membrane. Human, animal, plant and fungus cells all have a true nucleus. Both kinds of cell have a cell membrane, cytoplasm and ribosomes."
+  },
+  {
+    "id": "cells-case-32",
+    "system": "cells",
+    "mode": "case",
+    "level": 3,
+    "role": "Geneticist",
+    "scenario": "A skin cell and a nerve cell from the same person carry exactly the same DNA, yet they look and work very differently. Why?",
+    "options": [
+      "They have different DNA",
+      "Each uses a different set of its genes",
+      "Nerve cells have no genes",
+      "Skin cells lost some chromosomes"
+    ],
+    "answer": "Each uses a different set of its genes",
+    "optionNotes": [
+      "The question says the DNA is the same",
+      "Genes are switched on or off by cell type",
+      "Nerve cells carry a full set of genes",
+      "Skin cells keep all 46 chromosomes"
+    ],
+    "explain": "Almost every cell in your body has the same full set of genes, like the same recipe book. But each cell type only uses the recipes it needs. Nerve cells switch on genes for carrying messages, and skin cells switch on genes for making tough keratin. This is how one fertilised egg gives rise to hundreds of different cell types."
+  }
+]

@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "digestion-odd-18",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Amla",
+      "White rice",
+      "Orange",
+      "Guava",
+      "Lemon"
+    ],
+    "answer": "White rice",
+    "notes": [
+      "Indian gooseberry, very rich in vitamin C",
+      "Grain with almost no vitamin C",
+      "Citrus fruit rich in vitamin C",
+      "Fruit with lots of vitamin C",
+      "Sour citrus fruit with vitamin C"
+    ],
+    "reason": "White rice has almost no vitamin C; the other four are good sources of it.",
+    "explain": "Vitamin C keeps gums healthy and helps cuts heal. Your body cannot store much of it, so you need some most days from fresh fruit and vegetables. Amla, guava, orange and lemon are all rich in it. White rice gives energy from starch but almost no vitamin C.",
+    "fact": "Gram for gram, amla and guava have more vitamin C than oranges."
+  },
+  {
+    "id": "digestion-odd-19",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Milk",
+      "Curd",
+      "Paneer",
+      "Potato",
+      "Cheese"
+    ],
+    "answer": "Potato",
+    "notes": [
+      "Dairy drink rich in calcium",
+      "Dairy food made by helpful bacteria",
+      "Dairy food made by curdling milk",
+      "Starchy vegetable with little calcium",
+      "Dairy food rich in calcium"
+    ],
+    "reason": "Potato is a starchy vegetable; the other four are dairy foods rich in calcium.",
+    "explain": "Dairy foods come from milk, and they are a rich source of calcium. Calcium is the mineral that makes bones and teeth hard and strong. Potato is a vegetable that mostly gives starch for energy and has very little calcium.",
+    "fact": "About 99% of the calcium in your body is stored in your bones and teeth."
+  },
+  {
+    "id": "digestion-odd-20",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Spinach",
+      "Ghee",
+      "Butter",
+      "Cooking oil",
+      "Groundnuts"
+    ],
+    "answer": "Spinach",
+    "notes": [
+      "Leafy vegetable, very low in fat",
+      "Clarified butter, almost all fat",
+      "Dairy fat",
+      "Liquid fat pressed from seeds",
+      "Nuts that are about half fat"
+    ],
+    "reason": "Spinach is very low in fat; the other four are rich sources of fat.",
+    "explain": "Fats are an energy-rich nutrient. They also help your body take in vitamins A, D, E and K. Ghee, butter, oil and groundnuts are all high in fat, so small amounts go a long way. Spinach is a leafy vegetable that gives vitamins, minerals and fibre but almost no fat."
+  },
+  {
+    "id": "digestion-odd-21",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Enamel",
+      "Dentine",
+      "Uvula",
+      "Pulp",
+      "Crown"
+    ],
+    "answer": "Uvula",
+    "notes": [
+      "Hard outer coat of a tooth",
+      "Yellowish layer under the enamel",
+      "Soft flap hanging at the back of the throat",
+      "Soft centre with nerves and blood vessels",
+      "Part of a tooth above the gum"
+    ],
+    "reason": "The uvula hangs at the back of the mouth; the other four are parts of a tooth.",
+    "explain": "A tooth has layers. Hard enamel covers the crown, the part you can see. Under it is dentine, and in the centre is the pulp, which holds nerves and blood vessels. The uvula is the small soft flap that dangles at the back of your mouth; it helps close off the nose when you swallow.",
+    "fact": "Enamel is the hardest substance in the human body, harder than bone."
+  },
+  {
+    "id": "digestion-odd-22",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Wets food",
+      "Starts digesting starch",
+      "Helps you taste",
+      "Helps you swallow",
+      "Digests protein"
+    ],
+    "answer": "Digests protein",
+    "notes": [
+      "Makes food soft and moist",
+      "Amylase breaks starch into sugar",
+      "Dissolves food so taste buds detect it",
+      "Makes chewed food slippery",
+      "Starts in the stomach, not the mouth"
+    ],
+    "reason": "Saliva does not digest protein; the other four are jobs saliva does.",
+    "explain": "Saliva is the watery juice made by glands around your mouth. It wets and softens food, dissolves bits of it so your taste buds can detect flavour, and makes food slippery to swallow. It also contains amylase, an enzyme that starts breaking starch into sugar. Protein digestion begins later, in the stomach, with the enzyme pepsin."
+  },
+  {
+    "id": "digestion-odd-23",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Takes back water",
+      "Absorbs most nutrients",
+      "Holds helpful bacteria",
+      "Forms stool",
+      "Bacteria there make vitamin K"
+    ],
+    "answer": "Absorbs most nutrients",
+    "notes": [
+      "Dries out the leftover mush",
+      "Done mainly by the small intestine",
+      "Trillions of microbes live there",
+      "Shapes waste before it leaves",
+      "Gut bacteria make some vitamin K"
+    ],
+    "reason": "Most nutrients are absorbed in the small intestine; the other four happen in the large intestine.",
+    "explain": "By the time food reaches the large intestine, most nutrients have already been absorbed through the villi of the small intestine. The large intestine takes back water and some salts, so the leftovers become firm stool. It is also home to trillions of helpful bacteria, some of which make vitamin K."
+  },
+  {
+    "id": "digestion-odd-24",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Roasted chana",
+      "Fruit salad",
+      "Sprouts chaat",
+      "Deep-fried samosa",
+      "Boiled corn"
+    ],
+    "answer": "Deep-fried samosa",
+    "notes": [
+      "Roasted, rich in protein and fibre",
+      "Fresh fruit with vitamins and fibre",
+      "Sprouted beans with protein",
+      "Fried in oil; high in fat",
+      "Boiled grain with fibre"
+    ],
+    "reason": "The samosa is deep-fried and high in fat; the other four are roasted, boiled or fresh snacks.",
+    "explain": "How food is cooked changes how healthy it is. Deep-frying soaks food in oil, which adds a lot of fat and energy without adding vitamins or fibre. Roasted, boiled, sprouted or fresh snacks keep more of their nutrients and fibre. A samosa is fine now and then, but the other four are better everyday snacks."
+  },
+  {
+    "id": "digestion-odd-25",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Thyroid",
+      "Salivary glands",
+      "Liver",
+      "Pancreas",
+      "Gastric glands"
+    ],
+    "answer": "Thyroid",
+    "notes": [
+      "Neck gland that makes a hormone",
+      "Make saliva for the mouth",
+      "Makes bile for the small intestine",
+      "Sends digestive juice to the small intestine",
+      "Make juice in the stomach wall"
+    ],
+    "reason": "The thyroid releases a hormone into the blood; the other four send digestive juices into the gut.",
+    "explain": "Digestive glands make juices that pour into the food tube: saliva into the mouth, gastric juice into the stomach, and bile and pancreatic juice into the small intestine. The thyroid gland in your neck sends its hormone straight into the blood instead. That hormone controls how fast your body uses energy, and has no direct part in digesting food."
+  },
+  {
+    "id": "digestion-odd-26",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Dal",
+      "Chickpeas",
+      "Egg",
+      "Soya beans",
+      "Peanuts"
+    ],
+    "answer": "Egg",
+    "notes": [
+      "Split lentils, a plant protein",
+      "Chana, a plant protein",
+      "Protein food from an animal",
+      "Bean very rich in plant protein",
+      "Seeds rich in protein and fat"
+    ],
+    "reason": "Egg is an animal protein; the other four are protein foods from plants.",
+    "explain": "Protein builds and repairs muscles, skin and other tissues. You can get it from animals (eggs, milk, fish, meat) or from plants. Dal, chickpeas, soya and peanuts all belong to the bean and pea family, called legumes, which are some of the richest plant sources of protein. Vegetarians often get much of their protein from them."
+  },
+  {
+    "id": "digestion-odd-27",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Chewing food well",
+      "Eating fibre",
+      "Drinking enough water",
+      "Being active",
+      "Lying down after a big meal"
+    ],
+    "answer": "Lying down after a big meal",
+    "notes": [
+      "Gives enzymes smaller pieces to work on",
+      "Keeps food moving through the gut",
+      "Keeps stool soft",
+      "Helps the gut muscles work",
+      "Can push stomach acid upward"
+    ],
+    "reason": "Lying down straight after a big meal can cause acid trouble; the other four help digestion.",
+    "explain": "Good habits help your digestive system do its job. Chewing well breaks food into small pieces, fibre and water keep things moving and soft, and moving your body helps the gut muscles work. Lying flat right after a large meal makes it easier for stomach acid to flow back up the food pipe, causing a burning feeling."
+  },
+  {
+    "id": "digestion-odd-28",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Carrot",
+      "Cucumber",
+      "Mango",
+      "Papaya",
+      "Pumpkin"
+    ],
+    "answer": "Cucumber",
+    "notes": [
+      "Orange root full of beta-carotene",
+      "Pale and watery; little beta-carotene",
+      "Orange flesh with beta-carotene",
+      "Orange fruit with beta-carotene",
+      "Orange flesh with beta-carotene"
+    ],
+    "reason": "Cucumber gives very little vitamin A; the other four are rich in the orange pigment the body turns into vitamin A.",
+    "explain": "Many orange and yellow foods contain beta-carotene, the pigment that gives them their colour. Your body turns beta-carotene into vitamin A, which you need to see in dim light and to keep skin healthy. Carrot, mango, papaya and pumpkin are rich in it. Cucumber is mostly water and gives very little."
+  },
+  {
+    "id": "digestion-odd-29",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Caecum",
+      "Colon",
+      "Rectum",
+      "Duodenum",
+      "Anal canal"
+    ],
+    "answer": "Duodenum",
+    "notes": [
+      "Pouch where the large intestine begins",
+      "Longest part of the large intestine",
+      "Stores stool before it leaves",
+      "First part of the small intestine",
+      "Last short passage to the outside"
+    ],
+    "reason": "The duodenum is the first part of the small intestine; the other four are parts of the large intestine.",
+    "explain": "The small intestine has three parts, and the duodenum comes first, just after the stomach. Bile and pancreatic juice pour into it. The large intestine starts with a pouch called the caecum (where the appendix is attached), runs on as the colon, and ends with the rectum and the anal canal.",
+    "fact": "Duodenum comes from a Latin phrase meaning 'twelve fingers', roughly its length in finger-widths."
+  },
+  {
+    "id": "digestion-odd-30",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Inhalation",
+      "Ingestion",
+      "Digestion",
+      "Absorption",
+      "Assimilation"
+    ],
+    "answer": "Inhalation",
+    "notes": [
+      "Breathing air in",
+      "Taking food into the mouth",
+      "Breaking food into small molecules",
+      "Nutrients passing into the blood",
+      "Cells using nutrients to build and work"
+    ],
+    "reason": "Inhalation is a step in breathing; the other four are steps of nutrition.",
+    "explain": "Nutrition in humans happens in steps. Ingestion is taking food in, digestion breaks it into small molecules, absorption moves those into the blood, and assimilation is when cells use them for energy, growth and repair. The last step, egestion, removes undigested waste. Inhalation means breathing in, which belongs to the breathing system."
+  },
+  {
+    "id": "digestion-odd-31",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Kwashiorkor",
+      "Marasmus",
+      "Chickenpox",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": "Chickenpox",
+    "notes": [
+      "Too little protein",
+      "Too little food energy and protein",
+      "Caused by a virus",
+      "Too little vitamin D",
+      "Too little vitamin C"
+    ],
+    "reason": "Chickenpox is caused by a virus; the other four are deficiency diseases caused by poor diet.",
+    "explain": "A deficiency disease happens when the diet lacks a nutrient for a long time. Kwashiorkor and marasmus come from too little protein and food energy, rickets from too little vitamin D, and scurvy from too little vitamin C. They cannot spread from person to person, and the right food helps prevent them. Chickenpox is an infection caused by a virus and can spread."
+  },
+  {
+    "id": "digestion-odd-32",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin",
+      "Oxygen"
+    ],
+    "answer": "Oxygen",
+    "notes": [
+      "Main energy nutrient",
+      "Body-building nutrient",
+      "Energy store and insulation",
+      "Needed in small amounts for health",
+      "A gas we breathe in, not eat"
+    ],
+    "reason": "Oxygen is a gas taken in by the lungs; the other four are nutrients we get from food.",
+    "explain": "Nutrients are substances in food that the body needs. The main groups are carbohydrates, proteins, fats, vitamins and minerals, plus water and fibre. You need oxygen too, but you get it by breathing, not eating. Your cells use that oxygen to release energy from the nutrients in food."
+  },
+  {
+    "id": "digestion-odd-33",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Adds bulk to stool",
+      "Builds muscle",
+      "Prevents constipation",
+      "Feeds gut bacteria",
+      "Helps you feel full"
+    ],
+    "answer": "Builds muscle",
+    "notes": [
+      "Holds water and makes stool soft",
+      "Job of protein, not fibre",
+      "Keeps waste moving smoothly",
+      "Helpful microbes feed on it",
+      "Takes up space in the stomach"
+    ],
+    "reason": "Building muscle is a job of protein; the other four are things fibre does.",
+    "explain": "Fibre is the part of plant food your body cannot digest. It still has jobs: it soaks up water and adds bulk so stool moves easily, it feeds the helpful bacteria in your large intestine, and it fills you up. Building and repairing muscle is the job of protein."
+  },
+  {
+    "id": "digestion-odd-34",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Stores food for a while",
+      "Churns food",
+      "Kills germs with acid",
+      "Makes bile",
+      "Starts protein digestion"
+    ],
+    "answer": "Makes bile",
+    "notes": [
+      "Holds a meal for a few hours",
+      "Muscle walls mix food with juice",
+      "Acid kills many germs in food",
+      "Done by the liver",
+      "Pepsin begins breaking down protein"
+    ],
+    "reason": "Bile is made by the liver; the other four are jobs of the stomach.",
+    "explain": "The stomach is a stretchy, muscular bag. It holds a meal for a few hours, churns it with gastric juice, and uses strong acid to kill many germs. Its enzyme pepsin starts breaking down protein. Bile is made by the liver, stored in the gall bladder, and used in the small intestine."
+  },
+  {
+    "id": "digestion-taboo-18",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Stomach",
+    "forbidden": [
+      "Acid",
+      "Churn",
+      "Belly",
+      "Bag"
+    ],
+    "clues": [
+      "Strong muscle walls in this J-shaped organ squeeze and mix food for a few hours.",
+      "It sits in the upper left of your tummy, just below the ribs, at the bottom of the food pipe.",
+      "Swallowed food lands here and is mashed into a thick soup before moving on to the small intestine."
+    ],
+    "decoys": [
+      "Liver",
+      "Pancreas",
+      "Gall bladder"
+    ],
+    "explain": "The stomach is a stretchy, muscular organ between the oesophagus and the small intestine. Its walls squeeze to mix food with gastric juice, which contains acid and the enzyme pepsin. After a few hours the food has become a thick liquid that moves on in small amounts.",
+    "fact": "An adult's stomach can stretch to hold about 1 to 1.5 litres of food and drink."
+  },
+  {
+    "id": "digestion-taboo-19",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Small intestine",
+    "forbidden": [
+      "Villi",
+      "Absorb",
+      "Long",
+      "Nutrients"
+    ],
+    "clues": [
+      "Bile and pancreatic juice pour into the first part of this organ.",
+      "Most digestion finishes here, and digested food passes through its walls into the blood.",
+      "This coiled tube fills much of your belly. It is about 6 metres in an adult but narrower than the 'large' one."
+    ],
+    "decoys": [
+      "Large intestine",
+      "Stomach",
+      "Oesophagus"
+    ],
+    "explain": "The small intestine is the coiled tube after the stomach. Juices from the liver and pancreas finish digesting food here. Its inner wall is covered with tiny villi that pass nutrients into the blood. It is called 'small' because it is narrow, even though it is the longest part of the gut."
+  },
+  {
+    "id": "digestion-taboo-20",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Large intestine",
+    "forbidden": [
+      "Colon",
+      "Water",
+      "Stool",
+      "Bacteria"
+    ],
+    "clues": [
+      "Trillions of tiny helpful microbes live inside this part of the gut.",
+      "Leftover food that could not be digested moves slowly through it while liquid is soaked up from the mush.",
+      "This wide tube, about 1.5 metres in an adult, frames the coiled small intestine and ends at the rectum."
+    ],
+    "decoys": [
+      "Small intestine",
+      "Stomach",
+      "Appendix"
+    ],
+    "explain": "The large intestine is the last main part of the gut. It is wider but shorter than the small intestine. It takes water and some salts back from undigested leftovers, so waste becomes firm stool. Helpful bacteria living there break down some fibre and make a little vitamin K."
+  },
+  {
+    "id": "digestion-taboo-21",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Gall bladder",
+    "forbidden": [
+      "Bile",
+      "Liver",
+      "Store",
+      "Gallstone"
+    ],
+    "clues": [
+      "This small pear-shaped pouch is tucked under a large organ on the right side of the belly.",
+      "Between meals it holds a green-yellow juice and makes it stronger by removing some of its water.",
+      "When you eat an oily meal, it squeezes and sends its juice into the small intestine to help break up fat."
+    ],
+    "decoys": [
+      "Bladder",
+      "Appendix",
+      "Pancreas"
+    ],
+    "explain": "The gall bladder is a small pouch under the liver. The liver makes bile all the time, and the gall bladder keeps it ready between meals. When fatty food arrives in the small intestine, the gall bladder squeezes bile out through a tube. Bile breaks fat into tiny droplets so enzymes can digest it faster."
+  },
+  {
+    "id": "digestion-taboo-22",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Incisor",
+    "forbidden": [
+      "Front",
+      "Cut",
+      "Bite",
+      "Tooth"
+    ],
+    "clues": [
+      "An adult has eight of these, four in the upper jaw and four in the lower.",
+      "They have thin, flat, sharp edges, a bit like a chisel.",
+      "When you take the first snap out of an apple, these teeth in the middle of your smile do the work."
+    ],
+    "decoys": [
+      "Canine",
+      "Molar",
+      "Premolar"
+    ],
+    "explain": "Incisors are the flat, sharp-edged teeth at the front of your mouth. They slice food into pieces small enough to chew. Behind them, canines grip and tear, and premolars and molars crush and grind. Each type of tooth has a shape that matches its job."
+  },
+  {
+    "id": "digestion-taboo-23",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Canine",
+    "forbidden": [
+      "Pointed",
+      "Fang",
+      "Dog",
+      "Tear"
+    ],
+    "clues": [
+      "Adults have four of these, one on each side of the upper and lower jaw.",
+      "They have the longest roots of all your teeth and a single sharp tip.",
+      "They sit at the corners of your mouth, next to the flat front teeth, and help grip and rip food."
+    ],
+    "decoys": [
+      "Incisor",
+      "Molar",
+      "Wisdom tooth"
+    ],
+    "explain": "Canines are the pointed teeth at the corners of your mouth, between the incisors and premolars. Their sharp tip helps grip and tear tougher food. Their long roots hold them firmly in the jaw. Meat-eating animals have much larger canines than humans do."
+  },
+  {
+    "id": "digestion-taboo-24",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Rickets",
+    "forbidden": [
+      "Vitamin D",
+      "Bones",
+      "Sunlight",
+      "Bent"
+    ],
+    "clues": [
+      "Children with this deficiency condition may grow slowly and have weak, aching legs.",
+      "It happens when the body cannot get enough calcium into the growing skeleton.",
+      "Children who rarely go out in the sun and get little milk may develop legs that bow outward."
+    ],
+    "decoys": [
+      "Scurvy",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "explain": "Rickets is a deficiency disease in children whose bones stay soft and can bend. It is usually caused by too little vitamin D, which the body needs to absorb calcium from food. Skin makes vitamin D in sunlight, and milk, eggs and fish also provide it. Playing outdoors and eating these foods helps prevent rickets."
+  },
+  {
+    "id": "digestion-taboo-25",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Beriberi",
+    "forbidden": [
+      "Vitamin B1",
+      "Thiamine",
+      "Rice",
+      "Nerves"
+    ],
+    "clues": [
+      "This deficiency disease can cause weak muscles, swollen legs and tingling or numb feet.",
+      "It was common long ago where people ate mainly polished grain with the outer bran removed.",
+      "It is caused by too little of the very first B vitamin."
+    ],
+    "decoys": [
+      "Scurvy",
+      "Rickets",
+      "Kwashiorkor"
+    ],
+    "explain": "Beriberi is caused by too little vitamin B1, also called thiamine. The body needs B1 to turn food into energy, especially in nerves and muscles. Polishing rice removes the outer bran, which holds much of the B1. Whole grains, pulses and nuts help prevent beriberi.",
+    "fact": "In the 1890s a doctor named Christiaan Eijkman noticed chickens fed polished rice became sick and recovered on unpolished rice. This helped lead to the discovery of vitamins."
+  },
+  {
+    "id": "digestion-taboo-26",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Junk food",
+    "forbidden": [
+      "Chips",
+      "Unhealthy",
+      "Fried",
+      "Burger"
+    ],
+    "clues": [
+      "It usually has lots of salt, sugar or oil but very little fibre, vitamins or protein.",
+      "It often comes in shiny packets and fizzy cans and tastes great, but does little to nourish your body.",
+      "Doctors say it is fine as a rare treat, not as your daily meals."
+    ],
+    "decoys": [
+      "Balanced diet",
+      "Whole grains",
+      "Sprouts"
+    ],
+    "explain": "Junk food gives plenty of energy from fat, sugar and salt but few of the nutrients your body needs to grow and stay healthy. Eating a lot of it can lead to tooth decay, weight gain and tiredness. Eating it now and then is fine if most meals are balanced."
+  },
+  {
+    "id": "digestion-taboo-27",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Balanced diet",
+    "forbidden": [
+      "Healthy",
+      "Nutrients",
+      "Plate",
+      "Variety"
+    ],
+    "clues": [
+      "It gives your body carbohydrates, proteins, fats, vitamins, minerals, fibre and water in the right amounts.",
+      "A thali with roti, dal, sabzi, salad and curd is a good example.",
+      "Eating this way means no single food group takes over your meals."
+    ],
+    "decoys": [
+      "Junk food",
+      "Fasting",
+      "Crash diet"
+    ],
+    "explain": "A balanced diet contains all the nutrients your body needs, in the right amounts. Grains give energy, dal, eggs or milk give protein, fruit and vegetables give vitamins, minerals and fibre, and a little fat helps absorb some vitamins. Different foods do different jobs, so mixing food groups covers them all."
+  },
+  {
+    "id": "digestion-taboo-28",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Fat",
+    "forbidden": [
+      "Oil",
+      "Butter",
+      "Ghee",
+      "Greasy"
+    ],
+    "clues": [
+      "Gram for gram, this nutrient gives more than twice the energy of sugar.",
+      "A layer of it under your skin keeps you warm and cushions your organs.",
+      "Nuts, cream and fried snacks are rich in this nutrient, and bile breaks it into tiny droplets."
+    ],
+    "decoys": [
+      "Protein",
+      "Carbohydrate",
+      "Fibre"
+    ],
+    "explain": "Fat is a nutrient that stores a lot of energy: about 9 calories per gram, compared with about 4 for sugar or protein. It also keeps you warm, protects organs and helps your body absorb vitamins A, D, E and K. You need some fat every day, but large amounts of fried food add more energy than most people use."
+  },
+  {
+    "id": "digestion-taboo-29",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Mineral",
+    "forbidden": [
+      "Iron",
+      "Calcium",
+      "Salt",
+      "Rock"
+    ],
+    "clues": [
+      "Your body needs small amounts of these simple non-living substances, such as zinc and iodine.",
+      "Unlike vitamins, they are not made by plants or animals; plants take them up from the soil.",
+      "Bones need one of these to be hard, and blood needs another to carry oxygen."
+    ],
+    "decoys": [
+      "Vitamin",
+      "Protein",
+      "Enzyme"
+    ],
+    "explain": "Minerals are simple substances from the earth, such as calcium, iron, iodine and zinc. Plants take them up from the soil, and we get them by eating plants and animals. Calcium builds bones and teeth, iron helps blood carry oxygen, and iodine is needed for the thyroid gland. Vitamins are different: living things make them."
+  },
+  {
+    "id": "digestion-taboo-30",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Lipase",
+    "forbidden": [
+      "Fat",
+      "Enzyme",
+      "Pancreas",
+      "Oil"
+    ],
+    "clues": [
+      "This chemical helper arrives in the small intestine in juice from a gland behind the stomach.",
+      "It works best after bile has broken big greasy blobs into tiny droplets.",
+      "It splits the main nutrient in ghee and butter into smaller pieces the body can absorb."
+    ],
+    "decoys": [
+      "Amylase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "explain": "Lipase is the enzyme that digests fats. Most of it comes from the pancreas in pancreatic juice. Bile first breaks fat into tiny droplets, giving lipase more surface to work on. Lipase then splits fats into fatty acids and glycerol, which are small enough to be absorbed."
+  },
+  {
+    "id": "digestion-taboo-31",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Rectum",
+    "forbidden": [
+      "Anus",
+      "Stool",
+      "Poop",
+      "End"
+    ],
+    "clues": [
+      "This short, muscular part of the gut comes right after the colon.",
+      "It holds waste until it is a good time to go to the toilet.",
+      "When it stretches, it sends a message to your brain that you will need the toilet soon."
+    ],
+    "decoys": [
+      "Bladder",
+      "Appendix",
+      "Duodenum"
+    ],
+    "explain": "The rectum is the last part of the large intestine. It holds stool until you are ready to go to the toilet. When it fills and stretches, nerves send a signal to the brain. Ring-shaped muscles keep it closed until you choose to let the waste out through the anus."
+  },
+  {
+    "id": "digestion-taboo-32",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Digestion",
+    "forbidden": [
+      "Food",
+      "Break",
+      "Stomach",
+      "Absorb"
+    ],
+    "clues": [
+      "Enzymes, acid and bile all play a part in this process.",
+      "It turns big molecules like starch into small ones like glucose, small enough to enter the blood.",
+      "This is what happens to your lunch between swallowing it and its nutrients reaching your cells."
+    ],
+    "decoys": [
+      "Excretion",
+      "Respiration",
+      "Circulation"
+    ],
+    "explain": "Digestion is the process of breaking food into molecules small enough to pass into the blood. Chewing and churning break food physically, while enzymes, acid and bile break it chemically. Starch becomes glucose, protein becomes amino acids, and fat becomes fatty acids and glycerol."
+  },
+  {
+    "id": "digestion-taboo-33",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Chyme",
+    "forbidden": [
+      "Stomach",
+      "Soup",
+      "Churn",
+      "Paste"
+    ],
+    "clues": [
+      "It is acidic and contains partly digested protein.",
+      "It leaves the J-shaped organ in small squirts through a ring of muscle into the small intestine.",
+      "This thick, creamy mush is what food becomes after a few hours of mixing with gastric juice."
+    ],
+    "decoys": [
+      "Bolus",
+      "Bile",
+      "Mucus"
+    ],
+    "explain": "Chyme is the thick, acidic liquid that food turns into inside the stomach. The stomach walls mix the food with gastric juice for a few hours. A ring of muscle at the stomach's exit then lets chyme into the small intestine a little at a time, so it is not overloaded."
+  },
+  {
+    "id": "digestion-taboo-34",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Plaque",
+    "forbidden": [
+      "Sticky",
+      "Bacteria",
+      "Teeth",
+      "Brush"
+    ],
+    "clues": [
+      "Dentists sometimes use a pink tablet to make it show up.",
+      "Germs living in it feed on sugar and make acid that can eat into enamel.",
+      "This soft, pale film builds up along your gum line every day and can harden if it is left there."
+    ],
+    "decoys": [
+      "Enamel",
+      "Saliva",
+      "Tartar"
+    ],
+    "explain": "Plaque is a soft film of bacteria that forms on teeth every day. When you eat sugar, these bacteria make acid that slowly dissolves enamel and causes cavities. Plaque also irritates the gums. Brushing twice a day and flossing remove it before it hardens into tartar, which only a dentist can remove."
+  },
+  {
+    "id": "digestion-case-17",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "Anika is running a long cross-country race tomorrow. Her coach tells her to eat foods like rice, roti and bananas, which give the body its main quick fuel. Which nutrient are these foods rich in?",
+    "options": [
+      "Fibre",
+      "Carbohydrate",
+      "Calcium",
+      "Vitamin A"
+    ],
+    "answer": "Carbohydrate",
+    "optionNotes": [
+      "Helps digestion but gives little energy",
+      "Broken down to glucose, the body's main fuel",
+      "Mineral for bones and teeth",
+      "Vitamin for eyes and skin"
+    ],
+    "explain": "Carbohydrates such as starch and sugar are broken down into glucose, which muscles and the brain use as their main fuel. Athletes often eat extra carbohydrate before a long race so their muscles have stored fuel to draw on. Fibre, calcium and vitamin A are all needed, but they do not supply much energy."
+  },
+  {
+    "id": "digestion-case-18",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Gastroenterologist",
+    "scenario": "A woman had her gall bladder removed. She worries that her body can no longer make bile to help digest fat. Which organ still makes bile for her?",
+    "options": [
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Liver",
+    "optionNotes": [
+      "Makes pancreatic juice, not bile",
+      "Makes acid and pepsin",
+      "Makes bile all the time",
+      "Filters blood and makes urine"
+    ],
+    "explain": "The liver makes bile; the gall bladder only stores it and releases it at mealtimes. After the gall bladder is removed, the liver keeps making bile, which now trickles straight into the small intestine. Most people digest food normally afterwards, though some feel better eating smaller, less oily meals."
+  },
+  {
+    "id": "digestion-case-19",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Nutritionist",
+    "scenario": "In a food lab, a few drops of brown iodine solution are added to a slice of raw potato. The drops turn blue-black. Which nutrient does this show is present?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Vitamin C",
+      "Starch"
+    ],
+    "answer": "Starch",
+    "optionNotes": [
+      "Tested with a different chemical",
+      "Leaves a see-through greasy spot on paper",
+      "No colour change with iodine",
+      "Turns iodine blue-black"
+    ],
+    "explain": "Iodine solution is brown, but it turns blue-black when it touches starch. This is a simple test for starch, a carbohydrate stored in potatoes, rice and wheat. Fat is tested by rubbing food on paper and looking for a greasy patch that lets light through."
+  },
+  {
+    "id": "digestion-case-20",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Dentist",
+    "scenario": "Rohan chews a plain salted cracker for two whole minutes without swallowing. It starts to taste slightly sweet. What is happening in his mouth?",
+    "options": [
+      "Saliva is turning starch into sugar",
+      "His teeth are making sugar",
+      "The salt is changing into sugar",
+      "His tongue is melting the cracker"
+    ],
+    "answer": "Saliva is turning starch into sugar",
+    "optionNotes": [
+      "Amylase in saliva breaks starch down",
+      "Teeth only break food physically",
+      "Salt cannot become sugar",
+      "The tongue mixes and tastes; it does not digest"
+    ],
+    "explain": "Saliva contains an enzyme called amylase. It starts breaking starch, a long chain of sugar units, into smaller sugars. Starch itself has no sweet taste, but those smaller sugars do. This shows digestion begins in the mouth."
+  },
+  {
+    "id": "digestion-case-21",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Dentist",
+    "scenario": "A dentist checks a 5-year-old girl who still has all her milk teeth and has not lost any yet. How many teeth should the dentist count?",
+    "options": [
+      "20",
+      "32",
+      "12",
+      "28"
+    ],
+    "answer": "20",
+    "optionNotes": [
+      "Full set of milk teeth",
+      "Full adult set, with wisdom teeth",
+      "Too few for a full set",
+      "Adult set without wisdom teeth"
+    ],
+    "explain": "Children have 20 milk teeth, also called baby teeth. From about age 6 they start falling out one by one as adult teeth push up from below. A full set of adult teeth has 32, including four wisdom teeth at the back. Milk teeth matter: they hold space for adult teeth and help with chewing and speaking."
+  },
+  {
+    "id": "digestion-case-22",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Dentist",
+    "scenario": "A 19-year-old already has 28 adult teeth. Now four new teeth are starting to push through, right at the very back of his mouth. What are they?",
+    "options": [
+      "Milk teeth",
+      "Incisors",
+      "Wisdom teeth",
+      "Canines"
+    ],
+    "answer": "Wisdom teeth",
+    "optionNotes": [
+      "Fall out in childhood",
+      "Flat cutting teeth at the front",
+      "Last molars, at the very back",
+      "Pointed teeth at the corners"
+    ],
+    "explain": "Wisdom teeth are the third and last set of molars. They usually come through between the late teens and mid-twenties, at the very back of each jaw. Some people never get them, and if there is not enough space a dentist may need to remove them."
+  },
+  {
+    "id": "digestion-case-23",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "A vegetarian family wants more protein in their everyday meals. Which meal gives the most protein?",
+    "options": [
+      "Plain rice and potato curry",
+      "Dal, rice and a bowl of curd",
+      "Bread with jam",
+      "Fruit juice and biscuits"
+    ],
+    "answer": "Dal, rice and a bowl of curd",
+    "optionNotes": [
+      "Mostly starch",
+      "Dal and curd are good protein sources",
+      "Mostly starch and sugar",
+      "Mostly sugar"
+    ],
+    "explain": "Vegetarians get protein from pulses like dal, from milk foods like curd and paneer, and from nuts and soya. Dal eaten with rice gives a better mix of protein building blocks than either food alone. Rice, potato, bread, jam and juice are mostly carbohydrate, so they add energy but little protein."
+  },
+  {
+    "id": "digestion-case-24",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "The stomach makes acid strong enough to help break down meat, yet the stomach wall itself is usually not harmed. What protects it?",
+    "options": [
+      "Bile from the liver",
+      "Saliva that cancels all the acid",
+      "A thick layer of mucus",
+      "Air trapped inside"
+    ],
+    "answer": "A thick layer of mucus",
+    "optionNotes": [
+      "Works in the small intestine, not the stomach",
+      "Saliva cannot cancel stomach acid",
+      "Coats and shields the lining",
+      "Air gives no protection"
+    ],
+    "explain": "Cells in the stomach lining make a thick layer of mucus that coats the wall. It traps a less acidic liquid next to the cells, so the acid cannot reach them easily. The lining also replaces its cells every few days. If this protection breaks down, a sore called an ulcer can form."
+  },
+  {
+    "id": "digestion-case-25",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Paediatrician",
+    "scenario": "Newborn babies are usually given one injection of a vitamin soon after birth. It helps their blood clot, so they are less likely to bleed. Which vitamin is it?",
+    "options": [
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "answer": "Vitamin K",
+    "optionNotes": [
+      "Keeps gums and skin healthy",
+      "Needed to make clotting proteins",
+      "Helps absorb calcium",
+      "Helps make red blood cells and nerves"
+    ],
+    "explain": "Vitamin K is needed to make proteins that help blood clot. Newborns are born with very little of it, and their gut does not yet have the bacteria that make some vitamin K. A single dose at birth protects them until their diet and gut bacteria can supply it. Green leafy vegetables are a good source later in life."
+  },
+  {
+    "id": "digestion-case-26",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Nutritionist",
+    "scenario": "A family eats only plant foods, with no milk, curd, eggs, fish or meat. Their doctor advises a supplement for one vitamin that is found naturally almost only in animal foods. Which vitamin?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin B12"
+    ],
+    "answer": "Vitamin B12",
+    "optionNotes": [
+      "Plentiful in fruits",
+      "Plants give beta-carotene, which becomes vitamin A",
+      "Found in green leafy vegetables",
+      "Made by microbes; plants do not provide it"
+    ],
+    "explain": "Vitamin B12 helps make red blood cells and keeps nerves healthy. It is made by microbes, and people usually get it from animal foods such as milk, eggs, fish and meat. Plants do not provide it, so people who eat no animal foods need fortified foods or a supplement advised by a doctor."
+  },
+  {
+    "id": "digestion-case-27",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Gastroenterologist",
+    "scenario": "After most nutrients are absorbed, a watery mush of leftovers moves on. In which organ is much of the remaining water taken back, so that stool becomes firm?",
+    "options": [
+      "Stomach",
+      "Oesophagus",
+      "Large intestine",
+      "Mouth"
+    ],
+    "answer": "Large intestine",
+    "optionNotes": [
+      "Mixes food before it reaches the intestines",
+      "Only carries food down",
+      "Absorbs water and salts from leftovers",
+      "Where food first enters"
+    ],
+    "explain": "The large intestine takes back water and salts from undigested leftovers. As the mush moves slowly along, it dries into firm stool. If it moves too fast, too little water is taken back and stool is loose (diarrhoea). If it moves too slowly, too much is taken back and stool becomes hard."
+  },
+  {
+    "id": "digestion-case-28",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Dentist",
+    "scenario": "Jay's gums look red and puffy and bleed a little when he brushes. He eats plenty of fruit. The dentist sees a soft film along his gum line. What is the most likely problem?",
+    "options": [
+      "Gum disease (gingivitis)",
+      "A broken tooth",
+      "Wisdom teeth",
+      "Tonsillitis"
+    ],
+    "answer": "Gum disease (gingivitis)",
+    "optionNotes": [
+      "Plaque irritates and swells the gums",
+      "Would follow an injury, with pain",
+      "Come through much later, at the back",
+      "Sore throat, not gums"
+    ],
+    "explain": "Gingivitis is swelling of the gums caused by plaque, the soft film of bacteria that builds up along the gum line. Swollen gums bleed easily. Because Jay eats plenty of fruit, vitamin C shortage is unlikely. Gentle brushing along the gum line twice a day and flossing usually clear it up within a couple of weeks."
+  },
+  {
+    "id": "digestion-case-29",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "Sam eats chips, instant noodles and sweet drinks most days. He often feels tired and is hungry again soon after eating. Which change would help most?",
+    "options": [
+      "Home meals with dal, vegetables, fruit",
+      "One more sweet drink a day",
+      "Skip breakfast",
+      "Only fruit, nothing else"
+    ],
+    "answer": "Home meals with dal, vegetables, fruit",
+    "optionNotes": [
+      "Balanced meals with protein and fibre",
+      "More sugar, more energy crashes",
+      "Leaves him with no fuel for the morning",
+      "Misses protein and other nutrients"
+    ],
+    "explain": "Packaged snacks and sweet drinks give quick energy but little protein, fibre or vitamins, so hunger and tiredness come back fast. Meals with protein and fibre, such as dal, vegetables and roti, are digested more slowly and keep energy steady. Cutting out whole food groups is not a fix; balance is."
+  },
+  {
+    "id": "digestion-case-30",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "Whenever Zoya eats wheat roti or bread, she gets belly pain and bloating, and she is growing slowly. Rice and dal cause no trouble. Tests show her gut reacts to a protein in wheat. Which one?",
+    "options": [
+      "Lactose",
+      "Gluten",
+      "Starch",
+      "Fibre"
+    ],
+    "answer": "Gluten",
+    "optionNotes": [
+      "A sugar in milk, not wheat",
+      "Protein in wheat, barley and rye",
+      "A carbohydrate, not a protein",
+      "Plant material, not a protein"
+    ],
+    "explain": "Gluten is a protein found in wheat, barley and rye. In coeliac disease, eating gluten makes the body attack the lining of the small intestine, which damages the villi and lowers how much food is absorbed. That is why growth can slow. A gluten-free diet planned with a doctor lets the gut heal; rice, millets and dal are naturally gluten-free."
+  },
+  {
+    "id": "digestion-case-31",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Pathologist",
+    "scenario": "In a lab, a cube of boiled egg white is placed in gastric juice taken from an animal's stomach, acid and all. After a day, the egg white has broken down. Which enzyme did most of this work?",
+    "options": [
+      "Amylase",
+      "Lipase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "answer": "Pepsin",
+    "optionNotes": [
+      "Digests starch; found in saliva and pancreatic juice",
+      "Digests fat; mostly from the pancreas",
+      "Stomach enzyme that digests protein",
+      "Digests protein, but in the small intestine"
+    ],
+    "explain": "Egg white is mostly protein. Pepsin is the protein-digesting enzyme in gastric juice, and it works best in the strong acid of the stomach. Trypsin also digests protein, but it comes from the pancreas and works in the small intestine, where conditions are less acidic."
+  },
+  {
+    "id": "digestion-case-32",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Dentist",
+    "scenario": "During a game, a 12-year-old's adult front tooth is knocked out whole. An adult finds it and they head straight to a dentist. What should they do with the tooth on the way?",
+    "options": [
+      "Scrub the root with soap",
+      "Wrap it in dry tissue",
+      "Throw it away",
+      "Hold the crown; keep it in milk"
+    ],
+    "answer": "Hold the crown; keep it in milk",
+    "optionNotes": [
+      "Scrubbing kills the cells on the root",
+      "Drying out harms the root",
+      "A dentist can often put it back",
+      "Protects the root cells until the dentist"
+    ],
+    "explain": "A knocked-out adult tooth can often be put back if a dentist sees it quickly, ideally within an hour. Hold it by the crown, the white part, not the root. Keeping it in milk stops the living cells on the root from drying out. A knocked-out milk tooth is not put back, but the child should still see a dentist."
+  }
+]

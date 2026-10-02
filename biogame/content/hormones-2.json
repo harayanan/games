@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "hormones-odd-18",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Ovaries",
+      "Thyroid gland",
+      "Pineal gland",
+      "Pituitary gland",
+      "Adrenal glands"
+    ],
+    "answer": "Ovaries",
+    "notes": [
+      "Found only in girls and women",
+      "In the neck of everyone",
+      "Deep in the brain of everyone",
+      "Under the brain of everyone",
+      "On the kidneys of everyone"
+    ],
+    "reason": "Ovaries are found only in females; boys and girls both have the other four glands.",
+    "explain": "Most endocrine glands are the same in boys and girls: everyone has a thyroid, a pineal gland, a pituitary and two adrenal glands. The sex glands are different. Girls have ovaries, which make eggs and the hormone oestrogen, while boys have testes, which make sperm and testosterone.",
+    "fact": "Ovaries and testes start out from the same tissue in a very early embryo."
+  },
+  {
+    "id": "hormones-odd-19",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Growing taller",
+      "Blood sugar level",
+      "Feeling sleepy at night",
+      "Knee-jerk reflex",
+      "Puberty changes"
+    ],
+    "answer": "Knee-jerk reflex",
+    "notes": [
+      "Controlled by growth hormone",
+      "Controlled by insulin and glucagon",
+      "Controlled by melatonin",
+      "Controlled by nerves in a split second",
+      "Controlled by sex hormones"
+    ],
+    "reason": "The knee-jerk reflex is controlled by nerves; the other four are controlled by hormones.",
+    "explain": "Your body has two messaging systems. Nerves send fast electrical signals, so a reflex like the knee-jerk happens in a fraction of a second. Hormones travel slowly in the blood, so they control long-lasting jobs like growing, puberty, sleep timing and keeping blood sugar steady."
+  },
+  {
+    "id": "hormones-odd-20",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Type 1 diabetes",
+      "Scurvy",
+      "Gigantism",
+      "Overactive thyroid",
+      "Underactive thyroid"
+    ],
+    "answer": "Scurvy",
+    "notes": [
+      "Pancreas makes too little insulin",
+      "Too little vitamin C in food",
+      "Too much growth hormone in childhood",
+      "Too much thyroxine",
+      "Too little thyroxine"
+    ],
+    "reason": "Scurvy is caused by missing vitamin C; the other four happen when a gland makes too much or too little hormone.",
+    "explain": "Hormone disorders happen when a gland makes the wrong amount of its hormone. Too much growth hormone in childhood makes a person grow extremely tall, and too little or too much thyroxine slows down or speeds up the body. Scurvy is a deficiency disease: it comes from not eating enough vitamin C, found in fruits like amla and oranges."
+  },
+  {
+    "id": "hormones-odd-21",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Budding",
+      "Binary fission",
+      "Fragmentation",
+      "Spore formation",
+      "Fertilisation"
+    ],
+    "answer": "Fertilisation",
+    "notes": [
+      "Hydra grows a bud that breaks off",
+      "Amoeba splits into two",
+      "Body breaks into pieces that regrow",
+      "Fungi release tiny seed-like cells",
+      "Sperm and egg join together"
+    ],
+    "reason": "Fertilisation is part of sexual reproduction; the other four are ways of reproducing with just one parent.",
+    "explain": "In asexual reproduction one parent makes new young on its own, by budding, splitting in two, breaking into pieces or making spores. The young are copies of the parent. In sexual reproduction two parents are needed: a sperm from the male joins an egg from the female in fertilisation, so the young get a mix of features from both."
+  },
+  {
+    "id": "hormones-odd-22",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Frog",
+      "Toad",
+      "Hen",
+      "Rohu fish",
+      "Catla fish"
+    ],
+    "answer": "Hen",
+    "notes": [
+      "Male releases sperm over eggs in water",
+      "Eggs fertilised outside, in a pond",
+      "Sperm meets egg inside her body",
+      "Fish eggs fertilised in river water",
+      "Fertilised outside the body, in water"
+    ],
+    "reason": "In hens, fertilisation happens inside the body; in the other four it happens outside, in water.",
+    "explain": "Fertilisation is when a sperm joins an egg. In frogs, toads and most fish, the female lays eggs in water and the male releases sperm over them, so fertilisation happens outside the body. In hens, as in humans and cows, the sperm meets the egg inside the female's body, which is called internal fertilisation.",
+    "fact": "A frog can lay hundreds of eggs at once because many eggs in open water never get fertilised or are eaten."
+  },
+  {
+    "id": "hormones-odd-23",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cow",
+      "Hen",
+      "Frog",
+      "House lizard",
+      "Butterfly"
+    ],
+    "answer": "Cow",
+    "notes": [
+      "Gives birth to live calves",
+      "Lays eggs",
+      "Lays eggs",
+      "Lays eggs",
+      "Lays eggs"
+    ],
+    "reason": "A cow gives birth to live young; the other four lay eggs.",
+    "explain": "Animals that lay eggs are called oviparous, and the young develop inside the egg outside the mother's body. Animals like cows, dogs and humans are viviparous: the young grow inside the mother's uterus and are born alive. Most mammals give birth to live young."
+  },
+  {
+    "id": "hormones-odd-24",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Phone screen in bed",
+      "Bright ceiling light",
+      "Late-night video games",
+      "Dark, quiet bedroom",
+      "TV till midnight"
+    ],
+    "answer": "Dark, quiet bedroom",
+    "notes": [
+      "Bright light delays the sleep hormone",
+      "Bright light delays the sleep hormone",
+      "Light and excitement delay sleep",
+      "Lets the sleep hormone rise",
+      "Light delays the sleep hormone"
+    ],
+    "reason": "A dark, quiet bedroom helps you fall asleep; the other four delay the sleep hormone melatonin.",
+    "explain": "Your pineal gland releases melatonin when it gets dark, and this hormone makes you feel sleepy. Bright light, especially from screens, tells the brain it is still daytime, so melatonin is held back and sleep comes later. A dark, quiet room lets melatonin rise at the right time."
+  },
+  {
+    "id": "hormones-odd-25",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Iodised salt",
+      "White sugar",
+      "Sea fish",
+      "Seaweed",
+      "Eggs"
+    ],
+    "answer": "White sugar",
+    "notes": [
+      "Has iodine added",
+      "Has no iodine",
+      "Natural source of iodine",
+      "Very rich in iodine",
+      "Contain some iodine"
+    ],
+    "reason": "White sugar has no iodine; the other four are sources of iodine.",
+    "explain": "The thyroid gland needs iodine to make its hormone, thyroxine. Iodine comes from food: sea fish, seaweed and eggs contain it, and salt has iodine added to it in India. White sugar gives energy but no iodine, so it cannot help the thyroid."
+  },
+  {
+    "id": "hormones-odd-26",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Change pad every 4–6 hours",
+      "Wash hands after changing",
+      "Wrap used pad and bin it",
+      "Bathe every day",
+      "Flush used pad down toilet"
+    ],
+    "answer": "Flush used pad down toilet",
+    "notes": [
+      "Stops germs and smell",
+      "Keeps germs off your hands",
+      "Clean, safe disposal",
+      "Keeps the body fresh",
+      "Blocks pipes; never do this"
+    ],
+    "reason": "Flushing pads blocks toilets and drains; the other four are good period hygiene habits.",
+    "explain": "During a period, good hygiene keeps the body comfortable and free of infection. Changing pads every few hours, washing hands and bathing daily stop germs from growing. Used pads should be wrapped in paper and put in a bin, because they soak up water, swell and block pipes if flushed."
+  },
+  {
+    "id": "hormones-odd-27",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Shaky hands",
+      "Sudden sweating",
+      "Very thirsty",
+      "Sudden hunger",
+      "Feeling confused"
+    ],
+    "answer": "Very thirsty",
+    "notes": [
+      "Sign of low blood sugar",
+      "Sign of low blood sugar",
+      "Sign of high blood sugar",
+      "Sign of low blood sugar",
+      "Sign of low blood sugar"
+    ],
+    "reason": "Strong thirst is a sign of high blood sugar; the other four are signs of low blood sugar.",
+    "explain": "Blood sugar can go wrong in two directions in people with diabetes. When it drops too low, the body releases adrenaline, causing shaking, sweating and hunger, and the brain runs short of fuel, causing confusion. When it stays too high, the kidneys pass extra sugar into the urine, which pulls water out of the body and makes the person very thirsty."
+  },
+  {
+    "id": "hormones-odd-28",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Ovary",
+      "Zygote",
+      "Embryo",
+      "Foetus",
+      "Newborn"
+    ],
+    "answer": "Ovary",
+    "notes": [
+      "Organ that makes egg cells",
+      "First single cell",
+      "Early ball of cells forming body",
+      "Baby with all body parts formed",
+      "Baby after birth"
+    ],
+    "reason": "The ovary is an organ; the other four are stages a baby passes through as it develops.",
+    "explain": "A human life starts as a zygote, a single cell made when a sperm joins an egg. It divides many times to become an embryo, and once its main body parts have formed it is called a foetus. After about nine months in the uterus it is born as a newborn baby. The ovary is the organ where the egg came from in the first place."
+  },
+  {
+    "id": "hormones-odd-29",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Egg",
+      "Tadpole",
+      "Froglet",
+      "Caterpillar",
+      "Adult frog"
+    ],
+    "answer": "Caterpillar",
+    "notes": [
+      "Laid in water",
+      "Swims with a tail and gills",
+      "Has legs and a short tail",
+      "Young stage of a butterfly",
+      "Lives on land and in water"
+    ],
+    "reason": "A caterpillar is a stage in a butterfly's life; the other four are stages of a frog's life.",
+    "explain": "Frogs and butterflies both go through metamorphosis, a big change in body shape as they grow. A frog hatches from an egg as a tadpole, grows legs as a froglet and becomes an adult frog. A caterpillar is the young stage of a butterfly or moth, which later forms a pupa.",
+    "fact": "A tadpole needs the thyroid hormone thyroxine to turn into a frog."
+  },
+  {
+    "id": "hormones-odd-30",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Mood swings",
+      "Growth spurt",
+      "Feeling shy",
+      "Wanting more privacy",
+      "Worrying about looks"
+    ],
+    "answer": "Growth spurt",
+    "notes": [
+      "Emotional change",
+      "Physical change in the body",
+      "Emotional change",
+      "Emotional change",
+      "Emotional change"
+    ],
+    "reason": "A growth spurt is a physical change; the other four are emotional changes of adolescence.",
+    "explain": "Puberty brings changes both to the body and to feelings. The physical changes include growing taller quickly and new body hair. Hormones also affect the brain, so teenagers may have quick mood changes, feel shy, want privacy or worry about how they look. All of these are normal, and talking to a trusted adult helps."
+  },
+  {
+    "id": "hormones-odd-31",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Thyroid: neck",
+      "Adrenals: on top of kidneys",
+      "Pituitary: base of brain",
+      "Pancreas: behind stomach",
+      "Pineal: in the chest"
+    ],
+    "answer": "Pineal: in the chest",
+    "notes": [
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct",
+      "Wrong: it is deep in the brain"
+    ],
+    "reason": "The pineal gland is deep inside the brain, not in the chest; the other four locations are correct.",
+    "explain": "Endocrine glands are spread around the body, and the blood carries their hormones everywhere. The pituitary hangs below the brain, the pineal gland sits deep in the middle of the brain, and the thyroid wraps around the front of the windpipe in the neck. The pancreas lies behind the stomach, and an adrenal gland sits on top of each kidney."
+  },
+  {
+    "id": "hormones-odd-32",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Ask a parent",
+      "Talk to a doctor",
+      "Trust online rumours",
+      "Read a school science book",
+      "Talk to a school counsellor"
+    ],
+    "answer": "Trust online rumours",
+    "notes": [
+      "Trusted adult who cares",
+      "Medical expert",
+      "Often wrong and worrying",
+      "Checked, correct facts",
+      "Trained to help teens"
+    ],
+    "reason": "Online rumours are often wrong; the other four are reliable ways to get answers about growing up.",
+    "explain": "It is normal to have questions about the changes of puberty. The best answers come from people and sources that are reliable, such as parents, doctors, counsellors and science books. Rumours from friends or random websites are often untrue and can cause needless worry."
+  },
+  {
+    "id": "hormones-odd-33",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Taking a peaceful nap",
+      "A dog chases you",
+      "Waiting for exam results",
+      "Nearly falling off a bike",
+      "Riding a roller coaster"
+    ],
+    "answer": "Taking a peaceful nap",
+    "notes": [
+      "Body is calm; little adrenaline",
+      "Triggers adrenaline",
+      "Triggers adrenaline",
+      "Triggers adrenaline",
+      "Triggers adrenaline"
+    ],
+    "reason": "A peaceful nap is a calm moment; the other four are scary or exciting moments that release adrenaline.",
+    "explain": "When you feel scared, excited or in danger, your adrenal glands quickly release adrenaline. It speeds up your heart and breathing so your muscles get extra fuel to run or react. When you are calm and resting, adrenaline stays low and the body can relax and repair."
+  },
+  {
+    "id": "hormones-odd-34",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Sperm",
+      "Egg cell",
+      "Testosterone",
+      "Insulin",
+      "Oestrogen"
+    ],
+    "answer": "Insulin",
+    "notes": [
+      "Made in the testes",
+      "Made in the ovaries",
+      "Made in the testes",
+      "Made in the pancreas",
+      "Made in the ovaries"
+    ],
+    "reason": "Insulin is made by the pancreas; the other four are made by the testes or ovaries.",
+    "explain": "The testes and ovaries have two jobs. They make sex cells (sperm in testes, eggs in ovaries), and they make sex hormones (testosterone in testes, oestrogen in ovaries) that cause the changes of puberty. Insulin comes from the pancreas and controls blood sugar."
+  },
+  {
+    "id": "hormones-taboo-18",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Melatonin",
+    "forbidden": [
+      "Sleep",
+      "Night",
+      "Dark",
+      "Pineal"
+    ],
+    "clues": [
+      "This hormone rises in the evening as daylight fades.",
+      "Bright screens and lamps at bedtime can hold it back.",
+      "It makes you feel drowsy so your body is ready to rest."
+    ],
+    "decoys": [
+      "Thyroxine",
+      "Adrenaline",
+      "Growth hormone"
+    ],
+    "explain": "Melatonin is made by the pineal gland, a tiny gland deep in the brain. Its level rises when it gets dark and falls in the morning light, which helps set your body clock. That is why bright screens late at night can make it harder to fall asleep."
+  },
+  {
+    "id": "hormones-taboo-19",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Glucagon",
+    "forbidden": [
+      "Pancreas",
+      "Sugar",
+      "Insulin",
+      "Liver"
+    ],
+    "clues": [
+      "This hormone works as the opposite partner of another hormone made in the same organ.",
+      "When you have not eaten for hours, it stops the glucose in your blood from falling too low.",
+      "It tells the body to break down its stored glucose and send it into the blood."
+    ],
+    "decoys": [
+      "Insulin",
+      "Thyroxine",
+      "Melatonin"
+    ],
+    "explain": "Glucagon and insulin both come from the pancreas and work as a pair. After a meal, insulin lowers blood glucose by moving it into cells and storage. Between meals, glucagon tells the liver to release stored glucose so the level does not drop too far."
+  },
+  {
+    "id": "hormones-taboo-20",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Ovary",
+    "forbidden": [
+      "Egg",
+      "Female",
+      "Oestrogen",
+      "Uterus"
+    ],
+    "clues": [
+      "Girls have two of these, one on each side of the lower belly.",
+      "After puberty, about once a month, one of them lets go of a tiny cell.",
+      "It stores the cells that can grow into a baby if one joins with a sperm."
+    ],
+    "decoys": [
+      "Testis",
+      "Oviduct",
+      "Kidney"
+    ],
+    "explain": "The ovaries are the two female sex glands. They store egg cells and, after puberty, usually release one each month. They also make the hormone oestrogen, which brings about the body changes of puberty in girls."
+  },
+  {
+    "id": "hormones-taboo-21",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Testes",
+    "forbidden": [
+      "Sperm",
+      "Male",
+      "Testosterone",
+      "Boys"
+    ],
+    "clues": [
+      "These two glands hang outside the lower body in a pouch of skin called the scrotum.",
+      "Sitting outside keeps them slightly cooler, which they need to work well.",
+      "From puberty they make millions of tiny swimming cells every day, plus the hormone that deepens the voice."
+    ],
+    "decoys": [
+      "Ovaries",
+      "Kidneys",
+      "Adrenal glands"
+    ],
+    "explain": "The testes are the two male sex glands. From puberty they make sperm, the male sex cells. They also make testosterone, the hormone behind a deeper voice, facial hair and bigger muscles in teenage boys."
+  },
+  {
+    "id": "hormones-taboo-22",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Adrenal gland",
+    "forbidden": [
+      "Adrenaline",
+      "Kidney",
+      "Fear",
+      "Stress"
+    ],
+    "clues": [
+      "Its outer layer and its inner core make different hormones.",
+      "It makes the hormone that sets your heart pounding in a scary moment.",
+      "There are two of them, sitting like little caps on top of the organs that make urine."
+    ],
+    "decoys": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Pineal gland"
+    ],
+    "explain": "You have two adrenal glands, one on top of each kidney. The inner part releases adrenaline in an emergency, preparing the body to fight or run. The outer part makes other hormones, including cortisol, which helps the body cope with long-lasting pressure."
+  },
+  {
+    "id": "hormones-taboo-23",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Pineal gland",
+    "forbidden": [
+      "Melatonin",
+      "Sleep",
+      "Brain",
+      "Night"
+    ],
+    "clues": [
+      "It is about the size of a grain of rice and sits deep in the middle of the head.",
+      "It helps set your body clock by responding to light and darkness.",
+      "It releases the hormone that makes you drowsy after the sun goes down."
+    ],
+    "decoys": [
+      "Pituitary gland",
+      "Thyroid gland",
+      "Adrenal gland"
+    ],
+    "explain": "The pineal gland is a tiny endocrine gland deep inside the brain, named for its pine-cone shape. When the eyes sense darkness, it releases melatonin, which makes you sleepy. This helps your body keep a regular daily rhythm."
+  },
+  {
+    "id": "hormones-taboo-24",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Iodised salt",
+    "forbidden": [
+      "Iodine",
+      "Thyroid",
+      "Goitre",
+      "Cooking"
+    ],
+    "clues": [
+      "Using this every day in the kitchen helps prevent a swelling at the front of the neck.",
+      "It is an everyday seasoning with a tiny amount of an important mineral added.",
+      "The packet says it has a mineral added to protect the hormone gland in your neck."
+    ],
+    "decoys": [
+      "Rock salt",
+      "Baking soda",
+      "Table sugar"
+    ],
+    "explain": "The thyroid needs iodine to make thyroxine, and many soils and foods in India have little iodine. Adding a small amount of iodine to ordinary salt is a simple way to make sure almost everyone gets enough. It has greatly reduced goitre, a swelling of the thyroid."
+  },
+  {
+    "id": "hormones-taboo-25",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ovum",
+    "forbidden": [
+      "Egg",
+      "Ovary",
+      "Sperm",
+      "Female"
+    ],
+    "clues": [
+      "It is the largest cell in the human body, just about visible without a microscope.",
+      "After puberty one is usually released each month in a girl's body.",
+      "If a male sex cell joins it, it becomes a zygote."
+    ],
+    "decoys": [
+      "Zygote",
+      "Red blood cell",
+      "Nerve cell"
+    ],
+    "explain": "An ovum is a female sex cell, often called an egg cell. It is made and stored in the ovaries, and after puberty usually one is released each month. If a sperm joins it, fertilisation happens and a zygote forms, the first cell of a new baby."
+  },
+  {
+    "id": "hormones-taboo-26",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sperm",
+    "forbidden": [
+      "Testes",
+      "Tail",
+      "Male",
+      "Egg"
+    ],
+    "clues": [
+      "It is one of the smallest cells in the human body.",
+      "It swims by moving a long, whip-like part from side to side.",
+      "Millions are made every day in a teenage boy's body, and one may join an ovum to start a baby."
+    ],
+    "decoys": [
+      "Ovum",
+      "Zygote",
+      "White blood cell"
+    ],
+    "explain": "A sperm is the male sex cell. It has a head that carries the father's genes and a long tail for swimming. Sperm are made in the testes from puberty onwards, and if one joins an egg cell, a new life begins."
+  },
+  {
+    "id": "hormones-taboo-27",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Zygote",
+    "forbidden": [
+      "Fertilised",
+      "Egg",
+      "Sperm",
+      "Embryo"
+    ],
+    "clues": [
+      "It is the very first cell of a new living thing.",
+      "It holds one set of genes from the mother and one set from the father.",
+      "It forms when an ovum and a male sex cell join, then divides again and again."
+    ],
+    "decoys": [
+      "Ovum",
+      "Foetus",
+      "Cell membrane"
+    ],
+    "explain": "When a sperm and an egg fuse during fertilisation, they form a single new cell called a zygote. It carries genes from both parents. The zygote divides many times to form an embryo, which grows into a baby."
+  },
+  {
+    "id": "hormones-taboo-28",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Embryo",
+    "forbidden": [
+      "Baby",
+      "Uterus",
+      "Zygote",
+      "Foetus"
+    ],
+    "clues": [
+      "It is an early stage of a growing human, when body parts are only just starting to form.",
+      "It grows from a single cell that divides again and again.",
+      "Once its main body parts have formed, around the eighth week in the womb, it gets a new name."
+    ],
+    "decoys": [
+      "Ovum",
+      "Newborn",
+      "Tadpole"
+    ],
+    "explain": "After fertilisation, the zygote divides many times and becomes a ball of cells that attaches to the wall of the uterus. This early stage, while organs are starting to form, is called an embryo. Once the main body parts can be seen, it is called a foetus until birth."
+  },
+  {
+    "id": "hormones-taboo-29",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Metamorphosis",
+    "forbidden": [
+      "Tadpole",
+      "Caterpillar",
+      "Change",
+      "Butterfly"
+    ],
+    "clues": [
+      "A young animal's body is rebuilt into a very different adult shape.",
+      "In frogs, the thyroid hormone controls when this process happens.",
+      "A wriggly larva becomes a pupa and then a winged insect."
+    ],
+    "decoys": [
+      "Germination",
+      "Fertilisation",
+      "Moulting"
+    ],
+    "explain": "Metamorphosis is a big change in body form as an animal grows up. A tadpole loses its tail and grows legs to become a frog, and a caterpillar turns into a butterfly inside a pupa. In frogs this is controlled by thyroxine, a hormone that needs iodine."
+  },
+  {
+    "id": "hormones-taboo-30",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Gland",
+    "forbidden": [
+      "Hormone",
+      "Thyroid",
+      "Pituitary",
+      "Sweat"
+    ],
+    "clues": [
+      "It is a group of cells whose job is to make and release a useful substance.",
+      "Some send their substance out through tubes; others pour it straight into the blood.",
+      "Examples sit in your neck, on top of your kidneys and just below your brain."
+    ],
+    "decoys": [
+      "Muscle",
+      "Nerve",
+      "Tendon"
+    ],
+    "explain": "A gland is an organ or group of cells that makes and releases a substance the body needs. Exocrine glands, like salivary and sweat glands, use tubes called ducts. Endocrine glands, like the thyroid and adrenals, have no ducts and release hormones directly into the blood."
+  },
+  {
+    "id": "hormones-taboo-31",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Growth spurt",
+    "forbidden": [
+      "Tall",
+      "Height",
+      "Puberty",
+      "Fast"
+    ],
+    "clues": [
+      "Your trousers suddenly look short even though they fitted last year.",
+      "It usually comes a little earlier in girls than in boys.",
+      "Your body shoots up a lot in a short time during the early teenage years."
+    ],
+    "decoys": [
+      "Growing pains",
+      "Voice break",
+      "Weight gain"
+    ],
+    "explain": "During puberty, growth hormone and sex hormones work together to make bones grow quickly for a year or two. This is called a growth spurt. Girls often start theirs around 10 to 12 and boys a little later, so classmates can be very different heights for a while."
+  },
+  {
+    "id": "hormones-taboo-32",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Glucose meter",
+    "forbidden": [
+      "Sugar",
+      "Diabetes",
+      "Blood",
+      "Finger"
+    ],
+    "clues": [
+      "This small device shows a number on its screen within seconds.",
+      "A tiny prick gives a drop that goes onto a thin test strip.",
+      "People whose bodies cannot control glucose well use it several times a day."
+    ],
+    "decoys": [
+      "Thermometer",
+      "Pulse oximeter",
+      "Blood pressure monitor"
+    ],
+    "explain": "A glucose meter measures how much glucose (sugar) is in the blood. People with diabetes use it to check whether their level is too high or too low. The reading helps them decide on food, exercise and how much insulin to take."
+  },
+  {
+    "id": "hormones-taboo-33",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Cortisol",
+    "forbidden": [
+      "Stress",
+      "Adrenal",
+      "Kidney",
+      "Morning"
+    ],
+    "clues": [
+      "Its level is usually highest soon after you wake up and lowest around midnight.",
+      "Worry that goes on for weeks keeps it high, which can disturb sleep and weaken defences against germs.",
+      "It is made by the same small glands that make the fight-or-flight hormone."
+    ],
+    "decoys": [
+      "Adrenaline",
+      "Melatonin",
+      "Insulin"
+    ],
+    "explain": "Cortisol is a hormone made by the outer layer of the adrenal glands. It helps the body wake up, keep blood sugar steady and cope with pressure. If worry goes on for a long time, cortisol stays high, which can affect sleep, appetite and the immune system."
+  },
+  {
+    "id": "hormones-taboo-34",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Ovulation",
+    "forbidden": [
+      "Ovary",
+      "Egg",
+      "Month",
+      "Release"
+    ],
+    "clues": [
+      "It happens roughly halfway through each menstrual cycle.",
+      "It is the moment a ripe ovum bursts out of its tiny pouch.",
+      "Afterwards the ovum travels down the oviduct towards the uterus."
+    ],
+    "decoys": [
+      "Menstruation",
+      "Fertilisation",
+      "Puberty"
+    ],
+    "explain": "Ovulation is when an ovary releases a ripe egg cell. In a typical cycle it happens about two weeks before the next period. The egg then moves along the oviduct, and if it is not fertilised, the lining of the uterus is shed as a period."
+  },
+  {
+    "id": "hormones-case-17",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Endocrinologist",
+    "scenario": "A girl with type 1 diabetes asks why she must inject insulin instead of swallowing it as a tablet like other medicines. What is the best answer?",
+    "options": [
+      "Tablets are too big to swallow",
+      "Insulin only works in the arm",
+      "Insulin would be digested in the stomach",
+      "Tablets would make her sleepy"
+    ],
+    "answer": "Insulin would be digested in the stomach",
+    "optionNotes": [
+      "Size is not the problem",
+      "It works all over the body",
+      "It is a protein, broken down like food",
+      "Not the reason"
+    ],
+    "explain": "Insulin is a protein, just like the protein in dal or eggs. If swallowed, the stomach and intestine would digest it into small pieces before it could work. Injecting it under the skin lets it enter the blood whole, ready to move sugar into cells."
+  },
+  {
+    "id": "hormones-case-18",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "An adult's yearly check-up shows his blood sugar is slowly rising, though he does not have diabetes yet. He drinks several sugary drinks daily and rarely exercises. What is the best advice?",
+    "options": [
+      "Exercise daily and cut sugary drinks",
+      "Start insulin injections today",
+      "Skip breakfast and lunch",
+      "Eat more sweets for energy"
+    ],
+    "answer": "Exercise daily and cut sugary drinks",
+    "optionNotes": [
+      "Helps insulin work and lowers sugar",
+      "Not needed at this stage",
+      "Skipping meals is unhealthy",
+      "Would raise sugar further"
+    ],
+    "explain": "Type 2 diabetes develops slowly when the body stops responding well to insulin. Regular exercise helps muscles take up sugar, and cutting sugary drinks reduces the load on the body. Healthy habits at this stage can delay or even prevent diabetes."
+  },
+  {
+    "id": "hormones-case-19",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Endocrinologist",
+    "scenario": "A student has felt anxious about board exams for many weeks. She sleeps badly and catches colds often. Her doctor explains that one hormone stays high when worry lasts a long time. Which hormone?",
+    "options": [
+      "Insulin",
+      "Melatonin",
+      "Oestrogen",
+      "Cortisol"
+    ],
+    "answer": "Cortisol",
+    "optionNotes": [
+      "Controls blood sugar",
+      "Sleep hormone; rises at night",
+      "Female sex hormone",
+      "Long-term pressure hormone from adrenals"
+    ],
+    "explain": "Adrenaline handles sudden shocks, but cortisol from the adrenal glands rises when pressure lasts for days or weeks. High cortisol for a long time can upset sleep and weaken the immune system. Sleep, exercise, breaks and talking to someone help bring it down."
+  },
+  {
+    "id": "hormones-case-20",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Endocrinologist",
+    "scenario": "In a school experiment, tadpoles kept in water with no iodine stay as tadpoles, while those with iodine become frogs. Which hormone could they not make?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline",
+      "Melatonin"
+    ],
+    "answer": "Thyroxine",
+    "optionNotes": [
+      "Controls blood sugar",
+      "Thyroid hormone; needs iodine",
+      "Fight-or-flight hormone",
+      "Sleep hormone"
+    ],
+    "explain": "The thyroid gland uses iodine to make thyroxine. In frogs, thyroxine controls metamorphosis, the change from tadpole to frog. Without iodine, the tadpoles cannot make enough thyroxine, so they stay tadpoles."
+  },
+  {
+    "id": "hormones-case-21",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Gynaecologist",
+    "scenario": "A pregnant woman asks how her growing baby gets food and oxygen while inside her uterus. Through which part does it reach the baby?",
+    "options": [
+      "Oesophagus",
+      "Windpipe",
+      "Umbilical cord",
+      "Ureter"
+    ],
+    "answer": "Umbilical cord",
+    "optionNotes": [
+      "Food pipe of the mother",
+      "Carries air to the lungs",
+      "Joins baby to the placenta",
+      "Carries urine to the bladder"
+    ],
+    "explain": "Inside the uterus, a baby cannot eat or breathe air. The umbilical cord connects the baby to the placenta, which is attached to the mother's uterus. Food and oxygen pass from the mother's blood to the baby through the cord, and waste passes back. The belly button is where the cord was attached."
+  },
+  {
+    "id": "hormones-case-22",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Gynaecologist",
+    "scenario": "A pregnant woman wants to see how her growing baby is doing. The doctor wants a safe test that uses sound waves, not radiation. Which test is best?",
+    "options": [
+      "Ultrasound",
+      "X-ray",
+      "CT scan",
+      "ECG"
+    ],
+    "answer": "Ultrasound",
+    "optionNotes": [
+      "Sound waves make a moving picture",
+      "Uses radiation; avoided in pregnancy",
+      "Uses many X-rays",
+      "Records the mother's heartbeat signals"
+    ],
+    "explain": "An ultrasound scan sends high-pitched sound waves into the body and turns the echoes into a picture on a screen. It uses no radiation, so it is safe for a growing baby. Doctors use it to check the baby's growth, heartbeat and position."
+  },
+  {
+    "id": "hormones-case-23",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 13-year-old has mild cramps in her lower tummy on the first day of her period. She is otherwise well. What is the best advice?",
+    "options": [
+      "Stop eating for the day",
+      "Run hard to stop the pain",
+      "Keep it secret from adults",
+      "A warm water bag and rest"
+    ],
+    "answer": "A warm water bag and rest",
+    "optionNotes": [
+      "Food gives needed energy",
+      "Hard exercise will not stop cramps",
+      "Telling an adult helps",
+      "Warmth relaxes the uterus muscles"
+    ],
+    "explain": "Period cramps happen because the muscles of the uterus squeeze to shed its lining. Warmth on the tummy, rest and gentle movement often ease mild cramps. If the pain is very bad or stops her from going to school, a parent should take her to a doctor."
+  },
+  {
+    "id": "hormones-case-24",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "A 12-year-old boy notices his underarms now smell after games, which never happened before. He is healthy. What is the best advice?",
+    "options": [
+      "Stop playing games",
+      "Bathe daily; wear clean clothes",
+      "Drink less water",
+      "Use the same shirt all week"
+    ],
+    "answer": "Bathe daily; wear clean clothes",
+    "optionNotes": [
+      "Exercise is healthy",
+      "Removes sweat and bacteria",
+      "Water is needed",
+      "Lets bacteria and smell build up"
+    ],
+    "explain": "At puberty, hormones switch on new sweat glands in the underarms. Their sweat has no smell at first, but bacteria on the skin break it down and make body odour. Bathing every day and wearing clean clothes removes the sweat and bacteria."
+  },
+  {
+    "id": "hormones-case-25",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 10-year-old is growing far taller than anyone in his family, and his hands and feet are very large. Tests show a gland below his brain is making too much growth hormone. Which gland is it?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "answer": "Pituitary gland",
+    "optionNotes": [
+      "Makes thyroxine; in the neck",
+      "Makes adrenaline; on the kidneys",
+      "Makes growth hormone; below the brain",
+      "Makes insulin; behind the stomach"
+    ],
+    "explain": "The pituitary gland, about the size of a pea, sits just below the brain. It makes growth hormone, which tells bones and muscles to grow. If it makes far too much during childhood, a child can grow extremely tall, a condition called gigantism, which doctors can treat."
+  },
+  {
+    "id": "hormones-case-26",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Endocrinologist",
+    "scenario": "A man with diabetes has a small cut on his foot that is healing very slowly. He did not even feel it happen. What should he do?",
+    "options": [
+      "Show it to a doctor soon",
+      "Ignore it until it heals",
+      "Walk barefoot to air it",
+      "Put ice on it for an hour"
+    ],
+    "answer": "Show it to a doctor soon",
+    "optionNotes": [
+      "Catches problems early",
+      "Slow wounds can get infected",
+      "Raises the risk of new cuts",
+      "Ice can damage the skin"
+    ],
+    "explain": "Years of high blood sugar can damage nerves and blood vessels, especially in the feet. People with diabetes may not feel small cuts, and wounds heal slowly and can become infected. Checking the feet every day and showing any wound to a doctor early prevents serious problems."
+  },
+  {
+    "id": "hormones-case-27",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Gynaecologist",
+    "scenario": "Expecting parents ask what decides whether their baby will be a boy or a girl. What is the correct answer?",
+    "options": [
+      "What the mother eats",
+      "The month of birth",
+      "The father's height",
+      "The sperm's X or Y chromosome"
+    ],
+    "answer": "The sperm's X or Y chromosome",
+    "optionNotes": [
+      "Food does not decide this",
+      "Birth month does not decide this",
+      "Height does not decide this",
+      "X makes a girl; Y makes a boy"
+    ],
+    "explain": "Every egg cell carries an X chromosome. A sperm carries either an X or a Y. If an X sperm joins the egg, the baby is XX, a girl; if a Y sperm joins, the baby is XY, a boy. So it is decided at fertilisation, and the mother's diet has nothing to do with it."
+  },
+  {
+    "id": "hormones-case-28",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 15-year-old boy's voice is deeper, his muscles are bigger and a moustache is starting. Which organs make the hormone that causes these changes?",
+    "options": [
+      "Kidneys",
+      "Testes",
+      "Lungs",
+      "Thyroid gland"
+    ],
+    "answer": "Testes",
+    "optionNotes": [
+      "Filter blood",
+      "Make testosterone",
+      "Take in oxygen",
+      "Makes thyroxine"
+    ],
+    "explain": "In boys, puberty begins when the pituitary gland signals the testes to make more testosterone. Testosterone makes the voice box grow, builds muscle and causes facial and body hair. In girls, the ovaries make oestrogen, which brings about their puberty changes."
+  },
+  {
+    "id": "hormones-case-29",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A 9-year-old with type 1 diabetes has a long football match after school. What should she do before the match?",
+    "options": [
+      "Take double insulin",
+      "Skip her snack",
+      "Check sugar; snack if low",
+      "Avoid drinking water"
+    ],
+    "answer": "Check sugar; snack if low",
+    "optionNotes": [
+      "Could make sugar drop too low",
+      "Raises the risk of low sugar",
+      "Exercise uses up sugar",
+      "Water is needed during sport"
+    ],
+    "explain": "Exercise makes muscles use up glucose from the blood, so blood sugar can fall during a long game. Children with diabetes can play every sport, but they check their level first and keep a snack ready. This prevents shaking and confusion from low blood sugar."
+  },
+  {
+    "id": "hormones-case-30",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Gynaecologist",
+    "scenario": "Twins are born: one is a boy and one is a girl. A student asks how they formed. What is the correct answer?",
+    "options": [
+      "Two eggs, two different sperm",
+      "One zygote split into two",
+      "One sperm joined two eggs",
+      "One egg joined two sperm"
+    ],
+    "answer": "Two eggs, two different sperm",
+    "optionNotes": [
+      "Makes non-identical twins",
+      "Makes identical twins of one sex",
+      "A sperm can join only one egg",
+      "Only one sperm can enter an egg"
+    ],
+    "explain": "Sometimes the ovaries release two eggs at once. If each is fertilised by a different sperm, two zygotes form and grow into non-identical twins. Since each sperm can carry X or Y, these twins can be a boy and a girl, and they are no more alike than ordinary brothers and sisters."
+  },
+  {
+    "id": "hormones-case-31",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Gynaecologist",
+    "scenario": "A couple cannot have a baby because the woman's oviducts are blocked. Doctors join her eggs with sperm in a lab dish, then place the early embryo in her uterus. What is this method called?",
+    "options": [
+      "Metamorphosis",
+      "Budding",
+      "Binary fission",
+      "In vitro fertilisation"
+    ],
+    "answer": "In vitro fertilisation",
+    "optionNotes": [
+      "Body change in frogs and insects",
+      "Asexual reproduction in hydra",
+      "Splitting in two, as in amoeba",
+      "Fertilisation outside the body"
+    ],
+    "explain": "Normally a sperm meets the egg in the oviduct. If the oviducts are blocked, doctors can bring egg and sperm together in a lab dish; 'in vitro' means 'in glass'. The embryo is then placed in the uterus to grow, and babies born this way are sometimes called test-tube babies."
+  },
+  {
+    "id": "hormones-case-32",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 13-year-old feels happy one moment and irritable the next, without a clear reason. She is healthy and growing well. What is the best explanation?",
+    "options": [
+      "A broken bone",
+      "Changing hormones during puberty",
+      "Lack of iodine",
+      "An eye infection"
+    ],
+    "answer": "Changing hormones during puberty",
+    "optionNotes": [
+      "Would cause pain",
+      "Normal part of adolescence",
+      "Causes neck swelling",
+      "Causes red eyes"
+    ],
+    "explain": "During puberty, hormone levels rise and change, and they affect the brain as well as the body. This can cause quick mood swings that are a normal part of growing up. Enough sleep, exercise and talking to a trusted adult help, and a doctor can advise if low moods last a long time."
+  }
+]

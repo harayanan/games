@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "germs-odd-18",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Typhoid: mosquito",
+      "Malaria: mosquito",
+      "Plague: rat fleas",
+      "Rabies: animal bite",
+      "Dengue: mosquito"
+    ],
+    "answer": "Typhoid: mosquito",
+    "notes": [
+      "Wrong: spreads through dirty food and water",
+      "Correct",
+      "Correct",
+      "Correct",
+      "Correct"
+    ],
+    "reason": "Typhoid spreads through dirty food and water, not mosquitoes; the other four pairs are correct.",
+    "explain": "Some germs need an animal to carry them from one person to another. Mosquitoes carry malaria and dengue, fleas from rats carried plague, and rabies passes through the bite of an infected animal. Typhoid bacteria spread a different way: through food or water dirtied with germs from an infected person."
+  },
+  {
+    "id": "germs-odd-19",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Refrigerating",
+      "Salting",
+      "Making jam with sugar",
+      "Keeping it warm",
+      "Pasteurising"
+    ],
+    "answer": "Keeping it warm",
+    "notes": [
+      "Cold slows microbe growth",
+      "Salt draws out water microbes need",
+      "Thick sugar stops microbes growing",
+      "Warmth helps microbes multiply",
+      "Heating kills most germs"
+    ],
+    "reason": "Keeping food warm helps microbes grow; the other four are ways to preserve food.",
+    "explain": "Bacteria and fungi spoil food fastest when it is warm and moist. Preservation methods stop them: cold slows them down, heating kills them, and lots of salt or sugar pulls out the water they need. Food left warm for hours lets bacteria multiply and can cause food poisoning."
+  },
+  {
+    "id": "germs-odd-20",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Malaria",
+      "Cholera",
+      "Amoebic dysentery",
+      "Kala-azar",
+      "Sleeping sickness"
+    ],
+    "answer": "Cholera",
+    "notes": [
+      "Protozoan carried by mosquitoes",
+      "Caused by bacteria",
+      "Protozoan in dirty water",
+      "Protozoan carried by sandflies",
+      "Protozoan carried by tsetse flies"
+    ],
+    "reason": "Cholera is caused by bacteria; the other four are caused by protozoa.",
+    "explain": "Protozoa are single-celled living things with a nucleus, larger and more complex than bacteria. A few of them cause disease, like malaria and kala-azar, which are spread by biting insects. Cholera is caused by a bacterium that spreads through dirty water.",
+    "fact": "Kala-azar, spread by sandflies, is found in parts of Bihar, Jharkhand and West Bengal, and cases in India have fallen sharply."
+  },
+  {
+    "id": "germs-odd-21",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Housefly",
+      "Mosquito",
+      "Rat",
+      "Cockroach",
+      "Butterfly"
+    ],
+    "answer": "Butterfly",
+    "notes": [
+      "Carries germs from waste to food",
+      "Spreads malaria and dengue",
+      "Its fleas once spread plague",
+      "Carries germs on its legs",
+      "Sips nectar; does not spread disease"
+    ],
+    "reason": "Butterflies do not spread human disease; the other four carry germs.",
+    "explain": "Animals that carry germs from place to place are called carriers or vectors. Flies and cockroaches walk on waste and then on our food, leaving germs behind. Mosquitoes inject germs when they bite. Keeping food covered and the home clean keeps these carriers away."
+  },
+  {
+    "id": "germs-odd-22",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Skin",
+      "Tears",
+      "Insulin",
+      "Stomach acid",
+      "Nose mucus"
+    ],
+    "answer": "Insulin",
+    "notes": [
+      "Tough outer wall germs cannot cross",
+      "Wash eyes and contain germ-killing chemicals",
+      "Hormone that moves sugar into cells",
+      "Kills many germs swallowed with food",
+      "Sticky layer that traps dust and germs"
+    ],
+    "reason": "Insulin is a hormone; the other four are first barriers that stop germs getting in.",
+    "explain": "Your body's first defence is to stop germs from getting inside at all. Unbroken skin acts like a wall, tears and nose mucus trap and wash germs away, and strong stomach acid kills many germs in food. Insulin has a different job: it is a hormone from the pancreas that helps sugar move from the blood into cells."
+  },
+  {
+    "id": "germs-odd-23",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Flu virus",
+      "Pollen",
+      "Dust mites",
+      "Peanuts",
+      "Pet fur"
+    ],
+    "answer": "Flu virus",
+    "notes": [
+      "A real germ that causes infection",
+      "Common allergy trigger",
+      "Common allergy trigger",
+      "Common allergy trigger",
+      "Common allergy trigger"
+    ],
+    "reason": "The flu virus is a germ that causes infection; the other four are harmless things that can trigger allergies.",
+    "explain": "An allergy happens when the immune system overreacts to something that is usually harmless, like pollen, dust mites, peanuts or pet fur. It causes sneezing, itching or rashes even though there is no real danger. The flu virus is different: it is a real germ, and fighting it is the immune system's proper job."
+  },
+  {
+    "id": "germs-odd-24",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Sterile bandage",
+      "Antiseptic liquid",
+      "Disposable gloves",
+      "Butter",
+      "Clean gauze"
+    ],
+    "answer": "Butter",
+    "notes": [
+      "Covers a wound",
+      "Kills germs on skin",
+      "Keeps the helper's hands clean",
+      "Never put on wounds or burns",
+      "Pads and protects a wound"
+    ],
+    "reason": "Butter does not belong in a first aid kit; the other four help keep wounds clean.",
+    "explain": "A first aid kit holds clean supplies that stop germs getting into a wound. Antiseptic kills germs on the skin, and sterile bandages and gauze keep dirt out. Butter, oil or toothpaste should never go on a wound or burn, because they trap heat and germs."
+  },
+  {
+    "id": "germs-odd-25",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Boiling",
+      "Adding sugar",
+      "Water filter",
+      "Chlorine tablets",
+      "UV purifier"
+    ],
+    "answer": "Adding sugar",
+    "notes": [
+      "Heat kills germs",
+      "Does not kill germs",
+      "Traps germs and dirt",
+      "Chemical that kills germs",
+      "Light that damages germs"
+    ],
+    "reason": "Adding sugar does not make water safe; the other four remove or kill germs in water.",
+    "explain": "Dirty water can carry germs that cause cholera, typhoid and diarrhoea. Boiling it for a minute kills germs, chlorine tablets poison them, UV light damages them, and good filters trap them. Adding sugar or salt does nothing to make water safe."
+  },
+  {
+    "id": "germs-odd-26",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Stethoscope",
+      "Thermometer",
+      "Blood pressure cuff",
+      "Tongue depressor",
+      "Petri dish"
+    ],
+    "answer": "Petri dish",
+    "notes": [
+      "Listens to heart and lungs",
+      "Measures body temperature",
+      "Measures blood pressure",
+      "Holds tongue down to see throat",
+      "Lab dish for growing germs"
+    ],
+    "reason": "A Petri dish is used in a laboratory; the other four are used by a doctor to examine a patient.",
+    "explain": "In a check-up, the doctor uses simple tools on your body: a stethoscope to hear your heart and lungs, a thermometer for fever, a cuff for blood pressure and a flat stick to look at your throat. A Petri dish is a shallow lab dish with jelly-like food where samples are kept so any germs can grow and be identified."
+  },
+  {
+    "id": "germs-odd-27",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Wet your hands",
+      "Rub with soap",
+      "Wipe on your clothes",
+      "Scrub for 20 seconds",
+      "Rinse well"
+    ],
+    "answer": "Wipe on your clothes",
+    "notes": [
+      "Step one",
+      "Soap lifts germs and grease",
+      "Puts germs back on hands",
+      "Clean between fingers and nails",
+      "Washes germs away"
+    ],
+    "reason": "Wiping hands on clothes puts germs back on them; the other four are correct steps of handwashing.",
+    "explain": "Soap breaks up the oily layer that sticks germs to skin, and scrubbing for about 20 seconds reaches between fingers and under nails. Rinsing washes the loosened germs away. Drying on a clean towel or in the air finishes the job; dirty clothes can put germs straight back."
+  },
+  {
+    "id": "germs-odd-28",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Antibiotics",
+      "Weakened germs",
+      "Killed germs",
+      "Pieces of a germ",
+      "Germ poison made harmless"
+    ],
+    "answer": "Antibiotics",
+    "notes": [
+      "Medicine that kills bacteria",
+      "Used in some vaccines",
+      "Used in some vaccines",
+      "Used in some vaccines",
+      "Used in tetanus vaccine"
+    ],
+    "reason": "Antibiotics are medicines that treat bacterial infections; the other four are what vaccines are made from.",
+    "explain": "A vaccine shows your immune system a safe version of a germ so it learns to recognise it. The safe version can be a weakened germ, a killed germ, a piece of the germ, or a germ's poison made harmless. Antibiotics are different: they are medicines that kill bacteria during an infection and do not train the immune system."
+  },
+  {
+    "id": "germs-odd-29",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Flu",
+      "Measles",
+      "Chickenpox",
+      "Asthma",
+      "Head lice"
+    ],
+    "answer": "Asthma",
+    "notes": [
+      "Spreads by coughs and sneezes",
+      "Spreads very easily through the air",
+      "Spreads by touch and through the air",
+      "Cannot be caught from others",
+      "Spread by sharing combs and hats"
+    ],
+    "reason": "Asthma is not contagious; the other four can spread from person to person.",
+    "explain": "A contagious condition can pass from one person to another, usually by germs or tiny creatures moving between people. Flu, measles and chickenpox are caused by viruses, and head lice crawl from head to head. Asthma is a long-term condition of the airways and cannot be caught from someone."
+  },
+  {
+    "id": "germs-odd-30",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Ultrasound: baby in womb",
+      "Thermometer: blood sugar",
+      "X-ray: broken bone",
+      "ECG: heart rhythm",
+      "MRI: brain"
+    ],
+    "answer": "Thermometer: blood sugar",
+    "notes": [
+      "Correct",
+      "Wrong: it measures body temperature",
+      "Correct",
+      "Correct",
+      "Correct"
+    ],
+    "reason": "A thermometer measures body temperature, not blood sugar; the other four pairs are correct.",
+    "explain": "Each test answers a different question. Ultrasound uses sound waves to see a baby, X-rays show bones, an ECG records the heart's electrical signals, and MRI shows soft tissue like the brain. A thermometer checks for fever, and blood sugar is measured with a glucose meter."
+  },
+  {
+    "id": "germs-odd-31",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Enough sleep",
+      "Balanced diet",
+      "Vaccines on time",
+      "Regular exercise",
+      "Junk food daily"
+    ],
+    "answer": "Junk food daily",
+    "notes": [
+      "Helps immune cells work",
+      "Gives vitamins and protein",
+      "Trains immunity safely",
+      "Keeps the body strong",
+      "Lacks nutrients immunity needs"
+    ],
+    "reason": "Daily junk food weakens the body's defences; the other four support immunity.",
+    "explain": "The immune system needs good fuel and rest to work well. Sleep, a diet with fruits, vegetables and protein, and regular exercise all help white blood cells do their job. Vaccines add specific protection, while a diet of mostly junk food lacks the vitamins and minerals immune cells need."
+  },
+  {
+    "id": "germs-odd-32",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Penicillin",
+      "Amoxicillin",
+      "Paracetamol",
+      "Streptomycin",
+      "Tetracycline"
+    ],
+    "answer": "Paracetamol",
+    "notes": [
+      "Antibiotic",
+      "Antibiotic",
+      "Lowers fever and pain",
+      "Antibiotic used for TB",
+      "Antibiotic"
+    ],
+    "reason": "Paracetamol lowers fever and pain; the other four are antibiotics that kill bacteria.",
+    "explain": "Antibiotics kill bacteria or stop them multiplying, so they treat bacterial infections like typhoid or TB. Paracetamol does not kill any germ; it only lowers fever and eases pain while the body fights the illness. Doctors decide which medicine is needed, and medicines should only be taken as prescribed."
+  },
+  {
+    "id": "germs-odd-33",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cold virus",
+      "Bacteria",
+      "Yeast cells",
+      "Amoeba",
+      "Bread mould"
+    ],
+    "answer": "Cold virus",
+    "notes": [
+      "Needs an electron microscope",
+      "Seen with a light microscope",
+      "Seen with a light microscope",
+      "Seen with a light microscope",
+      "Seen with a hand lens or microscope"
+    ],
+    "reason": "A cold virus is too small for a school light microscope; the other four can be seen with one.",
+    "explain": "Bacteria, yeast and amoeba are single cells big enough to see with an ordinary light microscope, and bread mould is visible even with a hand lens. Most viruses are about a hundred times smaller than a typical bacterium. Scientists need a powerful electron microscope to see them."
+  },
+  {
+    "id": "germs-odd-34",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "TB: lungs",
+      "Hepatitis: liver",
+      "Conjunctivitis: eyes",
+      "Tetanus: teeth",
+      "Polio: nerves"
+    ],
+    "answer": "Tetanus: teeth",
+    "notes": [
+      "Correct",
+      "Correct",
+      "Correct",
+      "Wrong: it affects nerves and muscles",
+      "Correct"
+    ],
+    "reason": "Tetanus affects nerves and muscles, not teeth; the other four pairs are correct.",
+    "explain": "Each germ tends to attack a particular part of the body. TB usually affects the lungs, hepatitis inflames the liver, conjunctivitis makes the eyes red, and polio damages nerves that move muscles. Tetanus bacteria from soil enter through wounds and make a poison that causes muscles to tighten painfully, often starting at the jaw, which is why it is also called lockjaw."
+  },
+  {
+    "id": "germs-taboo-18",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Bacteria",
+    "forbidden": [
+      "Germ",
+      "Antibiotic",
+      "Microbe",
+      "Infection"
+    ],
+    "clues": [
+      "They are living things made of a single cell with no nucleus.",
+      "Some live in curd and in your gut and help you, while others cause typhoid or cholera.",
+      "They can be rod-shaped, round or spiral, and medicines like penicillin can kill them."
+    ],
+    "decoys": [
+      "Viruses",
+      "Fungi",
+      "Protozoa"
+    ],
+    "explain": "Bacteria are tiny single-celled living things found almost everywhere: in soil, water, food and on and inside your body. Most are harmless or helpful, like the ones that turn milk into curd or help digest food. A few cause diseases such as typhoid, cholera and TB, which antibiotics can treat."
+  },
+  {
+    "id": "germs-taboo-19",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Thermometer",
+    "forbidden": [
+      "Fever",
+      "Temperature",
+      "Degrees",
+      "Hot"
+    ],
+    "clues": [
+      "It can go under your tongue, in your armpit or near your ear.",
+      "When you are well, it usually reads about 37 on the Celsius scale.",
+      "A parent uses it to check how warm your body is when you feel ill."
+    ],
+    "decoys": [
+      "Stethoscope",
+      "Glucose meter",
+      "Pulse oximeter"
+    ],
+    "explain": "A thermometer measures body temperature. A normal reading is about 37 °C, and a reading of 38 °C or more usually means a fever. A fever is often a sign that the body is fighting an infection."
+  },
+  {
+    "id": "germs-taboo-20",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Mosquito",
+    "forbidden": [
+      "Malaria",
+      "Dengue",
+      "Bite",
+      "Insect"
+    ],
+    "clues": [
+      "Only the females of this creature need a meal of blood, to help their eggs grow.",
+      "Its young wriggle in still water in coolers, pots and old tyres.",
+      "It whines near your ear at night, and a net over the bed keeps it away."
+    ],
+    "decoys": [
+      "Housefly",
+      "Cockroach",
+      "Bed bug"
+    ],
+    "explain": "Mosquitoes lay eggs in still water, and the larvae live there until they become adults. Female mosquitoes drink blood, and while feeding they can pass germs from one person to another. Removing standing water, using nets and wearing long sleeves all help prevent mosquito-borne diseases."
+  },
+  {
+    "id": "germs-taboo-21",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Soap",
+    "forbidden": [
+      "Wash",
+      "Hands",
+      "Bubbles",
+      "Bath"
+    ],
+    "clues": [
+      "Each of its molecules grabs grease at one end and water at the other.",
+      "It breaks apart the fatty outer coat of some viruses.",
+      "You rub it on your palms for 20 seconds and then rinse it off with water before eating."
+    ],
+    "decoys": [
+      "Hand sanitiser",
+      "Shampoo",
+      "Toothpaste"
+    ],
+    "explain": "Soap molecules have one end that sticks to oil and another that sticks to water. They lift grease and germs off the skin so water can rinse them away, and they can break the fatty coat of some viruses. Washing hands with soap is one of the simplest ways to prevent illness."
+  },
+  {
+    "id": "germs-taboo-22",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Paediatrician",
+    "forbidden": [
+      "Children",
+      "Doctor",
+      "Kids",
+      "Baby"
+    ],
+    "clues": [
+      "This specialist checks a newborn's weight, length and reflexes.",
+      "They give many of the vaccines on the early-years schedule.",
+      "If you are under about 18, this is usually the specialist you see when you are ill."
+    ],
+    "decoys": [
+      "Gynaecologist",
+      "Dermatologist",
+      "Cardiologist"
+    ],
+    "explain": "A paediatrician is a doctor who looks after babies, children and teenagers. They check growth, give vaccines and treat childhood illnesses. Children's bodies and medicine doses are different from adults', so this specialist has extra training in them."
+  },
+  {
+    "id": "germs-taboo-23",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Mask",
+    "forbidden": [
+      "Face",
+      "Mouth",
+      "Nose",
+      "Cover"
+    ],
+    "clues": [
+      "Surgeons wear one in the operating theatre.",
+      "During a flu or Covid outbreak, many people wear one in crowded places.",
+      "It catches tiny droplets when you cough, sneeze or speak."
+    ],
+    "decoys": [
+      "Gloves",
+      "Goggles",
+      "Apron"
+    ],
+    "explain": "Many germs, like flu and cold viruses, travel in tiny droplets when people cough, sneeze or talk. A mask catches many of these droplets, protecting both the wearer and people nearby. It works best together with handwashing and staying home when ill."
+  },
+  {
+    "id": "germs-taboo-24",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pharmacist",
+    "forbidden": [
+      "Medicine",
+      "Prescription",
+      "Chemist",
+      "Tablets"
+    ],
+    "clues": [
+      "They study for years to learn how drugs work and how they affect each other.",
+      "They check that the dose on a doctor's note is safe before handing it over.",
+      "You find them behind the counter of a shop that sells pills and syrups."
+    ],
+    "decoys": [
+      "Pathologist",
+      "Nurse",
+      "Surgeon"
+    ],
+    "explain": "A pharmacist is an expert in medicines. They give out the medicines a doctor has prescribed, check the dose is right and explain how and when to take them. They also warn if two medicines should not be taken together."
+  },
+  {
+    "id": "germs-taboo-25",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Typhoid",
+    "forbidden": [
+      "Fever",
+      "Salmonella",
+      "Water",
+      "Food"
+    ],
+    "clues": [
+      "Doctors can confirm it by growing bacteria from a blood sample.",
+      "It spreads through dirty drinks and unwashed fruit, and there is a vaccine for it.",
+      "It brings a high temperature that climbs slowly over several days, with stomach pain."
+    ],
+    "decoys": [
+      "Malaria",
+      "Dengue",
+      "Chickenpox"
+    ],
+    "explain": "Typhoid is caused by bacteria that spread through food or water dirtied by an infected person. The bacteria get into the blood, causing a fever that rises slowly, weakness and stomach pain. It is treated with antibiotics, and clean water, handwashing and a vaccine help prevent it."
+  },
+  {
+    "id": "germs-taboo-26",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Mumps",
+    "forbidden": [
+      "Swelling",
+      "Cheeks",
+      "Saliva",
+      "Jaw"
+    ],
+    "clues": [
+      "It is caused by a virus and is prevented by the MMR vaccine.",
+      "It makes the glands just in front of the ears puffy and sore.",
+      "A child with it may look like a hamster with full pouches."
+    ],
+    "decoys": [
+      "Measles",
+      "Chickenpox",
+      "Tonsillitis"
+    ],
+    "explain": "Mumps is a viral infection of the salivary glands, the glands that make spit, in front of the ears. They swell, making the face look puffy, and chewing can hurt. The MMR vaccine protects against measles, mumps and rubella together."
+  },
+  {
+    "id": "germs-taboo-27",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Polio",
+    "forbidden": [
+      "Drops",
+      "Paralysis",
+      "Legs",
+      "Vaccine"
+    ],
+    "clues": [
+      "India was declared free of this disease in 2014.",
+      "It is caused by a virus that can damage the nerves that move muscles.",
+      "On special campaign days, children across India are given a dose by mouth to prevent it."
+    ],
+    "decoys": [
+      "Measles",
+      "Tetanus",
+      "Rabies"
+    ],
+    "explain": "Polio is caused by a virus that spreads through dirty water and hands. In some people it damages the nerves that control muscles, which can leave a leg or arm weak for life. Mass vaccination with oral drops and injections removed polio from India, and the vaccine keeps it away."
+  },
+  {
+    "id": "germs-taboo-28",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ringworm",
+    "forbidden": [
+      "Fungus",
+      "Ring",
+      "Itchy",
+      "Skin"
+    ],
+    "clues": [
+      "Despite its name, no worm causes it.",
+      "It spreads by sharing towels or combs, or by touching an infected pet.",
+      "It makes a round red patch with a clearer middle that you want to scratch."
+    ],
+    "decoys": [
+      "Chickenpox",
+      "Eczema",
+      "Scabies"
+    ],
+    "explain": "Ringworm is a skin infection caused by a fungus, not a worm. The fungus grows outwards in a circle, so the patch looks like a red ring. It is treated with antifungal cream, and keeping skin dry and not sharing towels helps prevent it."
+  },
+  {
+    "id": "germs-taboo-29",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Antiseptic",
+    "forbidden": [
+      "Wound",
+      "Germs",
+      "Cuts",
+      "Disinfectant"
+    ],
+    "clues": [
+      "It is a liquid or cream that is safe to use on living skin.",
+      "It stops microbes growing on a scrape or graze.",
+      "A nurse wipes your arm with it on a cotton swab before an injection."
+    ],
+    "decoys": [
+      "Antibiotic",
+      "Vaccine",
+      "Painkiller"
+    ],
+    "explain": "An antiseptic kills germs or stops them growing on the skin. It is used on small wounds and before injections or operations. A disinfectant is stronger and is used on floors and surfaces, not on skin."
+  },
+  {
+    "id": "germs-taboo-30",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Rabies",
+    "forbidden": [
+      "Dog",
+      "Bite",
+      "Virus",
+      "Saliva"
+    ],
+    "clues": [
+      "Louis Pasteur made the first vaccine against it in 1885.",
+      "It attacks the brain and nerves, and it passes to people from infected animals.",
+      "After a stray animal breaks your skin, washing the wound and a course of injections prevent it."
+    ],
+    "decoys": [
+      "Tetanus",
+      "Polio",
+      "Malaria"
+    ],
+    "explain": "Rabies is caused by a virus carried in the saliva of infected animals, most often dogs in India. It travels along nerves to the brain. Washing the wound well and getting the full course of rabies injections soon after a bite stops the disease from developing, so every animal bite should be shown to a doctor."
+  },
+  {
+    "id": "germs-taboo-31",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Radiologist",
+    "forbidden": [
+      "X-ray",
+      "Scan",
+      "Images",
+      "MRI"
+    ],
+    "clues": [
+      "This doctor often spends more time studying pictures than talking to patients.",
+      "They read ultrasound, CT and other pictures of the inside of the body and write reports.",
+      "If you break your arm, this specialist looks at the picture to confirm the break."
+    ],
+    "decoys": [
+      "Pathologist",
+      "Orthopaedic Doctor",
+      "Pharmacist"
+    ],
+    "explain": "A radiologist is a doctor trained to read pictures of the inside of the body, from X-rays, CT, MRI and ultrasound. They write a report that helps other doctors decide on treatment. A pathologist, by contrast, studies samples like blood and tissue in a lab."
+  },
+  {
+    "id": "germs-taboo-32",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Pasteurisation",
+    "forbidden": [
+      "Milk",
+      "Heat",
+      "Pasteur",
+      "Boil"
+    ],
+    "clues": [
+      "It is named after a French scientist of the 1800s.",
+      "A drink is warmed to about 70 °C for a short time and then cooled quickly.",
+      "It is why packet dairy drinks keep longer without making you ill."
+    ],
+    "decoys": [
+      "Fermentation",
+      "Sterilisation",
+      "Refrigeration"
+    ],
+    "explain": "Pasteurisation means warming a liquid like milk to about 70 °C for a short time and then cooling it fast. This kills most harmful bacteria without boiling the milk or changing its taste much. It was named after Louis Pasteur, who showed that microbes cause food to spoil."
+  },
+  {
+    "id": "germs-taboo-33",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Penicillin",
+    "forbidden": [
+      "Fleming",
+      "Mould",
+      "Antibiotic",
+      "Bacteria"
+    ],
+    "clues": [
+      "It was discovered in 1928 and first made in large amounts during the Second World War.",
+      "A Scottish scientist noticed that a fuzzy fungus had killed the germs growing near it on a dish.",
+      "Some people are allergic to it, so doctors ask before giving this germ-killing medicine."
+    ],
+    "decoys": [
+      "Streptomycin",
+      "Paracetamol",
+      "Insulin"
+    ],
+    "explain": "Penicillin was the first antibiotic to be widely used. Alexander Fleming saw that a mould called Penicillium killed bacteria growing nearby, and later scientists turned it into a medicine. It works against many bacterial infections but not against viruses."
+  },
+  {
+    "id": "germs-taboo-34",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Pandemic",
+    "forbidden": [
+      "Covid",
+      "Spread",
+      "Countries",
+      "World"
+    ],
+    "clues": [
+      "Doctors use this word when a new illness is passing between people on many continents at once.",
+      "The flu outbreak of 1918 is a famous example.",
+      "It is a much bigger version of an epidemic, which stays in one region."
+    ],
+    "decoys": [
+      "Epidemic",
+      "Outbreak",
+      "Endemic"
+    ],
+    "explain": "An outbreak is a sudden rise in cases in one place, and an epidemic covers a whole region. When a disease spreads across many countries and continents, it is called a pandemic. Handwashing, masks, testing and vaccines help slow a pandemic down."
+  },
+  {
+    "id": "germs-case-17",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A stray dog nips a boy's leg and breaks the skin. His family is taking him to the hospital for injections. What should be done first, right away?",
+    "options": [
+      "Put chilli powder on it",
+      "Tie a tight cloth above it",
+      "Wash with soap and running water",
+      "Wait to see if the dog gets sick"
+    ],
+    "answer": "Wash with soap and running water",
+    "optionNotes": [
+      "Harmful home remedy",
+      "Does not stop the virus",
+      "Washes out much of the virus",
+      "Delay is risky; act now"
+    ],
+    "explain": "Rabies virus is in an infected animal's saliva. Washing the wound with soap and plenty of running water for about 15 minutes removes much of the virus. The child then needs to see a doctor quickly for a course of rabies injections, even if the bite looks small."
+  },
+  {
+    "id": "germs-case-18",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "Emergency Doctor",
+    "scenario": "Minutes after eating a peanut snack, a girl with a known peanut allergy has swollen lips and trouble breathing. She carries an emergency pen injector, and an adult uses it while another calls an ambulance. Which medicine is in the pen?",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "An antibiotic",
+      "Vitamin C"
+    ],
+    "answer": "Adrenaline",
+    "optionNotes": [
+      "Opens airways and reduces swelling",
+      "Lowers blood sugar",
+      "Kills bacteria; slow-acting",
+      "A vitamin, not an emergency medicine"
+    ],
+    "explain": "A severe allergic reaction, called anaphylaxis, happens when the immune system overreacts across the whole body. Adrenaline quickly opens the airways and reduces swelling. People with serious allergies carry an adrenaline pen, and after using it they still go to hospital to be checked."
+  },
+  {
+    "id": "germs-case-19",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Dermatologist",
+    "scenario": "A boy wears damp sports shoes all day. The skin between his toes is now itchy, peeling and cracked. Which treatment is the doctor most likely to give?",
+    "options": [
+      "Antibiotic tablets",
+      "Polio drops",
+      "Insulin",
+      "Antifungal cream, and keep feet dry"
+    ],
+    "answer": "Antifungal cream, and keep feet dry",
+    "optionNotes": [
+      "Kill bacteria, not fungi",
+      "Prevent polio only",
+      "Controls blood sugar",
+      "Treats athlete's foot"
+    ],
+    "explain": "Athlete's foot is caused by a fungus that loves warm, damp places like sweaty shoes. Antifungal cream kills the fungus, and drying the feet well, changing socks and airing shoes stops it coming back. Antibiotics do not work on fungi."
+  },
+  {
+    "id": "germs-case-20",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 7-year-old's scalp itches a lot. Her parent finds tiny eggs stuck to her hair near the scalp. Several classmates have the same problem. What is the best advice?",
+    "options": [
+      "Ignore it; it will go away",
+      "Lice comb and lice treatment",
+      "Take antibiotic tablets",
+      "Shave off her eyebrows"
+    ],
+    "answer": "Lice comb and lice treatment",
+    "optionNotes": [
+      "Lice keep breeding",
+      "Removes lice and eggs; don't share combs",
+      "Lice are not bacteria",
+      "Head lice live on the scalp"
+    ],
+    "explain": "Head lice are tiny insects that live on the scalp and glue their eggs, called nits, to hairs. They spread by head-to-head contact and shared combs or caps. A fine-toothed comb and a lice treatment recommended by a doctor remove them; lice are common and are not a sign of being dirty."
+  },
+  {
+    "id": "germs-case-21",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "An unvaccinated 5-year-old has a high fever, cough, runny nose and red, watery eyes. Three days later a red, blotchy rash starts on her face and spreads down her body. Which disease is most likely?",
+    "options": [
+      "Ringworm",
+      "Sunburn",
+      "Measles",
+      "Chickenpox"
+    ],
+    "answer": "Measles",
+    "optionNotes": [
+      "Single ring-shaped patch",
+      "Only on sun-exposed skin",
+      "Fever, red eyes, then spreading rash",
+      "Itchy fluid-filled blisters"
+    ],
+    "explain": "Measles is caused by a virus that spreads very easily through the air. It starts like a bad cold with red eyes, and a few days later a blotchy rash moves from the face downwards. The MMR vaccine prevents it, which is why vaccines on time are important."
+  },
+  {
+    "id": "germs-case-22",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "At a party, cooked rice was left on a warm table for eight hours. A few hours after eating it, many guests had vomiting and stomach cramps. What is the most likely cause?",
+    "options": [
+      "Bacteria multiplied in the warm food",
+      "The guests ate too fast",
+      "Rice is always poisonous",
+      "The weather was too cold"
+    ],
+    "answer": "Bacteria multiplied in the warm food",
+    "optionNotes": [
+      "Warm food lets bacteria grow",
+      "Does not cause vomiting in many",
+      "Fresh rice is safe",
+      "Cold slows bacteria"
+    ],
+    "explain": "Bacteria multiply quickly in cooked food kept at room temperature, and some make poisons that cause vomiting. Cooked food should be eaten soon or cooled and put in the fridge within about two hours. Reheating may not destroy the poisons some bacteria have already made."
+  },
+  {
+    "id": "germs-case-23",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "General Physician",
+    "scenario": "A man often stopped taking his antibiotics as soon as he felt better. Now his infection does not get better with the same antibiotic. What has most likely happened?",
+    "options": [
+      "The bacteria turned into viruses",
+      "He drank too little water",
+      "His tablets were too small",
+      "The bacteria have become resistant"
+    ],
+    "answer": "The bacteria have become resistant",
+    "optionNotes": [
+      "Bacteria cannot become viruses",
+      "Water does not change this",
+      "Tablet size is not the reason",
+      "Survivors multiply and resist the drug"
+    ],
+    "explain": "When a course of antibiotics is stopped early, the toughest bacteria may survive. They multiply, and their offspring are harder to kill with that medicine; this is called antibiotic resistance. Finishing the full course and using antibiotics only when a doctor prescribes them helps keep these medicines working."
+  },
+  {
+    "id": "germs-case-24",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A girl has a sore throat, a fever and white patches on her tonsils. The doctor wants to find out whether bacteria are causing it. Which test should be done?",
+    "options": [
+      "Hand X-ray",
+      "Throat swab",
+      "ECG",
+      "Eye test"
+    ],
+    "answer": "Throat swab",
+    "optionNotes": [
+      "Shows hand bones",
+      "Sample from throat checked for germs",
+      "Records heart signals",
+      "Checks eyesight"
+    ],
+    "explain": "A throat swab is a soft cotton bud rubbed gently on the back of the throat. The sample is tested in a lab to see whether bacteria such as streptococcus are present. If they are, antibiotics help; if a virus is the cause, antibiotics will not."
+  },
+  {
+    "id": "germs-case-25",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A teenager fell off his bike and hit his head. He is now drowsy and has vomited twice. The doctor needs a quick, detailed scan to check for injury inside the skull. Which test is best?",
+    "options": [
+      "Urine test",
+      "ECG",
+      "CT scan",
+      "Blood sugar test"
+    ],
+    "answer": "CT scan",
+    "optionNotes": [
+      "Checks kidneys and infection",
+      "Records heart signals",
+      "Fast, detailed pictures of the head",
+      "Measures sugar level"
+    ],
+    "explain": "A CT scanner takes many X-ray pictures from different angles, and a computer builds them into detailed slices of the body. It takes only a few minutes, so it is used in emergencies to check the brain after a head injury. Drowsiness or vomiting after a head knock always needs a doctor."
+  },
+  {
+    "id": "germs-case-26",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A 6-year-old's bottom itches a lot at night. Her mother sees tiny thread-like white worms. What should the doctor most likely suggest?",
+    "options": [
+      "Deworming medicine and handwashing",
+      "Cough syrup",
+      "Antibiotic eye drops",
+      "Insulin injections"
+    ],
+    "answer": "Deworming medicine and handwashing",
+    "optionNotes": [
+      "Kills worms and stops re-infection",
+      "Treats coughs, not worms",
+      "For eye infections",
+      "Controls blood sugar"
+    ],
+    "explain": "These are threadworms, small worms that live in the gut and lay eggs around the bottom at night, causing itching. Eggs get under nails when the child scratches and can be swallowed again. Deworming tablets from the doctor, handwashing and short, clean nails break this cycle."
+  },
+  {
+    "id": "germs-case-27",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "The day after her vaccine, a 5-year-old has a sore arm and a mild fever. She is eating and playing normally. What is the best explanation?",
+    "options": [
+      "She caught the full disease",
+      "She needs antibiotics at once",
+      "The vaccine did not work",
+      "A normal, mild reaction"
+    ],
+    "answer": "A normal, mild reaction",
+    "optionNotes": [
+      "Vaccines do not cause the full disease",
+      "Not needed for a mild reaction",
+      "Mild reactions show the body responding",
+      "Common and passes in a day or two"
+    ],
+    "explain": "After a vaccine, the immune system starts learning to recognise the germ. This activity can cause a sore arm or a mild fever for a day or two. These reactions are common and pass quickly; parents should call a doctor if the child seems very unwell."
+  },
+  {
+    "id": "germs-case-28",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "After a week of daily swimming, a boy has pain deep in his ear that gets worse when his ear is tugged, and some fluid is coming out. Which specialist should he see?",
+    "options": [
+      "Cardiologist",
+      "ENT Doctor",
+      "Orthopaedic Doctor",
+      "Dentist"
+    ],
+    "answer": "ENT Doctor",
+    "optionNotes": [
+      "Heart doctor",
+      "Ear, nose and throat doctor",
+      "Bone and joint doctor",
+      "Teeth doctor"
+    ],
+    "explain": "Water left in the ear canal can let bacteria or fungi grow, causing an infection often called swimmer's ear. An ENT doctor specialises in the ear, nose and throat and can clean the ear and give ear drops. Drying the ears after swimming helps prevent it, and nothing should be poked into the ear."
+  },
+  {
+    "id": "germs-case-29",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "Several children in a colony have dengue. Health workers visit homes to stop more cases. What is the most useful thing each family can do?",
+    "options": [
+      "Store water in open buckets",
+      "Keep doors open at dusk",
+      "Empty water containers weekly",
+      "Spray perfume in the rooms"
+    ],
+    "answer": "Empty water containers weekly",
+    "optionNotes": [
+      "Gives mosquitoes a place to breed",
+      "Lets mosquitoes in",
+      "Removes mosquito eggs and larvae",
+      "Does not stop mosquitoes"
+    ],
+    "explain": "Dengue is spread by Aedes mosquitoes, which lay eggs in small amounts of clean, still water in coolers, pots, tyres and buckets. Emptying and scrubbing these every week removes the eggs and larvae before they become adults. Covering water tanks and using nets also help."
+  },
+  {
+    "id": "germs-case-30",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "General Physician",
+    "scenario": "A doctor advises a grandmother to get a flu vaccine again this year, even though she had one last year. Why?",
+    "options": [
+      "Flu viruses keep changing",
+      "Last year's dose became a virus",
+      "Flu vaccines are vitamins",
+      "Vaccines expire on birthdays"
+    ],
+    "answer": "Flu viruses keep changing",
+    "optionNotes": [
+      "New strains need a new vaccine",
+      "Vaccines cannot turn into viruses",
+      "Vaccines are not vitamins",
+      "Not true"
+    ],
+    "explain": "Flu viruses change a little each year, so last year's antibodies may not recognise this year's virus well. Scientists update the flu vaccine every year to match the strains expected to spread. Older people are more likely to become very ill with flu, so a yearly vaccine is advised for them."
+  },
+  {
+    "id": "germs-case-31",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A girl falls in the playground and scrapes her knee. It bleeds a little and has some dirt in it. What should an adult do first?",
+    "options": [
+      "Rub mud on it",
+      "Leave the dirt in",
+      "Wrap it in a plastic bag",
+      "Rinse with clean water, then cover"
+    ],
+    "answer": "Rinse with clean water, then cover",
+    "optionNotes": [
+      "Adds germs",
+      "Dirt can cause infection",
+      "Traps sweat and germs",
+      "Removes dirt and germs"
+    ],
+    "explain": "A scrape breaks the skin, which normally keeps germs out. Rinsing it under clean running water washes away dirt and germs, and a clean dressing keeps new ones out while it heals. If the wound is deep, will not stop bleeding or later becomes red and swollen, a doctor should see it."
+  },
+  {
+    "id": "germs-case-32",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Surgeon",
+    "scenario": "Before an operation, a surgeon scrubs her hands and arms for several minutes and puts on sterile gloves, a gown and a mask. What is the main reason?",
+    "options": [
+      "To keep her clothes clean",
+      "To keep germs out of the patient",
+      "To keep her hands warm",
+      "Because it is the hospital uniform"
+    ],
+    "answer": "To keep germs out of the patient",
+    "optionNotes": [
+      "Not the main reason",
+      "Prevents infection of the wound",
+      "Not the reason",
+      "Not the main reason"
+    ],
+    "explain": "During surgery, the skin is opened, so germs could easily enter the body and cause infection. Scrubbing, sterile gloves, gowns and masks keep the area as germ-free as possible. Before doctors understood germs in the 1800s, many more patients caught infections after operations."
+  }
+]

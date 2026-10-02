@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "heart-odd-18",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Group A",
+      "Group B",
+      "Group C",
+      "Group AB",
+      "Group O"
+    ],
+    "answer": "Group C",
+    "notes": [
+      "Red cells carry the A marker",
+      "Red cells carry the B marker",
+      "Not a real blood group",
+      "Red cells carry both markers",
+      "Red cells carry neither marker"
+    ],
+    "reason": "Group C does not exist; the other four are the ABO blood groups.",
+    "explain": "Your blood group depends on tiny markers, called antigens, on the surface of your red blood cells. In the ABO system, red cells can carry the A marker, the B marker, both (AB) or neither (O). There is no group C, so it is the odd one out.",
+    "fact": "Blood groups were discovered by the scientist Karl Landsteiner in 1901."
+  },
+  {
+    "id": "heart-odd-19",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Liver",
+      "Brain",
+      "Kidney",
+      "Thigh muscle",
+      "Cornea"
+    ],
+    "answer": "Cornea",
+    "notes": [
+      "Packed with blood vessels",
+      "Uses lots of oxygen from blood",
+      "Filters a large share of blood",
+      "Capillaries feed every muscle fibre",
+      "Clear front of the eye, no vessels"
+    ],
+    "reason": "The cornea has no blood vessels; the other four are full of them.",
+    "explain": "Almost every living tissue has capillaries bringing it oxygen and food. The cornea, the clear window at the front of your eye, has no blood vessels, so light can pass through it without anything in the way. It takes oxygen straight from the air and gets food from the fluids around it."
+  },
+  {
+    "id": "heart-odd-20",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Carries oxygen",
+      "Fights germs",
+      "Spreads body heat",
+      "Digests food",
+      "Carries hormones"
+    ],
+    "answer": "Digests food",
+    "notes": [
+      "Red cells carry it from the lungs",
+      "White cells attack invaders",
+      "Moves warmth from muscles around",
+      "Done by the gut, not the blood",
+      "Brings chemical messages to organs"
+    ],
+    "reason": "Digesting food is the job of the digestive system; the other four are jobs of blood.",
+    "explain": "Blood is the body's delivery and defence system. It carries oxygen, food molecules and hormones, its white cells fight germs, and it spreads heat so your hands and feet stay warm. Breaking food down happens earlier, in the stomach and intestines; blood only collects the small pieces afterwards."
+  },
+  {
+    "id": "heart-odd-21",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Left atrium",
+      "Mitral valve",
+      "Left ventricle",
+      "Tricuspid valve",
+      "Aortic valve"
+    ],
+    "answer": "Tricuspid valve",
+    "notes": [
+      "Receives blood from the lungs",
+      "Between left atrium and ventricle",
+      "Pumps blood to the whole body",
+      "Between right atrium and ventricle",
+      "Opens into the aorta"
+    ],
+    "reason": "The tricuspid valve is on the right side of the heart; the other four are on the left side.",
+    "explain": "The heart is really two pumps side by side. The left side receives oxygen-rich blood from the lungs and pumps it to the body, using the left atrium, mitral valve, left ventricle and aortic valve. The tricuspid valve sits on the right side, which handles oxygen-poor blood on its way to the lungs.",
+    "fact": "'Tricuspid' means 'three points': this valve has three flaps, while the mitral valve has two."
+  },
+  {
+    "id": "heart-odd-22",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Water",
+      "Haemoglobin",
+      "Salts",
+      "Glucose",
+      "Proteins"
+    ],
+    "answer": "Haemoglobin",
+    "notes": [
+      "Makes up about 90% of plasma",
+      "Packed inside red blood cells",
+      "Dissolved minerals like sodium",
+      "Sugar carried for energy",
+      "Help clotting and fight germs"
+    ],
+    "reason": "Haemoglobin is held inside red blood cells; the other four are dissolved in plasma.",
+    "explain": "Plasma is the pale yellow liquid part of blood. It is mostly water, with salts, glucose and proteins dissolved in it. Haemoglobin is different: it is packed inside red blood cells, which float in the plasma. That is why plasma looks yellow while the cells give blood its red colour."
+  },
+  {
+    "id": "heart-odd-23",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cardiologist",
+      "Haematologist",
+      "Dermatologist",
+      "Cardiac surgeon",
+      "Vascular surgeon"
+    ],
+    "answer": "Dermatologist",
+    "notes": [
+      "Heart specialist",
+      "Blood specialist",
+      "Skin specialist",
+      "Operates on the heart",
+      "Operates on blood vessels"
+    ],
+    "reason": "A dermatologist treats the skin; the other four care for the heart, blood or blood vessels.",
+    "explain": "Many doctors' titles hint at what they treat. 'Cardio' means heart, 'haemato' means blood and 'vascular' means blood vessels, so these four all care for the circulatory system. 'Derma' means skin, so a dermatologist treats skin, hair and nails."
+  },
+  {
+    "id": "heart-odd-24",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Oxygen",
+      "Glucose",
+      "Amino acids",
+      "Carbon dioxide",
+      "Vitamins"
+    ],
+    "answer": "Carbon dioxide",
+    "notes": [
+      "Leaves blood for cells to use",
+      "Leaves blood as cell fuel",
+      "Leave blood to build proteins",
+      "Leaves cells and enters blood",
+      "Leave blood to keep cells healthy"
+    ],
+    "reason": "Carbon dioxide moves from body cells into the blood; the other four move from the blood into cells.",
+    "explain": "Capillaries are where blood trades with body cells. Their walls are only one cell thick, so useful things like oxygen, glucose, vitamins and amino acids (the building blocks of protein) pass out to the cells. Waste carbon dioxide made by the cells moves the other way, into the blood, to be carried to the lungs and breathed out."
+  },
+  {
+    "id": "heart-odd-25",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Haemoglobin",
+      "Platelet count",
+      "Blood sugar",
+      "White cell count",
+      "Eyesight"
+    ],
+    "answer": "Eyesight",
+    "notes": [
+      "Oxygen-carrying protein level",
+      "Number of clotting fragments",
+      "Glucose level in blood",
+      "Number of germ-fighting cells",
+      "Checked with a letter chart"
+    ],
+    "reason": "Eyesight is tested with a chart; the other four are measured in a blood test.",
+    "explain": "A blood test takes a small sample, usually from a vein in the arm, and a lab measures what is in it. It can count red cells, white cells and platelets, and measure haemoglobin and sugar. Eyesight cannot be read from blood; it is checked by reading letters on a chart."
+  },
+  {
+    "id": "heart-odd-26",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cardiac",
+      "Cartilage",
+      "Cardiologist",
+      "Cardiogram",
+      "Cardiovascular"
+    ],
+    "answer": "Cartilage",
+    "notes": [
+      "To do with the heart",
+      "Smooth tissue on bone ends",
+      "Heart doctor",
+      "A trace of heartbeats",
+      "Heart and blood vessels"
+    ],
+    "reason": "Cartilage is a tissue in joints, ears and nose; the other four words come from 'cardio', meaning heart.",
+    "explain": "Many science words are built from old Greek and Latin parts. 'Cardio' comes from the Greek word for heart, so cardiac, cardiologist, cardiogram and cardiovascular are all about the heart. Cartilage only looks similar; it is the smooth, bendy tissue at the ends of bones and in your ears and nose."
+  },
+  {
+    "id": "heart-odd-27",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Haemorrhage",
+      "Haematologist",
+      "Haemoglobin",
+      "Haemophilia",
+      "Hepatitis"
+    ],
+    "answer": "Hepatitis",
+    "notes": [
+      "Heavy bleeding",
+      "Doctor for blood problems",
+      "Oxygen carrier in red cells",
+      "Blood that clots too slowly",
+      "Swelling of the liver"
+    ],
+    "reason": "Hepatitis is a liver illness; the other four words come from 'haem', meaning blood.",
+    "explain": "'Haem' comes from the Greek word for blood. A haemorrhage is heavy bleeding, a haematologist is a blood doctor, haemoglobin carries oxygen in blood and haemophilia is a condition where blood clots slowly. 'Hepat' means liver, so hepatitis means swelling of the liver."
+  },
+  {
+    "id": "heart-odd-28",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Chest pain",
+      "Itchy eyes",
+      "Pain spreading to left arm",
+      "Cold sweat",
+      "Sudden breathlessness"
+    ],
+    "answer": "Itchy eyes",
+    "notes": [
+      "Often a crushing, tight feeling",
+      "Usually a sign of allergy",
+      "Pain can travel to arm or jaw",
+      "Skin feels cold and clammy",
+      "Heart cannot pump well"
+    ],
+    "reason": "Itchy eyes are not a heart attack sign; the other four are common warning signs.",
+    "explain": "A heart attack happens when a blood vessel feeding the heart muscle gets blocked, so part of the muscle is short of oxygen. Common warning signs in adults are chest pain or tightness, pain spreading to the arm or jaw, sweating and breathlessness. Anyone with these signs needs an ambulance straight away. Itchy eyes are usually caused by an allergy."
+  },
+  {
+    "id": "heart-odd-29",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Human",
+      "Eagle",
+      "Octopus",
+      "Shark",
+      "Snake"
+    ],
+    "answer": "Octopus",
+    "notes": [
+      "Red blood with haemoglobin",
+      "Red blood with haemoglobin",
+      "Blue blood with copper protein",
+      "Red blood with haemoglobin",
+      "Red blood with haemoglobin"
+    ],
+    "reason": "An octopus has blue blood; the other four animals have red blood.",
+    "explain": "Blood is red when it uses haemoglobin, an iron-containing protein, to carry oxygen. Humans, birds, sharks and snakes all use haemoglobin. An octopus uses a different protein built around copper instead of iron, which makes its blood blue when it carries oxygen.",
+    "fact": "An octopus has three hearts: two pump blood through its gills and one pumps it to the rest of the body."
+  },
+  {
+    "id": "heart-odd-30",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Heavy blood loss",
+      "Too much salt",
+      "Hookworms in the gut",
+      "Too little iron",
+      "Sickle cell disease"
+    ],
+    "answer": "Too much salt",
+    "notes": [
+      "Red cells lost faster than made",
+      "Raises blood pressure instead",
+      "Worms feed on blood in the gut",
+      "Body cannot make enough haemoglobin",
+      "Red cells break down early"
+    ],
+    "reason": "Too much salt raises blood pressure; the other four can cause anaemia.",
+    "explain": "Anaemia means the blood has too few healthy red cells or too little haemoglobin. It can happen when blood is lost (from an injury, or from hookworms that feed on blood in the gut), when the body lacks iron to make haemoglobin, or when red cells break down too early, as in sickle cell disease. Too much salt does not cause anaemia.",
+    "fact": "Wearing footwear outdoors helps prevent hookworm, which enters the body through bare feet."
+  },
+  {
+    "id": "heart-odd-31",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cow",
+      "Sparrow",
+      "Snake",
+      "Jellyfish",
+      "Goldfish"
+    ],
+    "answer": "Jellyfish",
+    "notes": [
+      "Has a four-chambered heart",
+      "Has a four-chambered heart",
+      "Has a three-chambered heart",
+      "No heart and no blood",
+      "Has a two-chambered heart"
+    ],
+    "reason": "A jellyfish has no heart; the other four animals have one.",
+    "explain": "Most animals need a heart to push blood around their bodies. A jellyfish has no heart, no blood and no brain. Its body is so thin that oxygen can soak straight in from the seawater around it."
+  },
+  {
+    "id": "heart-odd-32",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Swimming",
+      "Cycling",
+      "Watching TV",
+      "Skipping rope",
+      "Brisk walking"
+    ],
+    "answer": "Watching TV",
+    "notes": [
+      "Works the heart and lungs",
+      "Works the heart and lungs",
+      "Body stays still",
+      "Works the heart and lungs",
+      "Works the heart and lungs"
+    ],
+    "reason": "Watching TV gives the heart no workout; the other four are exercise that strengthens it.",
+    "explain": "Activities that keep you moving and slightly out of breath for a while make your heart pump harder. Over weeks, this kind of exercise makes the heart muscle stronger, so it pumps more blood with each squeeze. Watching TV keeps the body still, so the heart gets no workout.",
+    "fact": "Doctors suggest children get about an hour of active play every day."
+  },
+  {
+    "id": "heart-odd-33",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Earpieces",
+      "Arm cuff",
+      "Tubing",
+      "Chest piece",
+      "Bell"
+    ],
+    "answer": "Arm cuff",
+    "notes": [
+      "Fit snugly into the ears",
+      "Part of a blood pressure machine",
+      "Carries sound to the ears",
+      "Picks up sounds from the body",
+      "Cup side for low sounds"
+    ],
+    "reason": "An arm cuff belongs to a blood pressure machine; the other four are parts of a stethoscope.",
+    "explain": "A stethoscope carries sounds from inside the body to the doctor's ears. The chest piece, which often has a flat side and a cup-shaped bell, picks up the sounds; the tubing carries them; and the earpieces fit in the ears. An arm cuff belongs to a blood pressure machine, which squeezes the arm to measure pressure in the arteries."
+  },
+  {
+    "id": "heart-odd-34",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "75",
+      "82",
+      "190",
+      "90",
+      "98"
+    ],
+    "answer": "190",
+    "notes": [
+      "Normal for a resting child",
+      "Normal for a resting child",
+      "Far too fast at rest",
+      "Normal for a resting child",
+      "Normal for a resting child"
+    ],
+    "reason": "190 beats a minute is far too fast for a resting child; the other four are normal resting pulse rates.",
+    "explain": "For a 10-year-old resting quietly, the heart usually beats about 70 to 110 times a minute. A rate of 190 is far too fast for someone sitting still; a child's heart might reach it only during very hard exercise. As you grow up, your resting pulse slowly drops to about 60 to 100 beats a minute."
+  },
+  {
+    "id": "heart-taboo-18",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood group",
+    "forbidden": [
+      "Donor",
+      "Type",
+      "Transfusion",
+      "Positive"
+    ],
+    "clues": [
+      "Every person has one, and it is set by markers on their red cells.",
+      "You inherit it from your parents, and it stays the same all your life.",
+      "Yours might be A, B, AB or O."
+    ],
+    "decoys": [
+      "Blood pressure",
+      "Haemoglobin",
+      "Heart rate"
+    ],
+    "explain": "Your blood group is decided by markers (antigens) on your red blood cells, which you inherit from your parents. The main groups are A, B, AB and O, and each can be positive or negative. Doctors match blood groups before giving blood, because the wrong group can make the body attack the new cells."
+  },
+  {
+    "id": "heart-taboo-19",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Stethoscope",
+    "forbidden": [
+      "Doctor",
+      "Listen",
+      "Ears",
+      "Heart"
+    ],
+    "clues": [
+      "It has a Y-shaped tube with a round metal piece at one end.",
+      "A nurse presses its cold disc on your chest or back.",
+      "It carries the 'lub-dub' sounds inside your body up to the person using it."
+    ],
+    "decoys": [
+      "Thermometer",
+      "Blood pressure cuff",
+      "Pulse oximeter"
+    ],
+    "explain": "A stethoscope is a simple tool that carries sounds from inside the body to a doctor's ears. Doctors use it to hear the heart's valves closing, air moving in the lungs and gurgles in the gut. It was invented in France in 1816; before that, doctors pressed an ear directly on the chest."
+  },
+  {
+    "id": "heart-taboo-20",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Septum",
+    "forbidden": [
+      "Wall",
+      "Heart",
+      "Left",
+      "Right"
+    ],
+    "clues": [
+      "This thick sheet of muscle runs down the middle of an organ with four chambers.",
+      "It keeps oxygen-rich blood apart from oxygen-poor blood.",
+      "Some babies are born with a small hole in it."
+    ],
+    "decoys": [
+      "Valve",
+      "Ventricle",
+      "Aorta"
+    ],
+    "explain": "The septum is the muscular wall that divides the heart into a left side and a right side. Because of it, oxygen-rich blood from the lungs never mixes with oxygen-poor blood from the body. Your nose also has a septum: the thin wall between your two nostrils."
+  },
+  {
+    "id": "heart-taboo-21",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Vena cava",
+    "forbidden": [
+      "Vein",
+      "Heart",
+      "Large",
+      "Return"
+    ],
+    "clues": [
+      "There are two of these big vessels: an upper one and a lower one.",
+      "They carry oxygen-poor blood collected from the whole body.",
+      "They empty into the right atrium."
+    ],
+    "decoys": [
+      "Aorta",
+      "Pulmonary vein",
+      "Carotid artery"
+    ],
+    "explain": "The venae cavae are the body's two largest veins. The upper one brings blood back from the head and arms, and the lower one from the legs and belly. Both pour oxygen-poor blood into the right atrium, so it can be pumped to the lungs to pick up oxygen."
+  },
+  {
+    "id": "heart-taboo-22",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Pulmonary artery",
+    "forbidden": [
+      "Lungs",
+      "Heart",
+      "Oxygen",
+      "Right"
+    ],
+    "clues": [
+      "It is an artery, yet the blood inside it is the dark, used kind coming back from the body.",
+      "It splits into two branches, one for each breathing organ in your chest.",
+      "Blood travels along it on its way to collect fresh air."
+    ],
+    "decoys": [
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "explain": "Arteries carry blood away from the heart. Most carry oxygen-rich blood, but the pulmonary artery carries oxygen-poor blood from the right ventricle to the lungs. There the blood picks up oxygen and returns to the heart through the pulmonary veins."
+  },
+  {
+    "id": "heart-taboo-23",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Coronary artery",
+    "forbidden": [
+      "Heart",
+      "Muscle",
+      "Attack",
+      "Crown"
+    ],
+    "clues": [
+      "These small vessels run over the outside of the organ that never stops beating.",
+      "They feed that pump itself with oxygen-rich blood.",
+      "If one gets blocked, part of the pump is starved of oxygen and the person needs an ambulance."
+    ],
+    "decoys": [
+      "Carotid artery",
+      "Pulmonary artery",
+      "Renal artery"
+    ],
+    "explain": "The heart pumps blood to the whole body, but its own muscle also needs a supply. The coronary arteries branch off the aorta and wrap around the outside of the heart, feeding its muscle. Their name comes from the Latin word for crown, because they circle the heart like one."
+  },
+  {
+    "id": "heart-taboo-24",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Heart attack",
+    "forbidden": [
+      "Chest",
+      "Pain",
+      "Ambulance",
+      "Blocked"
+    ],
+    "clues": [
+      "It is a medical emergency, most common in older adults.",
+      "A vessel feeding the body's pump gets clogged, so part of its muscle runs short of oxygen.",
+      "Warning signs include a crushing feeling behind the breastbone, sweating and breathlessness."
+    ],
+    "decoys": [
+      "Asthma attack",
+      "Stroke",
+      "Fainting"
+    ],
+    "explain": "A heart attack happens when a coronary artery, which feeds the heart muscle, gets blocked, often by a clot on a fatty build-up. The part of the muscle beyond the block runs short of oxygen. Quick hospital treatment reopens the vessel, so calling emergency help at once matters."
+  },
+  {
+    "id": "heart-taboo-25",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Heart murmur",
+    "forbidden": [
+      "Sound",
+      "Whoosh",
+      "Stethoscope",
+      "Valve"
+    ],
+    "clues": [
+      "A doctor may notice it during a routine check-up of the chest.",
+      "It is an extra swishing noise made when blood flows unevenly inside the body's pump.",
+      "Many children have a harmless one that fades as they grow."
+    ],
+    "decoys": [
+      "Hiccup",
+      "Wheeze",
+      "Palpitation"
+    ],
+    "explain": "A healthy heart makes a clean 'lub-dub'. A murmur is an extra swishing noise heard between those beats, caused by blood flowing in a rough or unusual way. Many murmurs in children are harmless, but a doctor may order a scan to check the heart's valves and walls."
+  },
+  {
+    "id": "heart-taboo-26",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood clot",
+    "forbidden": [
+      "Platelets",
+      "Bleeding",
+      "Cut",
+      "Thicken"
+    ],
+    "clues": [
+      "It is a soft, jelly-like lump that forms when liquid blood sets.",
+      "Sticky cell fragments and a net of threads trap red cells to make it.",
+      "Outside the body it plugs a wound; inside a vessel it can block the flow."
+    ],
+    "decoys": [
+      "Bruise",
+      "Blister",
+      "Pimple"
+    ],
+    "explain": "When a blood vessel is damaged, platelets stick to the spot and proteins in plasma form threads called fibrin. The threads trap red cells, turning liquid blood into a jelly-like clot that seals the leak. Clots are life-saving at a wound, but a clot inside a vessel can block blood flow, so the body keeps clotting carefully controlled."
+  },
+  {
+    "id": "heart-taboo-27",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Spleen",
+    "forbidden": [
+      "Organ",
+      "Left",
+      "Red cells",
+      "Lymph"
+    ],
+    "clues": [
+      "It is about the size of a fist and is tucked under the ribs, behind the stomach.",
+      "It filters the blood, removing worn-out blood cells and trapping germs.",
+      "A person can live without it, because other parts of the body take over its jobs."
+    ],
+    "decoys": [
+      "Liver",
+      "Pancreas",
+      "Gall bladder"
+    ],
+    "explain": "The spleen is a soft organ about the size of your fist, tucked behind the stomach under the left ribs. It filters blood, breaks down old red blood cells and stores white blood cells that fight germs. People can live without a spleen if it is damaged, though they become more likely to catch some infections."
+  },
+  {
+    "id": "heart-taboo-28",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood transfusion",
+    "forbidden": [
+      "Donor",
+      "Give",
+      "Bag",
+      "Needle"
+    ],
+    "clues": [
+      "Doctors may do this after a big accident or a major operation.",
+      "Blood groups are checked carefully before it starts.",
+      "Blood from another person flows slowly into a patient's vein through a thin tube."
+    ],
+    "decoys": [
+      "Blood test",
+      "Vaccination",
+      "Dialysis"
+    ],
+    "explain": "A blood transfusion puts donated blood, or one part of it such as red cells or platelets, into a patient's vein. It replaces blood lost in an accident or operation, or helps people whose bodies cannot make enough healthy blood. The blood groups of donor and patient must match, so the patient's body does not attack the new cells."
+  },
+  {
+    "id": "heart-taboo-29",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood vessel",
+    "forbidden": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Tube"
+    ],
+    "clues": [
+      "Laid end to end, all of these in an adult would stretch around the Earth more than twice.",
+      "They come in three main kinds: big ones leaving the heart, ones going back, and tiny ones in between.",
+      "In a healthy body, blood stays inside them as it travels around."
+    ],
+    "decoys": [
+      "Nerve",
+      "Tendon",
+      "Muscle fibre"
+    ],
+    "explain": "Blood vessels are the tubes that carry blood around your body. Arteries carry it away from the heart, veins bring it back, and tiny capillaries link the two and reach almost every cell. Together they form a closed network, so blood keeps moving in a loop.",
+    "fact": "An adult's blood vessels, laid end to end, would stretch about 100,000 kilometres."
+  },
+  {
+    "id": "heart-taboo-30",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood bank",
+    "forbidden": [
+      "Store",
+      "Donate",
+      "Hospital",
+      "Fridge"
+    ],
+    "clues": [
+      "Bags of blood are kept here at a cool, carefully controlled temperature.",
+      "Each bag is labelled with its group and the date it was collected.",
+      "Volunteers visit to give blood, which is tested before anyone receives it."
+    ],
+    "decoys": [
+      "Pharmacy",
+      "Pathology lab",
+      "Operating theatre"
+    ],
+    "explain": "A blood bank collects blood from healthy volunteers, tests it for infections and stores it until a patient needs it. Red cells are kept cool and last about six weeks, while platelets last only a few days. Regular donors keep blood banks supplied for accidents, operations and illnesses."
+  },
+  {
+    "id": "heart-taboo-31",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Scab",
+    "forbidden": [
+      "Crust",
+      "Cut",
+      "Knee",
+      "Pick"
+    ],
+    "clues": [
+      "It forms on the skin a day or so after you get a graze.",
+      "It is made of dried blood, platelets and threads that seal the wound.",
+      "It is best left alone until it falls off by itself, once new skin has grown underneath."
+    ],
+    "decoys": [
+      "Blister",
+      "Bruise",
+      "Wart"
+    ],
+    "explain": "A scab is a blood clot that has dried and hardened on the surface of the skin. It protects the wound from dirt and germs while new skin grows underneath. Pulling it off early can reopen the wound and slow healing."
+  },
+  {
+    "id": "heart-taboo-32",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Circulation",
+    "forbidden": [
+      "Blood",
+      "Heart",
+      "Flow",
+      "Around"
+    ],
+    "clues": [
+      "This word means the endless journey of a red liquid through your body.",
+      "One full round trip, from the pump out to the body and back, takes about a minute at rest.",
+      "Cold, pale fingers in winter can mean this is slow in the hands."
+    ],
+    "decoys": [
+      "Respiration",
+      "Digestion",
+      "Excretion"
+    ],
+    "explain": "Circulation is the movement of blood around the body in a loop: pumped out by the heart through arteries, through capillaries in the organs, and back through veins. It delivers oxygen and food to every cell and carries waste away. Exercise keeps circulation healthy."
+  },
+  {
+    "id": "heart-taboo-33",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cholesterol",
+    "forbidden": [
+      "Fat",
+      "Arteries",
+      "Heart",
+      "Blood"
+    ],
+    "clues": [
+      "Your liver makes this waxy substance, and some also comes from animal foods like butter and egg yolk.",
+      "The body needs a little of it to build the outer layer of cells and make some hormones.",
+      "Too much of it over many years can build up inside vessels and narrow them."
+    ],
+    "decoys": [
+      "Glucose",
+      "Protein",
+      "Haemoglobin"
+    ],
+    "explain": "Cholesterol is a waxy substance the body needs to build cell coverings and some hormones. The liver makes most of what you need. When there is too much in the blood for many years, it can build up in artery walls and narrow them, which is why doctors check it in adults."
+  },
+  {
+    "id": "heart-taboo-34",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Hypertension",
+    "forbidden": [
+      "High",
+      "Blood pressure",
+      "Salt",
+      "Pressure"
+    ],
+    "clues": [
+      "This long-term condition often causes no symptoms, so it is checked at regular visits.",
+      "It means the push of blood against the walls of the arteries stays too strong.",
+      "In adults, readings above about 140 over 90 again and again point to it."
+    ],
+    "decoys": [
+      "Anaemia",
+      "Diabetes",
+      "Hypothermia"
+    ],
+    "explain": "Hypertension is the medical name for high blood pressure. It means blood pushes too hard against artery walls, which over years can strain the heart, kidneys and blood vessels. Eating less salt, staying active, keeping a healthy weight and not smoking all help prevent it."
+  },
+  {
+    "id": "heart-case-17",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Haematologist",
+    "scenario": "A patient with blood group B positive needs red blood cells. The blood bank has only these four kinds in stock. Which one is safe to give him?",
+    "options": [
+      "A positive",
+      "AB positive",
+      "O positive",
+      "A negative"
+    ],
+    "answer": "O positive",
+    "optionNotes": [
+      "A markers clash with his blood",
+      "Has A markers too; they clash",
+      "No A or B markers; safe for him",
+      "A markers clash, though Rh is fine"
+    ],
+    "explain": "Group B blood has antibodies that attack red cells carrying the A marker, so A and AB blood cannot be given. Group O red cells have neither the A nor the B marker, so they are safe for group B. As he is Rh positive, he can also receive Rh positive blood, so O positive works."
+  },
+  {
+    "id": "heart-case-18",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Haematologist",
+    "scenario": "A boy's small cuts keep bleeding for a long time, and his knees swell after minor bumps. His uncle had the same problem. Tests show a clotting protein in his blood is missing. What is the condition?",
+    "options": [
+      "Anaemia",
+      "Haemophilia",
+      "Scurvy",
+      "Sickle cell disease"
+    ],
+    "answer": "Haemophilia",
+    "optionNotes": [
+      "Too little haemoglobin; clots normally",
+      "Missing clotting protein, runs in families",
+      "Vitamin C shortage; not inherited",
+      "Curved red cells, not slow clotting"
+    ],
+    "explain": "Haemophilia is passed down in families and mostly affects boys. Their blood is missing or low in one clotting protein, so clots form slowly and bleeding lasts longer, even inside joints. It cannot be caught from others, and treatment replaces the missing protein."
+  },
+  {
+    "id": "heart-case-19",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "Your grandfather suddenly has a crushing pain in his chest that spreads to his left arm. He is sweating and short of breath. What should be done first?",
+    "options": [
+      "Give him a heavy meal",
+      "Ask him to walk it off",
+      "Call an ambulance straight away",
+      "Wait until tomorrow"
+    ],
+    "answer": "Call an ambulance straight away",
+    "optionNotes": [
+      "Food will not help and wastes time",
+      "Moving makes the heart work harder",
+      "Fast hospital care saves heart muscle",
+      "Delay lets more heart muscle be harmed"
+    ],
+    "explain": "Chest pain spreading to the arm, with sweating and breathlessness, can be a heart attack. A heart attack means a vessel feeding the heart muscle is blocked, and the sooner hospital treatment starts, the more heart muscle can be saved. Call emergency services, keep him sitting and resting, and stay with him until help arrives."
+  },
+  {
+    "id": "heart-case-20",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "A doctor moves a gel-covered probe over a child's chest. It sends out sound waves too high for us to hear and makes a moving picture of the heart's valves and chambers. What is this test?",
+    "options": [
+      "ECG",
+      "Chest X-ray",
+      "Echocardiogram",
+      "Blood test"
+    ],
+    "answer": "Echocardiogram",
+    "optionNotes": [
+      "Records electrical signals, no picture",
+      "Still picture using X-rays, not sound",
+      "Ultrasound video of the heart",
+      "Measures what is in the blood"
+    ],
+    "explain": "An echocardiogram, or 'echo', is an ultrasound scan of the heart. The probe sends out high-pitched sound waves that bounce off the heart, and a computer turns the echoes into a live picture. It is painless and uses no radiation, so it is safe for children."
+  },
+  {
+    "id": "heart-case-21",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Sports Medicine Doctor",
+    "scenario": "An athlete trains for six weeks high in the mountains, where the air is thin. Back home, her blood carries more oxygen than before. What has her body made more of?",
+    "options": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": "Red blood cells",
+    "optionNotes": [
+      "Fight germs; do not carry oxygen",
+      "Carry oxygen using haemoglobin",
+      "Help clotting, not oxygen",
+      "Liquid part; carries little oxygen"
+    ],
+    "explain": "Thin mountain air gives less oxygen with each breath. The kidneys sense this and release a hormone that tells the bone marrow to make extra red blood cells. More red cells means more haemoglobin, so her blood carries more oxygen when she returns."
+  },
+  {
+    "id": "heart-case-22",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Cardiologist",
+    "scenario": "An older man often feels faint because his heart beats far too slowly. The heart's own timing signal is not working well. Doctors place a small battery device under his skin to keep the beat steady. What is it?",
+    "options": [
+      "Inhaler",
+      "Hearing aid",
+      "Insulin pump",
+      "Pacemaker"
+    ],
+    "answer": "Pacemaker",
+    "optionNotes": [
+      "Sprays medicine into the airways",
+      "Makes sounds louder",
+      "Delivers a hormone for diabetes",
+      "Sends tiny signals to start beats"
+    ],
+    "explain": "The heart has its own natural pacemaker, a small patch of cells that sends an electrical signal to start each beat. If it fails, the beat can become too slow. An artificial pacemaker watches the heartbeat and sends a tiny electrical pulse whenever a beat is needed."
+  },
+  {
+    "id": "heart-case-23",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "A 12-year-old wants to choose snacks that are good for his heart and blood vessels in the long run. Which choice is best?",
+    "options": [
+      "Fried samosas every day",
+      "A fruit and some nuts",
+      "Salted chips every day",
+      "Sugary cola"
+    ],
+    "answer": "A fruit and some nuts",
+    "optionNotes": [
+      "Lots of fat and salt if eaten daily",
+      "Fibre, vitamins and healthy fats",
+      "Too much salt raises blood pressure",
+      "Lots of sugar and no nutrients"
+    ],
+    "explain": "Foods high in salt, sugar and fat, eaten often, can raise blood pressure and cholesterol over the years. Fruit gives fibre and vitamins, and plain nuts give healthy fats. Habits formed in childhood usually continue into adult life, so small daily choices add up."
+  },
+  {
+    "id": "heart-case-24",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Cardiologist",
+    "scenario": "Through a stethoscope, a student hears a heart go 'lub-dub, lub-dub'. She asks the cardiologist what actually makes this sound. What is the answer?",
+    "options": [
+      "Blood hitting the ribs",
+      "Air moving in the lungs",
+      "Valves snapping shut",
+      "The heart rubbing the chest"
+    ],
+    "answer": "Valves snapping shut",
+    "optionNotes": [
+      "Ribs do not make heart sounds",
+      "Lung sounds are softer and different",
+      "Closing valves make lub and dub",
+      "A healthy heart slides smoothly"
+    ],
+    "explain": "The heart has four valves that act like one-way doors. 'Lub' is the sound of the two valves between the atria and ventricles closing as the ventricles squeeze. 'Dub' is the sound of the valves at the exits to the aorta and pulmonary artery closing just afterwards."
+  },
+  {
+    "id": "heart-case-25",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A healthy 20-year-old has just donated blood for the first time. What should he do next?",
+    "options": [
+      "Run a race right away",
+      "Rest, then drink and snack",
+      "Skip meals for the day",
+      "Lift heavy weights"
+    ],
+    "answer": "Rest, then drink and snack",
+    "optionNotes": [
+      "Hard exercise may make him faint",
+      "Helps the body refill its fluids",
+      "His body needs food and fluid",
+      "Strain soon after may make him dizzy"
+    ],
+    "explain": "A donor gives about 350 to 450 millilitres of blood, a small part of the roughly 5 litres in an adult body. Resting and drinking fluids helps the body replace the lost liquid within a day or two, and new red cells are made over the following weeks. Hard exercise straight after can make a donor feel faint."
+  },
+  {
+    "id": "heart-case-26",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A lab spins a tube of blood very fast in a machine. It separates into a dark red layer at the bottom and a clear, pale yellow liquid on top. What is the yellow liquid?",
+    "options": [
+      "Bile",
+      "Lymph",
+      "Plasma",
+      "Platelets"
+    ],
+    "answer": "Plasma",
+    "optionNotes": [
+      "Liver juice, not part of blood",
+      "Fluid in lymph vessels, not this tube",
+      "Liquid part of blood, mostly water",
+      "Form a thin whitish middle layer"
+    ],
+    "explain": "A spinning machine called a centrifuge pushes the heaviest parts of blood to the bottom. Red cells sink to the bottom, a thin whitish layer of white cells and platelets sits in the middle, and plasma stays on top. Plasma makes up about 55% of blood and is mostly water."
+  },
+  {
+    "id": "heart-case-27",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "In a woman's heart, the valve between the left atrium and the left ventricle does not close properly, so some blood leaks backwards with each beat. Which valve is it?",
+    "options": [
+      "Tricuspid valve",
+      "Aortic valve",
+      "Pulmonary valve",
+      "Mitral valve"
+    ],
+    "answer": "Mitral valve",
+    "optionNotes": [
+      "Right atrium to right ventricle",
+      "Exit from left ventricle to aorta",
+      "Exit from right ventricle",
+      "Left atrium to left ventricle"
+    ],
+    "explain": "Each heart valve stops blood flowing backwards. The mitral valve, which has two flaps, guards the opening between the left atrium and left ventricle. On the right side the tricuspid valve does the same job, while the aortic and pulmonary valves guard the exits from the ventricles."
+  },
+  {
+    "id": "heart-case-28",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A man's arm is cut deeply by broken glass. Bright red blood spurts out in pulses, in time with his heartbeat. Which kind of blood vessel has been cut?",
+    "options": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Nerve"
+    ],
+    "answer": "Artery",
+    "optionNotes": [
+      "High pressure, spurts with each beat",
+      "Darker blood that flows steadily",
+      "Tiny; blood only oozes",
+      "Carries signals, not blood"
+    ],
+    "explain": "Arteries carry blood straight from the heart under high pressure, so a cut artery spurts with each heartbeat. The blood is bright red because it is full of oxygen. This is an emergency: an adult should press hard on the wound with a cloth and call for help at once."
+  },
+  {
+    "id": "heart-case-29",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "Riya scrapes her knee on the playground. Tiny dots of blood slowly ooze from many points on the scraped skin. Which blood vessels have been broken?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Nerves"
+    ],
+    "answer": "Capillaries",
+    "optionNotes": [
+      "Would spurt bright red blood",
+      "Would bleed more steadily",
+      "Tiny vessels just under the skin",
+      "Carry signals, not blood"
+    ],
+    "explain": "Capillaries are the smallest blood vessels, thinner than a hair, and they form a dense net just under the skin. A graze breaks many of them, so blood oozes slowly in tiny dots rather than spurting. Washing it gently with clean water and covering it is usually enough."
+  },
+  {
+    "id": "heart-case-30",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "A doctor reads a blood pressure of 120 over 80. A student asks what the top number, 120, measures. What is the right answer?",
+    "options": [
+      "Pressure when the heart relaxes",
+      "Pressure when the heart squeezes",
+      "Heartbeats per minute",
+      "Breaths per minute"
+    ],
+    "answer": "Pressure when the heart squeezes",
+    "optionNotes": [
+      "That is the bottom number",
+      "The higher, top number",
+      "That is the pulse rate",
+      "That is the breathing rate"
+    ],
+    "explain": "Blood pressure is written as two numbers. The top number (systolic) is the pressure in the arteries when the ventricles squeeze. The bottom number (diastolic) is the lower pressure while the heart relaxes and refills. 120 over 80 is a healthy reading for an adult."
+  },
+  {
+    "id": "heart-case-31",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "Under a microscope, a lab worker looks at a thin smear of a healthy person's blood. Which kind of cell will she see the most of?",
+    "options": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Nerve cells"
+    ],
+    "answer": "Red blood cells",
+    "optionNotes": [
+      "Only about 1 for every 600 red cells",
+      "Millions in every drop",
+      "Fragments, about 20 times fewer",
+      "Not found in blood"
+    ],
+    "explain": "Red blood cells far outnumber everything else in blood: a single drop holds millions of them. For every white blood cell there are roughly 600 red cells. Platelets are numerous too, but they are small cell fragments and about 20 times fewer than red cells."
+  },
+  {
+    "id": "heart-case-32",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "In humans, blood passes through the heart twice on each complete trip: once to go to the lungs and once to go to the rest of the body. What is this called?",
+    "options": [
+      "Single circulation",
+      "Open circulation",
+      "Double circulation",
+      "Pulmonary breathing"
+    ],
+    "answer": "Double circulation",
+    "optionNotes": [
+      "Fish: once through the heart per trip",
+      "Insects: blood washes around organs",
+      "Two loops: lungs and body",
+      "Not a name for a blood route"
+    ],
+    "explain": "Humans have double circulation. The right side of the heart pumps blood to the lungs to pick up oxygen; it returns to the left side, which pumps it to the body. Fish have single circulation, with blood passing through their heart once per trip, and insects have open circulation, where blood washes loosely around their organs."
+  }
+]
