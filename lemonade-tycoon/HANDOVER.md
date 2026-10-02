@@ -27,7 +27,7 @@ CLOUDFLARE_ACCOUNT_ID=d30bec7e8f9b55be3edb94dd3d3d7811 CLOUDFLARE_API_TOKEN=$(ca
 ```
 
 The Workers deploy token ("Edit Cloudflare Workers" template) is in `/root/.cf-workers-token`
-(chmod 600). `/root/.cf-token` is a separate zone-only token and cannot deploy. Keep tokens in files rather than pasting it into a
+(chmod 600). `/root/.cf-token` is a separate zone-only token and cannot deploy. Keep tokens in files rather than pasting them into a
 terminal or chat session — token strings persist in shell history and logs.
 
 There is no Worker script. The game is pure static assets served from Cloudflare's
