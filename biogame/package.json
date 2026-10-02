@@ -1,0 +1,9 @@
+{
+  "name": "body-sticks",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && python3 -m http.server 9125 -d public"
+  }
+}

@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "heart-odd-01",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Artery",
+      "Vein",
+      "Windpipe",
+      "Capillary",
+      "Aorta"
+    ],
+    "answer": "Windpipe",
+    "notes": [
+      "Carries blood away from the heart",
+      "Carries blood back to the heart",
+      "Carries air down to the lungs",
+      "Tiny tube where blood swaps materials",
+      "The body's largest artery"
+    ],
+    "reason": "The windpipe carries air; the other four are blood vessels.",
+    "explain": "Blood travels around your body inside tubes called blood vessels. Arteries (like the aorta) carry blood away from the heart, veins bring it back, and tiny capillaries connect the two. The windpipe is also a tube, but it belongs to the breathing system and carries air, not blood.",
+    "fact": "An adult body holds about 5 litres of blood."
+  },
+  {
+    "id": "heart-odd-02",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Plasma",
+      "Red blood cells",
+      "White blood cells",
+      "Bile",
+      "Platelets"
+    ],
+    "answer": "Bile",
+    "notes": [
+      "Pale liquid part of blood",
+      "Carry oxygen around the body",
+      "Fight germs",
+      "Green juice from the liver for digestion",
+      "Help blood clot at a cut"
+    ],
+    "reason": "Bile is a digestive juice; the other four are parts of blood.",
+    "explain": "Blood has four main parts. Plasma is the liquid that everything floats in, red cells carry oxygen, white cells fight germs, and platelets help seal cuts. Bile is made by the liver and stored in the gall bladder. It helps break down fat in your food, so it belongs to digestion, not blood."
+  },
+  {
+    "id": "heart-odd-03",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Left atrium",
+      "Aorta",
+      "Right atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": "Aorta",
+    "notes": [
+      "Top-left room; receives blood from lungs",
+      "Big artery leaving the heart",
+      "Top-right room; receives blood from body",
+      "Bottom-right room; pumps blood to lungs",
+      "Bottom-left room; pumps blood to body"
+    ],
+    "reason": "The aorta is a blood vessel; the other four are the heart's chambers.",
+    "explain": "Your heart has four hollow rooms called chambers. The two on top, the atria, collect blood coming in. The two at the bottom, the ventricles, squeeze hard to push blood out. The aorta is not a chamber. It is the large tube that carries blood out of the left ventricle to the rest of the body."
+  },
+  {
+    "id": "heart-odd-04",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Aorta",
+      "Coronary artery",
+      "Renal artery",
+      "Pulmonary artery",
+      "Carotid artery"
+    ],
+    "answer": "Pulmonary artery",
+    "notes": [
+      "Takes blood from heart to body",
+      "Feeds the heart muscle itself",
+      "Takes blood to the kidneys",
+      "Takes blood from heart to lungs",
+      "Takes blood up the neck to the brain"
+    ],
+    "reason": "The pulmonary artery carries oxygen-poor blood; the other four carry oxygen-rich blood.",
+    "explain": "Most arteries carry blood full of oxygen. The pulmonary artery is the exception. It takes used, oxygen-poor blood from the right side of the heart to the lungs, where the blood picks up fresh oxygen. So the rule is that arteries always carry blood away from the heart, whether or not that blood is rich in oxygen.",
+    "fact": "'Pulmonary' comes from the Latin word for lung."
+  },
+  {
+    "id": "heart-odd-05",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Tiredness",
+      "Pale skin",
+      "Breathless on stairs",
+      "Feeling dizzy",
+      "Sneezing"
+    ],
+    "answer": "Sneezing",
+    "notes": [
+      "Cells get too little oxygen",
+      "Less red colour in the blood",
+      "Body struggles to get enough oxygen",
+      "Brain gets less oxygen",
+      "Clears dust or germs from the nose"
+    ],
+    "reason": "Sneezing is not a sign of anaemia; the other four are.",
+    "explain": "Anaemia means the blood has too little haemoglobin, the red substance that carries oxygen. With less oxygen reaching the muscles and brain, a person feels tired, dizzy and out of breath, and their skin can look pale. Sneezing is the nose clearing dust or germs and has nothing to do with anaemia."
+  },
+  {
+    "id": "heart-odd-06",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Iron",
+      "Vitamin B12",
+      "Vitamin K",
+      "Folic acid",
+      "Protein"
+    ],
+    "answer": "Vitamin K",
+    "notes": [
+      "Sits at the centre of haemoglobin",
+      "Needed to build healthy red cells",
+      "Helps blood clot",
+      "A B-vitamin needed to make red cells",
+      "Haemoglobin itself is a protein"
+    ],
+    "reason": "Vitamin K helps blood clot; the other four are needed to make red blood cells.",
+    "explain": "Your bone marrow makes millions of new red blood cells every second, and it needs raw materials. Iron and protein build haemoglobin, while vitamin B12 and folic acid help the cells grow and divide properly. Vitamin K has a different job: the liver uses it to make clotting proteins that stop bleeding."
+  },
+  {
+    "id": "heart-odd-07",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Platelets",
+      "Haemoglobin",
+      "Fibrin threads",
+      "Clotting factors",
+      "Scab"
+    ],
+    "answer": "Haemoglobin",
+    "notes": [
+      "Cell pieces that plug a wound",
+      "Carries oxygen inside red cells",
+      "Net that traps cells at a cut",
+      "Proteins that build the clot",
+      "Dried clot that protects healing skin"
+    ],
+    "reason": "Haemoglobin carries oxygen; the other four are part of clotting.",
+    "explain": "When you cut yourself, platelets rush in and stick together to plug the hole. Clotting factors in the plasma then make long fibrin threads that form a net, trapping blood cells into a clot. The clot dries into a scab while new skin grows underneath. Haemoglobin plays no part in this; its job is carrying oxygen."
+  },
+  {
+    "id": "heart-odd-08",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Wrist",
+      "Side of the neck",
+      "Tip of the nose",
+      "Inside of the elbow",
+      "Top of the foot"
+    ],
+    "answer": "Tip of the nose",
+    "notes": [
+      "Artery runs close to the skin here",
+      "Big artery beside the windpipe",
+      "No large artery to press on",
+      "Artery used when measuring blood pressure",
+      "Small artery over the foot bones"
+    ],
+    "reason": "You cannot feel a pulse at the tip of the nose; you can at the other four places.",
+    "explain": "A pulse is the throb of an artery stretching each time the heart pushes blood into it. You can feel it wherever a fairly large artery runs close to the skin over something firm, like a bone. The wrist, neck, inner elbow and top of the foot all have such arteries. The tip of the nose has only tiny vessels, so there is no pulse to feel."
+  },
+  {
+    "id": "heart-odd-09",
+    "system": "heart",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Deep sleep",
+      "Running",
+      "Feeling scared",
+      "Having a fever",
+      "Climbing stairs"
+    ],
+    "answer": "Deep sleep",
+    "notes": [
+      "Body is resting, needs less oxygen",
+      "Muscles need extra oxygen",
+      "Adrenaline speeds up the heart",
+      "A hot body works faster",
+      "Leg muscles need extra oxygen"
+    ],
+    "reason": "Deep sleep slows the heart; the other four speed it up.",
+    "explain": "Your heart speeds up whenever your body needs more oxygen delivered quickly. Exercise makes muscles hungry for oxygen, fear releases a hormone called adrenaline, and a fever makes the body's chemistry run faster. In deep sleep your body needs the least energy, so your heart rate drops."
+  },
+  {
+    "id": "heart-odd-10",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "White blood cell",
+      "Nerve cell",
+      "Muscle cell",
+      "Skin cell",
+      "Red blood cell"
+    ],
+    "answer": "Red blood cell",
+    "notes": [
+      "Has a nucleus; fights germs",
+      "Has a nucleus; carries messages",
+      "Has a nucleus; contracts to move you",
+      "Has a nucleus; covers the body",
+      "Mature ones have no nucleus"
+    ],
+    "reason": "A mature human red blood cell has no nucleus; the others do.",
+    "explain": "The nucleus is the control centre of a cell and holds its DNA. As a human red blood cell matures in the bone marrow, it pushes its nucleus out. That leaves more space for haemoglobin, so each cell carries more oxygen. Without a nucleus it cannot repair itself, which is why a red cell lives only about four months.",
+    "fact": "A red blood cell lives for about 120 days before it is recycled."
+  },
+  {
+    "id": "heart-odd-11",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Too much salt",
+      "Being very overweight",
+      "Daily exercise",
+      "Smoking",
+      "Long-term stress"
+    ],
+    "answer": "Daily exercise",
+    "notes": [
+      "Body holds extra water, raising pressure",
+      "Heart must push blood through more tissue",
+      "Keeps blood vessels healthy and flexible",
+      "Narrows and stiffens blood vessels",
+      "Keeps stress hormones high"
+    ],
+    "reason": "Daily exercise helps keep blood pressure healthy; the other four raise it.",
+    "explain": "Blood pressure is how hard blood pushes on the walls of your arteries. Salt makes the body hold extra water, so there is more blood to push. Smoking stiffens vessel walls, and extra body weight and long-term stress make the heart work harder. Regular exercise strengthens the heart and keeps arteries flexible, which helps keep pressure normal."
+  },
+  {
+    "id": "heart-odd-12",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Tricuspid",
+      "Septum",
+      "Mitral",
+      "Aortic",
+      "Pulmonary"
+    ],
+    "answer": "Septum",
+    "notes": [
+      "Valve between right atrium and ventricle",
+      "Muscle wall between left and right sides",
+      "Valve between left atrium and ventricle",
+      "Valve where blood leaves for the body",
+      "Valve where blood leaves for the lungs"
+    ],
+    "reason": "The septum is a wall; the other four are the heart's valves.",
+    "explain": "The heart has four valves that act like one-way doors, so blood can only move forward. The tricuspid and mitral valves sit between the upper and lower chambers. The aortic and pulmonary valves sit where blood leaves the heart. The septum is a thick wall of muscle that keeps the left and right sides of the heart apart."
+  },
+  {
+    "id": "heart-odd-13",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Oxygen",
+      "Glucose",
+      "Hormones",
+      "Fibre",
+      "Carbon dioxide"
+    ],
+    "answer": "Fibre",
+    "notes": [
+      "Carried by red cells from lungs",
+      "Sugar fuel for every cell",
+      "Chemical messages from glands",
+      "Passes through the gut, never enters blood",
+      "Waste gas carried to the lungs"
+    ],
+    "reason": "Fibre is never absorbed into the blood; the other four are carried in it.",
+    "explain": "Blood is the body's delivery service. It carries oxygen from the lungs, sugar from digested food, and hormones from glands to the cells, and takes waste like carbon dioxide away. Fibre from fruits, vegetables and grains is not absorbed at all. It stays in the gut and helps waste move along."
+  },
+  {
+    "id": "heart-odd-14",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Stethoscope",
+      "Blood pressure cuff",
+      "Echocardiogram",
+      "ECG",
+      "Spirometer"
+    ],
+    "answer": "Spirometer",
+    "notes": [
+      "Listens to heart sounds",
+      "Measures pressure in the arteries",
+      "Sound-wave video of the beating heart",
+      "Records the heart's electrical signals",
+      "Measures how much air you blow out"
+    ],
+    "reason": "A spirometer tests the lungs; the other four check the heart and blood vessels.",
+    "explain": "A heart doctor has several ways to check the heart. A stethoscope lets them hear the valves closing, a cuff measures blood pressure, an ECG records the tiny electrical signals that trigger each beat, and an echocardiogram uses sound waves to show the heart moving. A spirometer measures how much air you can breathe out, so it is a lung test."
+  },
+  {
+    "id": "heart-odd-15",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Human",
+      "Frog",
+      "Pigeon",
+      "Cow",
+      "Crocodile"
+    ],
+    "answer": "Frog",
+    "notes": [
+      "Four-chambered heart",
+      "Three-chambered heart",
+      "Four-chambered heart",
+      "Four-chambered heart",
+      "Four-chambered heart"
+    ],
+    "reason": "A frog's heart has three chambers; the other four animals have four.",
+    "explain": "A four-chambered heart keeps oxygen-rich blood on the left side and oxygen-poor blood on the right side, so they never mix. Mammals, birds and crocodiles have this design. A frog's heart has two atria but only one ventricle, so some mixing happens. Frogs manage because they also take in oxygen through their moist skin.",
+    "fact": "A fish heart has just two chambers."
+  },
+  {
+    "id": "heart-odd-16",
+    "system": "heart",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Carry blood towards the heart",
+      "Have one-way valves",
+      "Thick muscular walls",
+      "Low pressure inside",
+      "Often used for blood tests"
+    ],
+    "answer": "Thick muscular walls",
+    "notes": [
+      "True of veins",
+      "True of veins, especially in legs",
+      "True of arteries, not veins",
+      "True of veins",
+      "True of veins, close to the skin"
+    ],
+    "reason": "Thick muscular walls describe arteries; the other four describe veins.",
+    "explain": "Arteries take the full force of each heartbeat, so they need thick, muscular, stretchy walls. By the time blood reaches the veins, the pressure is low, so vein walls are thinner. To stop blood slipping backwards, veins have valves. Many veins lie near the skin, which is why nurses use them to take blood samples."
+  },
+  {
+    "id": "heart-odd-17",
+    "system": "heart",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Platelet",
+      "Neutrophil",
+      "Lymphocyte",
+      "Monocyte",
+      "Eosinophil"
+    ],
+    "answer": "Platelet",
+    "notes": [
+      "Cell fragment that helps clotting",
+      "White cell that eats bacteria",
+      "White cell that makes antibodies",
+      "Large white cell that cleans up",
+      "White cell that fights parasites"
+    ],
+    "reason": "A platelet is a clotting fragment; the other four are types of white blood cell.",
+    "explain": "There are several kinds of white blood cells, each with its own way of fighting germs. Neutrophils swallow bacteria, lymphocytes make antibodies, monocytes clean up dead cells and germs, and eosinophils fight parasites. A platelet is not a full cell at all. It is a small piece broken off a bigger cell, and its job is to help blood clot."
+  },
+  {
+    "id": "heart-taboo-01",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Heart",
+    "forbidden": [
+      "Pump",
+      "Beat",
+      "Chest",
+      "Love"
+    ],
+    "clues": [
+      "This fist-sized organ works every second of your life, even while you sleep.",
+      "It has four rooms inside and squeezes to push blood around your body.",
+      "A doctor listens to its 'lub-dub' sound with a stethoscope."
+    ],
+    "decoys": [
+      "Lungs",
+      "Liver",
+      "Stomach"
+    ],
+    "explain": "The heart is a muscle about the size of your fist that sits in the middle of your chest, tilted a little to the left. Each time it squeezes, it pushes blood through tubes to every part of your body, delivering oxygen and food to cells. The 'lub-dub' sound comes from its valves snapping shut.",
+    "fact": "An adult's heart beats about 100,000 times a day."
+  },
+  {
+    "id": "heart-taboo-02",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Artery",
+    "forbidden": [
+      "Heart",
+      "Blood",
+      "Vessel",
+      "Vein"
+    ],
+    "clues": [
+      "Its walls are thick, stretchy and muscular, so it can handle high pressure.",
+      "When you press on one at your wrist, you can feel a steady throb.",
+      "This kind of tube carries red liquid away from the main pumping organ out to the body."
+    ],
+    "decoys": [
+      "Capillary",
+      "Nerve",
+      "Tendon"
+    ],
+    "explain": "Arteries are the tubes that carry blood away from the heart. The heart pushes blood into them with force, so they have thick, muscular, stretchy walls. The throb you feel at your wrist or neck is an artery stretching each time the heart squeezes."
+  },
+  {
+    "id": "heart-taboo-03",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Vein",
+    "forbidden": [
+      "Artery",
+      "Blood",
+      "Heart",
+      "Blue"
+    ],
+    "clues": [
+      "Tiny flaps inside work like one-way doors, so nothing slides backwards.",
+      "These thin-walled tubes carry used, oxygen-poor red liquid back to the chest.",
+      "A nurse often puts a needle into one on the inside of your elbow to take a sample."
+    ],
+    "decoys": [
+      "Artery",
+      "Capillary",
+      "Nerve"
+    ],
+    "explain": "Veins carry blood back to the heart after it has dropped off its oxygen. The pressure inside them is low, so their walls are thinner than artery walls. Valves inside stop blood from flowing backwards, which matters most in your legs, where blood has to travel upwards.",
+    "fact": "Veins look bluish through your skin, but the blood inside is dark red. Your skin changes how light reaches your eyes."
+  },
+  {
+    "id": "heart-taboo-04",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Capillary",
+    "forbidden": [
+      "Tiny",
+      "Vessel",
+      "Blood",
+      "Thin"
+    ],
+    "clues": [
+      "These are the narrowest tubes in your circulation; red cells pass through in single file.",
+      "Their walls are only one cell thick, so oxygen and food slip through to nearby cells.",
+      "They form a net that links the smallest arteries to the smallest veins."
+    ],
+    "decoys": [
+      "Artery",
+      "Vein",
+      "Nerve fibre"
+    ],
+    "explain": "Capillaries are the smallest blood vessels, finer than a hair. Their walls are just one cell thick, so oxygen and nutrients can pass out into the body's cells, and waste can pass in. Every cell in your body is close to a capillary. They are where the real delivery work of the blood happens."
+  },
+  {
+    "id": "heart-taboo-05",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Platelet",
+    "forbidden": [
+      "Clot",
+      "Blood",
+      "Cut",
+      "Scab"
+    ],
+    "clues": [
+      "These are not whole cells but small pieces broken off bigger cells in the bone marrow.",
+      "At a wound, they become sticky and clump together like a plug.",
+      "They help stop the bleeding after you scrape your knee."
+    ],
+    "decoys": [
+      "Red blood cell",
+      "White blood cell",
+      "Plasma"
+    ],
+    "explain": "Platelets are tiny cell fragments that float in your blood. When a vessel is damaged, they stick to the edges and to each other, forming a plug. They also release chemicals that help build a net of fibrin threads, which traps red cells into a clot. The clot later dries into a scab."
+  },
+  {
+    "id": "heart-taboo-06",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Plasma",
+    "forbidden": [
+      "Yellow",
+      "Liquid",
+      "Water",
+      "Blood"
+    ],
+    "clues": [
+      "It makes up a little more than half of what flows in your arteries and veins.",
+      "It carries dissolved sugar, salts, hormones and waste around the body.",
+      "When a sample is spun fast in a machine, it is the pale, straw-coloured layer on top."
+    ],
+    "decoys": [
+      "Platelets",
+      "Haemoglobin",
+      "Lymph"
+    ],
+    "explain": "Plasma is the liquid part of blood, and it is mostly water. Red cells, white cells and platelets float in it, along with dissolved food, salts, hormones and wastes. When blood is spun in a machine, the heavy cells sink and the pale plasma stays on top."
+  },
+  {
+    "id": "heart-taboo-07",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Haemoglobin",
+    "forbidden": [
+      "Oxygen",
+      "Iron",
+      "Red",
+      "Protein"
+    ],
+    "clues": [
+      "Without enough of it, a person may feel tired and look pale.",
+      "It is packed inside certain cells and gives them their colour.",
+      "It grabs a gas in the lungs and lets go of it in the muscles."
+    ],
+    "decoys": [
+      "Insulin",
+      "Plasma",
+      "Melanin"
+    ],
+    "explain": "Haemoglobin is a protein packed inside red blood cells. Each molecule has iron at its centre, which grabs oxygen in the lungs and releases it where cells need it. Haemoglobin is what makes blood red. When there is too little of it, a person has anaemia."
+  },
+  {
+    "id": "heart-taboo-08",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pulse",
+    "forbidden": [
+      "Heart",
+      "Beat",
+      "Wrist",
+      "Neck"
+    ],
+    "clues": [
+      "A doctor counts it for 15 seconds and multiplies by four.",
+      "It gets faster when you run and slower when you rest.",
+      "You feel it as a gentle throb when you press two fingers just below the thumb side of your palm."
+    ],
+    "decoys": [
+      "Breathing rate",
+      "Blood pressure",
+      "Temperature"
+    ],
+    "explain": "Your pulse is the throb you feel each time your heart pushes a wave of blood through your arteries. Counting it tells you how many times your heart beats in a minute. For a resting child it is usually somewhere around 70 to 110, and it rises with exercise, excitement or fever."
+  },
+  {
+    "id": "heart-taboo-09",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood pressure",
+    "forbidden": [
+      "Push",
+      "Squeeze",
+      "Arteries",
+      "Salt"
+    ],
+    "clues": [
+      "It can stay too high for years without any warning signs, so adults should get it checked.",
+      "It is written as two numbers, such as 120 over 80.",
+      "A band wrapped round your upper arm fills with air to measure it."
+    ],
+    "decoys": [
+      "Pulse",
+      "Temperature",
+      "Blood sugar"
+    ],
+    "explain": "Blood pressure is how hard blood presses on the walls of your arteries. The top number is the pressure while the heart squeezes, and the bottom number is the pressure while it relaxes between beats. If it stays high for a long time, it strains the heart and blood vessels, so doctors check it regularly in adults."
+  },
+  {
+    "id": "heart-taboo-10",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Anaemia",
+    "forbidden": [
+      "Iron",
+      "Tired",
+      "Pale",
+      "Blood"
+    ],
+    "clues": [
+      "Many girls and women in India have this condition.",
+      "It means there is not enough haemoglobin to carry oxygen around the body.",
+      "People with it feel weak and breathless on stairs; spinach, lentils and eggs can help."
+    ],
+    "decoys": [
+      "Asthma",
+      "Diabetes",
+      "Scurvy"
+    ],
+    "explain": "Anaemia means the blood has too little haemoglobin, so less oxygen reaches the body's cells. The most common cause is not getting enough iron, which the body needs to make haemoglobin. Girls and women need more iron because they lose some blood each month during periods. Iron-rich foods, and iron tablets when a doctor prescribes them, help."
+  },
+  {
+    "id": "heart-taboo-11",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Valve",
+    "forbidden": [
+      "Door",
+      "Flap",
+      "Open",
+      "Close"
+    ],
+    "clues": [
+      "Veins in your legs have them too, so blood does not slide back down.",
+      "They make sure blood moves only one way through the heart.",
+      "The heart has four of them, and their snapping shut makes the 'lub-dub' sound."
+    ],
+    "decoys": [
+      "Ventricle",
+      "Septum",
+      "Atrium"
+    ],
+    "explain": "A valve is a set of thin flaps that lets blood pass in one direction and then shuts to stop it flowing back. The heart has four valves. A doctor can hear them through a stethoscope: 'lub' is the sound of two valves shutting, and 'dub' is the other two."
+  },
+  {
+    "id": "heart-taboo-12",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ventricle",
+    "forbidden": [
+      "Chamber",
+      "Lower",
+      "Atrium",
+      "Pump"
+    ],
+    "clues": [
+      "The one on the left has the thickest, strongest muscle wall in the heart.",
+      "The heart has two of these, one on each side, below the two collecting rooms.",
+      "They squeeze hard to push blood out into the arteries."
+    ],
+    "decoys": [
+      "Atrium",
+      "Valve",
+      "Aorta"
+    ],
+    "explain": "The ventricles are the two lower chambers of the heart and do the hard pushing. The right ventricle sends blood a short distance to the lungs. The left ventricle sends blood all the way to your head and toes, so its wall is much thicker and stronger."
+  },
+  {
+    "id": "heart-taboo-13",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Aorta",
+    "forbidden": [
+      "Artery",
+      "Biggest",
+      "Heart",
+      "Arch"
+    ],
+    "clues": [
+      "It curves over like the handle of a walking stick, then runs down through the chest and belly.",
+      "Every drop of oxygen-rich blood leaving the left ventricle passes through it first.",
+      "It is the largest of the tubes that carry blood away from the chest's main pumping organ."
+    ],
+    "decoys": [
+      "Pulmonary artery",
+      "Vena cava",
+      "Trachea"
+    ],
+    "explain": "The aorta is the body's main artery. It leaves the left ventricle, curves over the top of the heart, and runs down in front of the backbone. Smaller arteries branch off it to carry oxygen-rich blood to the head, arms, organs and legs. In an adult it is about as wide as a garden hose."
+  },
+  {
+    "id": "heart-taboo-14",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Atrium",
+    "forbidden": [
+      "Chamber",
+      "Upper",
+      "Ventricle",
+      "Top"
+    ],
+    "clues": [
+      "Its name comes from a Latin word for an entrance hall.",
+      "The heart has two of these, and each one collects blood coming in from veins.",
+      "They sit above the two bigger, stronger squeezing rooms of the heart."
+    ],
+    "decoys": [
+      "Ventricle",
+      "Valve",
+      "Septum"
+    ],
+    "explain": "The two atria are the upper chambers of the heart. The right one receives oxygen-poor blood from the body, and the left one receives oxygen-rich blood from the lungs. Their walls are thin because they only need to push blood a short way down into the ventricles."
+  },
+  {
+    "id": "heart-taboo-15",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Bruise",
+    "forbidden": [
+      "Purple",
+      "Blue",
+      "Hit",
+      "Skin"
+    ],
+    "clues": [
+      "Over a week or two it may turn green and then yellow as your body cleans it up.",
+      "It forms when tiny tubes break and leak under the surface after a bump.",
+      "You might get one on your leg after banging it on a table."
+    ],
+    "decoys": [
+      "Rash",
+      "Blister",
+      "Scab"
+    ],
+    "explain": "A hard bump can break capillaries under the skin. Blood leaks out and gets trapped, which shows as a dark mark. Over the next days your body breaks down the haemoglobin in that blood into other substances that look green and then yellow, and finally clears it away. A cold pack wrapped in cloth soon after the bump can reduce swelling."
+  },
+  {
+    "id": "heart-taboo-16",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Red blood cell",
+    "forbidden": [
+      "Oxygen",
+      "Haemoglobin",
+      "Red",
+      "Disc"
+    ],
+    "clues": [
+      "Your bone marrow makes about two million of these every second.",
+      "When fully grown they have no nucleus, which leaves more room for their cargo.",
+      "Shaped like a doughnut without a hole, they carry the gas you breathe in to every cell."
+    ],
+    "decoys": [
+      "White blood cell",
+      "Platelet",
+      "Nerve cell"
+    ],
+    "explain": "Red blood cells are the most common cells in your blood. They are packed with haemoglobin, which picks up oxygen in the lungs and drops it off around the body. Their dented shape gives them a large surface for taking in oxygen, and they are bendy enough to squeeze through narrow capillaries.",
+    "fact": "Each red blood cell lives about 120 days."
+  },
+  {
+    "id": "heart-taboo-17",
+    "system": "heart",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Blood donation",
+    "forbidden": [
+      "Give",
+      "Needle",
+      "Hospital",
+      "Bag"
+    ],
+    "clues": [
+      "Healthy adults can do this every few months, and the body soon replaces what was taken.",
+      "Camps for it are often held in offices, colleges and community halls.",
+      "One person doing this can help save lives after accidents and operations."
+    ],
+    "decoys": [
+      "Vaccination",
+      "Blood test",
+      "Organ transplant"
+    ],
+    "explain": "In blood donation, a healthy adult lets a trained worker collect a unit of their blood, which is stored in a blood bank. It is later given to patients who have lost blood or cannot make enough. The donor's body replaces the liquid part within a day or two and the red cells over the next few weeks."
+  },
+  {
+    "id": "heart-case-01",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A 13-year-old girl feels tired all the time, gets breathless climbing stairs and looks pale. Her blood test shows low haemoglobin. What is the most likely problem?",
+    "options": [
+      "Asthma",
+      "Anaemia",
+      "Common cold",
+      "High blood pressure"
+    ],
+    "answer": "Anaemia",
+    "optionNotes": [
+      "Narrowed airways; haemoglobin is normal",
+      "Too little haemoglobin to carry oxygen",
+      "A virus causing runny nose and sneezing",
+      "Usually causes no symptoms at all"
+    ],
+    "explain": "Low haemoglobin is the key clue. Haemoglobin carries oxygen, so when there is too little, muscles and the brain get less oxygen. That causes tiredness, breathlessness and pale skin. A doctor will look for the cause, which is often too little iron in the diet."
+  },
+  {
+    "id": "heart-case-02",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "Your friend cuts his hand on a paper cutter and it is bleeding steadily. An adult is on the way. What should you do first?",
+    "options": [
+      "Wash it with hot water",
+      "Put toothpaste on it",
+      "Press firmly on it with a clean cloth",
+      "Wave it in the air to dry it"
+    ],
+    "answer": "Press firmly on it with a clean cloth",
+    "optionNotes": [
+      "Hot water can make bleeding worse",
+      "Toothpaste does not stop bleeding and can irritate",
+      "Pressure helps platelets form a clot",
+      "Movement keeps the wound bleeding"
+    ],
+    "explain": "Firm, steady pressure with a clean cloth squeezes the cut edges together and slows the blood, giving platelets time to build a clot. Raising the hand above the heart also helps. Keep pressing for several minutes without lifting to peek. An adult or doctor should check whether the cut needs stitches."
+  },
+  {
+    "id": "heart-case-03",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A doctor wraps a band around a man's upper arm and fills it with air. She slowly lets the air out while listening with a stethoscope and reads two numbers. What is she measuring?",
+    "options": [
+      "Blood sugar",
+      "Body temperature",
+      "Oxygen in the blood",
+      "Blood pressure"
+    ],
+    "answer": "Blood pressure",
+    "optionNotes": [
+      "Checked with a finger-prick test",
+      "Checked with a thermometer",
+      "Checked with a clip on the finger",
+      "Checked with an inflatable arm cuff"
+    ],
+    "explain": "The inflated cuff squeezes the main arm artery shut. As the air is let out, blood starts to push through again, and the doctor hears it. The pressure when the sound starts is the top number (while the heart squeezes). The pressure when it stops is the bottom number (while the heart rests)."
+  },
+  {
+    "id": "heart-case-04",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Emergency Doctor",
+    "scenario": "After a road accident, a patient has lost a lot of blood and needs red blood cells immediately. There is no time to test his blood group. Which group of red cells is safest to give?",
+    "options": [
+      "AB positive",
+      "A positive",
+      "B negative",
+      "O negative"
+    ],
+    "answer": "O negative",
+    "optionNotes": [
+      "Has A, B and Rh markers; many people react",
+      "Has A and Rh markers; many people react",
+      "Has the B marker; many people react",
+      "No A, B or Rh markers; safest for anyone"
+    ],
+    "explain": "Blood groups depend on markers on the surface of red cells. If a patient receives cells with markers their body does not recognise, their immune system attacks them. O negative red cells have no A, B or Rh markers, so they are the safest choice when there is no time to test. Doctors still check the patient's group as soon as they can.",
+    "fact": "People with O negative blood are often called universal red cell donors."
+  },
+  {
+    "id": "heart-case-05",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A nurse counts 20 pulse beats at a resting boy's wrist in 15 seconds. What is his pulse rate per minute?",
+    "options": [
+      "35",
+      "60",
+      "80",
+      "120"
+    ],
+    "answer": "80",
+    "optionNotes": [
+      "Adds 15 instead of multiplying",
+      "Multiplies by 3 instead of 4",
+      "20 x 4 = 80 beats per minute",
+      "Multiplies by 6 instead of 4"
+    ],
+    "explain": "A minute has four lots of 15 seconds, so you multiply the count by four: 20 x 4 = 80. That is a normal resting pulse for a child. Counting for a short time and multiplying is quicker, but counting for a full minute is more accurate if the beat is uneven."
+  },
+  {
+    "id": "heart-case-06",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A girl's nose starts bleeding during class. She is not hurt anywhere else. What is the right first aid while the teacher is told?",
+    "options": [
+      "Sit her up, lean forward, pinch soft part of nose",
+      "Tilt her head back and wait",
+      "Lie her flat on her back",
+      "Hold ice inside her nostrils"
+    ],
+    "answer": "Sit her up, lean forward, pinch soft part of nose",
+    "optionNotes": [
+      "Pressure stops the leak; blood drains out, not down",
+      "Blood runs down the throat and is swallowed",
+      "Blood runs down the throat",
+      "Can injure the inside of the nose"
+    ],
+    "explain": "Most nosebleeds come from tiny blood vessels near the front of the nose. Pinching the soft part presses on them so a clot can form, and leaning forward lets blood drip out instead of running down the throat. Pinch for about 10 minutes without letting go. If bleeding does not stop after 20 minutes, or followed a hard knock, an adult should get medical help."
+  },
+  {
+    "id": "heart-case-07",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "A doctor hears an extra whooshing sound in a baby's chest. A scan shows a small hole in the muscle wall that separates the left side of the heart from the right side. Which part has the hole?",
+    "options": [
+      "Septum",
+      "Aorta",
+      "Valve",
+      "Capillary"
+    ],
+    "answer": "Septum",
+    "optionNotes": [
+      "Muscle wall between left and right sides",
+      "Large artery leaving the heart",
+      "One-way door between chambers",
+      "Tiny blood vessel in body tissues"
+    ],
+    "explain": "The septum keeps oxygen-rich blood on the left side of the heart apart from oxygen-poor blood on the right. Some babies are born with a small hole in it, often called a 'hole in the heart'. Blood leaking through the hole makes the whooshing sound, called a murmur. Many small holes close on their own; larger ones can be repaired by doctors."
+  },
+  {
+    "id": "heart-case-08",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Cardiologist",
+    "scenario": "A man gets chest pain when he walks fast, and it goes away when he rests. Tests show that the arteries supplying his heart muscle with blood have become narrow. Which arteries are these?",
+    "options": [
+      "Pulmonary veins",
+      "Coronary arteries",
+      "Vena cava",
+      "Carotid arteries"
+    ],
+    "answer": "Coronary arteries",
+    "optionNotes": [
+      "Bring blood from the lungs into the heart",
+      "Wrap around and feed the heart muscle",
+      "Bring used blood back into the heart",
+      "Carry blood up the neck to the brain"
+    ],
+    "explain": "The heart muscle needs its own oxygen supply, and it gets it from the coronary arteries that wrap around its surface like a crown. If fatty deposits narrow them, the heart muscle gets too little oxygen when it works hard, which causes chest pain. Healthy food, regular exercise and not smoking help keep these arteries open.",
+    "fact": "'Coronary' comes from the Latin word for crown."
+  },
+  {
+    "id": "heart-case-09",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A girl bruises very easily and has tiny red spots on her skin. Her blood test shows that the part of her blood that plugs leaks in vessels is very low. Which part is it?",
+    "options": [
+      "Red blood cells",
+      "Plasma",
+      "Platelets",
+      "Haemoglobin"
+    ],
+    "answer": "Platelets",
+    "optionNotes": [
+      "Carry oxygen; low count causes tiredness",
+      "Liquid part; not the plug-makers",
+      "Clump together to seal leaking vessels",
+      "Oxygen carrier inside red cells"
+    ],
+    "explain": "Tiny vessels in the body get small leaks all the time, and platelets seal them before we notice. When platelets are low, blood escapes under the skin easily, causing bruises and pinpoint red spots. A pathologist counts platelets with a blood test, and a doctor then looks for the reason they are low."
+  },
+  {
+    "id": "heart-case-10",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Cardiologist",
+    "scenario": "A 50-year-old man has high blood pressure. He eats pickles, papads and salty snacks every day. Along with his doctor's treatment, which change will help his blood pressure most?",
+    "options": [
+      "Drink less water",
+      "Eat less salt",
+      "Sleep fewer hours",
+      "Skip breakfast"
+    ],
+    "answer": "Eat less salt",
+    "optionNotes": [
+      "Can cause dehydration; does not fix pressure",
+      "Less salt means less water held in blood",
+      "Poor sleep can raise blood pressure",
+      "Skipping meals does not lower pressure"
+    ],
+    "explain": "Salt makes the body hold on to extra water, which increases the amount of blood in the vessels and raises the pressure. Pickles, papads and packaged snacks contain a lot of salt. Cutting down on them, along with exercise and any medicine the doctor prescribes, helps bring blood pressure down."
+  },
+  {
+    "id": "heart-case-11",
+    "system": "heart",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "A teenager has anaemia because her body is short of a mineral needed to make haemoglobin. Her nutritionist suggests more green leafy vegetables, lentils and eggs. Which mineral is it?",
+    "options": [
+      "Calcium",
+      "Iodine",
+      "Sodium",
+      "Iron"
+    ],
+    "answer": "Iron",
+    "optionNotes": [
+      "Builds bones and teeth",
+      "Needed by the thyroid gland",
+      "Found in salt; controls water balance",
+      "Sits at the centre of haemoglobin"
+    ],
+    "explain": "Every haemoglobin molecule needs iron to hold on to oxygen. Without enough iron, the body makes fewer and paler red blood cells, and the person has anaemia. Leafy greens, lentils, beans and eggs supply iron. Eating them with vitamin C foods like amla, lemon or guava helps the body absorb more of it."
+  },
+  {
+    "id": "heart-case-12",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A shopkeeper who stands all day has swollen, twisted, bluish tubes on the backs of his legs. The one-way flaps inside them have become weak, so blood collects there. Which blood vessels are these?",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Nerves"
+    ],
+    "answer": "Veins",
+    "optionNotes": [
+      "Low-pressure vessels with one-way valves",
+      "High-pressure vessels without these valves",
+      "Too tiny to see bulging like this",
+      "Carry signals, not blood"
+    ],
+    "explain": "Blood in the leg veins has to travel upwards against gravity. Valves inside the veins stop it from sliding back down, and leg muscles squeeze the veins to help. If the valves weaken, blood pools and the veins swell and twist; these are called varicose veins. Walking, raising the legs and not standing still for hours all help."
+  },
+  {
+    "id": "heart-case-13",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "During a long school assembly in the heat, a boy says he feels dizzy and then slumps to the floor. He is breathing normally. What should the teacher do first?",
+    "options": [
+      "Make him stand up quickly",
+      "Lay him on his back and raise his legs",
+      "Give him a big meal",
+      "Splash ice-cold water on him"
+    ],
+    "answer": "Lay him on his back and raise his legs",
+    "optionNotes": [
+      "Standing can make him faint again",
+      "Helps blood flow back to the brain",
+      "Food will not help him wake up",
+      "Can shock him; does not help blood flow"
+    ],
+    "explain": "Standing still for a long time, especially in heat, lets blood pool in the legs. Less blood reaches the brain, and the person faints. Lying flat with the legs raised helps blood return to the heart and brain, and most people wake within a minute. If he does not wake up quickly, the teacher should call for emergency help."
+  },
+  {
+    "id": "heart-case-14",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Cardiologist",
+    "scenario": "A student asks which heart chamber pushes oxygen-rich blood out to the whole body, from head to toes. It has the thickest muscle wall of all four. Which chamber is it?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": "Left ventricle",
+    "optionNotes": [
+      "Collects used blood from the body",
+      "Collects fresh blood from the lungs",
+      "Pushes blood only to the nearby lungs",
+      "Pushes blood to the whole body"
+    ],
+    "explain": "The left ventricle receives oxygen-rich blood from the lungs and sends it into the aorta. Because that blood has to reach every part of the body, the left ventricle needs the most force, so its wall is the thickest. The right ventricle only sends blood to the lungs next door, so its wall is thinner."
+  },
+  {
+    "id": "heart-case-15",
+    "system": "heart",
+    "mode": "case",
+    "level": 2,
+    "role": "Haematologist",
+    "scenario": "A woman donated blood last week. Her body is now making new red blood cells to replace the ones she gave. Where in her body are these new cells made?",
+    "options": [
+      "Liver",
+      "Bone marrow",
+      "Heart",
+      "Spleen"
+    ],
+    "answer": "Bone marrow",
+    "optionNotes": [
+      "Cleans blood and makes bile",
+      "Soft tissue inside bones; the blood-cell factory",
+      "Pushes blood around; makes no cells",
+      "Removes old, worn-out red cells"
+    ],
+    "explain": "Bone marrow is the soft, spongy tissue inside bones such as the hips, ribs and breastbone. It makes red cells, white cells and platelets. After a donation, a hormone from the kidneys tells the marrow to speed up, and the red cells are fully replaced over the next several weeks."
+  },
+  {
+    "id": "heart-case-16",
+    "system": "heart",
+    "mode": "case",
+    "level": 3,
+    "role": "Haematologist",
+    "scenario": "A child's red blood cells look stiff and curved like a crescent moon. They get stuck in small vessels and break down early, making the child tired. The condition runs in families. What is it?",
+    "options": [
+      "Iron-deficiency anaemia",
+      "Haemophilia",
+      "Sickle cell disease",
+      "High blood pressure"
+    ],
+    "answer": "Sickle cell disease",
+    "optionNotes": [
+      "Cells are small and pale, not curved",
+      "Inherited, but blood does not clot well",
+      "Inherited; red cells bend into crescents",
+      "Not caused by misshaped red cells"
+    ],
+    "explain": "Sickle cell disease is passed from parents to children through genes. It changes haemoglobin so that red cells turn stiff and crescent-shaped. These cells block small vessels, causing pain, and they break down quickly, causing anaemia. It cannot be caught from someone, and treatment helps people with it lead active lives.",
+    "fact": "India runs a national mission to screen for and reduce sickle cell disease."
+  }
+]

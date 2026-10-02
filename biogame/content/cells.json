@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "cells-odd-01",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cell wall",
+      "Mitochondria",
+      "Nucleus",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "answer": "Cell wall",
+    "notes": [
+      "Stiff outer layer of plant cells",
+      "Releases energy from food",
+      "Control centre holding the DNA",
+      "Thin skin that controls what enters",
+      "Jelly where cell work happens"
+    ],
+    "reason": "Animal cells have no cell wall; the other four are found in animal cells.",
+    "explain": "Animal cells, like the ones in your body, have a nucleus, a cell membrane, cytoplasm and mitochondria. Plant cells have all of these too, plus a stiff cell wall outside the membrane. The cell wall is made of a tough material called cellulose, which helps plants stand upright without bones.",
+    "fact": "Cotton and paper are made mostly of cellulose from old plant cell walls."
+  },
+  {
+    "id": "cells-odd-02",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Amoeba",
+      "Earthworm",
+      "Mushroom",
+      "Pebble",
+      "Grass"
+    ],
+    "answer": "Pebble",
+    "notes": [
+      "Tiny one-celled pond creature",
+      "Soil animal that wriggles",
+      "A fungus that grows on damp ground",
+      "Small smooth stone",
+      "Green plant that grows in lawns"
+    ],
+    "reason": "A pebble is non-living and not made of cells; the rest are living things made of cells.",
+    "explain": "Every living thing is made of one or more cells. The cell is the smallest unit that can carry out life jobs like taking in food, growing and making more of itself. A pebble is made of minerals, not cells, so it cannot grow, feed or reproduce."
+  },
+  {
+    "id": "cells-odd-03",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Red blood cell",
+      "Ostrich egg",
+      "Cheek cell",
+      "Yeast cell",
+      "Bacterium"
+    ],
+    "answer": "Ostrich egg",
+    "notes": [
+      "Carries oxygen in blood",
+      "Single cell big enough to hold",
+      "Flat cell lining the mouth",
+      "Single-celled fungus used in baking",
+      "Single-celled microbe"
+    ],
+    "reason": "An ostrich egg is a single cell you can see without a microscope; the others need a microscope.",
+    "explain": "Most cells are far too small to see with your eyes, so we need a microscope. They are measured in micrometres, and a thousand micrometres fit in one millimetre. An unfertilised ostrich egg is a rare exception: it is one single cell, filled with stored food, and it is the largest single cell known.",
+    "fact": "About 130 red blood cells lined up side by side would stretch roughly one millimetre."
+  },
+  {
+    "id": "cells-odd-04",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Mushroom",
+      "Human",
+      "Mango tree",
+      "Cat",
+      "Amoeba"
+    ],
+    "answer": "Amoeba",
+    "notes": [
+      "Fungus with many cells",
+      "About 30 trillion cells",
+      "Large plant with many cells",
+      "Mammal with many cells",
+      "Whole living thing in one cell"
+    ],
+    "reason": "An amoeba is unicellular (one cell); the others are multicellular.",
+    "explain": "Some living things are made of just one cell. They are called unicellular, and that one cell must eat, move and reproduce by itself. Multicellular living things, like trees, cats and you, are made of many cells that share the work, with different cells doing different jobs."
+  },
+  {
+    "id": "cells-odd-05",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Nerve cell",
+      "Muscle cell",
+      "Root hair cell",
+      "Skin cell",
+      "Bone cell"
+    ],
+    "answer": "Root hair cell",
+    "notes": [
+      "Carries messages around the body",
+      "Shortens to move body parts",
+      "Soaks up water from soil",
+      "Forms the body's outer covering",
+      "Builds and repairs bone"
+    ],
+    "reason": "A root hair cell is a plant cell; the others are human cells.",
+    "explain": "Your body has about 200 kinds of cells, each shaped for its job. Nerve cells are long to carry messages, and muscle cells are long and stretchy so they can shorten. Root hair cells belong to plants: they have a long thin finger that reaches into the soil to soak up water."
+  },
+  {
+    "id": "cells-odd-06",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Neuron",
+      "Liver",
+      "Stomach",
+      "Brain",
+      "Heart"
+    ],
+    "answer": "Neuron",
+    "notes": [
+      "A single nerve cell",
+      "Organ that processes food and chemicals",
+      "Organ that churns food",
+      "Organ that controls the body",
+      "Organ that pumps blood"
+    ],
+    "reason": "A neuron is one cell; the other four are whole organs.",
+    "explain": "The body is built in levels. Cells group into tissues, tissues group into organs, and organs work together as organ systems. A neuron is a single nerve cell, the lowest level. The heart, liver, stomach and brain are organs, each made of several tissues working together."
+  },
+  {
+    "id": "cells-odd-07",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Earlobe shape",
+      "Eye colour",
+      "Blood group",
+      "Scar on knee",
+      "Natural hair colour"
+    ],
+    "answer": "Scar on knee",
+    "notes": [
+      "Passed down from parents",
+      "Passed down from parents",
+      "Passed down from parents",
+      "Left by an injury",
+      "Passed down from parents"
+    ],
+    "reason": "A scar comes from an injury during life; the others are inherited through genes.",
+    "explain": "Inherited traits are passed from parents to children through genes, which are instructions stored in DNA. Eye colour, blood group, natural hair colour and earlobe shape all come from these instructions. A scar forms when skin repairs a wound, so it is not in your genes and cannot be passed on to your children."
+  },
+  {
+    "id": "cells-odd-08",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Adenine",
+      "Uracil",
+      "Guanine",
+      "Cytosine",
+      "Thymine"
+    ],
+    "answer": "Uracil",
+    "notes": [
+      "DNA letter A",
+      "Found in RNA, not DNA",
+      "DNA letter G",
+      "DNA letter C",
+      "DNA letter T"
+    ],
+    "reason": "Uracil is found in RNA, not DNA; the other four are the four DNA bases.",
+    "explain": "DNA is written in a code of four chemical 'letters' called bases: A (adenine), T (thymine), G (guanine) and C (cytosine). A always pairs with T, and G always pairs with C, which holds the two strands of DNA together. Cells copy parts of DNA into a related molecule called RNA, which uses U (uracil) in place of T.",
+    "fact": "If the DNA in one of your cells were stretched out, it would be about 2 metres long."
+  },
+  {
+    "id": "cells-odd-09",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Nerve tissue",
+      "Epithelial tissue",
+      "Connective tissue",
+      "Muscle tissue",
+      "Xylem"
+    ],
+    "answer": "Xylem",
+    "notes": [
+      "Carries signals",
+      "Covers and lines body surfaces",
+      "Supports and joins body parts",
+      "Contracts to make movement",
+      "Plant tubes carrying water upward"
+    ],
+    "reason": "Xylem is a plant tissue; the other four are the main animal tissue types.",
+    "explain": "A tissue is a group of similar cells doing the same job. Animals have four main tissue types: muscle (movement), nerve (signals), epithelial (covering and lining) and connective (support, like bone and blood). Xylem is a plant tissue made of tubes that carry water from the roots up to the leaves."
+  },
+  {
+    "id": "cells-odd-10",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Chromosomes",
+      "Genes",
+      "Cell membrane",
+      "DNA",
+      "Nucleolus"
+    ],
+    "answer": "Cell membrane",
+    "notes": [
+      "Thread-like bundles of DNA",
+      "Short sections of DNA with instructions",
+      "Outer boundary of the cell",
+      "Molecule that stores instructions",
+      "Small dense spot that builds ribosomes"
+    ],
+    "reason": "The cell membrane wraps the whole cell; the other four are found inside the nucleus.",
+    "explain": "The nucleus is the control centre of the cell. Inside it, long DNA molecules are wound into chromosomes, and sections of DNA called genes carry instructions. The nucleolus is a dense spot that helps build ribosomes. The cell membrane is outside the nucleus: it wraps the whole cell and decides what goes in and out."
+  },
+  {
+    "id": "cells-odd-11",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Red blood cell",
+      "White blood cell",
+      "Cheek cell",
+      "Skin cell",
+      "Nerve cell"
+    ],
+    "answer": "Red blood cell",
+    "notes": [
+      "Mature cell has no nucleus",
+      "Has a nucleus",
+      "Has a nucleus",
+      "Has a nucleus",
+      "Has a nucleus"
+    ],
+    "reason": "Mature human red blood cells have no nucleus; the others do.",
+    "explain": "Most body cells keep a nucleus all their life. Red blood cells push their nucleus out as they mature, which leaves more room for haemoglobin, the substance that carries oxygen. Without a nucleus they cannot repair themselves, so each one lasts only about 120 days before it is replaced."
+  },
+  {
+    "id": "cells-odd-12",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Euglena",
+      "Yeast",
+      "Amoeba",
+      "Virus",
+      "Paramecium"
+    ],
+    "answer": "Virus",
+    "notes": [
+      "Green single cell with a whip-like tail",
+      "Single-celled fungus",
+      "Single cell that changes shape",
+      "Not a cell; needs a host cell",
+      "Slipper-shaped single cell"
+    ],
+    "reason": "A virus is not a cell; the other four are living things made of one cell.",
+    "explain": "A virus is much smaller than a cell and is just genetic material inside a protein coat. It has no cytoplasm or membrane of its own and cannot grow or copy itself alone. It must enter a living cell and use that cell's machinery to make new viruses. Yeast, amoeba, paramecium and euglena are each a complete living thing made of one cell."
+  },
+  {
+    "id": "cells-odd-13",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Nervous system",
+      "Stomach",
+      "Skeletal system",
+      "Circulatory system",
+      "Digestive system"
+    ],
+    "answer": "Stomach",
+    "notes": [
+      "Brain, spinal cord and nerves",
+      "One organ for churning food",
+      "All the bones together",
+      "Heart, blood and blood vessels",
+      "Organs that break down food"
+    ],
+    "reason": "The stomach is a single organ; the others are organ systems.",
+    "explain": "An organ system is a team of organs that work together for one big job. The digestive system includes the mouth, stomach, intestines and liver. The stomach on its own is one organ, one member of that team. Cells make tissues, tissues make organs, and organs make organ systems."
+  },
+  {
+    "id": "cells-odd-14",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Amylase",
+      "Keratin",
+      "Haemoglobin",
+      "Collagen",
+      "Glucose"
+    ],
+    "answer": "Glucose",
+    "notes": [
+      "Protein enzyme in saliva",
+      "Protein in hair and nails",
+      "Protein that carries oxygen",
+      "Protein that makes skin stretchy and strong",
+      "A sugar used for energy"
+    ],
+    "reason": "Glucose is a sugar; the other four are proteins.",
+    "explain": "Genes are instructions for making proteins. Small parts in the cell called ribosomes read a copy of a gene and join building blocks called amino acids in the right order to make a protein. Keratin, haemoglobin, collagen and the enzyme amylase are all proteins built this way. Glucose is a sugar, not a protein, and is not made directly from a gene."
+  },
+  {
+    "id": "cells-odd-15",
+    "system": "cells",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Theodor Schwann",
+      "Robert Hooke",
+      "Isaac Newton",
+      "Anton van Leeuwenhoek",
+      "Matthias Schleiden"
+    ],
+    "answer": "Isaac Newton",
+    "notes": [
+      "Said all animals are made of cells",
+      "Named 'cells' after looking at cork",
+      "Studied gravity and light",
+      "First to see living microbes",
+      "Said all plants are made of cells"
+    ],
+    "reason": "Newton studied gravity and motion; the others are known for discovering and explaining cells.",
+    "explain": "In 1665 Robert Hooke looked at thin slices of cork and saw tiny boxes he called 'cells'. Anton van Leeuwenhoek built strong lenses and was the first to see living microbes. Schleiden and Schwann later concluded that all plants and animals are made of cells, which became part of the cell theory. Isaac Newton is famous for gravity and light, not cells."
+  },
+  {
+    "id": "cells-odd-16",
+    "system": "cells",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Lining of the mouth",
+      "Cartilage",
+      "Fat tissue",
+      "Blood",
+      "Bone"
+    ],
+    "answer": "Lining of the mouth",
+    "notes": [
+      "Epithelial tissue covering a surface",
+      "Bendy connective tissue",
+      "Connective tissue storing energy",
+      "Liquid connective tissue",
+      "Hard connective tissue"
+    ],
+    "reason": "The mouth lining is epithelial tissue; the other four are connective tissues.",
+    "explain": "Connective tissue supports, joins or carries things around the body, and its cells sit in a material called matrix. In bone the matrix is hard, in cartilage it is bendy, and in blood it is a liquid called plasma. Epithelial tissue is different: its cells are packed tightly into sheets that cover surfaces, like your skin or the inside of your mouth."
+  },
+  {
+    "id": "cells-odd-17",
+    "system": "cells",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Stain",
+      "Glass slide",
+      "Cover slip",
+      "Stethoscope",
+      "Dropper"
+    ],
+    "answer": "Stethoscope",
+    "notes": [
+      "Coloured dye that shows cell parts",
+      "Holds the sample",
+      "Thin glass laid over the sample",
+      "Listens to heart and lungs",
+      "Adds drops of water or stain"
+    ],
+    "reason": "A stethoscope is for listening to the body; the others are used to prepare a microscope slide.",
+    "explain": "To look at cells, you place a thin sample on a glass slide, add a drop of water or stain with a dropper, and gently lower a thin cover slip on top. The stain colours parts like the nucleus so they are easier to see. A stethoscope is a doctor's tool for listening to sounds inside the body, not for looking at cells."
+  },
+  {
+    "id": "cells-taboo-01",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nucleus",
+    "forbidden": [
+      "Centre",
+      "DNA",
+      "Control",
+      "Brain"
+    ],
+    "clues": [
+      "Red blood cells lose this part as they mature, but most other body cells keep it.",
+      "This round part holds the chromosomes and is wrapped in its own membrane.",
+      "It is often called the cell's boss because it gives instructions to the rest of the cell."
+    ],
+    "decoys": [
+      "Cytoplasm",
+      "Vacuole",
+      "Mitochondria"
+    ],
+    "explain": "The nucleus is the control centre of most cells. It holds DNA, the instructions for building and running the cell, wrapped up in chromosomes. A membrane around the nucleus keeps the DNA safe while still letting messages pass in and out."
+  },
+  {
+    "id": "cells-taboo-02",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Microscope",
+    "forbidden": [
+      "Lens",
+      "Magnify",
+      "Small",
+      "Zoom"
+    ],
+    "clues": [
+      "Robert Hooke used an early one in 1665 to look at cork.",
+      "You put a glass slide on its stage and turn a knob to focus.",
+      "This tool makes tiny things like cells look big enough to see."
+    ],
+    "decoys": [
+      "Telescope",
+      "Stethoscope",
+      "Periscope"
+    ],
+    "explain": "A microscope uses lenses to make tiny objects look much bigger. A school light microscope can magnify about 400 times, enough to see cells and their nucleus. Without microscopes, nobody would have discovered that living things are made of cells."
+  },
+  {
+    "id": "cells-taboo-03",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Tissue",
+    "forbidden": [
+      "Group",
+      "Cells",
+      "Organ",
+      "Muscle"
+    ],
+    "clues": [
+      "Blood, bone and fat are all examples of this.",
+      "It is the level of the body that sits between a single unit of life and a whole heart or liver.",
+      "It is a team of similar building blocks that all do the same job."
+    ],
+    "decoys": [
+      "Organ system",
+      "Organism",
+      "Molecule"
+    ],
+    "explain": "A tissue is a group of similar cells working together on one job. Muscle tissue contracts, nerve tissue carries signals, and epithelial tissue covers surfaces. Different tissues then join to form organs, like the stomach or heart."
+  },
+  {
+    "id": "cells-taboo-04",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "DNA",
+    "forbidden": [
+      "Gene",
+      "Double helix",
+      "Code",
+      "Chromosome"
+    ],
+    "clues": [
+      "Police can compare it from a single hair root to identify a person.",
+      "It is a very long molecule shaped like a twisted ladder.",
+      "It holds the instructions you inherited from your parents."
+    ],
+    "decoys": [
+      "Protein",
+      "Glucose",
+      "Haemoglobin"
+    ],
+    "explain": "DNA (deoxyribonucleic acid) is the molecule that stores the instructions for building and running a living thing. It looks like a twisted ladder, and the order of its chemical 'letters' spells out the instructions. You get half your DNA from your mother and half from your father.",
+    "fact": "About 99.9% of the DNA of any two people is the same."
+  },
+  {
+    "id": "cells-taboo-05",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Chloroplast",
+    "forbidden": [
+      "Green",
+      "Photosynthesis",
+      "Sunlight",
+      "Leaf"
+    ],
+    "clues": [
+      "Animal cells do not have this part, but many plant cells do.",
+      "It contains a pigment called chlorophyll.",
+      "This part of a plant cell uses light energy to make food from water and carbon dioxide."
+    ],
+    "decoys": [
+      "Mitochondria",
+      "Cell wall",
+      "Vacuole"
+    ],
+    "explain": "Chloroplasts are small green parts found in leaf cells and other green parts of plants. They hold chlorophyll, which captures light energy. Using that energy, the plant turns water and carbon dioxide into sugar for food and gives out oxygen. This process is called photosynthesis."
+  },
+  {
+    "id": "cells-taboo-06",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Organ",
+    "forbidden": [
+      "Heart",
+      "Body part",
+      "Tissues",
+      "Kidney"
+    ],
+    "clues": [
+      "The skin is the largest one in your body.",
+      "It is built from different layers of cells that share one big job.",
+      "The liver, stomach and brain are each an example of this."
+    ],
+    "decoys": [
+      "Tissue",
+      "Cell",
+      "Molecule"
+    ],
+    "explain": "An organ is a body part made of different tissues that work together on a big job. The stomach, for example, has muscle tissue to churn food, epithelial tissue to line it, and nerve tissue to control it. Several organs together form an organ system.",
+    "fact": "The skin of an adult weighs about 4 kilograms and is the body's largest organ."
+  },
+  {
+    "id": "cells-taboo-07",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Amoeba",
+    "forbidden": [
+      "Single cell",
+      "Pond",
+      "Blob",
+      "False feet"
+    ],
+    "clues": [
+      "It has no fixed shape and keeps changing its outline.",
+      "It wraps around tiny bits of food to swallow them.",
+      "This tiny creature moves by pushing out finger-like bulges of its body."
+    ],
+    "decoys": [
+      "Paramecium",
+      "Euglena",
+      "Yeast"
+    ],
+    "explain": "An amoeba is a living thing made of just one cell. It moves by pushing out bulges called pseudopodia, which means 'false feet', and flowing into them. To eat, it surrounds a food particle with these bulges and takes it inside. When it grows big enough, it splits in two to make new amoebae."
+  },
+  {
+    "id": "cells-taboo-08",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cytoplasm",
+    "forbidden": [
+      "Jelly",
+      "Fluid",
+      "Liquid",
+      "Gel"
+    ],
+    "clues": [
+      "Many chemical reactions of the cell take place here.",
+      "Mitochondria and ribosomes float in it.",
+      "It fills the space between the outer membrane and the nucleus."
+    ],
+    "decoys": [
+      "Nucleus",
+      "Vacuole",
+      "Cell membrane"
+    ],
+    "explain": "Cytoplasm is the jelly-like material that fills a cell, between the cell membrane and the nucleus. It is mostly water with dissolved food, salts and other chemicals. The cell's small working parts, called organelles, sit in it, and many of the cell's reactions happen there."
+  },
+  {
+    "id": "cells-taboo-09",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Mitochondria",
+    "forbidden": [
+      "Energy",
+      "Powerhouse",
+      "Respiration",
+      "ATP"
+    ],
+    "clues": [
+      "Muscle cells have large numbers of these tiny bean-shaped parts.",
+      "They have their own small piece of DNA, passed down only from your mother.",
+      "They use oxygen to release the power stored in food."
+    ],
+    "decoys": [
+      "Ribosomes",
+      "Chloroplasts",
+      "Lysosomes"
+    ],
+    "explain": "Mitochondria are small bean-shaped parts inside cells. They use oxygen to break down food such as glucose and release energy the cell can use. This process is called cellular respiration. Busy cells, like muscle and heart cells, have many mitochondria because they need lots of energy."
+  },
+  {
+    "id": "cells-taboo-10",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Chromosome",
+    "forbidden": [
+      "46",
+      "Pairs",
+      "DNA",
+      "X and Y"
+    ],
+    "clues": [
+      "They become easy to see under a microscope just before a cell divides.",
+      "Half of yours came from your mother and half from your father.",
+      "These thread-like bundles in the nucleus are made of tightly coiled genetic material."
+    ],
+    "decoys": [
+      "Ribosome",
+      "Mitochondrion",
+      "Vacuole"
+    ],
+    "explain": "Chromosomes are thread-like structures in the nucleus made of DNA wrapped tightly around proteins. Human body cells have 46 chromosomes in 23 pairs: one of each pair from your mother and one from your father. Packing DNA this way lets a very long molecule fit inside a tiny nucleus."
+  },
+  {
+    "id": "cells-taboo-11",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cell membrane",
+    "forbidden": [
+      "Wall",
+      "Boundary",
+      "Skin",
+      "Outer layer"
+    ],
+    "clues": [
+      "It is so thin that you cannot see its structure even with a school microscope.",
+      "It lets oxygen and water through but keeps many other substances out.",
+      "Both plant and animal cells have this thin wrapper; in plants it sits just inside a stiffer covering."
+    ],
+    "decoys": [
+      "Cell wall",
+      "Cytoplasm",
+      "Nuclear membrane"
+    ],
+    "explain": "The cell membrane is a very thin, flexible layer around every cell. It is 'selectively permeable', which means it lets some substances in and out while blocking others. This keeps the inside of the cell stable. In plant cells, a stiff cell wall sits outside the membrane."
+  },
+  {
+    "id": "cells-taboo-12",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Vacuole",
+    "forbidden": [
+      "Sac",
+      "Storage",
+      "Water",
+      "Space"
+    ],
+    "clues": [
+      "When a plant does not get enough to drink, this part shrinks and the plant droops.",
+      "In plant cells it can fill most of the inside of the cell.",
+      "It is a bag filled with cell sap that helps keep plant cells firm."
+    ],
+    "decoys": [
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "explain": "A vacuole is a membrane bag inside a cell that stores water, food and waste. Plant cells usually have one large central vacuole full of cell sap. When it is full it presses outward and keeps the cell firm, which keeps the plant upright. Animal cells have only small vacuoles, or none."
+  },
+  {
+    "id": "cells-taboo-13",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Gene",
+    "forbidden": [
+      "DNA",
+      "Inherit",
+      "Trait",
+      "Parents"
+    ],
+    "clues": [
+      "Scientists have counted about 20,000 of these in a human.",
+      "Each one is a short section of a chromosome.",
+      "It is one instruction that helps decide things like your eye colour."
+    ],
+    "decoys": [
+      "Hormone",
+      "Enzyme",
+      "Vitamin"
+    ],
+    "explain": "A gene is a section of DNA that carries the instructions for making one protein or controlling one feature. Genes come in pairs, one from each parent, which is why children look a bit like both. Humans have about 20,000 genes spread across 46 chromosomes."
+  },
+  {
+    "id": "cells-taboo-14",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Mitosis",
+    "forbidden": [
+      "Divide",
+      "Split",
+      "Copy",
+      "Two"
+    ],
+    "clues": [
+      "It is how a cut on your knee gets new skin.",
+      "Before it begins, the cell makes a full duplicate set of chromosomes.",
+      "This process turns one body cell into a pair of identical cells."
+    ],
+    "decoys": [
+      "Osmosis",
+      "Diffusion",
+      "Respiration"
+    ],
+    "explain": "Mitosis is the way a body cell divides to make two new cells that are exact copies of it. First the cell copies all its chromosomes, then it shares them equally between the two new cells. Mitosis lets you grow, heals cuts, and replaces old cells such as skin cells."
+  },
+  {
+    "id": "cells-taboo-15",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Ribosome",
+    "forbidden": [
+      "Protein",
+      "Factory",
+      "Build",
+      "Amino acid"
+    ],
+    "clues": [
+      "It is one of the smallest parts of a cell and has no membrane around it.",
+      "Thousands of them sit in the cytoplasm or stick to a folded network of tubes.",
+      "It reads a copy of a gene and links small units together in the right order."
+    ],
+    "decoys": [
+      "Lysosome",
+      "Mitochondrion",
+      "Nucleolus"
+    ],
+    "explain": "Ribosomes are tiny structures that make proteins. They read a message copied from a gene and join amino acids in the exact order that message says. Every living cell, even a bacterium, has ribosomes, because every cell needs proteins to survive."
+  },
+  {
+    "id": "cells-taboo-16",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Mutation",
+    "forbidden": [
+      "Change",
+      "Mistake",
+      "Error",
+      "DNA"
+    ],
+    "clues": [
+      "Too much ultraviolet light from the sun can cause these in skin cells.",
+      "Most of them are harmless, a few cause problems, and a few can be useful.",
+      "It happens when a letter in the genetic code is copied wrongly or damaged."
+    ],
+    "decoys": [
+      "Mitosis",
+      "Heredity",
+      "Fertilisation"
+    ],
+    "explain": "A mutation is a change in the DNA code. It can happen when a cell copies its DNA and makes a small slip, or when things like strong sunlight damage DNA. Cells have repair systems that fix most of these changes. Over many generations, some mutations give living things new features, which is part of how species change."
+  },
+  {
+    "id": "cells-taboo-17",
+    "system": "cells",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Diffusion",
+    "forbidden": [
+      "Spread",
+      "Concentration",
+      "Move",
+      "Particles"
+    ],
+    "clues": [
+      "It is why the smell of food cooking reaches you in another room.",
+      "Oxygen gets into your cells this way without the cell spending energy.",
+      "Substances drift from where there is a lot of them to where there is little."
+    ],
+    "decoys": [
+      "Osmosis",
+      "Mitosis",
+      "Digestion"
+    ],
+    "explain": "Diffusion is the movement of particles from a place where they are crowded to a place where they are fewer, until they are evenly spread. It needs no energy from the cell. Oxygen diffuses into cells because there is more of it outside, and carbon dioxide diffuses out because there is more of it inside."
+  },
+  {
+    "id": "cells-case-01",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A doctor gently scrapes the inside of a patient's cheek with a clean wooden stick and smears the cells onto a glass slide. Which tool should be used to look at the cells?",
+    "options": [
+      "Stethoscope",
+      "Telescope",
+      "Microscope",
+      "Thermometer"
+    ],
+    "answer": "Microscope",
+    "optionNotes": [
+      "Listens to heart and lung sounds",
+      "Looks at faraway stars",
+      "Makes tiny cells look large",
+      "Measures body temperature"
+    ],
+    "explain": "Cheek cells are far too small to see with your eyes, so a pathologist uses a microscope. Its lenses magnify the cells hundreds of times. Looking at cells this way helps doctors find out whether cells are healthy or not."
+  },
+  {
+    "id": "cells-case-02",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A child scrapes her knee. A week later the wound has closed with new skin. Where did the new skin come from?",
+    "options": [
+      "Healthy skin cells nearby divided to make new cells",
+      "The plaster turned into skin",
+      "Blood hardened into new skin",
+      "Skin cells travelled from the face"
+    ],
+    "answer": "Healthy skin cells nearby divided to make new cells",
+    "optionNotes": [
+      "Cell division repairs wounds",
+      "A plaster only covers and protects",
+      "A clot only seals the wound for a while",
+      "Skin cells do not travel around the body"
+    ],
+    "explain": "New cells only come from existing cells. When skin is damaged, healthy skin cells at the edges of the wound divide again and again by mitosis, and the new cells fill the gap. The blood clot and scab only protect the wound while this repair happens underneath."
+  },
+  {
+    "id": "cells-case-03",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A girl has her mother's curly hair and her father's brown eyes. What in her cells carries the instructions for these features?",
+    "options": [
+      "Glucose",
+      "Water",
+      "Vitamins",
+      "Genes"
+    ],
+    "answer": "Genes",
+    "optionNotes": [
+      "Sugar used for energy",
+      "Makes up most of the cell",
+      "Nutrients from food",
+      "Inherited instructions in DNA"
+    ],
+    "explain": "Genes are sections of DNA that hold instructions for features like hair type and eye colour. A child gets one set of genes from the mother and one from the father. That mix is why children often have some features from each parent."
+  },
+  {
+    "id": "cells-case-04",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A student looks at a thin onion peel under a microscope. She sees brick-shaped cells, each with a thick, firm outer layer. Which part gives these cells their fixed shape?",
+    "options": [
+      "Mitochondria",
+      "Cell wall",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": "Cell wall",
+    "optionNotes": [
+      "Releases energy from food",
+      "Stiff layer around plant cells",
+      "Controls the cell",
+      "Jelly filling the cell"
+    ],
+    "explain": "Onion cells are plant cells, so they have a cell wall outside the cell membrane. The cell wall is made of cellulose and is stiff, which gives each cell a fixed, box-like shape. Animal cells have no cell wall, so cells like cheek cells have rounder, irregular shapes."
+  },
+  {
+    "id": "cells-case-05",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A drop of pond water under the microscope shows a single cell shaped like a slipper. It is covered in tiny hairs that beat together to make it swim. What is it?",
+    "options": [
+      "Virus",
+      "Amoeba",
+      "Paramecium",
+      "Red blood cell"
+    ],
+    "answer": "Paramecium",
+    "optionNotes": [
+      "Too small for a school microscope",
+      "Moves using changing bulges",
+      "Slipper-shaped, swims using tiny hairs",
+      "Found in blood, not ponds"
+    ],
+    "explain": "Paramecium is a one-celled organism that lives in ponds. Its surface is covered in tiny hairs called cilia, which beat like oars to push it through water and sweep food into its mouth-like groove. An amoeba, by contrast, has no fixed shape and crawls using bulges of its body."
+  },
+  {
+    "id": "cells-case-06",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "The heart is made of muscle tissue, nerve tissue and connective tissue working together to pump blood. What level of body organisation is the heart?",
+    "options": [
+      "An organ",
+      "An organ system",
+      "A cell",
+      "A tissue"
+    ],
+    "answer": "An organ",
+    "optionNotes": [
+      "Several tissues working together",
+      "Several organs working together",
+      "Smallest unit of life",
+      "Group of similar cells"
+    ],
+    "explain": "Living things are built in levels: cells, then tissues, then organs, then organ systems. The heart is an organ because it is made of several different tissues that work together for one job. The heart joins with blood vessels and blood to form the circulatory system."
+  },
+  {
+    "id": "cells-case-07",
+    "system": "cells",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "Under the microscope, a student's cheek cells look almost see-through, and she cannot spot the nucleus. What should she add to the slide?",
+    "options": [
+      "A drop of cooking oil",
+      "A pinch of sugar",
+      "Nothing; cheek cells have no nucleus",
+      "A drop of stain such as methylene blue"
+    ],
+    "answer": "A drop of stain such as methylene blue",
+    "optionNotes": [
+      "Would blur the view",
+      "Does not colour cells",
+      "Cheek cells do have a nucleus",
+      "Colours cell parts so they show"
+    ],
+    "explain": "Most cells are nearly colourless, so their parts are hard to see. A stain is a dye that soaks into some cell parts more than others. Methylene blue colours the nucleus darker blue, so it stands out clearly against the rest of the cell. Plant cells such as onion peel are often stained with iodine."
+  },
+  {
+    "id": "cells-case-08",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Geneticist",
+    "scenario": "Two babies are born and tests show they have exactly the same DNA. What explains this?",
+    "options": [
+      "They were born on the same day",
+      "They grew from one fertilised egg that split in two",
+      "They grew from two separate eggs",
+      "They drank the same milk"
+    ],
+    "answer": "They grew from one fertilised egg that split in two",
+    "optionNotes": [
+      "Birthday does not change DNA",
+      "This makes identical twins",
+      "This makes non-identical twins",
+      "Food does not change DNA"
+    ],
+    "explain": "Identical twins form when one fertilised egg divides into two separate embryos early on. Because they started as the same cell, they share the same DNA. Non-identical twins come from two different eggs, each fertilised by a different sperm, so their DNA is as different as that of ordinary brothers and sisters."
+  },
+  {
+    "id": "cells-case-09",
+    "system": "cells",
+    "mode": "case",
+    "level": 3,
+    "role": "Geneticist",
+    "scenario": "An egg cell always carries an X chromosome. A sperm cell carries either an X or a Y. What decides whether a baby is a boy or a girl?",
+    "options": [
+      "Whether the egg carries X or Y",
+      "The mother's diet during pregnancy",
+      "Whether the sperm carries X or Y",
+      "The month the baby is born"
+    ],
+    "answer": "Whether the sperm carries X or Y",
+    "optionNotes": [
+      "The egg always carries X",
+      "Diet does not decide this",
+      "XX makes a girl, XY a boy",
+      "Birth month does not decide this"
+    ],
+    "explain": "Humans have one pair of sex chromosomes. Girls usually have XX and boys usually have XY. The egg always gives an X, so the baby's sex depends on the sperm: a sperm with an X makes XX (a girl), and a sperm with a Y makes XY (a boy)."
+  },
+  {
+    "id": "cells-case-10",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A pathologist compares muscle cells from an athlete's leg with fat cells. The muscle cells are packed with one kind of tiny part. Which part helps them release lots of energy?",
+    "options": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Cell wall",
+      "Large vacuole"
+    ],
+    "answer": "Mitochondria",
+    "optionNotes": [
+      "Release energy from food",
+      "Only in plant cells",
+      "Only in plant cells",
+      "Mostly in plant cells"
+    ],
+    "explain": "Muscles need a lot of energy to contract. Mitochondria release this energy by breaking down food using oxygen, a process called respiration. Cells that work hard, like muscle cells, have many more mitochondria than less active cells. Regular exercise can increase the number of mitochondria in muscle cells."
+  },
+  {
+    "id": "cells-case-11",
+    "system": "cells",
+    "mode": "case",
+    "level": 3,
+    "role": "Pathologist",
+    "scenario": "In a lab, red blood cells are placed in pure water. Water flows in until the cells swell and burst. Why does the water move in?",
+    "options": [
+      "The nucleus pulls water in",
+      "The cells are dividing",
+      "Salt rushes into the cells",
+      "Water moves through the membrane to where water is less concentrated"
+    ],
+    "answer": "Water moves through the membrane to where water is less concentrated",
+    "optionNotes": [
+      "Red blood cells have no nucleus",
+      "Red blood cells cannot divide",
+      "Pure water has no salt",
+      "This is called osmosis"
+    ],
+    "explain": "This movement is called osmosis. Water moves across a membrane from where there is more water (pure water) to where there is less water (the salty inside of the cell). Animal cells have no cell wall, so they swell until they burst. That is why fluids put into a patient's vein are mixed to match the saltiness of blood."
+  },
+  {
+    "id": "cells-case-12",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Geneticist",
+    "scenario": "A geneticist counts the chromosomes in the nucleus of a normal human skin cell. How many does she find?",
+    "options": [
+      "23",
+      "12",
+      "46",
+      "100"
+    ],
+    "answer": "46",
+    "optionNotes": [
+      "Found in egg and sperm cells",
+      "Too few",
+      "23 pairs in body cells",
+      "Too many"
+    ],
+    "explain": "Normal human body cells have 46 chromosomes arranged in 23 pairs. Egg and sperm cells have only 23, one from each pair. When an egg and sperm join, the new cell has 46 again, half from each parent."
+  },
+  {
+    "id": "cells-case-13",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A scientist needs to see the shape of a virus, which is about a hundred times smaller than a typical body cell. Which instrument should she use?",
+    "options": [
+      "Binoculars",
+      "Electron microscope",
+      "Magnifying glass",
+      "School light microscope"
+    ],
+    "answer": "Electron microscope",
+    "optionNotes": [
+      "For seeing distant objects",
+      "Uses electrons; magnifies over a million times",
+      "Magnifies only a few times",
+      "Good for cells, too weak for viruses"
+    ],
+    "explain": "A light microscope uses light and can show objects down to about the size of bacteria. Viruses are smaller than that. An electron microscope uses a beam of electrons instead of light, so it can show far tinier objects, including viruses and the inside parts of cells."
+  },
+  {
+    "id": "cells-case-14",
+    "system": "cells",
+    "mode": "case",
+    "level": 3,
+    "role": "Haematologist",
+    "scenario": "Your body replaces millions of blood cells every second. Special cells in the bone marrow can turn into red cells, white cells or platelets. What are these cells called?",
+    "options": [
+      "Skin cells",
+      "Nerve cells",
+      "Stem cells",
+      "Fat cells"
+    ],
+    "answer": "Stem cells",
+    "optionNotes": [
+      "Cover the body",
+      "Carry messages, rarely divide",
+      "Can become many cell types",
+      "Store energy"
+    ],
+    "explain": "Stem cells are cells that have not yet chosen a job. When they divide, some new cells stay as stem cells and others mature into specialised cells. Blood stem cells in bone marrow keep making new red cells, white cells and platelets throughout life. Doctors can use donated stem cells to treat some blood diseases."
+  },
+  {
+    "id": "cells-case-15",
+    "system": "cells",
+    "mode": "case",
+    "level": 3,
+    "role": "Geneticist",
+    "scenario": "Gregor Mendel crossed tall pea plants with short pea plants. All the young plants grew tall. What word describes the 'tall' version of the gene?",
+    "options": [
+      "Dominant",
+      "Clone",
+      "Recessive",
+      "Mutation"
+    ],
+    "answer": "Dominant",
+    "optionNotes": [
+      "Shows up even with one copy",
+      "An exact genetic copy",
+      "Hidden when paired with a stronger version",
+      "A change in DNA"
+    ],
+    "explain": "Each plant gets two copies of a gene, one from each parent. A dominant version shows its effect even if only one copy is present. The young plants each had one 'tall' copy and one 'short' copy, and only the dominant tall version showed. The short version is called recessive; it shows only when a plant has two copies of it.",
+    "fact": "Mendel studied about 28,000 pea plants in a monastery garden in the 1850s and 1860s."
+  },
+  {
+    "id": "cells-case-16",
+    "system": "cells",
+    "mode": "case",
+    "level": 2,
+    "role": "Forensic Pathologist",
+    "scenario": "Investigators find a single hair, with its root, at a scene. To check whose hair it is, what should the lab compare with samples from suspects?",
+    "options": [
+      "Hair length",
+      "Body temperature",
+      "Hair colour",
+      "DNA pattern"
+    ],
+    "answer": "DNA pattern",
+    "optionNotes": [
+      "Changes with every haircut",
+      "Not stored in hair",
+      "Many people share it, and dye changes it",
+      "Almost unique to each person"
+    ],
+    "explain": "Every person's DNA is slightly different, except for identical twins. Cells in a hair root contain DNA, so a lab can read parts of it and compare the pattern with samples from suspects. This method is called DNA fingerprinting, and it was first developed in 1984."
+  }
+]

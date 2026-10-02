@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "cleaning-odd-01",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Kidney",
+      "Stomach",
+      "Ureter",
+      "Bladder",
+      "Urethra"
+    ],
+    "answer": "Stomach",
+    "notes": [
+      "Filters blood and makes urine",
+      "Churns and digests food",
+      "Tube from kidney to bladder",
+      "Stores urine",
+      "Tube that carries urine out"
+    ],
+    "reason": "The stomach is a digestive organ; the rest make up the urinary system.",
+    "explain": "The urinary system cleans your blood and removes liquid waste. Kidneys filter the blood and make urine, ureters carry it down, the bladder stores it, and the urethra lets it out. The stomach is part of the digestive system and works on food, not urine."
+  },
+  {
+    "id": "cleaning-odd-02",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Kidneys",
+      "Lungs",
+      "Skin",
+      "Liver",
+      "Tongue"
+    ],
+    "answer": "Tongue",
+    "notes": [
+      "Remove urea and extra water as urine",
+      "Breathe out carbon dioxide",
+      "Sweats out water, salts, a little urea",
+      "Turns harmful wastes into ones that can be removed",
+      "Tastes and moves food; removes no waste"
+    ],
+    "reason": "The tongue does not help remove the body's waste; the other four do.",
+    "explain": "Excretion means getting rid of waste made by your own cells. Kidneys remove urea in urine, lungs breathe out carbon dioxide, and skin loses salts and a little urea in sweat. The liver changes harmful substances such as ammonia into safer ones that the kidneys can then remove. The tongue helps with taste and swallowing."
+  },
+  {
+    "id": "cleaning-odd-03",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Water",
+      "Urea",
+      "Red blood cells",
+      "Extra salts",
+      "Creatinine"
+    ],
+    "answer": "Red blood cells",
+    "notes": [
+      "Makes up about 95% of urine",
+      "Main waste from protein breakdown",
+      "Should stay in blood; too big to filter",
+      "Removed to keep salt levels balanced",
+      "Waste made by working muscles"
+    ],
+    "reason": "Red blood cells should not be in normal urine; the others normally are.",
+    "explain": "Kidney filters let water and small molecules through but hold back big things like blood cells and most proteins. So normal urine contains water, urea, extra salts and creatinine, a waste made by muscles. Blood in urine is a sign something is wrong, such as an infection or a kidney stone, and should be checked by a doctor."
+  },
+  {
+    "id": "cleaning-odd-04",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Pale, clear urine",
+      "Dark yellow urine",
+      "Dry mouth",
+      "Headache",
+      "Feeling dizzy"
+    ],
+    "answer": "Pale, clear urine",
+    "notes": [
+      "Sign you are well hydrated",
+      "Kidneys saving water: sign of dehydration",
+      "Less saliva: sign of dehydration",
+      "Common sign of dehydration",
+      "Can happen when fluid is low"
+    ],
+    "reason": "Pale urine means you have enough water; the others are signs of dehydration.",
+    "explain": "When you lose more water than you drink, your kidneys hold back water and make a small amount of dark, concentrated urine. You may also get a dry mouth, headache or dizziness. Pale straw-coloured urine shows the kidneys have enough water to work with."
+  },
+  {
+    "id": "cleaning-odd-05",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Drinking water",
+      "Watermelon",
+      "Dal soup",
+      "Salty chips",
+      "Coconut water"
+    ],
+    "answer": "Salty chips",
+    "notes": [
+      "Best everyday drink",
+      "Fruit that is over 90% water",
+      "Mostly water",
+      "Very little water, lots of salt",
+      "Natural drink, mostly water"
+    ],
+    "reason": "Salty chips add almost no water and make you thirsty; the others help you stay hydrated.",
+    "explain": "You get water from drinks and from watery foods like fruit and soup. Salty, dry snacks give almost no water, and the extra salt makes your body need more water to flush it out through the kidneys. That is why salty food makes you thirsty."
+  },
+  {
+    "id": "cleaning-odd-06",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Glomerulus",
+      "Alveolus",
+      "Bowman's capsule",
+      "Tubule",
+      "Collecting duct"
+    ],
+    "answer": "Alveolus",
+    "notes": [
+      "Knot of capillaries where filtering starts",
+      "Tiny air sac in the lungs",
+      "Cup that catches the filtered liquid",
+      "Twisting tube that takes back useful things",
+      "Carries finished urine onward"
+    ],
+    "reason": "An alveolus is an air sac in the lungs; the others are parts of a nephron.",
+    "explain": "A nephron is a tiny filtering unit in the kidney. Blood is filtered in the glomerulus, and the liquid is caught by Bowman's capsule. As it flows along the tubule, useful things like glucose, salts and most water are taken back into the blood. What is left drains into a collecting duct as urine."
+  },
+  {
+    "id": "cleaning-odd-07",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Lymph nodes",
+      "Spleen",
+      "Tonsils",
+      "Thymus",
+      "Gall bladder"
+    ],
+    "answer": "Gall bladder",
+    "notes": [
+      "Small beans that trap germs",
+      "Filters blood, stores white cells",
+      "Guard the throat against germs",
+      "Where some white cells mature",
+      "Stores bile for digestion"
+    ],
+    "reason": "The gall bladder is a digestive organ; the rest are part of the lymphatic system.",
+    "explain": "The lymphatic system is a network of thin vessels and small organs. It drains extra fluid from your tissues and returns it to the blood, filtering it on the way. Lymph nodes, tonsils, the spleen and the thymus all hold white blood cells that fight germs. The gall bladder stores bile and belongs to the digestive system."
+  },
+  {
+    "id": "cleaning-odd-08",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Filter blood",
+      "Make urine",
+      "Make bile",
+      "Balance water",
+      "Control salt levels"
+    ],
+    "answer": "Make bile",
+    "notes": [
+      "Kidney job",
+      "Kidney job",
+      "Liver job, not kidney",
+      "Kidney job",
+      "Kidney job"
+    ],
+    "reason": "Making bile is a liver job; the others are kidney jobs.",
+    "explain": "Kidneys do more than make urine. By deciding how much water and salt to let go, they keep the amount of water and the salt level in your blood steady. If you drink a lot, they make more urine; if you are low on water, they make less. Bile is made by the liver to help digest fat."
+  },
+  {
+    "id": "cleaning-odd-09",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Stores urine",
+      "Turns ammonia into urea",
+      "Breaks down used medicines",
+      "Recycles iron from old red cells",
+      "Sends waste out in bile"
+    ],
+    "answer": "Stores urine",
+    "notes": [
+      "Bladder job, not liver",
+      "Liver job: makes a poison safer",
+      "Liver job: clears chemicals from blood",
+      "Liver job: saves iron for new cells",
+      "Liver job: some waste leaves in poop"
+    ],
+    "reason": "Storing urine is the bladder's job; the others are cleaning jobs of the liver.",
+    "explain": "The liver is the body's chemical cleaning plant. It changes ammonia, a poisonous waste from protein, into urea, which the kidneys remove. It breaks down medicines and other chemicals, recycles iron from worn-out red blood cells, and sends some wastes out in bile, which leaves the body with poop. Urine is stored in the bladder."
+  },
+  {
+    "id": "cleaning-odd-10",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Sweating",
+      "Breathing out",
+      "Urinating",
+      "Drinking juice",
+      "Running in the heat"
+    ],
+    "answer": "Drinking juice",
+    "notes": [
+      "Water lost through skin",
+      "Water vapour lost in each breath",
+      "Water lost as urine",
+      "Adds water to the body",
+      "Makes you sweat and lose water"
+    ],
+    "reason": "Drinking juice adds water; the others make the body lose water.",
+    "explain": "Your body loses water in several ways: urine, sweat, breath and a little in poop. Hot weather and exercise raise sweat losses a lot. To stay balanced, you need to take in as much as you lose, mostly from drinks and watery foods."
+  },
+  {
+    "id": "cleaning-odd-11",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Kidney",
+      "Heart",
+      "Lymph node",
+      "Tonsils",
+      "Spleen"
+    ],
+    "answer": "Heart",
+    "notes": [
+      "Filters waste from blood",
+      "Pumps blood; filters nothing",
+      "Filters germs from lymph",
+      "Trap germs entering the throat",
+      "Filters old cells and germs from blood"
+    ],
+    "reason": "The heart pumps but does not filter; the others act as filters.",
+    "explain": "Your body has several filters. Kidneys filter waste from blood, lymph nodes trap germs from lymph, the spleen removes worn-out red blood cells and germs from blood, and tonsils catch germs entering the throat. The heart is a pump that moves blood to all these places; it does not filter anything."
+  },
+  {
+    "id": "cleaning-odd-12",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Sweating",
+      "Resting in shade",
+      "Drinking water",
+      "Wearing light cotton clothes",
+      "Wearing a thick jacket"
+    ],
+    "answer": "Wearing a thick jacket",
+    "notes": [
+      "Evaporating sweat cools the skin",
+      "Keeps you out of direct sun",
+      "Replaces water lost in sweat",
+      "Lets sweat dry and heat escape",
+      "Traps heat; makes you hotter"
+    ],
+    "reason": "A thick jacket traps heat; the others help the body stay cool on a hot day.",
+    "explain": "Your body keeps its inside temperature close to 37 °C. On hot days, sweat glands release sweat, and as it evaporates it carries heat away from your skin. You can help by resting in shade, wearing loose light clothes and drinking water to replace what you sweat out."
+  },
+  {
+    "id": "cleaning-odd-13",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Bladder",
+      "Gall bladder",
+      "Ureter",
+      "Rectum",
+      "Stomach"
+    ],
+    "answer": "Ureter",
+    "notes": [
+      "Stores urine",
+      "Stores bile",
+      "Thin tube that carries urine onward",
+      "Stores poop until you go",
+      "Holds food for a few hours"
+    ],
+    "reason": "The ureter only carries urine; the others are stretchy stores that hold something for a while.",
+    "explain": "Some organs act as storage bags so your body can release things at the right time. The bladder holds urine, the gall bladder holds bile until a meal arrives, the stomach holds food while it churns, and the rectum holds poop. The ureter is a thin tube that moves urine from the kidney to the bladder; it does not store it."
+  },
+  {
+    "id": "cleaning-odd-14",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Plaster cast",
+      "Dialysis",
+      "Kidney transplant",
+      "Low-salt diet",
+      "Watching fluid intake"
+    ],
+    "answer": "Plaster cast",
+    "notes": [
+      "Holds a broken bone still",
+      "Machine cleans the blood",
+      "New kidney from a donor",
+      "Less salt for kidneys to remove",
+      "Stops extra fluid building up"
+    ],
+    "reason": "A plaster cast treats broken bones; the others are care for kidney failure.",
+    "explain": "When kidneys fail, waste and water build up in the blood. Dialysis uses a machine and filter to clean the blood instead. A kidney transplant gives the patient a working kidney from a donor. Eating less salt and controlling how much fluid they drink reduces the load while the kidneys cannot do their job."
+  },
+  {
+    "id": "cleaning-odd-15",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Drains extra tissue fluid",
+      "Traps germs in nodes",
+      "Carries fats from the intestine",
+      "Pumps blood",
+      "Holds white blood cells"
+    ],
+    "answer": "Pumps blood",
+    "notes": [
+      "Lymph job: returns fluid to blood",
+      "Lymph job: filters out invaders",
+      "Lymph job: special vessels in villi",
+      "Heart job; lymph has no pump",
+      "Lymph job: houses germ fighters"
+    ],
+    "reason": "Pumping blood is the heart's job; the others are jobs of the lymphatic system.",
+    "explain": "Some liquid leaks out of tiny blood vessels and bathes your cells. The lymphatic system collects this extra fluid, filters it through lymph nodes, and returns it to the blood. It also carries digested fats from the intestine and holds many white blood cells. Lymph has no heart; body movements squeeze it along."
+  },
+  {
+    "id": "cleaning-odd-16",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Make a hormone for red blood cells",
+      "Make insulin",
+      "Activate vitamin D",
+      "Help control blood pressure",
+      "Keep blood from getting too acidic"
+    ],
+    "answer": "Make insulin",
+    "notes": [
+      "Kidney job: tells bone marrow to make more",
+      "Pancreas job, not kidney",
+      "Kidney job: helps bones get calcium",
+      "Kidney job: adjusts salt and water",
+      "Kidney job: removes extra acid"
+    ],
+    "reason": "Insulin comes from the pancreas; the other four are extra jobs of the kidneys.",
+    "explain": "Besides making urine, kidneys have other jobs. They release a hormone that tells bone marrow to make red blood cells, turn vitamin D into its active form, help control blood pressure, and remove extra acid. This is why people with failing kidneys can become anaemic and have weak bones. Insulin is made by the pancreas."
+  },
+  {
+    "id": "cleaning-odd-17",
+    "system": "cleaning",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Bean-shaped",
+      "About the size of a fist",
+      "Usually two of them",
+      "Near the back, below the ribs",
+      "In the chest beside the heart"
+    ],
+    "answer": "In the chest beside the heart",
+    "notes": [
+      "True: curved like a kidney bean",
+      "True: about 10 to 12 cm long",
+      "True: one on each side of the spine",
+      "True: partly protected by lower ribs",
+      "False: kidneys are in the back of the belly"
+    ],
+    "reason": "Kidneys are not in the chest; the other four statements about kidneys are true.",
+    "explain": "Most people have two kidneys, each shaped like a bean and roughly the size of a fist. They sit at the back of the belly, one on each side of the spine, partly protected by the lowest ribs. The heart and lungs are higher up, in the chest.",
+    "fact": "The right kidney usually sits a little lower than the left, because the liver is above it."
+  },
+  {
+    "id": "cleaning-taboo-01",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Kidney",
+    "forbidden": [
+      "Urine",
+      "Filter",
+      "Bean",
+      "Blood"
+    ],
+    "clues": [
+      "Most people have two, one on each side of the spine, just below the ribs at the back.",
+      "Each one contains about a million tiny cleaning units called nephrons.",
+      "These organs take waste and extra water out of what the heart pumps, making the yellow liquid you flush away."
+    ],
+    "decoys": [
+      "Liver",
+      "Lungs",
+      "Spleen"
+    ],
+    "explain": "Kidneys are your body's main cleaners. All your blood passes through them many times a day. They filter out urea, extra salts and extra water to make urine, while keeping useful things like glucose and blood cells in the blood.",
+    "fact": "Your kidneys filter about 180 litres of liquid from your blood each day, but return almost all of it, leaving about 1.5 litres of urine."
+  },
+  {
+    "id": "cleaning-taboo-02",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Bladder",
+    "forbidden": [
+      "Urine",
+      "Store",
+      "Balloon",
+      "Toilet"
+    ],
+    "clues": [
+      "In an adult it can hold about half a litre.",
+      "Its stretchy muscle wall sends signals to your brain as it fills up.",
+      "Two thin tubes bring liquid waste into this bag from the kidneys."
+    ],
+    "decoys": [
+      "Stomach",
+      "Kidney",
+      "Large intestine"
+    ],
+    "explain": "The bladder is a stretchy, muscular bag low in your belly. It collects urine from the kidneys so you do not have to go all the time. As it fills, nerves tell your brain, and you feel the urge to go. A ring of muscle stays tight until you decide to release it."
+  },
+  {
+    "id": "cleaning-taboo-03",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Urine",
+    "forbidden": [
+      "Pee",
+      "Yellow",
+      "Toilet",
+      "Kidney"
+    ],
+    "clues": [
+      "About 95 out of every 100 parts of it are water.",
+      "It carries urea and extra salts out of the body.",
+      "It gets darker and stronger-smelling when you have not drunk enough."
+    ],
+    "decoys": [
+      "Sweat",
+      "Bile",
+      "Saliva"
+    ],
+    "explain": "Urine is the liquid waste made by your kidneys. It is mostly water, with urea, salts and other wastes dissolved in it. Its colour is a quick guide: pale straw means you are well hydrated, while dark yellow means you need to drink more."
+  },
+  {
+    "id": "cleaning-taboo-04",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Dehydration",
+    "forbidden": [
+      "Water",
+      "Thirsty",
+      "Drink",
+      "Dry"
+    ],
+    "clues": [
+      "Long play in hot sun, vomiting or diarrhoea can cause it.",
+      "Signs include headache, tiredness and dark urine.",
+      "It happens when the body loses more fluid than it takes in."
+    ],
+    "decoys": [
+      "Fever",
+      "Kidney stone",
+      "Food poisoning"
+    ],
+    "explain": "About 60% of your body weight is water, and every cell needs it. When you lose more fluid than you take in, through sweat, vomiting or diarrhoea, you become dehydrated. Your kidneys respond by making less, darker urine. Drinking water, or ORS after vomiting or diarrhoea, puts the fluid back."
+  },
+  {
+    "id": "cleaning-taboo-05",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Thirst",
+    "forbidden": [
+      "Water",
+      "Drink",
+      "Dry",
+      "Throat"
+    ],
+    "clues": [
+      "A part of your brain notices when your blood becomes too salty.",
+      "It is your body's alarm that fluid is running low.",
+      "Your mouth feels sticky and you really want a glass of something."
+    ],
+    "decoys": [
+      "Hunger",
+      "Tiredness",
+      "Fever"
+    ],
+    "explain": "Thirst is a feeling your brain creates when your blood gets too concentrated, meaning too much salt for the amount of water. At the same time, the brain signals the kidneys to save water. Both help bring your water level back to normal. In hot weather, drink before you feel very thirsty."
+  },
+  {
+    "id": "cleaning-taboo-06",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Kidney stone",
+    "forbidden": [
+      "Pebble",
+      "Pain",
+      "Crystal",
+      "Urine"
+    ],
+    "clues": [
+      "Not drinking enough fluid for a long time raises the chance of getting one.",
+      "Minerals in liquid waste clump together into a hard lump.",
+      "When it moves down the tube towards the bladder it causes very bad cramps in the side and back."
+    ],
+    "decoys": [
+      "Gallstone",
+      "Ulcer",
+      "Appendicitis"
+    ],
+    "explain": "When urine is very concentrated, minerals in it can form crystals that grow into hard lumps called kidney stones. Small ones may pass out on their own; as they squeeze down the thin ureter they can cause severe pain. Drinking enough water keeps urine dilute and lowers the chance of stones forming."
+  },
+  {
+    "id": "cleaning-taboo-07",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ureter",
+    "forbidden": [
+      "Tube",
+      "Kidney",
+      "Bladder",
+      "Urine"
+    ],
+    "clues": [
+      "You have two of these, each about 25 to 30 centimetres long in an adult.",
+      "Muscles in their walls squeeze liquid waste downward in small spurts.",
+      "Each one links a bean-shaped cleaning organ to the storage bag in your lower belly."
+    ],
+    "decoys": [
+      "Urethra",
+      "Oesophagus",
+      "Artery"
+    ],
+    "explain": "Each kidney has one ureter, a narrow muscular tube that carries urine down to the bladder. Its walls squeeze in waves, so urine moves even when you are lying down. Do not confuse it with the urethra: there are two ureters but only one urethra, which carries urine out of the body."
+  },
+  {
+    "id": "cleaning-taboo-08",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Urethra",
+    "forbidden": [
+      "Tube",
+      "Bladder",
+      "Out",
+      "Urine"
+    ],
+    "clues": [
+      "You have only one of these, and it is much shorter in girls than in boys.",
+      "A ring of muscle around its start lets you choose when to go to the toilet.",
+      "It is the last passage liquid waste travels through before it leaves the body."
+    ],
+    "decoys": [
+      "Ureter",
+      "Rectum",
+      "Oesophagus"
+    ],
+    "explain": "The urethra is the tube that carries urine from the bladder to the outside of the body. Muscles around it stay closed until you choose to go. Because it is shorter in girls, germs can reach the bladder more easily, which is why girls get bladder infections more often and should wipe from front to back."
+  },
+  {
+    "id": "cleaning-taboo-09",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Nephron",
+    "forbidden": [
+      "Kidney",
+      "Filter",
+      "Unit",
+      "Million"
+    ],
+    "clues": [
+      "Each one has a cup-shaped end wrapped around a knot of tiny blood vessels.",
+      "A long, twisting tube follows, where useful things are taken back into the blood.",
+      "Each of your two bean-shaped cleaning organs is packed with these tiny working parts."
+    ],
+    "decoys": [
+      "Neuron",
+      "Alveolus",
+      "Villus"
+    ],
+    "explain": "A nephron is the kidney's tiny filtering unit, and each kidney has about a million of them. Blood is filtered at one end, then the liquid flows along a twisting tubule. On the way, useful things such as glucose, salts and most of the water are taken back into the blood. What remains becomes urine."
+  },
+  {
+    "id": "cleaning-taboo-10",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Urea",
+    "forbidden": [
+      "Urine",
+      "Waste",
+      "Liver",
+      "Protein"
+    ],
+    "clues": [
+      "It is made when the body breaks down extra amino acids.",
+      "It is made from ammonia, which is poisonous, so the body changes it into this safer substance.",
+      "Your kidneys remove it from the blood, and a little leaves in sweat too."
+    ],
+    "decoys": [
+      "Carbon dioxide",
+      "Glucose",
+      "Bile"
+    ],
+    "explain": "When your body uses protein, it produces ammonia, which is poisonous. The liver quickly turns ammonia into urea, which is much less harmful. Urea travels in the blood to the kidneys, which remove it in urine. It is the main waste in urine after water."
+  },
+  {
+    "id": "cleaning-taboo-11",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Dialysis",
+    "forbidden": [
+      "Machine",
+      "Kidney",
+      "Blood",
+      "Clean"
+    ],
+    "clues": [
+      "Many patients need this about three times a week, for around four hours each time.",
+      "Their own filtering organs have failed, so this treatment does the job instead.",
+      "A tube carries the patient's red body fluid through an artificial filter and back again."
+    ],
+    "decoys": [
+      "Transplant",
+      "Blood transfusion",
+      "Physiotherapy"
+    ],
+    "explain": "Dialysis is a treatment for people whose kidneys have stopped working. Their blood is pumped through a machine with a special filter that removes waste and extra water, then returned to the body. It keeps the patient healthy but does not cure the kidneys, so many patients wait for a kidney transplant."
+  },
+  {
+    "id": "cleaning-taboo-12",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Lymph",
+    "forbidden": [
+      "Node",
+      "Fluid",
+      "Germs",
+      "White"
+    ],
+    "clues": [
+      "No heart pumps this; your muscles squeeze it along when you move.",
+      "It travels in its own set of thin vessels, separate from arteries and veins.",
+      "It drains back into the blood after passing through small bean-shaped stations that trap invaders."
+    ],
+    "decoys": [
+      "Plasma",
+      "Bile",
+      "Sweat"
+    ],
+    "explain": "Some of the liquid part of blood leaks out of capillaries to bathe your cells. Most goes back, but the extra is collected by lymph vessels and is then called lymph. It passes through lymph nodes, where white blood cells catch germs, and then rejoins the blood near the heart."
+  },
+  {
+    "id": "cleaning-taboo-13",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Excretion",
+    "forbidden": [
+      "Waste",
+      "Remove",
+      "Urine",
+      "Kidney"
+    ],
+    "clues": [
+      "Breathing out carbon dioxide is one example of it.",
+      "Sweating out salts and urea is another example.",
+      "It is the name for getting rid of harmful leftovers made by your own cells."
+    ],
+    "decoys": [
+      "Digestion",
+      "Respiration",
+      "Circulation"
+    ],
+    "explain": "Your cells make waste as they work, such as carbon dioxide and urea. Excretion is the removal of these wastes from the body. Kidneys, lungs, skin and liver all take part. Getting rid of undigested food as poop is usually called egestion, because that food was never part of your cells."
+  },
+  {
+    "id": "cleaning-taboo-14",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Glomerulus",
+    "forbidden": [
+      "Capillaries",
+      "Nephron",
+      "Filter",
+      "Ball"
+    ],
+    "clues": [
+      "Blood pressure here is high, which pushes water and small molecules out.",
+      "It sits inside a cup called Bowman's capsule.",
+      "It is a tiny knot of thin blood vessels where cleaning the blood begins in each kidney unit."
+    ],
+    "decoys": [
+      "Alveolus",
+      "Villus",
+      "Tubule"
+    ],
+    "explain": "The glomerulus is a tight knot of tiny blood vessels at the start of each nephron. Blood enters under high pressure, so water, salts, glucose and urea are squeezed out into Bowman's capsule. Blood cells and large proteins are too big to pass and stay in the blood."
+  },
+  {
+    "id": "cleaning-taboo-15",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Ammonia",
+    "forbidden": [
+      "Urea",
+      "Liver",
+      "Poison",
+      "Smell"
+    ],
+    "clues": [
+      "Fish release it straight into the water around them.",
+      "It forms when the body breaks down amino acids from extra protein.",
+      "This harmful chemical is quickly changed into a safer substance so the kidneys can remove it."
+    ],
+    "decoys": [
+      "Carbon dioxide",
+      "Glucose",
+      "Oxygen"
+    ],
+    "explain": "Protein contains nitrogen. When the body breaks down extra amino acids, the nitrogen ends up in ammonia, which is poisonous even in small amounts. Fish can release it directly into the water. Humans cannot, so the liver turns it into urea, which is safer to carry in the blood until the kidneys remove it."
+  },
+  {
+    "id": "cleaning-taboo-16",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Renal artery",
+    "forbidden": [
+      "Kidney",
+      "Blood",
+      "Heart",
+      "Vessel"
+    ],
+    "clues": [
+      "Each minute, about one-fifth of everything your main pump sends out flows through this pair.",
+      "Each one branches straight off the aorta, the body's largest main pipe.",
+      "It carries waste-filled supply into the bean-shaped cleaning organs."
+    ],
+    "decoys": [
+      "Renal vein",
+      "Pulmonary artery",
+      "Aorta"
+    ],
+    "explain": "'Renal' means to do with the kidneys. Each renal artery carries blood from the aorta into a kidney to be cleaned. The kidneys get about a fifth of the blood the heart pumps, far more than their size suggests, because cleaning blood is their job. Cleaned blood leaves through the renal vein."
+  },
+  {
+    "id": "cleaning-taboo-17",
+    "system": "cleaning",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Creatinine",
+    "forbidden": [
+      "Kidney",
+      "Muscle",
+      "Blood test",
+      "Waste"
+    ],
+    "clues": [
+      "Your body's movers make it at a steady rate every day as they use energy.",
+      "Doctors measure its level in a sample from a vein to check how well the filtering organs work.",
+      "If the filtering organs slow down, this substance builds up instead of leaving in urine."
+    ],
+    "decoys": [
+      "Urea",
+      "Glucose",
+      "Haemoglobin"
+    ],
+    "explain": "Creatinine is a waste made by muscles at a fairly steady rate. Healthy kidneys remove it from the blood into urine. Because its production is steady, a high creatinine level in a blood test is a sign the kidneys are not filtering well, and doctors use it to check kidney health."
+  },
+  {
+    "id": "cleaning-case-01",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "Arjun played football for two hours in the afternoon sun and drank almost nothing. Now he has a headache, a dry mouth and dark yellow urine. What is the most likely problem?",
+    "options": [
+      "Kidney stone",
+      "Dehydration",
+      "Food allergy",
+      "Broken bone"
+    ],
+    "answer": "Dehydration",
+    "optionNotes": [
+      "Causes sharp pain in side or back",
+      "Lost more water than he drank",
+      "Reaction to a food, often with rash",
+      "Would follow an injury, with swelling"
+    ],
+    "explain": "Playing in the heat makes you sweat a lot. If you do not drink, your body runs low on water. The kidneys save water by making a small amount of dark urine, and a dry mouth and headache follow. Resting in shade and sipping water usually helps; tell an adult if he feels very unwell."
+  },
+  {
+    "id": "cleaning-case-02",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Nephrologist",
+    "scenario": "A man has sudden, severe pain that comes in waves from his back and side down towards his groin. His urine looks pink. What is the most likely cause?",
+    "options": [
+      "Stomach ulcer",
+      "Appendicitis",
+      "Muscle cramp in the leg",
+      "Kidney stone"
+    ],
+    "answer": "Kidney stone",
+    "optionNotes": [
+      "Burning pain in the upper belly",
+      "Pain settles in the lower right belly",
+      "Would be in the leg, not the back",
+      "Stone scraping down the ureter; blood in urine"
+    ],
+    "explain": "A kidney stone is a hard lump of minerals that forms when urine is concentrated. As it moves down the narrow ureter, the muscles squeeze around it and cause waves of pain from the back to the groin. It can scrape the lining, so a little blood colours the urine pink. Drinking enough water helps prevent stones."
+  },
+  {
+    "id": "cleaning-case-03",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A doctor wants a quick, painless first check on how a child's kidneys are working. Which test should come first?",
+    "options": [
+      "Urine test",
+      "Eye test",
+      "ECG",
+      "X-ray of the hand"
+    ],
+    "answer": "Urine test",
+    "optionNotes": [
+      "Shows what the kidneys are letting through",
+      "Checks eyesight",
+      "Checks the heart's electrical signals",
+      "Shows bones of the hand"
+    ],
+    "explain": "Urine is made by the kidneys, so it shows what they are doing. A urine test can find things that should not be there, such as blood, protein or sugar. It needs only a small sample collected in a clean cup, so it is a common first test before a blood test or scan."
+  },
+  {
+    "id": "cleaning-case-04",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Nephrologist",
+    "scenario": "Priya's aunt wants to donate a kidney to her brother, whose kidneys have failed. She asks how many kidneys a person needs to live a healthy life. What is the answer?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "One",
+    "optionNotes": [
+      "Without any kidney, waste builds up",
+      "One healthy kidney can do the work of two",
+      "Most people have two, but one is enough",
+      "People normally have two, not three"
+    ],
+    "explain": "Most people are born with two kidneys, but one healthy kidney can do enough filtering for the whole body. After a donation, the remaining kidney grows a little and takes on more work. This is why living people can safely donate a kidney after doctors check they are healthy."
+  },
+  {
+    "id": "cleaning-case-05",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A girl often holds her urine for long hours at school. Now she feels burning when she passes urine and needs to go very often. What is the most likely problem?",
+    "options": [
+      "Constipation",
+      "Diarrhoea",
+      "Urinary tract infection",
+      "Food poisoning"
+    ],
+    "answer": "Urinary tract infection",
+    "optionNotes": [
+      "Slow, hard poop; no burning urine",
+      "Loose, watery poop; no burning urine",
+      "Germs in the bladder or urethra",
+      "Vomiting and diarrhoea"
+    ],
+    "explain": "A urinary tract infection happens when germs get into the urethra and bladder. Urine left sitting for long gives germs time to grow, which irritates the lining and causes burning and frequent urges. A doctor may test the urine and prescribe medicine. Drinking enough water and going to the toilet when you need to help prevent it."
+  },
+  {
+    "id": "cleaning-case-06",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "Pathologist",
+    "scenario": "A pathologist tests a healthy child's urine sample. Which substance makes up most of it?",
+    "options": [
+      "Urea",
+      "Salt",
+      "Water",
+      "Blood"
+    ],
+    "answer": "Water",
+    "optionNotes": [
+      "Main waste, but only a small part",
+      "Present in small amounts",
+      "About 95% of urine",
+      "Should not be in healthy urine"
+    ],
+    "explain": "Urine is about 95% water. Wastes such as urea and extra salts are dissolved in that water, which is how the kidneys carry them out of the body. This is why you need to drink enough: the kidneys need water to wash wastes away. Blood in urine is a sign to see a doctor."
+  },
+  {
+    "id": "cleaning-case-07",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "During a cricket match on a very hot day, a boy feels dizzy, weak and sweaty, with a headache. He is awake and talking. What should be done first?",
+    "options": [
+      "Move him to a cool, shady place and give sips of water",
+      "Let him keep playing to finish the match",
+      "Wrap him in a warm blanket",
+      "Give him a cup of hot tea"
+    ],
+    "answer": "Move him to a cool, shady place and give sips of water",
+    "optionNotes": [
+      "Cools the body and replaces lost fluid",
+      "More heat and sweating makes it worse",
+      "Traps heat in his body",
+      "Adds heat; water is better"
+    ],
+    "explain": "These are signs of heat exhaustion: the body has lost a lot of water and salt through sweat and is struggling to cool down. Move him out of the sun, loosen tight clothes, cool his skin with a damp cloth and give small sips of water or ORS. An adult should stay with him and get medical help if he does not improve or becomes confused."
+  },
+  {
+    "id": "cleaning-case-08",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Pathologist",
+    "scenario": "A blood test shows a patient has high levels of urea and creatinine in her blood. Which organs are most likely not working well?",
+    "options": [
+      "Lungs",
+      "Kidneys",
+      "Eyes",
+      "Stomach"
+    ],
+    "answer": "Kidneys",
+    "optionNotes": [
+      "Remove carbon dioxide, not urea",
+      "Should remove urea and creatinine into urine",
+      "Do not clean the blood",
+      "Digests food, not blood waste"
+    ],
+    "explain": "Urea comes from breaking down protein, and creatinine comes from working muscles. Healthy kidneys keep both at low levels by moving them into urine. If they build up in the blood, it suggests the kidneys are not filtering well. A nephrologist, a kidney doctor, would then look for the cause."
+  },
+  {
+    "id": "cleaning-case-09",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Radiologist",
+    "scenario": "A doctor wants a painless picture of a child's kidneys that uses sound waves and no radiation. Which test is this?",
+    "options": [
+      "ECG",
+      "Ultrasound scan",
+      "EEG",
+      "Blood pressure check"
+    ],
+    "answer": "Ultrasound scan",
+    "optionNotes": [
+      "Records heart signals with stickers",
+      "Sound echoes build a live picture",
+      "Records brain signals",
+      "Measures pressure, makes no picture"
+    ],
+    "explain": "An ultrasound sends very high-pitched sound, too high for us to hear, into the body. The sound bounces off organs, and a computer turns the echoes into a picture. It uses no radiation, so it is safe for children and is the same kind of scan used to see babies before birth. It can show the size of the kidneys and stones or blockages."
+  },
+  {
+    "id": "cleaning-case-10",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "Nephrologist",
+    "scenario": "In class, a student asks a kidney doctor how big a kidney is. Which comparison is closest?",
+    "options": [
+      "A pea",
+      "A grain of rice",
+      "A football",
+      "Your fist"
+    ],
+    "answer": "Your fist",
+    "optionNotes": [
+      "Far too small",
+      "Far too small",
+      "Far too big",
+      "About 10 to 12 cm long in an adult"
+    ],
+    "explain": "Each adult kidney is about 10 to 12 cm long, roughly the size of a fist. Even though kidneys are small, they receive about a fifth of all the blood the heart pumps each minute. That huge blood flow lets them clean all your blood many times every day."
+  },
+  {
+    "id": "cleaning-case-11",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Tara has a sore throat. The doctor feels small, tender lumps on both sides of her neck, below the jaw. These lumps usually go down when the infection clears. What are they?",
+    "options": [
+      "Thyroid gland",
+      "Swollen lymph nodes",
+      "Muscle knots",
+      "Salivary glands"
+    ],
+    "answer": "Swollen lymph nodes",
+    "optionNotes": [
+      "Single gland at the front of the neck",
+      "Germ-trapping stations working hard",
+      "Not linked to a throat infection",
+      "Swell in mumps, near the ears"
+    ],
+    "explain": "Lymph nodes are small, bean-shaped filters along lymph vessels. When germs are nearby, white blood cells in the nodes multiply to fight them, so the nodes swell and feel tender. Once the infection clears, they shrink back. Lumps that stay large for weeks should be checked by a doctor."
+  },
+  {
+    "id": "cleaning-case-12",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 3,
+    "role": "Nephrologist",
+    "scenario": "A bodybuilder eats far more protein than his body needs. The extra amino acids are broken down. Which waste will his kidneys have to remove more of?",
+    "options": [
+      "Carbon dioxide",
+      "Bile",
+      "Glucose",
+      "Urea"
+    ],
+    "answer": "Urea",
+    "optionNotes": [
+      "Removed mainly by the lungs",
+      "Made by the liver for digestion",
+      "Useful fuel, kept in the blood",
+      "Made from the nitrogen in extra protein"
+    ],
+    "explain": "The body cannot store extra protein. The amino acids are broken down, and the nitrogen in them becomes ammonia, which the liver turns into urea. More protein eaten means more urea in the blood for the kidneys to remove, and the body needs more water to flush it out."
+  },
+  {
+    "id": "cleaning-case-13",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "After drinking two big glasses of water, Neha feels a strong urge to go to the toilet. Which organ is stretching and sending signals to her brain?",
+    "options": [
+      "Stomach",
+      "Kidney",
+      "Bladder",
+      "Gall bladder"
+    ],
+    "answer": "Bladder",
+    "optionNotes": [
+      "Holds food, not urine",
+      "Makes urine but does not store it",
+      "Stretches as urine collects",
+      "Stores bile for digestion"
+    ],
+    "explain": "Kidneys make urine all the time, and it drips down the ureters into the bladder. The bladder's muscular wall stretches as it fills. Nerves in the wall send messages to the brain, which you feel as the urge to go. A ring of muscle keeps urine in until you reach a toilet."
+  },
+  {
+    "id": "cleaning-case-14",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Gastroenterologist",
+    "scenario": "A patient's skin and the whites of his eyes have turned yellow. His doctor explains that a yellow waste from old red blood cells is building up because one organ is not clearing it. Which organ?",
+    "options": [
+      "Bladder",
+      "Lungs",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Liver",
+    "optionNotes": [
+      "Stores urine only",
+      "Remove carbon dioxide",
+      "Clears the yellow pigment into bile",
+      "Mainly removes urea; not the main exit for this pigment"
+    ],
+    "explain": "When old red blood cells are broken down, a yellow pigment called bilirubin is made. The liver normally collects it and sends it out in bile. If the liver is unwell or bile cannot flow, bilirubin builds up and turns skin and eyes yellow. This is called jaundice, and a doctor needs to find the cause.",
+    "fact": "Many newborn babies get mild jaundice for a few days because their liver is still getting up to speed."
+  },
+  {
+    "id": "cleaning-case-15",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A school poster shows a urine colour chart. Which colour shows a person is drinking about the right amount?",
+    "options": [
+      "Dark brown",
+      "Pale straw yellow",
+      "Red",
+      "Dark orange"
+    ],
+    "answer": "Pale straw yellow",
+    "optionNotes": [
+      "Badly dehydrated or unwell: see a doctor",
+      "Well hydrated",
+      "Possible blood: see a doctor",
+      "Very concentrated: drink more; see a doctor if it stays"
+    ],
+    "explain": "Urine gets its yellow colour from a pigment the body makes when it recycles old red blood cells. With plenty of water, the pigment is diluted and urine looks pale straw yellow. With too little water, the kidneys save water and urine gets darker. Red or brown urine needs a doctor's check."
+  },
+  {
+    "id": "cleaning-case-16",
+    "system": "cleaning",
+    "mode": "case",
+    "level": 2,
+    "role": "Nephrologist",
+    "scenario": "On a hot day, Kiran sweats a lot and notices he goes to the toilet much less often than usual. What is the best explanation?",
+    "options": [
+      "His kidneys are saving water",
+      "His bladder has stopped working",
+      "His kidneys are blocked",
+      "All his urine is coming out as sweat"
+    ],
+    "answer": "His kidneys are saving water",
+    "optionNotes": [
+      "They take back more water into the blood",
+      "The bladder only stores what it receives",
+      "Blockage causes pain, not a hot-day pattern",
+      "Sweat and urine are made in different places"
+    ],
+    "explain": "When you lose water as sweat, your brain releases a hormone that tells the kidneys to take back more water from the tubules into the blood. Less urine is made, and it is darker. This keeps your body's water level steady. Drinking more water on hot days lets the kidneys return to normal."
+  }
+]

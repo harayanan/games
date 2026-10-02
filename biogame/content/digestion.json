@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "digestion-odd-01",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Lungs",
+      "Mouth",
+      "Oesophagus",
+      "Stomach",
+      "Small intestine"
+    ],
+    "answer": "Lungs",
+    "notes": [
+      "Take in oxygen when you breathe",
+      "Where chewing and digestion begin",
+      "Tube carrying food to the stomach",
+      "Bag that churns food with acid",
+      "Long tube where nutrients are absorbed"
+    ],
+    "reason": "Lungs belong to the breathing system; the rest are on the food's path.",
+    "explain": "Food travels through one long tube: mouth, oesophagus, stomach, small intestine, large intestine. Each part has a job, from chewing to absorbing nutrients. The lungs sit in the chest too, but they handle air, not food. They belong to the breathing system.",
+    "fact": "If you laid out an adult's whole digestive tube, it would be about 9 metres long."
+  },
+  {
+    "id": "digestion-odd-02",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Incisor",
+      "Canine",
+      "Molar",
+      "Tonsil",
+      "Premolar"
+    ],
+    "answer": "Tonsil",
+    "notes": [
+      "Flat front tooth for biting",
+      "Pointed tooth for tearing",
+      "Wide back tooth for grinding",
+      "Lump of tissue at the back of the throat",
+      "Tooth between canine and molar"
+    ],
+    "reason": "Tonsils are not teeth; the other four are types of teeth.",
+    "explain": "You have four kinds of teeth, each shaped for a job. Incisors cut, canines tear, and premolars and molars crush and grind food into small pieces. Smaller pieces are easier for digestive juices to work on. Tonsils are soft lumps at the back of the throat that help catch germs.",
+    "fact": "Children have 20 milk teeth; adults have up to 32 permanent teeth."
+  },
+  {
+    "id": "digestion-odd-03",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Rice",
+      "Paneer",
+      "Chapati",
+      "Oats",
+      "Bread"
+    ],
+    "answer": "Paneer",
+    "notes": [
+      "Grain, mostly starch",
+      "Made from milk, rich in protein",
+      "Made from wheat flour, mostly starch",
+      "Grain, mostly starch",
+      "Made from wheat flour, mostly starch"
+    ],
+    "reason": "Paneer is a protein food; the rest are grain foods rich in carbohydrates.",
+    "explain": "Rice, chapati, oats and bread are made from grains. Grains are rich in carbohydrates, mainly starch, which your body breaks into glucose for energy. Paneer is made from milk and gives you protein, which your body uses to build and repair itself."
+  },
+  {
+    "id": "digestion-odd-04",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Egg",
+      "Dal",
+      "Fish",
+      "Soya chunks",
+      "Sugar"
+    ],
+    "answer": "Sugar",
+    "notes": [
+      "Rich in protein",
+      "Lentils, rich in protein",
+      "Rich in protein",
+      "Made from soybeans, very high in protein",
+      "Pure carbohydrate, no protein"
+    ],
+    "reason": "Sugar is a carbohydrate with no protein; the others are protein foods.",
+    "explain": "Proteins are body-building foods. Your body breaks them into small units called amino acids and uses them to make muscle, skin, hair and enzymes. Egg, dal, fish and soya are all good protein sources. Sugar gives quick energy but no protein, vitamins or minerals."
+  },
+  {
+    "id": "digestion-odd-05",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Amylase",
+      "Pepsin",
+      "Insulin",
+      "Lipase",
+      "Trypsin"
+    ],
+    "answer": "Insulin",
+    "notes": [
+      "Enzyme that breaks down starch",
+      "Stomach enzyme that breaks down protein",
+      "Hormone that controls blood sugar",
+      "Enzyme that breaks down fat",
+      "Pancreas enzyme that breaks down protein"
+    ],
+    "reason": "Insulin is a hormone; the other four are digestive enzymes.",
+    "explain": "Digestive enzymes are chemical helpers that cut big food molecules into small ones your body can absorb. Amylase works on starch, pepsin and trypsin work on protein, and lipase works on fat. Insulin is a hormone carried in the blood. It does not digest food; it helps cells take in sugar.",
+    "fact": "Most enzyme names end in '-ase', which makes them easy to spot."
+  },
+  {
+    "id": "digestion-odd-06",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Liver",
+      "Oesophagus",
+      "Stomach",
+      "Large intestine",
+      "Small intestine"
+    ],
+    "answer": "Liver",
+    "notes": [
+      "Makes bile; food never passes through",
+      "Food passes through it",
+      "Food passes through it",
+      "Food passes through it",
+      "Food passes through it"
+    ],
+    "reason": "Food never travels through the liver; it passes through all the others.",
+    "explain": "The digestive system has two kinds of parts. The gut tube is the path food actually travels through. Helper organs such as the liver and pancreas sit beside the tube and send in juices. The liver makes bile, which flows into the small intestine to help digest fat, but no food goes inside the liver."
+  },
+  {
+    "id": "digestion-odd-07",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Scurvy",
+      "Rickets",
+      "Night blindness",
+      "Goitre",
+      "Beriberi"
+    ],
+    "answer": "Goitre",
+    "notes": [
+      "Lack of vitamin C",
+      "Lack of vitamin D",
+      "Lack of vitamin A",
+      "Lack of iodine, a mineral",
+      "Lack of vitamin B1"
+    ],
+    "reason": "Goitre comes from too little iodine (a mineral); the rest come from too little of a vitamin.",
+    "explain": "A deficiency disease happens when your diet is missing a nutrient for a long time. Scurvy, rickets, night blindness and beriberi are each caused by missing a vitamin. Goitre, a swelling in the neck, is usually caused by missing iodine, which is a mineral. That is why salt in India is sold with iodine added.",
+    "fact": "Beriberi spread in places where people ate mostly polished white rice, because polishing removes vitamin B1."
+  },
+  {
+    "id": "digestion-odd-08",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin C",
+    "notes": [
+      "Dissolves in fat, stored in the liver",
+      "Dissolves in water, not stored much",
+      "Dissolves in fat, stored in the body",
+      "Dissolves in fat, stored in the body",
+      "Dissolves in fat, helps blood clot"
+    ],
+    "reason": "Vitamin C dissolves in water; A, D, E and K dissolve in fat.",
+    "explain": "Vitamins come in two groups. Vitamins A, D, E and K dissolve in fat, so your body can store them in the liver and fat for later. Vitamin C (and the B vitamins) dissolve in water. Any extra leaves in your urine, so you need some almost every day from fruit and vegetables."
+  },
+  {
+    "id": "digestion-odd-09",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Apple",
+      "Broccoli",
+      "Brown rice",
+      "Rajma",
+      "Butter"
+    ],
+    "answer": "Butter",
+    "notes": [
+      "Fruit with fibre, especially in the skin",
+      "Vegetable full of fibre",
+      "Whole grain with its fibre kept",
+      "Kidney beans, high in fibre",
+      "Fat from milk, no fibre"
+    ],
+    "reason": "Butter has no fibre; the other four are good sources of fibre.",
+    "explain": "Fibre is the part of plant food your body cannot digest. It still matters: it adds bulk so waste moves smoothly through the large intestine. Fruit, vegetables, beans and whole grains all contain fibre. Butter is a fat from milk and has none."
+  },
+  {
+    "id": "digestion-odd-10",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Hydrochloric acid",
+      "Pepsin",
+      "Villi",
+      "Mucus",
+      "Gastric juice"
+    ],
+    "answer": "Villi",
+    "notes": [
+      "Strong acid in the stomach that kills germs",
+      "Stomach enzyme for protein",
+      "Tiny fingers lining the small intestine",
+      "Slimy layer protecting the stomach wall",
+      "Mix of juices made by the stomach"
+    ],
+    "reason": "Villi are in the small intestine; the rest are found in the stomach.",
+    "explain": "The stomach makes gastric juice, which contains hydrochloric acid and the enzyme pepsin. The acid kills many germs and helps pepsin start breaking down protein. A thick layer of mucus stops the stomach from digesting its own wall. Villi are found further on, in the small intestine, where they absorb nutrients."
+  },
+  {
+    "id": "digestion-odd-11",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Bile",
+      "Saliva",
+      "Gastric juice",
+      "Pancreatic juice",
+      "Intestinal juice"
+    ],
+    "answer": "Bile",
+    "notes": [
+      "No enzymes; breaks fat into droplets",
+      "Has amylase for starch",
+      "Has pepsin for protein",
+      "Has enzymes for starch, protein and fat",
+      "Has enzymes that finish digestion"
+    ],
+    "reason": "Bile has no enzymes; the other four juices contain digestive enzymes.",
+    "explain": "Most digestive juices contain enzymes that chemically break food apart. Bile, made by the liver, works differently. It breaks big blobs of fat into tiny droplets, the way soap breaks up grease. This gives the fat-digesting enzyme lipase much more fat surface to work on.",
+    "fact": "Bile is what gives poop its brown colour, after gut bacteria change its pigments."
+  },
+  {
+    "id": "digestion-odd-12",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Glucose",
+      "Zinc"
+    ],
+    "answer": "Glucose",
+    "notes": [
+      "Mineral for carrying oxygen in blood",
+      "Mineral for bones and teeth",
+      "Mineral for the thyroid gland",
+      "A sugar, used for energy",
+      "Mineral for healing and fighting infection"
+    ],
+    "reason": "Glucose is a sugar (carbohydrate); the others are minerals.",
+    "explain": "Minerals are simple substances from the earth that your body needs in small amounts. Iron helps blood carry oxygen, calcium builds bones and teeth, iodine helps the thyroid gland, and zinc helps wounds heal. Glucose is a sugar your body gets by digesting carbohydrates, and cells burn it for energy."
+  },
+  {
+    "id": "digestion-odd-13",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Glucose",
+      "Starch",
+      "Amino acids",
+      "Fatty acids",
+      "Glycerol"
+    ],
+    "answer": "Starch",
+    "notes": [
+      "Small unit from digested carbohydrate",
+      "Big molecule that still needs digesting",
+      "Small units from digested protein",
+      "Small units from digested fat",
+      "Small unit from digested fat"
+    ],
+    "reason": "Starch is a big food molecule; the others are small end products of digestion.",
+    "explain": "Digestion turns big food molecules into small ones that can pass through the gut wall into your blood. Starch is broken into glucose, proteins into amino acids, and fats into fatty acids and glycerol. Starch itself is too big to be absorbed, so it must be digested first."
+  },
+  {
+    "id": "digestion-odd-14",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Makes bile",
+      "Stores glycogen",
+      "Stores vitamin A",
+      "Makes clotting proteins",
+      "Makes insulin"
+    ],
+    "answer": "Makes insulin",
+    "notes": [
+      "Liver job: helps digest fat",
+      "Liver job: keeps spare sugar",
+      "Liver job: stores vitamins for later",
+      "Liver job: helps blood clot",
+      "Pancreas job, not the liver"
+    ],
+    "reason": "Insulin is made by the pancreas; the other four are jobs of the liver.",
+    "explain": "The liver is your largest internal organ and does hundreds of jobs. It makes bile for fat digestion, stores extra sugar as glycogen, keeps a store of vitamins like A, and makes proteins that help blood clot. Insulin is made in the pancreas, a separate organ that sits behind the stomach.",
+    "fact": "The liver can regrow lost parts. A person can donate part of their liver and it grows back."
+  },
+  {
+    "id": "digestion-odd-15",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Brushing twice a day",
+      "Flossing",
+      "Sipping sugary drinks all day",
+      "Rinsing after meals",
+      "Visiting the dentist"
+    ],
+    "answer": "Sipping sugary drinks all day",
+    "notes": [
+      "Removes food and germs from teeth",
+      "Cleans between teeth",
+      "Feeds germs that make tooth-eating acid",
+      "Washes away bits of food",
+      "Finds problems early"
+    ],
+    "reason": "Sipping sugary drinks harms teeth; the rest protect them.",
+    "explain": "Germs in your mouth feed on sugar and make acid. The acid slowly dissolves enamel, the hard outer coat of a tooth, and makes holes called cavities. Sipping sugar all day keeps the acid attack going for hours. Brushing, flossing, rinsing and dental check-ups remove germs and food and catch problems early."
+  },
+  {
+    "id": "digestion-odd-16",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Amylase in saliva",
+      "Chewing",
+      "Stomach churning",
+      "Tongue mixing food",
+      "Bile breaking fat into droplets"
+    ],
+    "answer": "Amylase in saliva",
+    "notes": [
+      "Chemical: enzyme changes starch into sugar",
+      "Physical: breaks food into smaller pieces",
+      "Physical: mashes and mixes food",
+      "Physical: rolls food into a ball",
+      "Physical: splits fat into small blobs"
+    ],
+    "reason": "Amylase digests food chemically; the others break or mix food physically.",
+    "explain": "There are two kinds of digestion. Physical digestion breaks food into smaller pieces without changing what it is made of, like chewing or bile splitting fat into droplets. Chemical digestion uses enzymes to change big molecules into new, smaller ones. Amylase turns starch into sugar, so it is chemical.",
+    "fact": "Chew a plain piece of roti for a minute and it starts to taste slightly sweet. That is amylase making sugar."
+  },
+  {
+    "id": "digestion-odd-17",
+    "system": "digestion",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Stomach ulcer",
+      "Constipation",
+      "Diarrhoea",
+      "Asthma",
+      "Tooth cavity"
+    ],
+    "answer": "Asthma",
+    "notes": [
+      "Sore in the stomach lining",
+      "Slow, hard bowel movements",
+      "Loose, watery poop",
+      "Narrowed airways in the lungs",
+      "Hole in a tooth from acid"
+    ],
+    "reason": "Asthma affects the lungs; the others affect the digestive system.",
+    "explain": "Your digestive system runs from your teeth to your bottom, so problems anywhere along it count. Cavities affect teeth, ulcers affect the stomach lining, and constipation and diarrhoea happen when the intestines move waste too slowly or too fast. Asthma is a lung problem, where airways become narrow."
+  },
+  {
+    "id": "digestion-taboo-01",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Saliva",
+    "forbidden": [
+      "Spit",
+      "Mouth",
+      "Drool",
+      "Water"
+    ],
+    "clues": [
+      "Your body makes about a litre or more of this every day without you noticing.",
+      "It contains an enzyme that starts turning starch into sugar.",
+      "It wets your food so you can chew and swallow, and you make more when you smell something tasty."
+    ],
+    "decoys": [
+      "Bile",
+      "Gastric juice",
+      "Tears"
+    ],
+    "explain": "Saliva is the first digestive juice. Glands around your mouth make it. It softens food so you can swallow, and its enzyme, amylase, starts breaking starch into sugar. Just thinking about tasty food can make your glands release more.",
+    "fact": "Without saliva you could not taste food, because taste buds can only detect chemicals dissolved in liquid."
+  },
+  {
+    "id": "digestion-taboo-02",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Oesophagus",
+    "forbidden": [
+      "Food pipe",
+      "Throat",
+      "Swallow",
+      "Stomach"
+    ],
+    "clues": [
+      "This muscular tube is about 25 centimetres long in an adult.",
+      "Rings of muscle squeeze in waves to push each mouthful down, even if you are upside down.",
+      "It runs behind the windpipe, down through your chest, to the organ where acid digestion begins."
+    ],
+    "decoys": [
+      "Windpipe",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "explain": "The oesophagus, or food pipe, carries food from the throat to the stomach. It does not digest food; it moves it, using waves of muscle squeezing called peristalsis. A small flap called the epiglottis covers the windpipe when you swallow, so food goes into the oesophagus and not your lungs."
+  },
+  {
+    "id": "digestion-taboo-03",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Peristalsis",
+    "forbidden": [
+      "Muscle",
+      "Wave",
+      "Squeeze",
+      "Push"
+    ],
+    "clues": [
+      "It works even when you eat lying down or hanging upside down.",
+      "Rings in the gut wall tighten behind a lump of food and relax in front of it.",
+      "It moves food along the whole digestive tube, like toothpaste moving along when you press its tube."
+    ],
+    "decoys": [
+      "Absorption",
+      "Emulsification",
+      "Chewing"
+    ],
+    "explain": "Peristalsis is the wave-like squeezing of muscles in the walls of your gut. The muscle behind the food tightens while the muscle in front relaxes, so food is pushed forward. Gravity is not needed. It moves food from the oesophagus all the way to the end of the large intestine."
+  },
+  {
+    "id": "digestion-taboo-04",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Villi",
+    "forbidden": [
+      "Finger",
+      "Absorb",
+      "Small intestine",
+      "Surface"
+    ],
+    "clues": [
+      "Millions of them line the inside walls of the longest part of your gut.",
+      "Each one has tiny blood vessels inside to carry nutrients away.",
+      "These tiny bumps stick out like the loops on a fluffy towel, giving much more area to take in digested food."
+    ],
+    "decoys": [
+      "Alveoli",
+      "Nephrons",
+      "Taste buds"
+    ],
+    "explain": "Villi are tiny finger-like bumps on the inner wall of the small intestine. They greatly increase the surface area, so digested food can pass into the blood much faster. Each villus has thin walls and a network of blood vessels close to the surface, so nutrients only travel a tiny distance.",
+    "fact": "The folds and villi of the small intestine give it an inside area of about 30 square metres, many times more than a smooth tube would have."
+  },
+  {
+    "id": "digestion-taboo-05",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Bile",
+    "forbidden": [
+      "Liver",
+      "Gall bladder",
+      "Fat",
+      "Green"
+    ],
+    "clues": [
+      "This juice has no enzymes, yet some foods would be digested slowly without it.",
+      "It is stored in a small pouch and squirted into the first part of the small intestine after a meal.",
+      "It breaks oily food into tiny droplets, the way dish soap breaks up grease on a plate."
+    ],
+    "decoys": [
+      "Saliva",
+      "Pancreatic juice",
+      "Gastric juice"
+    ],
+    "explain": "Bile is a yellow-green juice made by the liver and stored in the gall bladder. It contains no enzymes. It breaks large fat globules into tiny droplets, which gives the fat-digesting enzyme lipase more surface to work on. This is called emulsification."
+  },
+  {
+    "id": "digestion-taboo-06",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Enzyme",
+    "forbidden": [
+      "Protein",
+      "Speed",
+      "Digest",
+      "Amylase"
+    ],
+    "clues": [
+      "Pepsin, lipase and trypsin are examples.",
+      "Each one fits only certain molecules, like a key fits only one lock.",
+      "These chemical helpers cut big food molecules into small ones quickly and are not used up."
+    ],
+    "decoys": [
+      "Hormone",
+      "Vitamin",
+      "Antibody"
+    ],
+    "explain": "An enzyme is a substance that makes a chemical change happen much faster. Digestive enzymes cut big molecules such as starch, protein and fat into small pieces the body can absorb. Each enzyme works on one kind of food molecule, and it can be used again and again."
+  },
+  {
+    "id": "digestion-taboo-07",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Appendix",
+    "forbidden": [
+      "Appendicitis",
+      "Right",
+      "Pouch",
+      "Surgery"
+    ],
+    "clues": [
+      "This small, finger-shaped tube hangs off the start of the large intestine.",
+      "Scientists think it may store helpful gut bacteria, but people live normally without it.",
+      "If it gets blocked and swollen, it causes belly pain and usually has to be taken out."
+    ],
+    "decoys": [
+      "Gall bladder",
+      "Tonsil",
+      "Pancreas"
+    ],
+    "explain": "The appendix is a narrow tube, about the length of a finger, attached to the large intestine on the lower right of the belly. Its job is still being studied; it may be a store of good bacteria. If it becomes blocked and infected (appendicitis), doctors usually remove it in an operation."
+  },
+  {
+    "id": "digestion-taboo-08",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Molar",
+    "forbidden": [
+      "Tooth",
+      "Back",
+      "Chew",
+      "Grind"
+    ],
+    "clues": [
+      "Adults have twelve of these, including four that can arrive late, called wisdom ones.",
+      "Their wide, bumpy tops crush food into a soft paste.",
+      "They are the last ones in each row, farthest from your lips."
+    ],
+    "decoys": [
+      "Incisor",
+      "Canine",
+      "Premolar"
+    ],
+    "explain": "Molars are the large, flat-topped teeth at the back of your mouth. Their wide surfaces crush and grind food into small pieces, which gives digestive juices more food surface to work on. Adults have 12 molars, including the 4 wisdom teeth."
+  },
+  {
+    "id": "digestion-taboo-09",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Enamel",
+    "forbidden": [
+      "Tooth",
+      "White",
+      "Hard",
+      "Brush"
+    ],
+    "clues": [
+      "It is the toughest material your body makes, tougher than bone.",
+      "Acid made by germs feeding on sugar can dissolve it and make holes.",
+      "Fluoride in the paste you use each morning and night helps protect this shiny outer coat."
+    ],
+    "decoys": [
+      "Dentine",
+      "Gums",
+      "Bone"
+    ],
+    "explain": "Enamel is the outer layer of a tooth and the hardest substance in the body. It has no living cells, so once acid wears a hole in it, it cannot repair itself. That is why cavities need a dentist to fill them. Fluoride makes enamel more resistant to acid."
+  },
+  {
+    "id": "digestion-taboo-10",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Fibre",
+    "forbidden": [
+      "Roughage",
+      "Constipation",
+      "Vegetables",
+      "Poop"
+    ],
+    "clues": [
+      "Your body cannot digest this part of plant food, but you still need it.",
+      "Whole grains, beans, and fruit eaten with the skin have plenty of it.",
+      "It adds bulk and helps waste move smoothly through the large intestine."
+    ],
+    "decoys": [
+      "Protein",
+      "Fat",
+      "Vitamin C"
+    ],
+    "explain": "Fibre, also called roughage, comes from the walls of plant cells. Human enzymes cannot break it down, so it passes through the gut. On the way it holds water and adds bulk, which helps the intestine muscles move waste along and prevents constipation."
+  },
+  {
+    "id": "digestion-taboo-11",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Protein",
+    "forbidden": [
+      "Muscle",
+      "Egg",
+      "Dal",
+      "Body-building"
+    ],
+    "clues": [
+      "Your digestive juices break it into small units called amino acids.",
+      "Hair, nails, skin and enzymes are all made from it.",
+      "Paneer, fish, beans and milk are good sources for growing children."
+    ],
+    "decoys": [
+      "Carbohydrate",
+      "Fat",
+      "Fibre"
+    ],
+    "explain": "Protein is the body's building material. Digestion breaks it into amino acids, which your body then joins together in new ways to build muscle, skin, hair, enzymes and antibodies. Growing children need protein every day because the body cannot store much of it."
+  },
+  {
+    "id": "digestion-taboo-12",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Carbohydrate",
+    "forbidden": [
+      "Sugar",
+      "Starch",
+      "Energy",
+      "Rice"
+    ],
+    "clues": [
+      "Your saliva begins to digest this nutrient while you chew.",
+      "It is broken down into glucose, which your cells burn as fuel.",
+      "Roti, potatoes, bread and bananas are rich in it."
+    ],
+    "decoys": [
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "explain": "Carbohydrates are the body's main source of energy. They include starches in grains and potatoes and sugars in fruit. Digestion breaks them into glucose, which travels in the blood to every cell. Cells use glucose to power everything from thinking to running."
+  },
+  {
+    "id": "digestion-taboo-13",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Scurvy",
+    "forbidden": [
+      "Vitamin C",
+      "Sailors",
+      "Gums",
+      "Orange"
+    ],
+    "clues": [
+      "Long ago this disease was common on long sea voyages with no fresh food.",
+      "Without a certain nutrient, the body cannot make strong connecting tissue, so wounds heal slowly.",
+      "Eating lemons, amla or guava prevents it."
+    ],
+    "decoys": [
+      "Rickets",
+      "Beriberi",
+      "Night blindness"
+    ],
+    "explain": "Scurvy is caused by a lack of vitamin C. The body needs vitamin C to make collagen, a protein that holds skin, gums and blood vessels together. Without it, gums bleed and cuts heal slowly. Fresh fruit and vegetables prevent and cure it.",
+    "fact": "Amla (Indian gooseberry) has far more vitamin C than an orange of the same weight."
+  },
+  {
+    "id": "digestion-taboo-14",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Kwashiorkor",
+    "forbidden": [
+      "Protein",
+      "Malnutrition",
+      "Swollen",
+      "Belly"
+    ],
+    "clues": [
+      "Its name comes from a language spoken in Ghana.",
+      "It often appears when a young child stops breastfeeding and then eats mostly starchy food.",
+      "Fluid collects in the legs and tummy, while the arms stay thin."
+    ],
+    "decoys": [
+      "Marasmus",
+      "Scurvy",
+      "Rickets"
+    ],
+    "explain": "Kwashiorkor is a disease caused by too little protein in the diet, even if the child gets some energy from starchy food. Protein in the blood helps hold water inside blood vessels. When protein is low, fluid leaks out and gathers in the tummy and legs. Marasmus is different: it comes from too little food of every kind."
+  },
+  {
+    "id": "digestion-taboo-15",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Constipation",
+    "forbidden": [
+      "Poop",
+      "Toilet",
+      "Hard",
+      "Stool"
+    ],
+    "clues": [
+      "Not eating enough fibre or drinking enough water can lead to this.",
+      "Waste moves too slowly through the large intestine, which keeps soaking water out of it.",
+      "You go fewer times than usual and it can feel uncomfortable to push."
+    ],
+    "decoys": [
+      "Diarrhoea",
+      "Acidity",
+      "Ulcer"
+    ],
+    "explain": "The large intestine takes water back from waste. When waste moves slowly, too much water is removed and it becomes hard and dry. Eating fibre, drinking enough water and being active all help keep waste soft and moving."
+  },
+  {
+    "id": "digestion-taboo-16",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ulcer",
+    "forbidden": [
+      "Stomach",
+      "Sore",
+      "Acid",
+      "Pain"
+    ],
+    "clues": [
+      "Most cases are caused by a germ called H. pylori or by taking some medicines for aches too often, not by spicy food.",
+      "It is an open wound in the inner lining of the digestive tract.",
+      "Doctors can see it with a thin camera tube passed down the throat."
+    ],
+    "decoys": [
+      "Appendicitis",
+      "Gallstones",
+      "Constipation"
+    ],
+    "explain": "An ulcer is an open sore in the lining of the stomach or the first part of the small intestine. Normally a mucus layer protects the lining from stomach acid. A germ called H. pylori, or some painkillers, can damage that layer so acid eats into the wall. Doctors treat it with medicines that lower acid and, if needed, kill the germ."
+  },
+  {
+    "id": "digestion-taboo-17",
+    "system": "digestion",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Liver",
+    "forbidden": [
+      "Bile",
+      "Biggest",
+      "Organ",
+      "Detox"
+    ],
+    "clues": [
+      "It sits on the upper right side of your belly, under the ribs.",
+      "It stores extra sugar as glycogen and keeps some vitamins for later.",
+      "It makes a yellow-green juice that is kept in the gall bladder and helps break up fat."
+    ],
+    "decoys": [
+      "Pancreas",
+      "Spleen",
+      "Stomach"
+    ],
+    "explain": "The liver is the largest organ inside your body. In digestion it makes bile, which helps break up fat. It also stores sugar as glycogen, stores vitamins and iron, and changes harmful substances into safer ones. All the blood coming from the intestines passes through the liver first."
+  },
+  {
+    "id": "digestion-case-01",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Dentist",
+    "scenario": "Ravi eats toffees every day and often skips brushing at night. Now one back tooth has a dark spot and hurts when he drinks something cold. What is the most likely problem?",
+    "options": [
+      "Tooth decay",
+      "Broken jaw",
+      "Tonsillitis",
+      "Scurvy"
+    ],
+    "answer": "Tooth decay",
+    "optionNotes": [
+      "Acid from germs has made a hole in the enamel",
+      "Would follow an injury, with swelling",
+      "Sore throat, not a sore tooth",
+      "Bleeding gums from too little vitamin C"
+    ],
+    "explain": "Mouth germs feed on sugar left on teeth and make acid. Over time the acid dissolves enamel and makes a hole, called a cavity. Once the hole reaches the softer layer inside, cold or sweet food causes pain. A dentist cleans out the decay and fills the hole; brushing twice a day with fluoride toothpaste helps prevent it."
+  },
+  {
+    "id": "digestion-case-02",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "A patient has not eaten any fruit or fresh vegetables for months. Her gums bleed easily and small cuts take a long time to heal. Which vitamin is she most likely missing?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin C",
+    "optionNotes": [
+      "Lack causes poor sight in dim light",
+      "Lack causes soft, weak bones",
+      "Lack causes scurvy: bleeding gums, slow healing",
+      "Needed for blood clotting, not gum healing"
+    ],
+    "explain": "Vitamin C is needed to make collagen, a protein that holds gums, skin and blood vessels together. Without it, gums bleed and wounds heal slowly. This disease is called scurvy. Fruits like amla, guava, oranges and lemons, and many vegetables, are rich in vitamin C."
+  },
+  {
+    "id": "digestion-case-03",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "Meera eats mostly white bread, biscuits and chips, and drinks very little water. She goes to the toilet only twice a week, and it is hard and painful. What is the best advice?",
+    "options": [
+      "Eat more fruit, vegetables and whole grains, and drink more water",
+      "Eat more chips so food passes faster",
+      "Skip breakfast to rest the stomach",
+      "Drink less water so the gut is not overloaded"
+    ],
+    "answer": "Eat more fruit, vegetables and whole grains, and drink more water",
+    "optionNotes": [
+      "Fibre and water keep waste soft and moving",
+      "Chips have little fibre and lots of salt",
+      "Skipping meals does not help constipation",
+      "Less water makes waste even harder"
+    ],
+    "explain": "Meera has constipation. Her large intestine is soaking too much water out of slow-moving waste. Fibre from plant foods holds water and adds bulk, which helps intestine muscles push waste along. Drinking enough water and staying active help too."
+  },
+  {
+    "id": "digestion-case-04",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A young child rarely goes outdoors and drinks very little milk. Her leg bones have started to bend outward, and her bones feel soft. Which nutrient is she most likely missing?",
+    "options": [
+      "Vitamin D",
+      "Iron",
+      "Vitamin B1",
+      "Fibre"
+    ],
+    "answer": "Vitamin D",
+    "optionNotes": [
+      "Helps the gut absorb calcium for bones",
+      "Lack causes tiredness and pale skin",
+      "Lack causes beriberi, affecting nerves",
+      "Helps the gut move waste, not bone strength"
+    ],
+    "explain": "This is rickets. Bones need calcium to become hard, and vitamin D helps the intestine absorb calcium from food. Your skin makes vitamin D when sunlight falls on it, and some foods like milk, eggs and fish provide it too. Without enough, growing bones stay soft and bend under the body's weight.",
+    "fact": "A short time in the sun most days helps the skin make vitamin D."
+  },
+  {
+    "id": "digestion-case-05",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Nutritionist",
+    "scenario": "A boy can see well in daylight but struggles to see anything in a dim room or at dusk. His diet has almost no carrots, green leafy vegetables, eggs or milk. Which vitamin should he get more of?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin E"
+    ],
+    "answer": "Vitamin A",
+    "optionNotes": [
+      "Helps gums and healing",
+      "Needed to see in dim light",
+      "Needed for blood and nerves",
+      "Protects cells from damage"
+    ],
+    "explain": "Your eyes use vitamin A to make a pigment that detects dim light. Without enough vitamin A, seeing in low light becomes hard. This is called night blindness. Carrots, mangoes, papaya and green leafy vegetables contain a substance the body turns into vitamin A; milk and eggs provide it directly."
+  },
+  {
+    "id": "digestion-case-06",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Gastroenterologist",
+    "scenario": "A man has had burning pain in his upper belly for weeks. A camera test shows a small open wound in his stomach lining, and a test finds the germ H. pylori. What condition does he have?",
+    "options": [
+      "Appendicitis",
+      "Gallstones",
+      "Constipation",
+      "Stomach ulcer"
+    ],
+    "answer": "Stomach ulcer",
+    "optionNotes": [
+      "Swollen appendix, pain in lower right belly",
+      "Hard lumps in the gall bladder",
+      "Slow-moving waste in the large intestine",
+      "Open sore in the stomach lining"
+    ],
+    "explain": "A stomach ulcer is an open sore in the stomach lining. Normally mucus protects the lining from strong stomach acid. The germ H. pylori can damage that protection, letting acid hurt the wall. Doctors treat it with medicines to kill the germ and lower acid, and the sore heals."
+  },
+  {
+    "id": "digestion-case-07",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A girl's belly pain began near her belly button and moved to the lower right side. She has a fever, feels sick, and it hurts more when she walks. Which organ is most likely swollen?",
+    "options": [
+      "Gall bladder",
+      "Appendix",
+      "Stomach",
+      "Liver"
+    ],
+    "answer": "Appendix",
+    "optionNotes": [
+      "Sits in the upper right, under the liver",
+      "Small tube at the lower right; classic pattern",
+      "Sits in the upper middle-left",
+      "Sits in the upper right, under the ribs"
+    ],
+    "explain": "This is the classic pattern of appendicitis: pain that starts around the belly button and shifts to the lower right, with fever and feeling sick. The appendix is a small tube on the large intestine in the lower right belly. If it is blocked and infected, doctors usually remove it with an operation before it can burst."
+  },
+  {
+    "id": "digestion-case-08",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "A woman has gallstones blocking the tube that carries bile into her small intestine. She gets pain after oily meals. Digestion of which nutrient is most affected?",
+    "options": [
+      "Starch",
+      "Protein",
+      "Fat",
+      "Vitamin C"
+    ],
+    "answer": "Fat",
+    "optionNotes": [
+      "Digested by amylase from saliva and pancreas",
+      "Digested by pepsin and trypsin",
+      "Needs bile to break into droplets first",
+      "Absorbed without needing bile"
+    ],
+    "explain": "Bile breaks large blobs of fat into tiny droplets so the enzyme lipase can digest them quickly. When gallstones block bile from reaching the intestine, fat is poorly digested. Oily meals also make the gall bladder squeeze against the blockage, which causes pain."
+  },
+  {
+    "id": "digestion-case-09",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "After eating at a wedding, a boy has vomiting and watery diarrhoea several times. He is tired and his mouth is dry. While an adult takes him to a doctor, what helps most?",
+    "options": [
+      "Small, frequent sips of ORS solution",
+      "No drinks at all until tomorrow",
+      "A glass of cola",
+      "A big, spicy meal to regain strength"
+    ],
+    "answer": "Small, frequent sips of ORS solution",
+    "optionNotes": [
+      "Replaces lost water and salts",
+      "Makes him more dehydrated",
+      "Too much sugar can worsen diarrhoea",
+      "Hard to keep down and irritates the gut"
+    ],
+    "explain": "Vomiting and diarrhoea make the body lose water and salts fast, which can lead to dehydration. ORS (oral rehydration solution) has the right mix of water, salt and a little sugar, so the gut absorbs it well. Small, frequent sips are easier to keep down than big gulps. A doctor should check a child with these symptoms.",
+    "fact": "ORS has been estimated to save millions of children's lives, using just water, salt and sugar."
+  },
+  {
+    "id": "digestion-case-10",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Dentist",
+    "scenario": "A dentist tells Anu to brush twice a day with a toothpaste containing a mineral that makes tooth enamel stronger against acid. Which mineral is it?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Sodium",
+      "Fluoride"
+    ],
+    "answer": "Fluoride",
+    "optionNotes": [
+      "Helps blood carry oxygen",
+      "Needed by the thyroid gland",
+      "Found in table salt",
+      "Strengthens enamel and helps resist acid"
+    ],
+    "explain": "Enamel is attacked by acid made when mouth germs eat sugar. Fluoride joins into the enamel surface and makes it harder for acid to dissolve. It can also help repair very early weak spots before they become holes. Children should use only a small, pea-sized amount of toothpaste and spit it out."
+  },
+  {
+    "id": "digestion-case-11",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "Every time Kabir drinks a glass of milk he gets a bloated tummy, gas and loose motions. Roti, rice and fruit cause no trouble. His body makes too little of the enzyme for which sugar?",
+    "options": [
+      "Glucose",
+      "Lactose",
+      "Fructose",
+      "Starch"
+    ],
+    "answer": "Lactose",
+    "optionNotes": [
+      "Already a single small sugar, needs no digesting",
+      "The sugar in milk, digested by lactase",
+      "Fruit sugar, absorbed directly",
+      "Found in roti and rice, which are fine"
+    ],
+    "explain": "This is lactose intolerance. Lactose is the natural sugar in milk, and the enzyme lactase splits it so it can be absorbed. Without enough lactase, lactose reaches the large intestine undigested. Gut bacteria feed on it there and make gas, causing bloating and loose motions. Curd and some cheeses usually have less lactose and may be easier to eat."
+  },
+  {
+    "id": "digestion-case-12",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "A girl is recovering from a broken arm and is also growing fast. Her body needs to build and repair tissues. Which nutrient should she make sure she eats enough of?",
+    "options": [
+      "Protein",
+      "Sugar",
+      "Fat",
+      "Salt"
+    ],
+    "answer": "Protein",
+    "optionNotes": [
+      "Body-building nutrient for growth and repair",
+      "Quick energy, no building material",
+      "Stored energy and warmth",
+      "Needed only in small amounts"
+    ],
+    "explain": "Protein is digested into amino acids, which the body uses as building blocks for new muscle, skin, blood and repair of injuries. Growing children and people healing from injuries need more of it. Dal, eggs, milk, paneer, fish, beans and nuts are good sources. Her bones also need calcium and vitamin D."
+  },
+  {
+    "id": "digestion-case-13",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "A patient had a large part of his small intestine removed after an illness. He now eats well but keeps losing weight. Which job of the gut is most likely affected?",
+    "options": [
+      "Absorbing nutrients into the blood",
+      "Making saliva",
+      "Storing bile",
+      "Chewing food into small pieces"
+    ],
+    "answer": "Absorbing nutrients into the blood",
+    "optionNotes": [
+      "Main job of the small intestine and its villi",
+      "Done by glands around the mouth",
+      "Done by the gall bladder",
+      "Done by teeth in the mouth"
+    ],
+    "explain": "Most digested food is absorbed in the small intestine. Its walls are covered in villi, tiny fingers that give a huge area for nutrients to pass into the blood. With less small intestine, there is less area for absorption, so much of the food leaves the body before it can be taken in."
+  },
+  {
+    "id": "digestion-case-14",
+    "system": "digestion",
+    "mode": "case",
+    "level": 2,
+    "role": "Gastroenterologist",
+    "scenario": "After a large, oily dinner, a man lies down straight away and feels a burning feeling behind his breastbone with a sour taste. Stomach acid has moved up into which part?",
+    "options": [
+      "Windpipe",
+      "Heart",
+      "Oesophagus",
+      "Lungs"
+    ],
+    "answer": "Oesophagus",
+    "optionNotes": [
+      "Carries air, protected by a flap",
+      "A muscle pump, not part of the food path",
+      "Food pipe just above the stomach",
+      "Air organs, not on the food path"
+    ],
+    "explain": "A ring of muscle at the top of the stomach usually stops acid from flowing back up. A big meal and lying down soon after can let acid leak into the oesophagus, which lacks the stomach's thick protective mucus layer. This causes heartburn, even though the heart is not involved. Smaller meals and waiting a couple of hours before lying down help."
+  },
+  {
+    "id": "digestion-case-15",
+    "system": "digestion",
+    "mode": "case",
+    "level": 1,
+    "role": "Nutritionist",
+    "scenario": "Four friends compare their school lunches. Which lunch is the most balanced?",
+    "options": [
+      "Chips and a cola",
+      "Rice and potato curry only",
+      "Roti, dal, vegetable sabzi and curd",
+      "Only a bowl of fruit"
+    ],
+    "answer": "Roti, dal, vegetable sabzi and curd",
+    "optionNotes": [
+      "Mostly fat, salt and sugar",
+      "Mostly carbohydrate, little protein",
+      "Carbohydrate, protein, vitamins, minerals and fibre",
+      "Vitamins and fibre, but little protein"
+    ],
+    "explain": "A balanced diet gives you every nutrient in the right amounts: carbohydrates and fats for energy, protein for growth, vitamins and minerals for health, plus fibre and water. Roti gives carbohydrates, dal and curd give protein and calcium, and vegetables give vitamins, minerals and fibre. No single food provides everything."
+  },
+  {
+    "id": "digestion-case-16",
+    "system": "digestion",
+    "mode": "case",
+    "level": 3,
+    "role": "Gastroenterologist",
+    "scenario": "A doctor wants to look directly at the inside of a patient's stomach to check for a sore. Which test lets the doctor see it?",
+    "options": [
+      "ECG",
+      "Chest X-ray",
+      "Endoscopy",
+      "Eye test"
+    ],
+    "answer": "Endoscopy",
+    "optionNotes": [
+      "Records the heart's electrical signals",
+      "Shows bones and lungs, not stomach lining",
+      "Thin tube with a camera passed down the throat",
+      "Checks how clearly you see"
+    ],
+    "explain": "An endoscope is a thin, bendy tube with a light and a tiny camera at its tip. It is passed gently through the mouth and oesophagus into the stomach, while the patient is given medicine to stay comfortable. The doctor sees the lining on a screen and can take a tiny sample if needed. X-rays show dense things like bone well, but not the soft lining of the stomach."
+  }
+]

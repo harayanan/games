@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "brain-odd-01",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Femur",
+      "Brain stem",
+      "Medulla",
+      "Cerebrum",
+      "Cerebellum"
+    ],
+    "answer": "Femur",
+    "notes": [
+      "Thigh bone, the longest bone in the body",
+      "Connects the brain to the spinal cord",
+      "Part of the brain stem; controls breathing",
+      "Largest part of the brain, used for thinking",
+      "Back part of the brain, controls balance"
+    ],
+    "reason": "The femur is a leg bone; the other four are parts of the brain.",
+    "explain": "Your brain has three main parts. The cerebrum is the big wrinkly top part that thinks and remembers. The cerebellum sits at the back and keeps you balanced. The brain stem, which includes the medulla, links the brain to the spinal cord and runs automatic jobs like breathing. The femur is the thigh bone in your leg.",
+    "fact": "An adult brain weighs about 1.3 to 1.4 kg, roughly the same as a large bag of sugar."
+  },
+  {
+    "id": "brain-odd-02",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Myelin sheath",
+      "Dendrite",
+      "Axon",
+      "Alveolus",
+      "Cell body"
+    ],
+    "answer": "Alveolus",
+    "notes": [
+      "Fatty coat that speeds up signals",
+      "Branches that receive messages",
+      "Long wire that sends messages onward",
+      "Tiny air sac in the lungs",
+      "Control centre of the nerve cell"
+    ],
+    "reason": "An alveolus is part of the lungs; the rest are parts of a neuron.",
+    "explain": "A neuron is a nerve cell built to pass messages. Dendrites are short branches that pick up messages, the cell body keeps the cell alive, and the axon is a long wire that carries the message away. Many axons are wrapped in a fatty myelin sheath, like plastic coating on a wire. An alveolus is a tiny air sac in the lungs where oxygen enters the blood."
+  },
+  {
+    "id": "brain-odd-03",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Blinking at a flying ball",
+      "Writing your name",
+      "Pulling hand off a hot pan",
+      "Sneezing",
+      "Knee jerk"
+    ],
+    "answer": "Writing your name",
+    "notes": [
+      "Eyes shut fast to protect themselves",
+      "You choose to do it and think about it",
+      "Hand jerks away before you feel pain",
+      "Nose blasts out dust automatically",
+      "Leg kicks when tapped below the knee"
+    ],
+    "reason": "Writing your name is a voluntary action; the others are reflexes.",
+    "explain": "A reflex is a fast, automatic reaction that you do not have to think about. Reflexes protect you, so the message often takes a shortcut through the spinal cord or brain stem instead of waiting for the thinking part of the brain. Writing your name is a voluntary action: your cerebrum decides to do it and plans each movement."
+  },
+  {
+    "id": "brain-odd-04",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Coughing",
+      "Blood pressure",
+      "Heartbeat rate",
+      "Breathing rate",
+      "Solving a sum"
+    ],
+    "answer": "Solving a sum",
+    "notes": [
+      "Automatic clearing of the airway",
+      "Kept steady without you noticing",
+      "Sped up or slowed automatically",
+      "Adjusted even while you sleep",
+      "Needs thinking in the cerebrum"
+    ],
+    "reason": "Solving a sum is done by the cerebrum; the medulla controls the other four.",
+    "explain": "The medulla is the lowest part of the brain stem. It runs life-support jobs automatically: it sets how fast your heart beats and how fast you breathe, keeps blood pressure steady, and triggers coughing to clear your airway. These carry on even when you are asleep. Solving a sum needs conscious thinking, which happens in the cerebrum."
+  },
+  {
+    "id": "brain-odd-05",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Vertebrae",
+      "Meninges",
+      "Neuron",
+      "Cerebrospinal fluid",
+      "Skull"
+    ],
+    "answer": "Neuron",
+    "notes": [
+      "Bones of the backbone around the spinal cord",
+      "Three thin layers wrapping the brain",
+      "Nerve cell that carries messages",
+      "Liquid cushion around the brain",
+      "Hard bony case around the brain"
+    ],
+    "reason": "A neuron carries messages; the others protect the brain and spinal cord.",
+    "explain": "The brain and spinal cord are soft, so the body guards them in layers. The skull and the vertebrae of the backbone form hard bony cases. Inside those, three thin layers called meninges wrap the brain and cord, and cerebrospinal fluid cushions them like water around an egg. Neurons are the cells being protected; they do the job of carrying messages."
+  },
+  {
+    "id": "brain-odd-06",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Cerebellum",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe",
+      "Frontal lobe"
+    ],
+    "answer": "Cerebellum",
+    "notes": [
+      "Separate part at the back, below",
+      "Top: touch, temperature, position",
+      "Sides: hearing, language, memory",
+      "Back: seeing",
+      "Front: planning, decisions, movement"
+    ],
+    "reason": "The cerebellum is a separate part of the brain; the other four are lobes of the cerebrum.",
+    "explain": "The cerebrum is divided into four lobes on each side. The frontal lobe plans and makes decisions, the parietal lobe handles touch, the temporal lobe handles hearing and memory, and the occipital lobe handles sight. The cerebellum is a separate, smaller part tucked under the back of the cerebrum. It coordinates movement and balance."
+  },
+  {
+    "id": "brain-odd-07",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Active play during the day",
+      "Same bedtime each night",
+      "Dark, quiet room",
+      "Energy drink after dinner",
+      "Screens off before bed"
+    ],
+    "answer": "Energy drink after dinner",
+    "notes": [
+      "Daytime exercise helps you sleep deeper",
+      "Sets your body clock",
+      "Darkness tells the brain it is night",
+      "Caffeine keeps the brain awake",
+      "Screen light delays sleepiness"
+    ],
+    "reason": "An energy drink at night makes sleep harder; the others help you sleep well.",
+    "explain": "Your brain has a body clock that works best with a regular routine. Darkness helps the brain release a sleep signal, while the bright light from screens can delay it. Exercise during the day also helps you sleep more deeply. Energy drinks contain caffeine, which blocks the brain's sleepy signals for hours, so drinking one in the evening makes it hard to fall asleep.",
+    "fact": "Children aged 6 to 12 need about 9 to 12 hours of sleep a night."
+  },
+  {
+    "id": "brain-odd-08",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Waving hello",
+      "Your heart beating",
+      "Talking to a friend",
+      "Chewing a sandwich",
+      "Kicking a ball"
+    ],
+    "answer": "Your heart beating",
+    "notes": [
+      "You choose to move your arm",
+      "Happens without any decision from you",
+      "You choose your words",
+      "You control your jaw muscles",
+      "You decide when to kick"
+    ],
+    "reason": "Your heartbeat is involuntary; the others are voluntary actions you choose.",
+    "explain": "Voluntary actions are ones you decide to do. The cerebrum sends a message down nerves to skeletal muscles in your legs, arms, mouth or jaw. Involuntary actions happen on their own. Your heart keeps beating whether you think about it or not, and the brain stem only adjusts its speed."
+  },
+  {
+    "id": "brain-odd-09",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Dizziness",
+      "Feeling sick",
+      "Headache",
+      "Confusion",
+      "Itchy rash"
+    ],
+    "answer": "Itchy rash",
+    "notes": [
+      "Room seems to spin",
+      "Nausea, sometimes vomiting",
+      "Common after a hard knock to the head",
+      "Not sure where you are or what happened",
+      "A skin problem, not a head-injury sign"
+    ],
+    "reason": "An itchy rash is not a sign of concussion; the other four are.",
+    "explain": "A concussion happens when a bump or jolt makes the brain move inside the skull. This can upset how brain cells work for a while. Common signs are headache, confusion, dizziness, feeling sick, and trouble remembering what happened. Anyone with these signs after a head knock should stop playing and be checked by a doctor. A rash is a skin problem."
+  },
+  {
+    "id": "brain-odd-10",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Feeling sick",
+      "Throbbing headache",
+      "Swollen ankle",
+      "Bright light feels painful",
+      "Zigzag lights in vision"
+    ],
+    "answer": "Swollen ankle",
+    "notes": [
+      "Nausea often comes with migraine",
+      "Pain that pulses, often on one side",
+      "Usually from a sprain, not migraine",
+      "Common during a migraine",
+      "Called an aura; comes before some migraines"
+    ],
+    "reason": "A swollen ankle is not a migraine sign; the other four are.",
+    "explain": "A migraine is a strong headache that comes in attacks, often with a throbbing pain on one side of the head. Light and sound can feel painful, and many people feel sick. Some people first see flashing or zigzag lights called an aura. A swollen ankle usually comes from a sprain, which is an injury to the ligaments."
+  },
+  {
+    "id": "brain-odd-11",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Keeping balance on a bike",
+      "Planning your day",
+      "Understanding words",
+      "Solving a puzzle",
+      "Remembering names"
+    ],
+    "answer": "Keeping balance on a bike",
+    "notes": [
+      "Handled mainly by the cerebellum",
+      "Decision-making at the front of the brain",
+      "Language areas of the cerebrum",
+      "Thinking and reasoning",
+      "Storing and finding memories"
+    ],
+    "reason": "Balance is mainly the cerebellum's job; the rest are mainly cerebrum jobs.",
+    "explain": "The cerebrum is the largest part of your brain and handles thinking, memory, language and planning. The cerebellum, at the back underneath, takes care of balance and smooth, well-timed movement. When you ride a bike, the cerebellum makes tiny corrections every moment so you do not tip over, without you having to think about it."
+  },
+  {
+    "id": "brain-odd-12",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Dendrite",
+      "Synapse",
+      "Neurotransmitter",
+      "Haemoglobin",
+      "Axon"
+    ],
+    "answer": "Haemoglobin",
+    "notes": [
+      "Receives signals from other neurons",
+      "Tiny gap between two neurons",
+      "Chemical that crosses the gap",
+      "Red protein in blood that carries oxygen",
+      "Sends the signal away from the cell"
+    ],
+    "reason": "Haemoglobin carries oxygen in blood; the rest are part of passing nerve signals.",
+    "explain": "A nerve signal travels as electricity along the axon. At the end there is a tiny gap called a synapse. The neuron releases chemicals called neurotransmitters, which float across the gap and land on the dendrites of the next neuron, starting a new signal there. Haemoglobin is the red protein inside red blood cells that carries oxygen."
+  },
+  {
+    "id": "brain-odd-13",
+    "system": "brain",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Sensory neuron",
+      "Cerebrum",
+      "Relay neuron",
+      "Motor neuron",
+      "Receptor"
+    ],
+    "answer": "Cerebrum",
+    "notes": [
+      "Carries the alert to the spinal cord",
+      "Not needed for the reflex itself",
+      "Connects the two inside the spinal cord",
+      "Carries the order to the muscle",
+      "Detects the heat or touch"
+    ],
+    "reason": "The cerebrum is not part of a simple reflex arc; the other four are.",
+    "explain": "A reflex arc is the shortcut path of a reflex. A receptor in the skin detects danger, a sensory neuron carries the signal to the spinal cord, a relay neuron passes it straight to a motor neuron, and the motor neuron tells a muscle to move. Because the message skips the cerebrum, the reaction is very fast. The cerebrum finds out a moment later, which is when you feel the pain."
+  },
+  {
+    "id": "brain-odd-14",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Water",
+      "Iron",
+      "Oxygen",
+      "Glucose",
+      "Carbon dioxide"
+    ],
+    "answer": "Carbon dioxide",
+    "notes": [
+      "Brain is mostly water",
+      "Helps blood carry oxygen to the brain",
+      "Needed to release energy from food",
+      "Sugar, the brain's main fuel",
+      "Waste gas that must be removed"
+    ],
+    "reason": "Carbon dioxide is a waste the brain gets rid of; the others are things it needs.",
+    "explain": "Brain cells work non-stop and use a lot of energy. They need glucose (a sugar) as fuel and oxygen to release the energy from it, both delivered by the blood. Iron from food helps red blood cells carry that oxygen, and the brain is mostly water. Carbon dioxide is the waste gas made when cells use glucose; blood carries it away to the lungs to be breathed out.",
+    "fact": "The brain is about 2% of your body weight but uses about 20% of your body's energy."
+  },
+  {
+    "id": "brain-odd-15",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Car seatbelt",
+      "Checking depth before diving",
+      "Riding on bike handlebars",
+      "Booster seat in the car",
+      "Bike helmet"
+    ],
+    "answer": "Riding on bike handlebars",
+    "notes": [
+      "Stops you being thrown forward",
+      "Shallow water can cause head injuries",
+      "Raises the risk of a head injury",
+      "Helps the seatbelt fit a child safely",
+      "Absorbs the force of a fall"
+    ],
+    "reason": "Riding on handlebars raises the risk of head injury; the others protect your brain.",
+    "explain": "Your skull protects your brain, but a hard knock can still injure it. A helmet spreads out and soaks up the force of a fall. Seatbelts and booster seats stop your head hitting the inside of a car. Checking water depth before diving prevents striking your head on the bottom. Sitting on handlebars makes falls more likely, with nothing protecting your head."
+  },
+  {
+    "id": "brain-odd-16",
+    "system": "brain",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Brain switches fully off",
+      "Body repairs itself",
+      "Eyes move quickly (REM)",
+      "Dreaming",
+      "Sorting memories"
+    ],
+    "answer": "Brain switches fully off",
+    "notes": [
+      "Not true; the brain stays busy",
+      "Growth and repair happen at night",
+      "A stage of sleep with vivid dreams",
+      "Happens mostly in REM sleep",
+      "Brain stores what you learned"
+    ],
+    "reason": "The brain never switches fully off in sleep; the others really happen during sleep.",
+    "explain": "Sleep is an active time for the brain. It moves through stages, including REM sleep, when the eyes dart about and most vivid dreams happen. While you sleep, the brain sorts and stores what you learned that day, and the body does repair work. The brain stem also keeps your breathing and heartbeat going all night."
+  },
+  {
+    "id": "brain-odd-17",
+    "system": "brain",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Brain",
+      "Spinal cord",
+      "Nerves",
+      "Tendons",
+      "Brain stem"
+    ],
+    "answer": "Tendons",
+    "notes": [
+      "Control centre of the body",
+      "Main message cable down the back",
+      "Bundles of fibres reaching every body part",
+      "Tough cords joining muscle to bone",
+      "Links the brain to the spinal cord"
+    ],
+    "reason": "Tendons belong to the muscle system; the others make up the nervous system.",
+    "explain": "The nervous system is the body's messaging network. The brain and spinal cord form the central part, and nerves branch out from them to every part of the body. All of these are built from neurons. Tendons are tough cords that attach muscles to bones so muscles can pull on them."
+  },
+  {
+    "id": "brain-taboo-01",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Neuron",
+    "forbidden": [
+      "Nerve",
+      "Cell",
+      "Brain",
+      "Message"
+    ],
+    "clues": [
+      "Your body has billions of these tiny units, each with a long thin tail called an axon.",
+      "They pass electrical signals to one another across tiny gaps.",
+      "They are the units that carry information between your senses, your thinking organ and your muscles."
+    ],
+    "decoys": [
+      "Red blood cell",
+      "Muscle fibre",
+      "Skin cell"
+    ],
+    "explain": "A neuron is a nerve cell, the basic unit of the nervous system. It has branches called dendrites to receive signals, a cell body, and a long axon to send signals on. Neurons pass messages as tiny electrical pulses and use chemicals to cross the gaps between them.",
+    "fact": "The human brain has about 86 billion neurons."
+  },
+  {
+    "id": "brain-taboo-02",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Reflex",
+    "forbidden": [
+      "Automatic",
+      "Knee",
+      "Fast",
+      "Think"
+    ],
+    "clues": [
+      "The signal often takes a shortcut through the spinal cord instead of going up to the cerebrum.",
+      "Blinking when a ball flies at your face is one example.",
+      "It is the quick action that jerks your hand away from a hot pan before you even feel the pain."
+    ],
+    "decoys": [
+      "Habit",
+      "Memory",
+      "Dream"
+    ],
+    "explain": "A reflex is an automatic, very quick response to something like heat, a sharp object or a speck flying at your eye. The message travels a short path, often through the spinal cord, so you react before the thinking part of your brain is involved. Reflexes protect the body from harm."
+  },
+  {
+    "id": "brain-taboo-03",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Spinal cord",
+    "forbidden": [
+      "Backbone",
+      "Spine",
+      "Brain",
+      "Nerves"
+    ],
+    "clues": [
+      "In an adult it is about 45 cm long and about as thick as a finger.",
+      "It runs down your back inside a tunnel of stacked vertebrae.",
+      "It is the main cable carrying signals between your head and the rest of your body."
+    ],
+    "decoys": [
+      "Brain stem",
+      "Windpipe",
+      "Oesophagus"
+    ],
+    "explain": "The spinal cord is a long bundle of nervous tissue that runs from the brain stem down the back. The vertebrae of the backbone surround and protect it. It carries messages between the brain and the body, and it can also handle some reflexes by itself."
+  },
+  {
+    "id": "brain-taboo-04",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cerebellum",
+    "forbidden": [
+      "Balance",
+      "Little brain",
+      "Coordination",
+      "Back"
+    ],
+    "clues": [
+      "It holds more than half of all the nerve cells in your head, though it is much smaller than the cerebrum.",
+      "It sits low down, tucked under the rear of the cerebrum.",
+      "It helps you walk steadily, ride a bike and catch a ball without wobbling."
+    ],
+    "decoys": [
+      "Cerebrum",
+      "Medulla",
+      "Hippocampus"
+    ],
+    "explain": "The cerebellum is a smaller part of the brain at the back, under the cerebrum. It coordinates muscles so movements are smooth and well timed, and it keeps your balance. It also helps you learn movement skills like riding a bike or playing an instrument."
+  },
+  {
+    "id": "brain-taboo-05",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cerebrum",
+    "forbidden": [
+      "Thinking",
+      "Largest",
+      "Lobes",
+      "Wrinkly"
+    ],
+    "clues": [
+      "It is split into a left half and a right half, joined by a thick bridge of fibres.",
+      "Its folded outer layer packs a huge surface into the skull.",
+      "This biggest part of the brain lets you think, remember, speak and make decisions."
+    ],
+    "decoys": [
+      "Cerebellum",
+      "Brain stem",
+      "Spinal cord"
+    ],
+    "explain": "The cerebrum is the largest part of the brain. Its folds pack in a lot of surface, where much of the thinking happens. It handles thought, memory, language, the senses and voluntary movement. The left half mostly controls the right side of the body, and the right half controls the left side."
+  },
+  {
+    "id": "brain-taboo-06",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Brain stem",
+    "forbidden": [
+      "Breathing",
+      "Heartbeat",
+      "Medulla",
+      "Spinal cord"
+    ],
+    "clues": [
+      "It is the oldest and lowest part of the brain, shaped a bit like a stalk.",
+      "It keeps working all night while you sleep.",
+      "It controls automatic life-support jobs like taking in air and keeping your heart pumping at the right speed."
+    ],
+    "decoys": [
+      "Cerebellum",
+      "Cerebrum",
+      "Hippocampus"
+    ],
+    "explain": "The brain stem connects the brain to the spinal cord. It controls automatic jobs that keep you alive, such as breathing, heart rate, swallowing and waking up. All messages between the brain and body pass through it. The medulla is its lowest section."
+  },
+  {
+    "id": "brain-taboo-07",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Concussion",
+    "forbidden": [
+      "Head",
+      "Injury",
+      "Bump",
+      "Helmet"
+    ],
+    "clues": [
+      "Doctors say: when in doubt, sit them out, and see a doctor before playing again.",
+      "Signs include confusion, dizziness, feeling sick and forgetting what just happened.",
+      "It happens when a hard knock or jolt makes the brain shake inside the skull."
+    ],
+    "decoys": [
+      "Migraine",
+      "Fracture",
+      "Fainting"
+    ],
+    "explain": "A concussion is a brain injury caused by a knock or jolt that shakes the brain inside the skull. It can cause headache, confusion, dizziness, nausea and memory gaps. Anyone with these signs should stop playing and be checked by a doctor. Most people recover with rest and a slow return to activity."
+  },
+  {
+    "id": "brain-taboo-08",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Migraine",
+    "forbidden": [
+      "Headache",
+      "Pain",
+      "Aura",
+      "Throbbing"
+    ],
+    "clues": [
+      "It often runs in families and can be set off by skipped meals, poor sleep or stress.",
+      "During an attack, bright light and loud sounds can feel unbearable, and the person may feel sick.",
+      "It is a severe ache on one side of the head, sometimes starting with zigzag lights in the eyes."
+    ],
+    "decoys": [
+      "Concussion",
+      "Sinusitis",
+      "Earache"
+    ],
+    "explain": "A migraine is a strong headache that comes in attacks and can last hours. It often throbs on one side, makes light and noise feel painful, and causes nausea. Some people see flashing lights first, called an aura. Regular meals, good sleep and plenty of water can help prevent attacks, and a doctor can advise on treatment."
+  },
+  {
+    "id": "brain-taboo-09",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Memory",
+    "forbidden": [
+      "Remember",
+      "Forget",
+      "Recall",
+      "Store"
+    ],
+    "clues": [
+      "Sleep helps your brain lock in what you learned during the day.",
+      "There is a short-term kind, like a phone number you just heard, and a long-term kind, like your best friend's birthday.",
+      "It is your brain's ability to keep information and bring it back later."
+    ],
+    "decoys": [
+      "Imagination",
+      "Reflex",
+      "Attention"
+    ],
+    "explain": "Memory is the brain's ability to take in, keep and bring back information. Short-term memory holds things for a few seconds or minutes. With practice and sleep, some of it moves into long-term memory, which can last for years. A part of the brain called the hippocampus helps form new memories."
+  },
+  {
+    "id": "brain-taboo-10",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sleep",
+    "forbidden": [
+      "Bed",
+      "Night",
+      "Tired",
+      "Rest"
+    ],
+    "clues": [
+      "Children aged 6 to 12 need about 9 to 12 hours of this every day.",
+      "During it, your brain sorts memories and your body does repair work.",
+      "You close your eyes, lie down and become unaware of the world until morning."
+    ],
+    "decoys": [
+      "Fainting",
+      "Daydreaming",
+      "Meditation"
+    ],
+    "explain": "Sleep is a natural state when the body rests and the brain does important maintenance. The brain sorts and stores memories, clears waste, and the body grows and repairs. Too little sleep makes it harder to concentrate, learn and control your mood."
+  },
+  {
+    "id": "brain-taboo-11",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Synapse",
+    "forbidden": [
+      "Gap",
+      "Junction",
+      "Neurotransmitter",
+      "Connection"
+    ],
+    "clues": [
+      "Learning something new can make these links stronger or create new ones.",
+      "Chemical messengers float across this space in a tiny fraction of a second.",
+      "It is the very narrow space where one neuron passes its signal to the next."
+    ],
+    "decoys": [
+      "Axon",
+      "Dendrite",
+      "Myelin"
+    ],
+    "explain": "A synapse is the tiny gap between two neurons. When a signal reaches the end of an axon, the neuron releases chemicals that cross the gap and start a signal in the next neuron. When you practise a skill, the synapses involved become stronger, which is part of how learning works."
+  },
+  {
+    "id": "brain-taboo-12",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Myelin",
+    "forbidden": [
+      "Sheath",
+      "Fat",
+      "Insulation",
+      "Coating"
+    ],
+    "clues": [
+      "It gives some parts of the brain a pale colour, known as white matter.",
+      "Signals jump along it from gap to gap, which makes them much quicker.",
+      "It wraps around axons like plastic around an electric wire."
+    ],
+    "decoys": [
+      "Dendrite",
+      "Synapse",
+      "Cartilage"
+    ],
+    "explain": "Myelin is a fatty layer wrapped around many axons. It works like the plastic covering on a wire, stopping signals from leaking and letting them jump quickly along the axon. Thanks to myelin, some nerve signals travel at more than 100 metres per second. Children's brains keep adding myelin through the teenage years."
+  },
+  {
+    "id": "brain-taboo-13",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Dream",
+    "forbidden": [
+      "Sleep",
+      "Nightmare",
+      "Night",
+      "Story"
+    ],
+    "clues": [
+      "Most vivid ones happen during a stage when your eyes dart about under closed lids.",
+      "You often forget them within minutes of waking up.",
+      "These are the pictures and adventures your mind plays while you are snoozing."
+    ],
+    "decoys": [
+      "Memory",
+      "Thought",
+      "Yawn"
+    ],
+    "explain": "Dreams are images, sounds and stories the brain creates during sleep. The most vivid ones happen in REM sleep, when the eyes move quickly. During REM most body muscles relax, so you do not act out your dreams. Scientists think dreaming may help the brain process memories and feelings."
+  },
+  {
+    "id": "brain-taboo-14",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Nerve",
+    "forbidden": [
+      "Neuron",
+      "Signal",
+      "Brain",
+      "Message"
+    ],
+    "clues": [
+      "If one in your leg is pressed for a long time, you may get pins and needles.",
+      "It is a bundle of many fibres wrapped together, like a cable of wires.",
+      "These thin pathways carry feelings from your skin and orders to your muscles."
+    ],
+    "decoys": [
+      "Tendon",
+      "Vein",
+      "Ligament"
+    ],
+    "explain": "A nerve is a bundle of long fibres from many neurons, wrapped together like a cable. Nerves branch out from the brain and spinal cord to every part of the body. Some carry information such as touch and pain inwards, and others carry instructions out to muscles. When a nerve is squashed, its signals get muddled, which you feel as pins and needles."
+  },
+  {
+    "id": "brain-taboo-15",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Epilepsy",
+    "forbidden": [
+      "Seizure",
+      "Fit",
+      "Fits",
+      "Convulsion"
+    ],
+    "clues": [
+      "It is not catching, and many people with it control it well with daily medicine.",
+      "Doctors may record electrical activity from the scalp to help diagnose it.",
+      "It is a condition where sudden bursts of electrical activity in the brain cause repeated episodes of jerking or blank staring."
+    ],
+    "decoys": [
+      "Migraine",
+      "Concussion",
+      "Fainting"
+    ],
+    "explain": "Epilepsy is a brain condition in which bursts of electrical activity cause seizures again and again. A seizure might make someone's body jerk, or they may just stare blankly for a few seconds. It is not contagious. Many people with epilepsy take medicine that controls it, and they go to school, play sport and live normal lives."
+  },
+  {
+    "id": "brain-taboo-16",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Hippocampus",
+    "forbidden": [
+      "Memory",
+      "Seahorse",
+      "Remember",
+      "Temporal"
+    ],
+    "clues": [
+      "There is one on each side of the brain, curled deep inside.",
+      "Its name comes from a sea creature it looks a bit like.",
+      "It helps turn new experiences and facts into things you can still recall years later."
+    ],
+    "decoys": [
+      "Cerebellum",
+      "Brain stem",
+      "Medulla"
+    ],
+    "explain": "The hippocampus is a curved structure deep in each side of the brain. It helps form new memories and is also used for finding your way around places. Its name comes from the Greek word for seahorse because of its shape. Sleep helps the hippocampus pass new memories to other parts of the brain for long-term keeping."
+  },
+  {
+    "id": "brain-taboo-17",
+    "system": "brain",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cerebrospinal fluid",
+    "forbidden": [
+      "Cushion",
+      "Liquid",
+      "Water",
+      "Spine"
+    ],
+    "clues": [
+      "A doctor can take a small sample from the lower back to test it for infection.",
+      "It is clear and bathes the brain and the long cord inside your backbone all the time.",
+      "It lets the brain float inside the skull, so knocks are softened."
+    ],
+    "decoys": [
+      "Blood plasma",
+      "Lymph",
+      "Saliva"
+    ],
+    "explain": "Cerebrospinal fluid is a clear fluid made inside the brain. It flows around the brain and spinal cord, letting the brain float so it does not press on the skull. This cushions the brain from knocks, and the fluid also carries away waste."
+  },
+  {
+    "id": "brain-case-01",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "During a football match, a girl clashes heads with another player. She says she has a headache, feels dizzy and cannot remember the score. What should happen first?",
+    "options": [
+      "Keep playing to see if it passes",
+      "Stop playing and get her checked by a doctor",
+      "Give her an energy drink",
+      "Send her home to sleep alone"
+    ],
+    "answer": "Stop playing and get her checked by a doctor",
+    "optionNotes": [
+      "Another knock could make it worse",
+      "These are signs of concussion",
+      "Does not treat a brain injury",
+      "She should be watched by an adult"
+    ],
+    "explain": "Headache, dizziness and memory gaps after a head knock are signs of concussion. The safe rule is: when in doubt, sit them out. She should stop playing and be checked by a doctor, with an adult watching her. A second knock before the brain heals can be more serious, so she should only return to sport when a doctor says it is safe."
+  },
+  {
+    "id": "brain-case-02",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "The doctor gently taps just below a boy's kneecap with a small rubber hammer, and his leg kicks forward on its own. What is the doctor checking?",
+    "options": [
+      "A reflex",
+      "His eyesight",
+      "His blood sugar",
+      "His bone strength"
+    ],
+    "answer": "A reflex",
+    "optionNotes": [
+      "Tests nerves and spinal cord together",
+      "Checked with an eye chart",
+      "Needs a blood test, not a hammer",
+      "Checked with an X-ray"
+    ],
+    "explain": "The knee-jerk is a reflex. The tap stretches a tendon, a sensory nerve sends a signal to the spinal cord, and a motor nerve sends one straight back to the thigh muscle, which kicks. If the kick is normal, the doctor knows that path of nerves and spinal cord is working."
+  },
+  {
+    "id": "brain-case-03",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "A girl has had several short episodes of staring blankly and not responding. The doctor wants to record her brain's electrical activity using small sensors stuck on her scalp. Which test is this?",
+    "options": [
+      "X-ray",
+      "Urine test",
+      "ECG",
+      "EEG"
+    ],
+    "answer": "EEG",
+    "optionNotes": [
+      "Shows bones using radiation",
+      "Checks kidneys and body chemicals",
+      "Records the heart's electrical activity",
+      "Records the brain's electrical activity"
+    ],
+    "explain": "Neurons communicate using tiny electrical signals. An EEG (electroencephalogram) picks up these signals through small sensors on the scalp and draws them as wavy lines. It is painless. Unusual bursts in the pattern can help doctors find out whether someone has epilepsy. An ECG looks similar but records the heart instead."
+  },
+  {
+    "id": "brain-case-04",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "After an illness affecting the lower back part of his brain, a man walks unsteadily, sways when standing, and his hand shakes when reaching for a cup. His thinking is normal. Which brain part is most likely affected?",
+    "options": [
+      "Optic nerve",
+      "Cerebrum",
+      "Cerebellum",
+      "Hippocampus"
+    ],
+    "answer": "Cerebellum",
+    "optionNotes": [
+      "Carries signals from eye to brain",
+      "Thinking would likely be affected",
+      "Controls balance and smooth movement",
+      "Mainly forms new memories"
+    ],
+    "explain": "The cerebellum sits low at the back of the brain. It fine-tunes every movement so it is smooth and accurate, and it keeps you balanced. When it is damaged, people wobble, sway and their reaching movements become shaky, even though their thinking stays clear."
+  },
+  {
+    "id": "brain-case-05",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "An 11-year-old watches videos in bed until midnight and wakes at 6 am. He feels tired and cannot concentrate in class. What is the best advice?",
+    "options": [
+      "Nap during lessons",
+      "Fixed bedtime and screens off an hour before",
+      "Catch up on sleep only at weekends",
+      "Drink coffee each morning"
+    ],
+    "answer": "Fixed bedtime and screens off an hour before",
+    "optionNotes": [
+      "Misses learning and does not fix the cause",
+      "Gives the brain enough regular sleep",
+      "Upsets the body clock further",
+      "Caffeine is not advised for children"
+    ],
+    "explain": "Children of his age need about 9 to 12 hours of sleep. He is getting about 6. Light from screens delays the brain's sleep signal, so switching off an hour before bed helps him fall asleep. A fixed bedtime trains the body clock, and enough sleep improves focus, memory and mood."
+  },
+  {
+    "id": "brain-case-06",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "A girl who has been diagnosed with migraine feels an attack starting: a throbbing headache, and light hurts her eyes. Along with any medicine her doctor has prescribed, what helps most right now?",
+    "options": [
+      "Lie down in a quiet, dark room",
+      "Go for a run in the sun",
+      "Skip her next meal",
+      "Play a loud video game"
+    ],
+    "answer": "Lie down in a quiet, dark room",
+    "optionNotes": [
+      "Reduces light and sound that trigger pain",
+      "Bright light and effort can worsen it",
+      "Missed meals can trigger migraines",
+      "Noise and bright screens worsen migraine"
+    ],
+    "explain": "During a migraine the brain becomes extra sensitive to light, sound and movement. Resting in a quiet, dark room reduces these and often eases the attack. Drinking water and taking any medicine the doctor has prescribed also helps. Skipping meals, poor sleep and stress are common triggers, so regular routines can prevent attacks."
+  },
+  {
+    "id": "brain-case-07",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "A boy touches a hot iron and pulls his hand away in a split second, before he even feels the pain. Which part of the nervous system sent the order to move?",
+    "options": [
+      "Cerebellum",
+      "Hippocampus",
+      "Cerebrum",
+      "Spinal cord"
+    ],
+    "answer": "Spinal cord",
+    "optionNotes": [
+      "Smooths movement, does not start reflexes",
+      "Helps form memories",
+      "Gets the news a moment later",
+      "Sends the reflex order directly"
+    ],
+    "explain": "This is a reflex. The heat signal travels from the skin to the spinal cord, which sends an order straight back to the arm muscles without waiting for the brain. That shortcut saves time and protects the skin. The signal also continues up to the cerebrum, which is why he feels the pain a moment later."
+  },
+  {
+    "id": "brain-case-08",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A grandfather's face suddenly droops on one side, he cannot lift one arm, and his words come out slurred. What should the family do first?",
+    "options": [
+      "Wait a day to see if it improves",
+      "Let him lie down and sleep it off",
+      "Call an ambulance straight away",
+      "Give him a big meal"
+    ],
+    "answer": "Call an ambulance straight away",
+    "optionNotes": [
+      "Treatment works best within hours",
+      "Losing time harms brain cells",
+      "These are signs of a stroke",
+      "He may not swallow safely"
+    ],
+    "explain": "These are signs of a stroke, when blood supply to part of the brain is blocked or a blood vessel leaks. Remember FAST: Face drooping, Arm weakness, Speech trouble, Time to call an ambulance. Brain cells need a steady supply of oxygen, so fast hospital treatment protects as much of the brain as possible."
+  },
+  {
+    "id": "brain-case-09",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "At school, a classmate suddenly falls to the floor and her arms and legs start jerking. A teacher is on the way. What should you do to help?",
+    "options": [
+      "Put something in her mouth",
+      "Move hard objects away and cushion her head",
+      "Splash cold water on her face",
+      "Hold her arms and legs down firmly"
+    ],
+    "answer": "Move hard objects away and cushion her head",
+    "optionNotes": [
+      "Can break teeth or block breathing",
+      "Keeps her safe until it stops",
+      "Does not stop a seizure",
+      "Can hurt her; the jerking cannot be stopped"
+    ],
+    "explain": "This is a seizure. You cannot stop it, so the goal is to keep the person safe: move hard or sharp things away, put something soft under the head, and note the time. Never hold them down or put anything in their mouth. When the jerking stops, an adult can roll them onto their side. An ambulance is needed if it lasts more than 5 minutes or it is their first seizure."
+  },
+  {
+    "id": "brain-case-10",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A man falls from a ladder and lands on his back. He is awake but says he cannot feel his legs. He is not in any other danger. What should people nearby do?",
+    "options": [
+      "Keep him still and call an ambulance",
+      "Carry him to a car",
+      "Rub his legs to bring back feeling",
+      "Help him stand up to test his legs"
+    ],
+    "answer": "Keep him still and call an ambulance",
+    "optionNotes": [
+      "Protects the spinal cord until help arrives",
+      "Bending his back is risky",
+      "Does not help a spinal injury",
+      "Moving may harm the spinal cord more"
+    ],
+    "explain": "Losing feeling in the legs after a fall can mean the spinal cord is injured. The spinal cord carries messages between the brain and body, and moving the person could damage it further. Unless there is danger like fire or traffic, keep the person still, keep them calm and call an ambulance. Paramedics have special equipment to move them safely."
+  },
+  {
+    "id": "brain-case-11",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "After a nerve injury in his arm, a man can feel a light touch on his fingers, but he cannot move them. His muscles are healthy. Which nerve cells are not passing their signals?",
+    "options": [
+      "Red blood cells",
+      "Skin cells",
+      "Sensory neurons",
+      "Motor neurons"
+    ],
+    "answer": "Motor neurons",
+    "optionNotes": [
+      "Carry oxygen, not nerve signals",
+      "Cover the body, not nerve signals",
+      "Working, since he can feel touch",
+      "Carry orders from spinal cord to muscles"
+    ],
+    "explain": "Nerves contain two main kinds of neurons. Sensory neurons carry information such as touch from the body to the spinal cord and brain. Motor neurons carry orders the other way, from the spinal cord to muscles. Since he can feel touch but cannot move his healthy muscles, the motor signals are the ones being blocked."
+  },
+  {
+    "id": "brain-case-12",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A student stays up all night before every test, reading her notes once. She forgets most of it by the next week. What advice will help her memory most?",
+    "options": [
+      "Read the notes once very quickly",
+      "Only study with loud music on",
+      "Study in short sessions over several days and sleep well",
+      "Stay up even later"
+    ],
+    "answer": "Study in short sessions over several days and sleep well",
+    "optionNotes": [
+      "One quick read rarely sticks",
+      "Loud music competes for attention",
+      "Repetition and sleep build lasting memories",
+      "Less sleep weakens memory"
+    ],
+    "explain": "Memories become strong when the brain meets the same information several times, with gaps in between. Each time, the links between neurons get stronger. Sleep also matters: while you sleep, the brain moves new learning into long-term memory. Skipping sleep before a test makes it harder to learn and to remember."
+  },
+  {
+    "id": "brain-case-13",
+    "system": "brain",
+    "mode": "case",
+    "level": 3,
+    "role": "Neurologist",
+    "scenario": "After an injury to the back of her head, a woman has trouble seeing clearly. The eye doctor says her eyes are completely healthy. Which part of the brain is most likely affected?",
+    "options": [
+      "Temporal lobe",
+      "Occipital lobe",
+      "Brain stem",
+      "Frontal lobe"
+    ],
+    "answer": "Occipital lobe",
+    "optionNotes": [
+      "At the sides; hearing and memory",
+      "At the back; makes sense of what eyes see",
+      "Controls automatic jobs like breathing",
+      "At the front; planning and decisions"
+    ],
+    "explain": "Your eyes collect light, but you actually see with your brain. Signals travel from the eyes along the optic nerves to the occipital lobe at the back of the cerebrum, which turns them into images. If this area is injured, a person can have healthy eyes but still have trouble seeing."
+  },
+  {
+    "id": "brain-case-14",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A boy skipped breakfast and lunch. By afternoon he feels shaky and cannot concentrate on his work. Which fuel is his brain running low on?",
+    "options": [
+      "Glucose",
+      "Calcium",
+      "Fibre",
+      "Vitamin C"
+    ],
+    "answer": "Glucose",
+    "optionNotes": [
+      "Sugar that is the brain's main fuel",
+      "Needed for bones and teeth",
+      "Helps digestion, not brain energy",
+      "Helps fight infections and heal cuts"
+    ],
+    "explain": "Brain cells use a lot of energy and depend mostly on glucose, a sugar that comes from digested food and travels in the blood. When you go a long time without eating, blood glucose drops, and the brain cannot work as well. Regular meals with whole grains, fruit and protein keep a steady supply."
+  },
+  {
+    "id": "brain-case-15",
+    "system": "brain",
+    "mode": "case",
+    "level": 1,
+    "role": "Neurologist",
+    "scenario": "Even when you are fast asleep, you keep breathing and your heart keeps beating. Which part of the brain controls these automatic jobs?",
+    "options": [
+      "Occipital lobe",
+      "Cerebrum",
+      "Hippocampus",
+      "Brain stem"
+    ],
+    "answer": "Brain stem",
+    "optionNotes": [
+      "Handles vision",
+      "Handles thinking and voluntary movement",
+      "Helps form memories",
+      "Runs breathing and heart rate automatically"
+    ],
+    "explain": "The brain stem links the brain to the spinal cord. It controls life-support jobs automatically, including breathing, heart rate and swallowing, so they continue while you sleep. You can choose to hold your breath for a short while using your cerebrum, but the brain stem soon makes you breathe again."
+  },
+  {
+    "id": "brain-case-16",
+    "system": "brain",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "A scan shows a woman has had a small stroke on the left side of her brain. Which side of her body is most likely to feel weak?",
+    "options": [
+      "Both feet only",
+      "The left side",
+      "The right side",
+      "Only her head"
+    ],
+    "answer": "The right side",
+    "optionNotes": [
+      "Not how brain control is arranged",
+      "Controlled by the right side of the brain",
+      "Nerve pathways cross over",
+      "Weakness usually affects one side of the body"
+    ],
+    "explain": "Most nerve pathways between the brain and body cross over in the brain stem. So the left half of the brain controls movement and feeling on the right side of the body, and the right half controls the left side. Damage on one side of the brain usually causes weakness on the opposite side of the body."
+  }
+]

@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "senses-odd-01",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Cochlea",
+      "Retina",
+      "Pupil",
+      "Cornea",
+      "Iris"
+    ],
+    "answer": "Cochlea",
+    "notes": [
+      "Snail-shaped hearing organ in the ear",
+      "Light-sensing layer at the back of the eye",
+      "Black hole that lets light in",
+      "Clear front window of the eye",
+      "Coloured ring around the pupil"
+    ],
+    "reason": "The cochlea is part of the ear; the rest are parts of the eye.",
+    "explain": "Light enters the eye through the clear cornea, then passes through the pupil, a hole whose size is set by the coloured iris. The lens focuses the light onto the retina at the back, which turns it into nerve signals for the brain. The cochlea is a snail-shaped tube deep in the ear that turns sound into nerve signals."
+  },
+  {
+    "id": "senses-odd-02",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Ear canal",
+      "Eardrum",
+      "Anvil",
+      "Iris",
+      "Cochlea"
+    ],
+    "answer": "Iris",
+    "notes": [
+      "Tunnel that leads sound inwards",
+      "Thin skin that vibrates with sound",
+      "One of three tiny ear bones",
+      "Coloured part of the eye",
+      "Turns vibrations into nerve signals"
+    ],
+    "reason": "The iris is part of the eye; the rest are parts of the ear.",
+    "explain": "Sound waves travel down the ear canal and make the eardrum vibrate. Three tiny bones, the hammer, anvil and stirrup, pass the vibrations to the cochlea in the inner ear. Tiny hair cells there turn the vibrations into nerve signals that the brain hears as sound. The iris is the coloured ring in your eye."
+  },
+  {
+    "id": "senses-odd-03",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Skin",
+      "Lungs",
+      "Tongue",
+      "Nose",
+      "Eyes"
+    ],
+    "answer": "Lungs",
+    "notes": [
+      "Sense of touch",
+      "Organs for breathing, not sensing",
+      "Sense of taste",
+      "Sense of smell",
+      "Sense of sight"
+    ],
+    "reason": "The lungs are for breathing; the others are sense organs.",
+    "explain": "Sense organs have special cells called receptors that detect something from the world around you: light for the eyes, sound for the ears, chemicals for the nose and tongue, and touch, heat and pain for the skin. They send signals to the brain, which makes sense of them. The lungs take in air for breathing; they do not send sense information about the outside world."
+  },
+  {
+    "id": "senses-odd-04",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Bitter",
+      "Umami",
+      "Sweet",
+      "Sour",
+      "Spicy hot"
+    ],
+    "answer": "Spicy hot",
+    "notes": [
+      "Taste of bitter gourd",
+      "Savoury taste of tomato or mushrooms",
+      "Taste of sugar",
+      "Taste of lemon",
+      "Felt by pain and heat sensors"
+    ],
+    "reason": "Spicy heat is detected by pain and heat sensors; the others are basic tastes.",
+    "explain": "Taste buds detect five basic tastes: sweet, sour, salty, bitter and umami (a savoury taste). The burning feeling of chilli is not a taste. A chemical in chillies triggers the same sensors in your mouth that detect heat and pain, which is why spicy food feels hot.",
+    "fact": "Every part of your tongue with taste buds can sense all five tastes. The old 'tongue map' with separate zones is a myth."
+  },
+  {
+    "id": "senses-odd-05",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Epidermis",
+      "Dermis",
+      "Enamel",
+      "Hair follicle",
+      "Sweat gland"
+    ],
+    "answer": "Enamel",
+    "notes": [
+      "Thin outer layer of skin",
+      "Thick middle layer with nerves",
+      "Hard coating on teeth",
+      "Pit in the skin where hair grows",
+      "Tiny coiled tube in the skin"
+    ],
+    "reason": "Enamel covers teeth; the others are layers or parts of the skin.",
+    "explain": "Skin has layers. The epidermis on top is a waterproof shield that keeps renewing itself. The dermis below holds blood vessels, nerve endings, sweat glands and hair follicles, the tiny pits that hairs grow from. Under that, a fat layer keeps you warm. Enamel is the hard coating on your teeth.",
+    "fact": "Skin is the body's largest organ."
+  },
+  {
+    "id": "senses-odd-06",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Pumping blood",
+      "Feeling touch",
+      "Making vitamin D",
+      "Controlling temperature",
+      "Keeping out germs"
+    ],
+    "answer": "Pumping blood",
+    "notes": [
+      "The heart's job",
+      "Nerve endings sense the world",
+      "Made when sunlight hits skin",
+      "Sweat and blood flow help",
+      "A barrier against infection"
+    ],
+    "reason": "Pumping blood is the heart's job; the others are jobs of the skin.",
+    "explain": "Skin does much more than cover you. It is a barrier that keeps germs out and water in. Nerve endings let you feel touch, heat and pain. It helps control body temperature by sweating and changing blood flow. When sunlight falls on it, skin makes vitamin D, which helps build strong bones. Pumping blood is the heart's job."
+  },
+  {
+    "id": "senses-odd-07",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Taking off a jumper",
+      "Sweating",
+      "Flushed red skin",
+      "Shivering",
+      "Resting in shade"
+    ],
+    "answer": "Shivering",
+    "notes": [
+      "Lets heat escape from the skin",
+      "Evaporating sweat takes heat away",
+      "Blood vessels widen to lose heat",
+      "Muscle twitches make heat to warm up",
+      "Avoids the sun's heat"
+    ],
+    "reason": "Shivering warms the body up; the others help cool it down.",
+    "explain": "Your body tries to stay near 37°C. When you are hot, sweat comes out onto the skin and takes heat with it as it evaporates. Blood vessels near the skin widen, so more heat escapes and you look flushed. Shade and lighter clothes help too. Shivering does the opposite: fast muscle twitches make heat to warm you when you are cold."
+  },
+  {
+    "id": "senses-odd-08",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Eyes",
+      "Eardrum",
+      "Cerebellum",
+      "Stretch sensors in muscles",
+      "Semicircular canals"
+    ],
+    "answer": "Eardrum",
+    "notes": [
+      "Show which way is up",
+      "Vibrates with sound; used for hearing",
+      "Brain part that adjusts posture",
+      "Tell the brain where your limbs are",
+      "Fluid-filled loops that sense head turns"
+    ],
+    "reason": "The eardrum is used for hearing; the others all help you balance.",
+    "explain": "Balance uses teamwork. The semicircular canals in the inner ear are three fluid-filled loops that sense when your head turns or tilts. Your eyes show which way is up, and sensors in muscles and joints report where your body parts are. The cerebellum combines all this and adjusts your muscles. The eardrum vibrates with sound and is used for hearing, not balance."
+  },
+  {
+    "id": "senses-odd-09",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Breaks from screens",
+      "Sunglasses that block UV",
+      "Safety goggles",
+      "Reading in good light",
+      "Rubbing itchy eyes hard"
+    ],
+    "answer": "Rubbing itchy eyes hard",
+    "notes": [
+      "Rest eyes that focus close for long",
+      "Shield eyes from harmful sunlight",
+      "Stop flying bits hitting the eye",
+      "Less strain on the eye muscles",
+      "Can scratch the eye and spread germs"
+    ],
+    "reason": "Rubbing eyes hard can harm them; the others protect your eyes.",
+    "explain": "The front of the eye is delicate. Sunglasses that block ultraviolet (UV) light protect it from sun damage, and goggles stop flying bits during sports or science. Good light and screen breaks reduce strain on the small muscles that focus the eye. Rubbing hard can scratch the clear cornea and carry germs from your hands into the eye."
+  },
+  {
+    "id": "senses-odd-10",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Lower headphone volume",
+      "Earplugs at loud events",
+      "Cotton buds deep in the ear",
+      "Breaks from loud sound",
+      "Seeing a doctor for earache"
+    ],
+    "answer": "Cotton buds deep in the ear",
+    "notes": [
+      "Loud sound damages hair cells",
+      "Cut the sound reaching the ear",
+      "Pushes wax in and can hurt eardrum",
+      "Gives the inner ear time to recover",
+      "Infections need proper treatment"
+    ],
+    "reason": "Pushing cotton buds into the ear can harm it; the others protect hearing.",
+    "explain": "Inside the cochlea are thousands of tiny hair cells that sense sound. Very loud or long-lasting noise can damage them, and they do not grow back, so turning volume down and wearing earplugs at loud places protects hearing. Ears clean themselves: wax slowly moves outwards on its own. Pushing cotton buds inside can pack wax deeper or hurt the eardrum."
+  },
+  {
+    "id": "senses-odd-11",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Tinnitus",
+      "Astigmatism",
+      "Myopia",
+      "Hypermetropia",
+      "Cataract"
+    ],
+    "answer": "Tinnitus",
+    "notes": [
+      "Ringing or buzzing heard in the ears",
+      "Curved cornea makes vision blurry",
+      "Short-sight: far things look blurry",
+      "Long-sight: near things look blurry",
+      "Cloudy lens inside the eye"
+    ],
+    "reason": "Tinnitus is an ear problem; the others are eye problems.",
+    "explain": "Myopia, hypermetropia and astigmatism happen when the eye does not focus light exactly on the retina, so things look blurry. Glasses or contact lenses usually correct them. A cataract is when the lens inside the eye turns cloudy. Tinnitus is a ringing or buzzing sound in the ears that no one else can hear, sometimes after loud noise."
+  },
+  {
+    "id": "senses-odd-12",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Touch",
+      "Pain",
+      "Heat",
+      "Taste",
+      "Cold"
+    ],
+    "answer": "Taste",
+    "notes": [
+      "Light contact on the skin",
+      "Warns of damage",
+      "Warmth sensed by skin",
+      "Sensed by taste buds on the tongue",
+      "Coolness sensed by skin"
+    ],
+    "reason": "Taste is sensed by the tongue; skin has receptors for the other four.",
+    "explain": "Your skin has different kinds of receptors spread through it. Some respond to light touch and pressure, some to warmth, some to cold, and some to pain, which warns you of damage. Fingertips and lips have many receptors, which is why they are so sensitive. Taste is detected by taste buds, mostly on the tongue."
+  },
+  {
+    "id": "senses-odd-13",
+    "system": "senses",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Enjoying food's flavour",
+      "Seeing colours",
+      "Recognising a familiar scent",
+      "Noticing smoke",
+      "Spotting spoiled milk"
+    ],
+    "answer": "Seeing colours",
+    "notes": [
+      "Smell adds most of the flavour",
+      "Done by cone cells in the eyes",
+      "Smell links strongly to memories",
+      "Smell warns of fire",
+      "Smell warns of bad food"
+    ],
+    "reason": "Seeing colours uses the eyes; your sense of smell helps with the other four.",
+    "explain": "High inside your nose are smell receptors that detect tiny chemicals floating in the air. Smell warns you about danger like smoke or food gone bad. It also gives food much of its flavour, which is why food tastes bland when your nose is blocked. Colour is seen by cone cells in the retina of the eye."
+  },
+  {
+    "id": "senses-odd-14",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Long, loose sleeves",
+      "Sunscreen SPF 30 or more",
+      "Wide-brimmed hat",
+      "Shade around midday",
+      "Tanning oil"
+    ],
+    "answer": "Tanning oil",
+    "notes": [
+      "Clothing blocks UV rays",
+      "Blocks much of the UV light",
+      "Shades face, ears and neck",
+      "Sun's UV is strongest then",
+      "Gives little or no UV protection"
+    ],
+    "reason": "Tanning oil does not protect against sunburn; the others do.",
+    "explain": "Sunburn is skin damage caused by ultraviolet (UV) rays from the sun. Sunscreen, hats, clothing and shade all reduce the UV reaching your skin. UV is strongest around the middle of the day, so shade matters most then. Tanning oil gives little or no protection and is used to make skin darken faster."
+  },
+  {
+    "id": "senses-odd-15",
+    "system": "senses",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Anvil",
+      "Stirrup",
+      "Semicircular canals",
+      "Eardrum",
+      "Hammer"
+    ],
+    "answer": "Semicircular canals",
+    "notes": [
+      "Middle tiny bone",
+      "Last bone; pushes on the inner ear",
+      "Sense head movement for balance",
+      "First to vibrate when sound arrives",
+      "First tiny bone in the chain"
+    ],
+    "reason": "The semicircular canals are for balance; the others pass sound vibrations along.",
+    "explain": "Sound travels as vibrations. The eardrum vibrates first, then the three tiny bones of the middle ear, the hammer, anvil and stirrup, pass the vibrations to the cochlea, making them stronger along the way. The semicircular canals sit next to the cochlea in the inner ear, but their job is balance: they sense when your head moves.",
+    "fact": "The stirrup is the smallest bone in the human body, about the size of a grain of rice."
+  },
+  {
+    "id": "senses-odd-16",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cataract",
+      "Eczema",
+      "Acne",
+      "Sunburn",
+      "Blister"
+    ],
+    "answer": "Cataract",
+    "notes": [
+      "Cloudy lens inside the eye",
+      "Dry, itchy, red patches",
+      "Pimples from blocked skin pores",
+      "Skin damaged by UV rays",
+      "Bubble of fluid from rubbing or burns"
+    ],
+    "reason": "A cataract affects the eye; the others are skin problems.",
+    "explain": "Many problems affect the skin. Eczema makes skin dry, itchy and red. Acne happens when pores get blocked with oil and dead skin. Sunburn is damage from UV rays, and a blister is a bubble of fluid that forms to protect damaged skin underneath. A cataract is a clouding of the lens inside the eye, and it is more common in older people."
+  },
+  {
+    "id": "senses-odd-17",
+    "system": "senses",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Sweat",
+      "Skin oil",
+      "Melanin",
+      "Saliva",
+      "Hair"
+    ],
+    "answer": "Saliva",
+    "notes": [
+      "Made by sweat glands to cool you",
+      "Keeps skin and hair soft",
+      "Pigment that colours skin",
+      "Made by glands in the mouth",
+      "Grows from follicles in the skin"
+    ],
+    "reason": "Saliva is made in the mouth; the others are made in the skin.",
+    "explain": "Skin is a busy organ. Sweat glands release sweat to cool you, and oil glands release an oil that keeps skin and hair soft and waterproof. Cells in the epidermis make melanin, the pigment that colours skin and helps block UV. Hair grows from tiny pits in the skin called follicles. Saliva is made by glands around the mouth."
+  },
+  {
+    "id": "senses-taboo-01",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Pupil",
+    "forbidden": [
+      "Black",
+      "Hole",
+      "Eye",
+      "Iris"
+    ],
+    "clues": [
+      "A doctor may shine a small torch to watch it shrink.",
+      "It gets bigger in the dark to let in more light, and smaller in bright sunshine.",
+      "It is the dark round opening in the middle of the coloured part you look through."
+    ],
+    "decoys": [
+      "Retina",
+      "Lens",
+      "Cornea"
+    ],
+    "explain": "The pupil is the opening in the middle of the iris that lets light into the eye. It looks black because light goes in and does not come back out. The iris muscles make the pupil smaller in bright light to protect the retina, and bigger in dim light to let in more light."
+  },
+  {
+    "id": "senses-taboo-02",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Retina",
+    "forbidden": [
+      "Rods",
+      "Cones",
+      "Eye",
+      "Light"
+    ],
+    "clues": [
+      "It has a small blind spot where the nerve to the brain leaves it.",
+      "It is a thin layer at the very back, about the size of a postage stamp.",
+      "It works like the screen in a camera, catching the picture and sending it to the brain."
+    ],
+    "decoys": [
+      "Cornea",
+      "Lens",
+      "Iris"
+    ],
+    "explain": "The retina is a thin layer lining the back of the eye. It holds two kinds of light-sensing cells: rods, which work in dim light, and cones, which see colour and detail. They turn light into nerve signals that travel along the optic nerve to the brain. The picture on the retina is actually upside down, and the brain turns it the right way up."
+  },
+  {
+    "id": "senses-taboo-03",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Iris",
+    "forbidden": [
+      "Colour",
+      "Eye",
+      "Pupil",
+      "Ring"
+    ],
+    "clues": [
+      "Its pattern is so unique that some scanners use it to identify people.",
+      "It is a muscle that changes the size of the opening in the middle.",
+      "It is the part you look at to say whether someone has brown, blue, green or grey peepers."
+    ],
+    "decoys": [
+      "Retina",
+      "Cornea",
+      "Eyelid"
+    ],
+    "explain": "The iris is the coloured ring of muscle around the pupil. By tightening or relaxing, it makes the pupil smaller or bigger to control how much light gets in. Its colour comes from the pigment melanin: lots of melanin gives brown eyes, and less gives blue or green."
+  },
+  {
+    "id": "senses-taboo-04",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Eardrum",
+    "forbidden": [
+      "Ear",
+      "Drum",
+      "Vibrate",
+      "Sound"
+    ],
+    "clues": [
+      "It is a thin, tight sheet of skin, about as thin as a sheet of paper.",
+      "It sits at the end of the canal, separating the outer and middle parts of your hearing organ.",
+      "When noises hit it, it shakes and passes the shaking to three tiny bones."
+    ],
+    "decoys": [
+      "Cochlea",
+      "Earlobe",
+      "Stirrup"
+    ],
+    "explain": "The eardrum is a thin membrane stretched across the end of the ear canal. Sound waves make it vibrate, and it passes those vibrations to the tiny bones of the middle ear. Pushing objects into the ear can damage it, which is one reason not to use cotton buds inside your ears."
+  },
+  {
+    "id": "senses-taboo-05",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cochlea",
+    "forbidden": [
+      "Snail",
+      "Hearing",
+      "Inner ear",
+      "Spiral"
+    ],
+    "clues": [
+      "It is filled with fluid and lined with thousands of tiny hair cells.",
+      "It turns vibrations into electrical signals for the brain.",
+      "It is a coiled tube deep in the head shaped like a shell with a little animal inside."
+    ],
+    "decoys": [
+      "Eardrum",
+      "Semicircular canals",
+      "Retina"
+    ],
+    "explain": "The cochlea is a coiled, fluid-filled tube in the inner ear. Vibrations from the middle ear make the fluid move, which bends tiny hair cells. The hair cells turn this into nerve signals that the brain hears as sound. Different parts of the cochlea respond to high and low sounds."
+  },
+  {
+    "id": "senses-taboo-06",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Taste bud",
+    "forbidden": [
+      "Tongue",
+      "Flavour",
+      "Sweet",
+      "Mouth"
+    ],
+    "clues": [
+      "You have thousands of these, and they are replaced every couple of weeks.",
+      "They sit in the tiny bumps you can see when you stick out the pink muscle you lick with.",
+      "They tell you whether food is sour, salty, bitter or umami."
+    ],
+    "decoys": [
+      "Saliva",
+      "Smell receptor",
+      "Gum"
+    ],
+    "explain": "Taste buds are tiny clusters of sensing cells, mostly on the tongue. Chemicals from food dissolve in saliva and touch the taste cells, which send signals to the brain. They detect five basic tastes: sweet, sour, salty, bitter and umami. Taste cells are worn out quickly and are replaced every week or two."
+  },
+  {
+    "id": "senses-taboo-07",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Melanin",
+    "forbidden": [
+      "Pigment",
+      "Colour",
+      "Tan",
+      "Skin"
+    ],
+    "clues": [
+      "People with albinism make very little of it, so their hair is very pale.",
+      "Sunlight makes your body produce more of it, which darkens you after a holiday at the beach.",
+      "It is the natural dark substance that sets the shade of a person's complexion, hair and irises, and blocks some UV."
+    ],
+    "decoys": [
+      "Keratin",
+      "Haemoglobin",
+      "Collagen"
+    ],
+    "explain": "Melanin is a dark pigment made by special cells in the epidermis. It gives colour to skin, hair and eyes, and it absorbs some UV light, protecting skin cells. When skin is exposed to sun, it makes more melanin, which is a tan. A tan is a sign the skin is under UV stress, so it does not replace sunscreen."
+  },
+  {
+    "id": "senses-taboo-08",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Myopia",
+    "forbidden": [
+      "Short-sighted",
+      "Blurry",
+      "Glasses",
+      "Far"
+    ],
+    "clues": [
+      "Spending more time outdoors in daylight seems to lower the chance of getting it.",
+      "The eyeball is a little too long, so light focuses in front of the retina.",
+      "A child with it reads a book easily but struggles to see the board from the back of class."
+    ],
+    "decoys": [
+      "Hypermetropia",
+      "Cataract",
+      "Colour blindness"
+    ],
+    "explain": "Myopia, or short-sightedness, means near things look clear but distant things look blurry. Usually the eyeball is slightly too long, so light comes to a focus in front of the retina instead of on it. Glasses with concave lenses spread the light out a little so it focuses correctly. Time outdoors in daylight helps protect children's eyes from developing it."
+  },
+  {
+    "id": "senses-taboo-09",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Sunburn",
+    "forbidden": [
+      "Sun",
+      "Red",
+      "Burn",
+      "Sunscreen"
+    ],
+    "clues": [
+      "You can get it even on a cloudy day, because UV rays pass through clouds.",
+      "It makes skin sore, hot and sometimes peel a few days later.",
+      "It happens after spending too long outside in strong daylight without protection."
+    ],
+    "decoys": [
+      "Eczema",
+      "Rash",
+      "Blister"
+    ],
+    "explain": "Sunburn is skin damage from ultraviolet (UV) rays. The rays harm skin cells, so the skin becomes red, sore and hot, and later may peel. Repeated sunburn raises the risk of skin problems later in life. Sunscreen, hats, clothing and shade, especially around midday, protect your skin."
+  },
+  {
+    "id": "senses-taboo-10",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Eczema",
+    "forbidden": [
+      "Itchy",
+      "Rash",
+      "Dry",
+      "Skin"
+    ],
+    "clues": [
+      "It is common in children and you cannot catch it from someone else.",
+      "Harsh soaps, wool or dust can make it flare up.",
+      "Rough, red patches appear, often in elbow and knee creases, and it helps to moisturise every day."
+    ],
+    "decoys": [
+      "Chickenpox",
+      "Sunburn",
+      "Acne"
+    ],
+    "explain": "Eczema is a common condition in which the skin's protective barrier does not work well. Skin loses water easily and gets dry, red and itchy, often in the creases of elbows and knees. It is not contagious. Moisturising every day, using mild soap and not scratching help, and a doctor can give creams for flare-ups."
+  },
+  {
+    "id": "senses-taboo-11",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Goosebumps",
+    "forbidden": [
+      "Cold",
+      "Hair",
+      "Bumps",
+      "Shiver"
+    ],
+    "clues": [
+      "A scary film or a favourite song can also cause them.",
+      "Tiny muscles at the base of little fibres on your arms pull them upright.",
+      "Little raised dots that pop up on your skin when you step out into chilly air."
+    ],
+    "decoys": [
+      "Freckles",
+      "Pimples",
+      "Blisters"
+    ],
+    "explain": "Goosebumps appear when tiny muscles attached to each hair in the skin tighten and pull the hairs upright, raising little bumps. In furry animals this traps a layer of warm air, and it also makes them look bigger when frightened. Humans have little body hair, so goosebumps do not help much, but the reflex is still there."
+  },
+  {
+    "id": "senses-taboo-12",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Blind spot",
+    "forbidden": [
+      "Blind",
+      "Optic nerve",
+      "Hole",
+      "Missing"
+    ],
+    "clues": [
+      "Your brain fills in the gap so you never notice it.",
+      "There are no rods or cones on this small patch of the retina.",
+      "It is the place at the back of each eye where nerve fibres leave for the brain, so it cannot detect light."
+    ],
+    "decoys": [
+      "Pupil",
+      "Retina",
+      "Cataract"
+    ],
+    "explain": "The blind spot is a small area on the retina where the optic nerve leaves the eye. There are no light-sensing cells there, so light falling on it is not detected. You do not notice it because your two eyes cover for each other and your brain fills in the gap using what is around it."
+  },
+  {
+    "id": "senses-taboo-13",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Earwax",
+    "forbidden": [
+      "Ear",
+      "Wax",
+      "Yellow",
+      "Cotton bud"
+    ],
+    "clues": [
+      "It slowly moves outward on its own as you chew and talk.",
+      "It is sticky and traps dust and germs before they go too deep.",
+      "It is the orange-brown gunk that collects in the canal you hear through."
+    ],
+    "decoys": [
+      "Mucus",
+      "Saliva",
+      "Sweat"
+    ],
+    "explain": "Earwax is made by glands in the ear canal. It traps dust and germs and keeps the skin of the canal from drying out. Ears clean themselves: wax slowly moves out as you move your jaw. Poking inside with cotton buds can push wax deeper and block hearing, so only the outer ear should be wiped."
+  },
+  {
+    "id": "senses-taboo-14",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Fingerprint",
+    "forbidden": [
+      "Finger",
+      "Police",
+      "Swirl",
+      "Print"
+    ],
+    "clues": [
+      "Even identical twins do not share the same pattern.",
+      "These ridges form before you are born and stay the same all your life.",
+      "Detectives dust for the marks your hand leaves on a glass, and phones can use them to unlock."
+    ],
+    "decoys": [
+      "Palm line",
+      "Freckle",
+      "Birthmark"
+    ],
+    "explain": "Fingerprints are the patterns of tiny ridges on your fingertips. They help you grip things and feel textures. Each person's pattern is unique, even between identical twins, and it stays the same for life. That is why fingerprints are used to identify people."
+  },
+  {
+    "id": "senses-taboo-15",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Braille",
+    "forbidden": [
+      "Blind",
+      "Dots",
+      "Read",
+      "Touch"
+    ],
+    "clues": [
+      "It was invented by a French teenager who had lost his sight as a small child.",
+      "Each letter is a pattern made from up to six small raised bumps.",
+      "People who cannot see use their fingertips to follow this writing system."
+    ],
+    "decoys": [
+      "Sign language",
+      "Morse code",
+      "Lip reading"
+    ],
+    "explain": "Braille is a writing system of raised dots that people who are blind or have low vision read with their fingertips. Each letter or number is a pattern within a grid of six dots. It works because fingertips have many touch receptors packed close together. Louis Braille created it in France when he was about 15."
+  },
+  {
+    "id": "senses-taboo-16",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Tears",
+    "forbidden": [
+      "Cry",
+      "Eyes",
+      "Sad",
+      "Water"
+    ],
+    "clues": [
+      "They contain a substance that helps kill germs.",
+      "Small glands above the outer corner make them all the time, and each blink spreads them.",
+      "Drops that roll down your cheeks when you chop onions or feel upset."
+    ],
+    "decoys": [
+      "Sweat",
+      "Saliva",
+      "Mucus"
+    ],
+    "explain": "Tears are made by tear glands above the outer corner of each eye. Every time you blink, a thin layer spreads over the eye to keep it moist and wash away dust. Tears also contain substances that fight germs. Extra tears flow when something irritates the eye, like onion fumes, or when you feel strong emotions."
+  },
+  {
+    "id": "senses-taboo-17",
+    "system": "senses",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Optic nerve",
+    "forbidden": [
+      "Eye",
+      "Brain",
+      "Nerve",
+      "Vision"
+    ],
+    "clues": [
+      "It holds about a million fibres bundled together.",
+      "Where it leaves the retina, there is a small spot that cannot detect light.",
+      "It is the cable that carries signals from the retina to the part of the head where seeing is processed."
+    ],
+    "decoys": [
+      "Spinal cord",
+      "Retina",
+      "Eardrum"
+    ],
+    "explain": "The optic nerve is a bundle of about a million nerve fibres that carries signals from the retina to the brain. The brain, mainly the occipital lobe at the back, turns these signals into the pictures you see. Where the optic nerve leaves the eye there are no light-sensing cells, which creates the blind spot."
+  },
+  {
+    "id": "senses-case-01",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "Ophthalmologist",
+    "scenario": "An eye test shows a 12-year-old is short-sighted: light focuses just in front of her retina. Which type of lens in her glasses will help?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Coloured lens",
+      "Flat clear glass"
+    ],
+    "answer": "Concave lens",
+    "optionNotes": [
+      "Bends light inward; for long-sight",
+      "Spreads light so it focuses further back",
+      "Tint does not fix focus",
+      "Does not bend light"
+    ],
+    "explain": "In short-sight, the eye bends light too much, so it focuses in front of the retina and distant things look blurry. A concave lens is thinner in the middle and spreads light out slightly. This moves the focus back onto the retina, so the picture becomes sharp. Long-sight is corrected with convex lenses, which are thicker in the middle."
+  },
+  {
+    "id": "senses-case-02",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "A boy spills hot water from a kettle on his hand. The skin is red and painful. An adult is with him. What should they do first?",
+    "options": [
+      "Hold it under cool running water for 20 minutes",
+      "Press ice on it",
+      "Put toothpaste on it",
+      "Rub butter on it"
+    ],
+    "answer": "Hold it under cool running water for 20 minutes",
+    "optionNotes": [
+      "Removes heat and reduces damage",
+      "Ice can damage skin further",
+      "Traps heat; not a burn treatment",
+      "Traps heat and can cause infection"
+    ],
+    "explain": "A burn keeps damaging skin while heat stays in it. Cool running water for about 20 minutes draws the heat out, eases pain and limits the damage. Ice is too cold and can harm skin, and butter or toothpaste trap heat and may cause infection. Afterwards, cover it loosely with cling film or a clean non-fluffy cloth. Large burns, or burns on the face or hands, need a doctor."
+  },
+  {
+    "id": "senses-case-03",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Ophthalmologist",
+    "scenario": "On a windy day, a speck of dust blows into a girl's eye. It feels scratchy and her eye is watering. What should she do first?",
+    "options": [
+      "Poke it out with a fingernail",
+      "Keep her eye shut for a week",
+      "Rub her eye hard",
+      "Blink and rinse with clean water"
+    ],
+    "answer": "Blink and rinse with clean water",
+    "optionNotes": [
+      "Can injure the eye and add germs",
+      "Not needed and does not remove it",
+      "Can scratch the cornea",
+      "Tears and water wash the speck out"
+    ],
+    "explain": "The eye already has a cleaning system: blinking and tears wash small specks away. Rinsing with clean water helps. Rubbing or poking can drag the speck across the clear cornea and scratch it. If the feeling does not go away, or something is stuck, an adult should take her to a doctor."
+  },
+  {
+    "id": "senses-case-04",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "A boy's hearing in one ear has become muffled. He has been cleaning deep inside with cotton buds. The doctor sees the ear canal is blocked with packed wax. What is the best next step?",
+    "options": [
+      "Push the wax in further",
+      "Use a hairpin to dig it out",
+      "Let the doctor soften and remove it safely",
+      "Ignore it forever"
+    ],
+    "answer": "Let the doctor soften and remove it safely",
+    "optionNotes": [
+      "Makes the blockage worse",
+      "Can hurt the canal or eardrum",
+      "Drops soften it; doctor clears it",
+      "Hearing will stay muffled"
+    ],
+    "explain": "Earwax protects the ear, and it normally moves out on its own. Cotton buds push it back in and pack it tight, which can block sound from reaching the eardrum. A doctor can use ear drops to soften the wax and then clear it safely. After that, he should only wipe the outer ear."
+  },
+  {
+    "id": "senses-case-05",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A girl feels sick whenever she reads a book in the back seat of a car on winding roads. Which advice helps most?",
+    "options": [
+      "Read a smaller book",
+      "Look out of the front window at the distance",
+      "Close the windows tightly",
+      "Eat a large meal first"
+    ],
+    "answer": "Look out of the front window at the distance",
+    "optionNotes": [
+      "Eyes still see a still page",
+      "Eyes and inner ear agree on motion",
+      "Fresh air usually helps more",
+      "Heavy meals can worsen nausea"
+    ],
+    "explain": "Motion sickness happens when your senses disagree. The balance organs in your inner ear feel the car turning, but your eyes, fixed on a still page, say you are not moving. The brain gets mixed signals and you feel sick. Looking at the horizon lets your eyes see the same motion your ears feel."
+  },
+  {
+    "id": "senses-case-06",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "After spinning round and round in the playground, a boy stops but feels as if the world is still turning. Which part of his ear causes this feeling?",
+    "options": [
+      "Semicircular canals",
+      "Earlobe",
+      "Eardrum",
+      "Ear canal"
+    ],
+    "answer": "Semicircular canals",
+    "optionNotes": [
+      "Fluid inside keeps moving after you stop",
+      "Outer flap of skin",
+      "Vibrates with sound",
+      "Carries sound inwards"
+    ],
+    "explain": "The semicircular canals in the inner ear are three loops filled with fluid. When you turn, the fluid moves and bends tiny hair cells, telling your brain you are spinning. When you stop suddenly, the fluid keeps swirling for a few seconds, so your brain still thinks you are turning, and you feel dizzy."
+  },
+  {
+    "id": "senses-case-07",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "A family is going to the beach for the whole day. What is the best way to protect their skin from sunburn?",
+    "options": [
+      "Stay out longest at midday",
+      "Only protect skin if it is sunny, not cloudy",
+      "Sunscreen once at breakfast only",
+      "Sunscreen every 2 hours and after swimming, plus a hat and shade"
+    ],
+    "answer": "Sunscreen every 2 hours and after swimming, plus a hat and shade",
+    "optionNotes": [
+      "UV is strongest around midday",
+      "UV passes through clouds",
+      "Wears off with sweat and water",
+      "Keeps protection going all day"
+    ],
+    "explain": "Sunburn is caused by UV rays, which damage skin cells. Sunscreen wears off with time, sweat and water, so it should be put on again about every 2 hours and after swimming. Hats, clothes and shade add protection, and UV is strongest around midday. UV also passes through clouds, so overcast days still need protection."
+  },
+  {
+    "id": "senses-case-08",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "Dermatologist",
+    "scenario": "A 9-year-old has dry, itchy, red patches in the creases of her elbows that get worse in winter and after bubble baths. The doctor confirms eczema. Which daily habit helps most?",
+    "options": [
+      "Wear scratchy wool next to the skin",
+      "Scrub the patches hard",
+      "Use mild soap and moisturise every day",
+      "Take very hot, long baths"
+    ],
+    "answer": "Use mild soap and moisturise every day",
+    "optionNotes": [
+      "Rough fabric irritates eczema",
+      "Damages the weak skin barrier",
+      "Repairs the barrier and keeps water in",
+      "Hot water dries skin out more"
+    ],
+    "explain": "In eczema, the outer skin barrier is weak, so skin loses water and gets irritated easily. Mild soap and daily moisturiser help keep water in and protect the skin. Hot baths, harsh soaps and rough fabrics dry or irritate it more. Scratching damages the skin further, so keeping nails short also helps."
+  },
+  {
+    "id": "senses-case-09",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "Ophthalmologist",
+    "scenario": "A boy cannot tell the red and green dots apart in a colour test, though his sight is otherwise sharp. Which cells in his retina work differently?",
+    "options": [
+      "Rods",
+      "Cones",
+      "Hair cells",
+      "Taste cells"
+    ],
+    "answer": "Cones",
+    "optionNotes": [
+      "Work in dim light; do not see colour",
+      "Detect colour",
+      "Found in the ear",
+      "Found on the tongue"
+    ],
+    "explain": "The retina has two kinds of light-sensing cells. Rods work in dim light but only see shades of grey. Cones detect colour, and there are three types, sensitive to red, green and blue light. In red-green colour blindness, one type of cone works differently, so those colours look alike. It is usually inherited and is much more common in boys.",
+    "fact": "About 1 in 12 men and 1 in 200 women have some form of colour blindness."
+  },
+  {
+    "id": "senses-case-10",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "Ophthalmologist",
+    "scenario": "A girl plays on a tablet for hours. Her eyes feel dry and tired. Which habit helps her eyes most?",
+    "options": [
+      "Every 20 minutes, look at something far away for 20 seconds",
+      "Turn the room lights off",
+      "Stop blinking to focus better",
+      "Hold the screen closer"
+    ],
+    "answer": "Every 20 minutes, look at something far away for 20 seconds",
+    "optionNotes": [
+      "Relaxes focusing muscles",
+      "Dark room with bright screen strains eyes",
+      "Blinking keeps eyes moist",
+      "Makes eye muscles work harder"
+    ],
+    "explain": "Looking at something close for a long time keeps the small focusing muscles in the eye tight, and people blink less when staring at screens, so eyes dry out. The 20-20-20 rule helps: every 20 minutes, look at something about 20 feet (6 metres) away for 20 seconds. This relaxes the focusing muscles and reminds you to blink."
+  },
+  {
+    "id": "senses-case-11",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "Ophthalmologist",
+    "scenario": "A grandmother says her sight has become cloudy, like looking through a foggy window. The eye doctor finds the lens inside her eye has turned cloudy. What is the usual treatment?",
+    "options": [
+      "Wear earplugs",
+      "Eat extra sugar",
+      "Ear drops",
+      "Replace the cloudy lens with an artificial one"
+    ],
+    "answer": "Replace the cloudy lens with an artificial one",
+    "optionNotes": [
+      "Protect hearing, not sight",
+      "Has no effect on the lens",
+      "Treat ear problems",
+      "A common, safe operation"
+    ],
+    "explain": "The lens inside the eye focuses light onto the retina, so it needs to stay clear. With age, its proteins can clump and make it cloudy; this is a cataract. Doctors treat it with a short operation that removes the cloudy lens and puts in a clear artificial one, and most people see much better afterwards."
+  },
+  {
+    "id": "senses-case-12",
+    "system": "senses",
+    "mode": "case",
+    "level": 2,
+    "role": "ENT Doctor",
+    "scenario": "A boy with a cold and a blocked nose says his favourite curry tastes of almost nothing. His tongue is healthy. Why does food taste bland?",
+    "options": [
+      "His stomach is full",
+      "His taste buds have fallen out",
+      "Blocked smell receptors cannot add flavour",
+      "His teeth are too cold"
+    ],
+    "answer": "Blocked smell receptors cannot add flavour",
+    "optionNotes": [
+      "Fullness does not change flavour",
+      "Taste buds are still working",
+      "Smell gives food most of its flavour",
+      "Teeth do not sense flavour"
+    ],
+    "explain": "Your tongue senses only five basic tastes. Much of what we call flavour comes from smell: as you chew, smells from food rise up the back of your throat into your nose. When mucus blocks the smell receptors, you lose that part of flavour, so food seems bland until the cold clears."
+  },
+  {
+    "id": "senses-case-13",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "ENT Doctor",
+    "scenario": "A child often asks people to repeat themselves. The doctor wants to measure how well she hears different pitches, using headphones and beeps of different loudness. Which test is this?",
+    "options": [
+      "Eye chart test",
+      "Audiometry",
+      "ECG",
+      "Blood sugar test"
+    ],
+    "answer": "Audiometry",
+    "optionNotes": [
+      "Checks eyesight",
+      "Measures hearing at different pitches",
+      "Records the heart's activity",
+      "Checks sugar in the blood"
+    ],
+    "explain": "Audiometry is a hearing test. Beeps of different pitches are played through headphones, getting quieter, and the child signals each time she hears one. The results show the quietest sound she can hear at each pitch. This tells the doctor whether there is hearing loss and helps find the cause."
+  },
+  {
+    "id": "senses-case-14",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "New shoes have rubbed a blister on a girl's heel. It is unbroken and a little sore. How should she care for it?",
+    "options": [
+      "Leave it unbroken and cover it with a plaster",
+      "Keep wearing the tight shoes",
+      "Pop it with a pin",
+      "Peel the skin off"
+    ],
+    "answer": "Leave it unbroken and cover it with a plaster",
+    "optionNotes": [
+      "The skin roof protects healing skin",
+      "Rubbing makes it worse",
+      "Lets germs in",
+      "Exposes raw skin to germs"
+    ],
+    "explain": "A blister is a bubble of fluid that forms under the top layer of skin after rubbing or a burn. The fluid and the skin on top act like a natural plaster, protecting the new skin growing underneath. Popping it lets germs in. Covering it and avoiding the rubbing lets it heal on its own."
+  },
+  {
+    "id": "senses-case-15",
+    "system": "senses",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A runner on a hot day gets wet with sweat. Which body response is cooling her down?",
+    "options": [
+      "Shivering",
+      "Goosebumps",
+      "Narrowing blood vessels in her skin",
+      "Sweat evaporating from her skin"
+    ],
+    "answer": "Sweat evaporating from her skin",
+    "optionNotes": [
+      "Makes heat; used when cold",
+      "Traps warmth; used when cold",
+      "Keeps heat in; used when cold",
+      "Evaporation carries heat away"
+    ],
+    "explain": "When you get hot, sweat glands in the skin release watery sweat. As the sweat evaporates, it takes heat away from the skin, cooling you. The other three are ways the body keeps warm when it is cold. Drinking water during exercise replaces the water lost in sweat."
+  },
+  {
+    "id": "senses-case-16",
+    "system": "senses",
+    "mode": "case",
+    "level": 3,
+    "role": "ENT Doctor",
+    "scenario": "As a plane comes down to land, a boy's ears feel blocked and sore because air pressure is changing. What helps balance the pressure?",
+    "options": [
+      "Lie flat on the floor",
+      "Press a finger hard into each ear",
+      "Swallow, yawn or chew",
+      "Hold his breath for a long time"
+    ],
+    "answer": "Swallow, yawn or chew",
+    "optionNotes": [
+      "Unsafe and does not help",
+      "Does not reach the middle ear",
+      "Opens the tube from throat to ear",
+      "Does not open the tube"
+    ],
+    "explain": "Behind the eardrum is an air-filled space called the middle ear. A narrow tube, the Eustachian tube, connects it to the back of the throat. When the plane descends, outside pressure rises and pushes the eardrum in, which feels blocked. Swallowing, yawning or chewing opens the tube so air can flow in and balance the pressure."
+  }
+]

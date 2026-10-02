@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "hormones-odd-01",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Pituitary gland",
+      "Thyroid gland",
+      "Salivary gland",
+      "Adrenal gland",
+      "Pineal gland"
+    ],
+    "answer": "Salivary gland",
+    "notes": [
+      "Master gland under the brain",
+      "Gland in the front of the neck",
+      "Sends spit into the mouth through tubes",
+      "Sits on top of each kidney",
+      "Tiny gland deep in the brain"
+    ],
+    "reason": "Salivary glands pour saliva through tubes into the mouth; the others release hormones straight into the blood.",
+    "explain": "Glands are body parts that make and release useful substances. Endocrine glands have no tubes (ducts); they release hormones straight into the blood, which carries them all over the body. Salivary glands are different: they send saliva through tiny tubes into your mouth to start digesting food.",
+    "fact": "The pituitary gland is only about the size of a pea, yet it controls several other glands."
+  },
+  {
+    "id": "hormones-odd-02",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Haemoglobin",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Growth hormone"
+    ],
+    "answer": "Haemoglobin",
+    "notes": [
+      "Red protein that carries oxygen",
+      "Lowers sugar in the blood",
+      "Prepares the body for sudden danger",
+      "Sets how fast the body uses energy",
+      "Helps bones and muscles get bigger"
+    ],
+    "reason": "Haemoglobin is an oxygen-carrying protein inside red blood cells; the others are hormones.",
+    "explain": "Hormones are chemical messengers. A gland makes them, the blood carries them, and they tell other parts of the body what to do. Haemoglobin is not a messenger: it is the red protein inside red blood cells that picks up oxygen in the lungs and drops it off around the body."
+  },
+  {
+    "id": "hormones-odd-03",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Ovaries",
+      "Testes",
+      "Uterus",
+      "Bladder",
+      "Sperm ducts"
+    ],
+    "answer": "Bladder",
+    "notes": [
+      "Female organs that make eggs",
+      "Male organs that make sperm",
+      "Where a baby grows before birth",
+      "Bag that stores urine",
+      "Tubes that carry sperm"
+    ],
+    "reason": "The bladder belongs to the excretory system; the rest are reproductive organs.",
+    "explain": "The reproductive system is the set of organs that lets living things make babies. In females, the ovaries make eggs and the uterus is where a baby develops. In males, the testes make sperm and the sperm ducts carry them. The bladder only stores urine until you go to the toilet, so it belongs to the excretory system."
+  },
+  {
+    "id": "hormones-odd-04",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Growth spurt",
+      "First teeth appear",
+      "Voice gets deeper",
+      "Pimples appear",
+      "Underarm hair grows"
+    ],
+    "answer": "First teeth appear",
+    "notes": [
+      "Height increases quickly",
+      "Happens in babies and toddlers",
+      "Voice box gets larger",
+      "Skin makes more oil",
+      "New hair in the armpits"
+    ],
+    "reason": "First teeth come in during babyhood; the others are changes of puberty.",
+    "explain": "Puberty is the stage, usually starting between about 8 and 14 years of age, when a child's body begins changing into an adult's. Sex hormones from the ovaries or testes cause growth spurts, oilier skin, new body hair and, especially in boys, a deeper voice. A baby's first teeth come in between about 6 months and 3 years, long before puberty."
+  },
+  {
+    "id": "hormones-odd-05",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Insulin",
+      "Blood sugar",
+      "Pancreas",
+      "Glucose meter",
+      "Iodine"
+    ],
+    "answer": "Iodine",
+    "notes": [
+      "Hormone that moves sugar into cells",
+      "Glucose carried in the blood",
+      "Organ that makes insulin",
+      "Small device that checks sugar",
+      "Mineral the thyroid needs"
+    ],
+    "reason": "Iodine is linked to the thyroid; the other four are all part of the diabetes story.",
+    "explain": "Diabetes is a condition where there is too much sugar in the blood. It happens when the pancreas makes too little insulin, or when the body stops responding to insulin properly. People with diabetes check their sugar level with a small glucose meter. Iodine is not part of this; the thyroid gland uses it to make its hormone."
+  },
+  {
+    "id": "hormones-odd-06",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Iodine",
+      "Thyroxine",
+      "Pancreas",
+      "Goitre",
+      "Iodised salt"
+    ],
+    "answer": "Pancreas",
+    "notes": [
+      "Mineral used to make thyroxine",
+      "Main hormone of the thyroid",
+      "Makes insulin and digestive juice",
+      "Neck lump from thyroid trouble",
+      "Salt with iodine added"
+    ],
+    "reason": "The pancreas controls blood sugar; the other four are all connected to the thyroid gland.",
+    "explain": "The thyroid gland in your neck makes thyroxine, a hormone that controls how fast your body uses energy. It needs iodine from food to make it. When food has too little iodine, the thyroid can grow larger and form a lump called a goitre. Adding iodine to salt has made goitre much less common. The pancreas is a different gland that controls blood sugar."
+  },
+  {
+    "id": "hormones-odd-07",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Feeling sleepy",
+      "Faster heartbeat",
+      "Quicker breathing",
+      "Wider pupils",
+      "More blood to muscles"
+    ],
+    "answer": "Feeling sleepy",
+    "notes": [
+      "The opposite of being alert",
+      "Pumps blood around faster",
+      "Brings in more oxygen",
+      "Lets more light into the eyes",
+      "Gets legs ready to run"
+    ],
+    "reason": "Adrenaline makes you alert; the other four are its effects.",
+    "explain": "When you get a fright, your adrenal glands release adrenaline within seconds. It prepares the body to fight or run away: the heart beats faster, breathing speeds up, the pupils widen and extra blood flows to the muscles. Feeling sleepy is the opposite, because adrenaline makes you more alert.",
+    "fact": "The adrenal glands sit on top of the kidneys like small caps."
+  },
+  {
+    "id": "hormones-odd-08",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Deep sleep",
+      "Growth hormone",
+      "Protein-rich food",
+      "Fizzy drinks",
+      "Regular exercise"
+    ],
+    "answer": "Fizzy drinks",
+    "notes": [
+      "Body releases growth hormone then",
+      "Pituitary hormone that builds height",
+      "Building material for muscles",
+      "Sugar and gas, no building nutrients",
+      "Makes bones and muscles stronger"
+    ],
+    "reason": "Fizzy drinks do not help growth; the other four do.",
+    "explain": "Children grow when growth hormone from the pituitary gland tells bones and muscles to get bigger. Much of it is released during deep sleep, so good sleep matters. The body also needs protein and minerals as building materials, and exercise makes bones stronger. Fizzy drinks give sugar but none of the building blocks for growth.",
+    "fact": "A large share of your daily growth hormone is released in the first few hours of deep sleep at night."
+  },
+  {
+    "id": "hormones-odd-09",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Voice deepens",
+      "Periods begin",
+      "Facial hair grows",
+      "Adam's apple grows",
+      "Shoulders broaden"
+    ],
+    "answer": "Periods begin",
+    "notes": [
+      "Voice box gets bigger",
+      "Monthly cycle that starts in girls",
+      "Hair on chin and upper lip",
+      "Bump at the front of the neck",
+      "Upper body gets wider"
+    ],
+    "reason": "Periods happen only in girls; the other four are puberty changes in boys.",
+    "explain": "At puberty, a boy's testes make more testosterone. This hormone makes the voice box grow (seen as the Adam's apple), the voice deepen, facial hair appear and the shoulders widen. In girls, the ovaries make oestrogen, which leads to periods, also called menstruation. A period is a normal monthly cycle in which the lining of the uterus is shed."
+  },
+  {
+    "id": "hormones-odd-10",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Pancreas: Insulin",
+      "Adrenal: Adrenaline",
+      "Pituitary: Growth hormone",
+      "Testes: Testosterone",
+      "Thyroid: Adrenaline"
+    ],
+    "answer": "Thyroid: Adrenaline",
+    "notes": [
+      "Correct: controls blood sugar",
+      "Correct: fight-or-flight hormone",
+      "Correct: helps children grow",
+      "Correct: male puberty hormone",
+      "Wrong: the thyroid makes thyroxine"
+    ],
+    "reason": "The thyroid makes thyroxine, not adrenaline; the other four pairs are correct.",
+    "explain": "Each endocrine gland makes its own hormones. The pancreas makes insulin, the adrenal glands make adrenaline, the pituitary makes growth hormone and the testes make testosterone. The thyroid gland makes thyroxine, which controls how fast the body uses energy, so pairing it with adrenaline is wrong."
+  },
+  {
+    "id": "hormones-odd-11",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Very thirsty",
+      "Peeing often",
+      "Sneezing fits",
+      "Always tired",
+      "Cuts heal slowly"
+    ],
+    "answer": "Sneezing fits",
+    "notes": [
+      "Body tries to replace lost water",
+      "Kidneys flush out extra sugar",
+      "Caused by dust, pollen or colds",
+      "Cells are short of fuel",
+      "High sugar slows healing"
+    ],
+    "reason": "Sneezing is not a sign of diabetes; the other four are.",
+    "explain": "In diabetes, sugar builds up in the blood instead of entering the cells. The kidneys try to flush the extra sugar out, so the person pees a lot and feels very thirsty. The cells are short of fuel, so the person feels tired, and high sugar also slows healing. Sneezing comes from things like dust, pollen or a cold, not from diabetes."
+  },
+  {
+    "id": "hormones-odd-12",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Dog",
+      "Frog",
+      "Butterfly",
+      "Mosquito",
+      "Silk moth"
+    ],
+    "answer": "Dog",
+    "notes": [
+      "Puppy just grows bigger",
+      "Tadpole changes into a frog",
+      "Caterpillar becomes a butterfly",
+      "Water larva becomes a mosquito",
+      "Silkworm becomes a moth"
+    ],
+    "reason": "A dog does not go through metamorphosis; the other four do.",
+    "explain": "Metamorphosis is a big change in body shape as a young animal becomes an adult. Hormones control it: in frogs, thyroxine from the thyroid turns a tadpole into a frog, and insects use hormones of their own. A puppy simply grows bigger; its body plan stays the same.",
+    "fact": "Without enough thyroxine, a tadpole cannot change into a frog."
+  },
+  {
+    "id": "hormones-odd-13",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Thyroid",
+      "Adrenal glands",
+      "Ovaries",
+      "Pancreas",
+      "Testes"
+    ],
+    "answer": "Pancreas",
+    "notes": [
+      "Works when the pituitary signals it",
+      "Pituitary signal releases stress hormone",
+      "Pituitary signals start egg release",
+      "Senses blood sugar directly",
+      "Pituitary signals start sperm making"
+    ],
+    "reason": "The pancreas responds directly to blood sugar; the other four are switched on by pituitary hormones.",
+    "explain": "The pituitary is called the master gland because it sends out hormones that switch other glands on, such as the thyroid, adrenal glands, ovaries and testes. The pancreas works differently. Its hormone-making cells sense the sugar level in the blood directly and release insulin or glucagon as needed."
+  },
+  {
+    "id": "hormones-odd-14",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Daily bath",
+      "Popping pimples",
+      "Balanced diet",
+      "Enough sleep",
+      "Regular exercise"
+    ],
+    "answer": "Popping pimples",
+    "notes": [
+      "Washes away sweat and germs",
+      "Pushes germs deeper, can scar",
+      "Gives nutrients for growth",
+      "Time when growth hormone peaks",
+      "Builds strong bones and muscles"
+    ],
+    "reason": "Popping pimples harms the skin; the other four are healthy habits during puberty.",
+    "explain": "During puberty, sweat and oil glands become more active, so a daily bath and clean clothes keep body odour and germs down. A balanced diet, enough sleep and exercise support the growth spurt. Popping pimples pushes germs deeper into the skin and can leave scars, so it is better to wash gently and leave them alone."
+  },
+  {
+    "id": "hormones-odd-15",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Glucagon",
+      "Adrenaline",
+      "Cortisol",
+      "Growth hormone",
+      "Insulin"
+    ],
+    "answer": "Insulin",
+    "notes": [
+      "Tells the liver to release stored sugar",
+      "Releases sugar for quick energy",
+      "Stress hormone that raises sugar",
+      "Also pushes blood sugar up",
+      "Main hormone that lowers sugar"
+    ],
+    "reason": "Insulin lowers blood sugar; the other four raise it.",
+    "explain": "The body keeps blood sugar in a safe range using hormones that push in opposite directions. Several hormones, including glucagon, adrenaline and cortisol, raise blood sugar, for example by telling the liver to release the sugar it has stored. Insulin is the main hormone that lowers blood sugar, by helping cells take sugar in."
+  },
+  {
+    "id": "hormones-odd-16",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Healthy meals",
+      "Daily exercise",
+      "Lots of sweets",
+      "Checking blood sugar",
+      "Medicine as prescribed"
+    ],
+    "answer": "Lots of sweets",
+    "notes": [
+      "Keeps sugar levels steady",
+      "Helps the body use sugar",
+      "Makes blood sugar shoot up",
+      "Shows if sugar is too high or low",
+      "Insulin or tablets the doctor advises"
+    ],
+    "reason": "Eating lots of sweets raises blood sugar; the other four are part of good diabetes care.",
+    "explain": "People with diabetes keep their blood sugar steady by eating balanced meals, being active and checking their sugar level often. Many also take insulin or other medicines exactly as their doctor tells them. Eating lots of sweets makes blood sugar shoot up, which is the problem diabetes care tries to prevent."
+  },
+  {
+    "id": "hormones-odd-17",
+    "system": "hormones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Bile",
+      "Insulin",
+      "Glucagon",
+      "Trypsin",
+      "Lipase"
+    ],
+    "answer": "Bile",
+    "notes": [
+      "Made by the liver",
+      "Hormone that lowers blood sugar",
+      "Hormone that raises blood sugar",
+      "Enzyme that digests protein",
+      "Enzyme that digests fat"
+    ],
+    "reason": "Bile comes from the liver; the pancreas makes the other four.",
+    "explain": "The pancreas has two jobs. As an endocrine gland, it releases insulin and glucagon into the blood to control sugar. As a digestive gland, it sends enzymes such as trypsin and lipase into the small intestine through a duct. Bile is made by the liver, not the pancreas, and helps break fat into tiny droplets."
+  },
+  {
+    "id": "hormones-taboo-01",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Hormone",
+    "forbidden": [
+      "Gland",
+      "Chemical",
+      "Messenger",
+      "Blood"
+    ],
+    "clues": [
+      "Tiny amounts of this can change how you grow, sleep or react to a fright.",
+      "It is made in one place and travels around the body to give orders to far-away organs.",
+      "Insulin, adrenaline and thyroxine are all examples."
+    ],
+    "decoys": [
+      "Enzyme",
+      "Vitamin",
+      "Antibody"
+    ],
+    "explain": "A hormone is a chemical messenger. An endocrine gland releases it into the blood, the blood carries it everywhere, and only the cells that have the right receivers respond. That is how a gland in your neck or head can control things happening in your bones, skin or heart."
+  },
+  {
+    "id": "hormones-taboo-02",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Insulin",
+    "forbidden": [
+      "Sugar",
+      "Diabetes",
+      "Pancreas",
+      "Injection"
+    ],
+    "clues": [
+      "Special cells in a leaf-shaped organ behind the stomach release it after a meal.",
+      "It works like a key, letting glucose leave the blood and enter cells.",
+      "People whose bodies cannot make it must take it every day to stay healthy."
+    ],
+    "decoys": [
+      "Glucagon",
+      "Thyroxine",
+      "Adrenaline"
+    ],
+    "explain": "After you eat, glucose from food enters your blood. The pancreas releases insulin, which lets cells take in that glucose and use it for energy. Without insulin, glucose stays stuck in the blood, which is what happens in type 1 diabetes. Glucagon does the opposite job and raises blood glucose."
+  },
+  {
+    "id": "hormones-taboo-03",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Thyroid",
+    "forbidden": [
+      "Neck",
+      "Butterfly",
+      "Thyroxine",
+      "Iodine"
+    ],
+    "clues": [
+      "Its hormone sets how fast your body burns energy, like a speed dial.",
+      "If it works too slowly, a person may feel tired and cold all the time.",
+      "This gland sits in front of your windpipe, just below the Adam's apple."
+    ],
+    "decoys": [
+      "Pituitary",
+      "Adrenal gland",
+      "Pineal gland"
+    ],
+    "explain": "The thyroid is a butterfly-shaped gland in the front of the neck. It makes thyroxine, which controls metabolism, the speed at which your cells use energy. Too little thyroxine makes a person slow, tired and cold; too much makes them shaky, hot and thin."
+  },
+  {
+    "id": "hormones-taboo-04",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Pituitary",
+    "forbidden": [
+      "Master",
+      "Brain",
+      "Pea",
+      "Growth"
+    ],
+    "clues": [
+      "Its hormones switch on the thyroid, adrenal glands, ovaries and testes.",
+      "It hangs from the underside of the head's control centre, just behind the eyes.",
+      "It is about the size of a small bean and makes the hormone that helps children get taller."
+    ],
+    "decoys": [
+      "Pineal gland",
+      "Thyroid",
+      "Adrenal gland"
+    ],
+    "explain": "The pituitary is a pea-sized gland under the brain. It is called the master gland because its hormones control other glands, telling them when to work harder or slow down. It also makes growth hormone, which helps children's bones and muscles get bigger."
+  },
+  {
+    "id": "hormones-taboo-05",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Adrenaline",
+    "forbidden": [
+      "Fear",
+      "Fight",
+      "Flight",
+      "Kidney"
+    ],
+    "clues": [
+      "Doctors may use an injection of it to treat a severe allergic reaction.",
+      "It makes your heart race and your palms sweat when you are scared or excited.",
+      "It is made by small glands that sit on top of the organs that make urine."
+    ],
+    "decoys": [
+      "Insulin",
+      "Melatonin",
+      "Thyroxine"
+    ],
+    "explain": "Adrenaline is the emergency hormone, made by the adrenal glands on top of the kidneys. In seconds it raises your heart rate, speeds up breathing and sends extra blood and sugar to your muscles, so you can fight or run. Because it opens airways and supports blood pressure, doctors also use it in emergencies such as a severe allergic reaction."
+  },
+  {
+    "id": "hormones-taboo-06",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Puberty",
+    "forbidden": [
+      "Teenager",
+      "Growing",
+      "Hormones",
+      "Adult"
+    ],
+    "clues": [
+      "It usually begins somewhere between about 8 and 14 years of age.",
+      "During this time, voices may deepen, pimples may appear and new hair grows in the armpits.",
+      "It is the stage when a child's body slowly changes into a grown-up's body."
+    ],
+    "decoys": [
+      "Infancy",
+      "Childhood",
+      "Old age"
+    ],
+    "explain": "Puberty is when the body becomes able to have children one day. The pituitary gland signals the ovaries or testes to make sex hormones, and these cause the changes: growth spurts, body hair, oilier skin, breast development in girls and a deeper voice in boys. It starts at different ages for different people, and that is normal."
+  },
+  {
+    "id": "hormones-taboo-07",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Diabetes",
+    "forbidden": [
+      "Sugar",
+      "Insulin",
+      "Pancreas",
+      "Sweet"
+    ],
+    "clues": [
+      "Doctors check for it by measuring glucose in a blood sample.",
+      "People with it may feel very thirsty and need to pee often.",
+      "With it, the body cannot control glucose in the blood, so the level gets too high."
+    ],
+    "decoys": [
+      "Goitre",
+      "Jaundice",
+      "Anaemia"
+    ],
+    "explain": "In diabetes, the body either makes too little insulin (type 1) or does not respond to it well (type 2). Glucose then stays in the blood instead of feeding the cells. Over time, high blood glucose can harm the eyes, kidneys and nerves, so people with diabetes manage it with diet, exercise, regular checks and medicine."
+  },
+  {
+    "id": "hormones-taboo-08",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Goitre",
+    "forbidden": [
+      "Thyroid",
+      "Neck",
+      "Iodine",
+      "Swelling"
+    ],
+    "clues": [
+      "It used to be very common in hilly areas far from the sea.",
+      "Adding a special mineral to table salt has made it much rarer.",
+      "It is a visible lump at the front of the throat, caused by an enlarged gland."
+    ],
+    "decoys": [
+      "Mumps",
+      "Tonsillitis",
+      "Acne"
+    ],
+    "explain": "The thyroid gland needs iodine to make its hormone. When food has too little iodine, the gland grows larger as it tries to make enough, forming a goitre. Soil in hilly regions often has little iodine, which is why goitre was common there. Iodised salt is a simple way to prevent it."
+  },
+  {
+    "id": "hormones-taboo-09",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Testosterone",
+    "forbidden": [
+      "Male",
+      "Testes",
+      "Boys",
+      "Beard"
+    ],
+    "clues": [
+      "Girls' bodies also make a small amount of it.",
+      "At puberty it makes the voice box grow, so the voice gets deeper.",
+      "It is the main sex hormone made in the organs that produce sperm."
+    ],
+    "decoys": [
+      "Oestrogen",
+      "Progesterone",
+      "Growth hormone"
+    ],
+    "explain": "Testosterone is made mainly by the testes. At puberty it causes the changes seen in boys: deeper voice, facial and body hair, more muscle and broader shoulders. It also helps the testes make sperm. Girls make small amounts too, but their main sex hormone is oestrogen."
+  },
+  {
+    "id": "hormones-taboo-10",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Oestrogen",
+    "forbidden": [
+      "Female",
+      "Ovary",
+      "Girls",
+      "Women"
+    ],
+    "clues": [
+      "Together with another hormone, it helps prepare the lining of the uterus each month.",
+      "At puberty it causes breasts to develop and hips to widen.",
+      "It is the main sex hormone made by the organs that release eggs."
+    ],
+    "decoys": [
+      "Testosterone",
+      "Progesterone",
+      "Adrenaline"
+    ],
+    "explain": "Oestrogen (also spelled estrogen) is made mainly by the ovaries. At puberty it causes the body changes seen in girls, such as breast development and wider hips. Each month it also helps thicken the lining of the uterus, working with another hormone called progesterone."
+  },
+  {
+    "id": "hormones-taboo-11",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Menstruation",
+    "forbidden": [
+      "Period",
+      "Blood",
+      "Uterus",
+      "Monthly"
+    ],
+    "clues": [
+      "It usually starts about two years after the first signs of puberty in girls.",
+      "It happens roughly every 28 days and lasts a few days each time.",
+      "If an egg is not fertilised, the thick lining of the womb breaks down and leaves the body."
+    ],
+    "decoys": [
+      "Fertilisation",
+      "Ovulation",
+      "Puberty"
+    ],
+    "explain": "Every month, the lining of the uterus thickens so it could hold a baby if an egg were fertilised. When that does not happen, the lining breaks down and flows out of the body for a few days. This is menstruation, or a period. It is a normal, healthy sign that the reproductive system is working."
+  },
+  {
+    "id": "hormones-taboo-12",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Uterus",
+    "forbidden": [
+      "Womb",
+      "Baby",
+      "Pregnancy",
+      "Ovary"
+    ],
+    "clues": [
+      "Its thick muscular wall can stretch to many times its normal size.",
+      "Each month its lining thickens, ready in case an egg is fertilised.",
+      "It is the hollow, pear-shaped organ where an unborn child develops for about nine months."
+    ],
+    "decoys": [
+      "Ovary",
+      "Bladder",
+      "Stomach"
+    ],
+    "explain": "The uterus, or womb, is a hollow muscular organ in the female body. If a fertilised egg settles in its lining, the baby grows there for about nine months while the uterus stretches to make room. Its strong muscles also push the baby out at birth. The ovaries, which make eggs, sit on either side of it."
+  },
+  {
+    "id": "hormones-taboo-13",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Fertilisation",
+    "forbidden": [
+      "Sperm",
+      "Egg",
+      "Zygote",
+      "Join"
+    ],
+    "clues": [
+      "In humans it happens inside the tube that leads from the ovary to the uterus.",
+      "In most fish and frogs it happens outside the body, in water.",
+      "It is the moment when a male sex cell and a female sex cell fuse to start a new life."
+    ],
+    "decoys": [
+      "Menstruation",
+      "Pollination",
+      "Germination"
+    ],
+    "explain": "Fertilisation is when a sperm and an egg fuse to form one new cell, called a zygote. In humans it happens inside the body, in the oviduct, so it is called internal fertilisation. Frogs and most fish release eggs and sperm into water, where fertilisation happens outside the body."
+  },
+  {
+    "id": "hormones-taboo-14",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Adam's apple",
+    "forbidden": [
+      "Throat",
+      "Neck",
+      "Voice",
+      "Boys"
+    ],
+    "clues": [
+      "This bump is made of tough, bendy cartilage.",
+      "It usually becomes easier to see when a teenager's sound box grows during puberty.",
+      "It moves up and down when you swallow, and it is named after a fruit."
+    ],
+    "decoys": [
+      "Thyroid gland",
+      "Collarbone",
+      "Tonsil"
+    ],
+    "explain": "The Adam's apple is the front edge of the voice box (larynx), which is made of cartilage. At puberty, testosterone makes the voice box grow, especially in boys, so the bump becomes more visible. A bigger voice box has longer vocal cords, which is why the voice gets deeper."
+  },
+  {
+    "id": "hormones-taboo-15",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Growth hormone",
+    "forbidden": [
+      "Pituitary",
+      "Height",
+      "Tall",
+      "Grow"
+    ],
+    "clues": [
+      "Much of it is released in the first few hours of deep sleep.",
+      "If a child makes too little, a doctor may prescribe daily injections of it.",
+      "It tells bones and muscles to get bigger during childhood, so a child gains centimetres each year."
+    ],
+    "decoys": [
+      "Melatonin",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "explain": "Growth hormone is made by the pituitary gland. It tells the ends of long bones to lengthen and muscles to build up, which is how children get taller. Most of it is released during deep sleep, which is one reason growing children need plenty of sleep."
+  },
+  {
+    "id": "hormones-taboo-16",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Endocrinologist",
+    "forbidden": [
+      "Doctor",
+      "Hormones",
+      "Glands",
+      "Diabetes"
+    ],
+    "clues": [
+      "This specialist might treat a child who is growing much more slowly than expected.",
+      "They look after patients with thyroid problems or blood glucose problems.",
+      "Their speciality is the body's system of ductless organs that release chemical messengers."
+    ],
+    "decoys": [
+      "Cardiologist",
+      "Neurologist",
+      "Nephrologist"
+    ],
+    "explain": "An endocrinologist is a doctor who treats problems of the endocrine system, the glands that make hormones. They treat diabetes, thyroid disease, growth problems and puberty that comes very early or very late. A cardiologist treats the heart, a neurologist the brain and nerves, and a nephrologist the kidneys."
+  },
+  {
+    "id": "hormones-taboo-17",
+    "system": "hormones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Adolescence",
+    "forbidden": [
+      "Teenager",
+      "Puberty",
+      "Teens",
+      "Youth"
+    ],
+    "clues": [
+      "Along with body changes, feelings can become stronger and friendships matter more during this stage.",
+      "The World Health Organization describes it as roughly ages 10 to 19.",
+      "It is the stage of life that bridges childhood and adulthood."
+    ],
+    "decoys": [
+      "Infancy",
+      "Old age",
+      "Middle age"
+    ],
+    "explain": "Adolescence is the whole period of change between being a child and being an adult. It includes puberty, the body changes, but also changes in thinking, feelings and independence. Mood swings during adolescence are common, partly because hormone levels are changing."
+  },
+  {
+    "id": "hormones-case-01",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A 9-year-old is always thirsty, wakes at night to pee, and has lost weight even though she eats well. The doctor suspects a hormone problem. Which test should come first?",
+    "options": [
+      "Chest X-ray",
+      "Blood sugar test",
+      "ECG",
+      "Hearing test"
+    ],
+    "answer": "Blood sugar test",
+    "optionNotes": [
+      "Pictures of lungs and ribs",
+      "Measures glucose in the blood",
+      "Records the heart's electrical signals",
+      "Checks how well the ears work"
+    ],
+    "explain": "Thirst, frequent peeing and weight loss are classic signs of diabetes. When cells cannot use glucose, it builds up in the blood, the kidneys pass it out in urine with lots of water, and the body burns fat and muscle for fuel. A blood sugar test measures glucose directly, so it is the quickest way to check."
+  },
+  {
+    "id": "hormones-case-02",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Endocrinologist",
+    "scenario": "A woman from a hilly village has a slowly growing lump at the front of her neck. Her family uses plain salt with no added minerals. Which nutrient is she probably missing?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Vitamin C"
+    ],
+    "answer": "Iodine",
+    "optionNotes": [
+      "Needed for red blood cells",
+      "Needed to make thyroid hormone",
+      "Needed for bones and teeth",
+      "Needed for healthy gums and healing"
+    ],
+    "explain": "The thyroid gland needs iodine to make thyroxine. Without enough, it grows bigger, forming a lump called a goitre. Hilly areas often have soil and water low in iodine, so iodised salt is an easy way to prevent this. A doctor would confirm it with blood tests."
+  },
+  {
+    "id": "hormones-case-03",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Endocrinologist",
+    "scenario": "A 10-year-old is much shorter than his classmates and has grown very little in two years. Tests show a gland at the base of his brain is making too little of one hormone. Which hormone?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Melatonin",
+      "Growth hormone"
+    ],
+    "answer": "Growth hormone",
+    "optionNotes": [
+      "Controls blood sugar",
+      "Prepares the body for danger",
+      "Makes us sleepy at night",
+      "Tells bones and muscles to grow"
+    ],
+    "explain": "The pituitary gland sits at the base of the brain and makes growth hormone. If it makes too little, a child grows much more slowly than others. Doctors can treat this with regular growth hormone injections, which help the child catch up."
+  },
+  {
+    "id": "hormones-case-04",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Before her school speech, Meera's heart pounds, her palms sweat and she breathes fast. A hormone released within seconds causes this. Which glands release it?",
+    "options": [
+      "Adrenal glands",
+      "Thyroid gland",
+      "Pituitary gland",
+      "Salivary glands"
+    ],
+    "answer": "Adrenal glands",
+    "optionNotes": [
+      "Make adrenaline, the emergency hormone",
+      "Makes thyroxine for energy use",
+      "Master gland that controls others",
+      "Make saliva, not hormones"
+    ],
+    "explain": "Nervousness triggers the adrenal glands, on top of the kidneys, to release adrenaline. It speeds up the heart and breathing and makes you sweat, getting the body ready for action. These feelings are normal and fade once the moment passes; slow, deep breaths can help."
+  },
+  {
+    "id": "hormones-case-05",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Dermatologist",
+    "scenario": "A 13-year-old has had oily skin and pimples since puberty began. Her face is not swollen or very painful. What is the best advice?",
+    "options": [
+      "Squeeze every pimple",
+      "Scrub the face hard many times a day",
+      "Put toothpaste on the pimples",
+      "Wash the face gently twice a day"
+    ],
+    "answer": "Wash the face gently twice a day",
+    "optionNotes": [
+      "Pushes germs deeper and can scar",
+      "Irritates skin and can worsen pimples",
+      "Can irritate and burn the skin",
+      "Removes extra oil without harming skin"
+    ],
+    "explain": "Puberty hormones make the skin's oil glands more active. Oil and dead skin can block pores, and bacteria then cause pimples. Gentle washing twice a day helps. Squeezing or harsh scrubbing damages the skin. If pimples are severe or leave scars, a dermatologist can prescribe treatment."
+  },
+  {
+    "id": "hormones-case-06",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "ENT Doctor",
+    "scenario": "A 14-year-old boy's voice keeps cracking, jumping between high and low. He is otherwise healthy. Which body part is growing and causing this?",
+    "options": [
+      "Thyroid gland",
+      "Tongue",
+      "Voice box",
+      "Lungs"
+    ],
+    "answer": "Voice box",
+    "optionNotes": [
+      "Controls energy use, not sound",
+      "Shapes words, does not set pitch",
+      "Holds the vocal cords that make sound",
+      "Push air but do not set pitch"
+    ],
+    "explain": "At puberty, testosterone makes the voice box (larynx) and its vocal cords grow longer and thicker. While they are growing, the voice can crack or jump between high and low. Once growth settles, the voice becomes steadily deeper. This is normal and needs no treatment."
+  },
+  {
+    "id": "hormones-case-07",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Emergency Doctor",
+    "scenario": "A boy with diabetes took his insulin but skipped lunch. Now he is shaky, sweaty and confused, but awake and able to swallow. While an adult calls for help, what should he be given first?",
+    "options": [
+      "More insulin",
+      "A glass of plain water",
+      "A sugary drink or glucose tablets",
+      "Nothing; let him sleep"
+    ],
+    "answer": "A sugary drink or glucose tablets",
+    "optionNotes": [
+      "Would push sugar even lower",
+      "Has no sugar to raise levels",
+      "Quickly raises blood sugar",
+      "Low sugar can get worse unnoticed"
+    ],
+    "explain": "Insulin lowers blood sugar. If someone takes it and then does not eat, sugar can drop too low, causing shakiness, sweating and confusion. Fast sugar, such as fruit juice or glucose tablets, raises it within minutes. Food should only be given if the person is awake and can swallow, and an adult should get medical help."
+  },
+  {
+    "id": "hormones-case-08",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Endocrinologist",
+    "scenario": "A girl is diagnosed with type 1 diabetes. Her immune system has damaged the cells that make insulin. In which organ are these cells?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "answer": "Pancreas",
+    "optionNotes": [
+      "Stores sugar, makes bile",
+      "Filters blood, makes urine",
+      "Has small clusters of insulin-making cells",
+      "Digests food with acid"
+    ],
+    "explain": "The pancreas has small clusters of cells, called islets, that make insulin. In type 1 diabetes, the immune system attacks these cells by mistake, so the body can no longer make enough insulin. People with type 1 diabetes need insulin every day for life. It is not caused by eating sweets."
+  },
+  {
+    "id": "hormones-case-09",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Endocrinologist",
+    "scenario": "A man feels tired and cold all the time and has gained weight without eating more. A blood test shows he has too little thyroxine. Which gland is not working hard enough?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pineal gland",
+      "Salivary gland"
+    ],
+    "answer": "Thyroid gland",
+    "optionNotes": [
+      "Makes thyroxine",
+      "Makes adrenaline",
+      "Makes melatonin for sleep",
+      "Makes saliva"
+    ],
+    "explain": "Thyroxine sets the speed at which cells burn energy. When the thyroid makes too little, everything slows down: the person feels tired and cold, and gains weight more easily. Doctors treat this with a daily tablet that replaces the missing hormone."
+  },
+  {
+    "id": "hormones-case-10",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Endocrinologist",
+    "scenario": "A woman eats well but keeps losing weight. She feels hot and shaky, and her heart races even at rest. A blood test shows one hormone level is far too high. Which one?",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Melatonin",
+      "Growth hormone"
+    ],
+    "answer": "Thyroxine",
+    "optionNotes": [
+      "Too much speeds up the whole body",
+      "Too much would lower blood sugar",
+      "Affects sleep, not weight or heart",
+      "Mainly affects growth"
+    ],
+    "explain": "Too much thyroxine is like pressing the body's accelerator all the time. Cells burn energy very fast, so the person loses weight, feels hot, sweats, shakes and has a fast heartbeat. This is called an overactive thyroid, and doctors can treat it with medicine."
+  },
+  {
+    "id": "hormones-case-11",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Paediatrician",
+    "scenario": "A 12-year-old watches videos in bed until midnight and cannot fall asleep. The bright screen delays a hormone that makes us sleepy when it gets dark. Which hormone?",
+    "options": [
+      "Insulin",
+      "Melatonin",
+      "Thyroxine",
+      "Testosterone"
+    ],
+    "answer": "Melatonin",
+    "optionNotes": [
+      "Controls blood sugar",
+      "Released by the pineal gland in darkness",
+      "Controls energy use",
+      "Male puberty hormone"
+    ],
+    "explain": "The pineal gland in the brain releases melatonin when it gets dark, which tells the body it is time to sleep. Bright light, especially from screens, delays melatonin, so it is harder to fall asleep. Switching screens off an hour before bed helps the body's natural sleep signal."
+  },
+  {
+    "id": "hormones-case-12",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "An 11-year-old girl has had her first period and asks her doctor what is happening. The doctor explains that about once a month an egg is released. Which organ releases it?",
+    "options": [
+      "Uterus",
+      "Bladder",
+      "Kidney",
+      "Ovary"
+    ],
+    "answer": "Ovary",
+    "optionNotes": [
+      "Where a baby would grow",
+      "Stores urine",
+      "Filters blood",
+      "Makes and releases eggs"
+    ],
+    "explain": "A girl has two ovaries, one on each side of the uterus. After puberty starts, about once a month one of them releases an egg, which travels down the oviduct. If the egg is not fertilised, the lining of the uterus is shed as a period. Starting periods is a normal part of growing up."
+  },
+  {
+    "id": "hormones-case-13",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Gynaecologist",
+    "scenario": "A student asks a doctor what forms right after a sperm and an egg fuse. It is a single cell that will divide again and again to become a baby. What is it called?",
+    "options": [
+      "Zygote",
+      "Embryo",
+      "Foetus",
+      "Ovum"
+    ],
+    "answer": "Zygote",
+    "optionNotes": [
+      "The single cell formed at fertilisation",
+      "Ball of cells formed after many divisions",
+      "Later stage, when body parts are visible",
+      "The egg before fertilisation"
+    ],
+    "explain": "When a sperm and an egg fuse, they form one cell called a zygote. The zygote divides again and again to form an embryo, a growing ball of cells that settles in the uterus. Once the main body parts can be seen, the developing baby is called a foetus."
+  },
+  {
+    "id": "hormones-case-14",
+    "system": "hormones",
+    "mode": "case",
+    "level": 3,
+    "role": "Gynaecologist",
+    "scenario": "Twin girls look exactly alike and have the same genes. The doctor says they are identical twins. How did they form?",
+    "options": [
+      "Two eggs each fertilised by a different sperm",
+      "One egg fertilised by two sperm",
+      "One zygote split into two",
+      "One sperm fertilised two eggs"
+    ],
+    "answer": "One zygote split into two",
+    "optionNotes": [
+      "Makes non-identical twins",
+      "Cannot develop into healthy twins",
+      "Each half grows into a baby",
+      "One sperm can fertilise only one egg"
+    ],
+    "explain": "Identical twins form when one fertilised egg, the zygote, splits into two early on. Each part grows into a baby, so both have the same genes. Non-identical twins come from two separate eggs fertilised by two separate sperm, so they can look as different as ordinary brothers and sisters."
+  },
+  {
+    "id": "hormones-case-15",
+    "system": "hormones",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "Arjun is 12. Most of his friends have suddenly grown taller and their voices are deeper, but his have not changed yet. He is healthy. What should the doctor tell him?",
+    "options": [
+      "He needs growth injections right away",
+      "Puberty starts at different ages, and his may just come later",
+      "He should eat double meals",
+      "His bones have stopped working"
+    ],
+    "answer": "Puberty starts at different ages, and his may just come later",
+    "optionNotes": [
+      "Only for proven hormone shortage",
+      "Normal range is wide, roughly 9 to 14 in boys",
+      "Extra food does not start puberty",
+      "Not true; his bones are still growing"
+    ],
+    "explain": "Puberty is set off by hormones, and the timing differs from person to person. In boys it usually starts between about 9 and 14, so at 12 it is normal to be early or late. Late starters usually catch up. A doctor checks further only if there are no signs of puberty by around 14."
+  },
+  {
+    "id": "hormones-case-16",
+    "system": "hormones",
+    "mode": "case",
+    "level": 2,
+    "role": "Endocrinologist",
+    "scenario": "A student asks how a hormone made in a gland in the neck reaches cells in the toes, with no tube joining them. How does it travel?",
+    "options": [
+      "Along the nerves",
+      "Through the urine",
+      "In the bloodstream",
+      "Through the air in the lungs"
+    ],
+    "answer": "In the bloodstream",
+    "optionNotes": [
+      "Nerves carry electrical signals",
+      "Urine carries waste out of the body",
+      "Blood reaches every part of the body",
+      "Lungs exchange gases only"
+    ],
+    "explain": "Endocrine glands have no ducts. They release hormones straight into the blood, which flows to every part of the body within about a minute. Only cells with the right receivers respond, the way only one lock opens for a key. That is why hormones can act far from where they were made."
+  }
+]

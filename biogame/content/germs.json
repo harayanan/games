@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "germs-odd-01",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Bacteria",
+      "Viruses",
+      "Red blood cells",
+      "Fungi",
+      "Malaria parasite"
+    ],
+    "answer": "Red blood cells",
+    "notes": [
+      "Single cells; some cause disease",
+      "Tiny germs that copy inside cells",
+      "Your own cells that carry oxygen",
+      "Moulds and yeasts; some cause infections",
+      "Single-celled germ spread by mosquitoes"
+    ],
+    "reason": "Red blood cells are part of your body; the other four are kinds of germs.",
+    "explain": "Germs are microbes, too small to see without a microscope, that can cause disease. The main kinds are bacteria, viruses, fungi and protozoa, such as the parasite that causes malaria. Red blood cells are not germs; they are your own cells that carry oxygen around your body."
+  },
+  {
+    "id": "germs-odd-02",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Typhoid",
+      "Chickenpox",
+      "Flu",
+      "Measles",
+      "Dengue"
+    ],
+    "answer": "Typhoid",
+    "notes": [
+      "Bacteria; spread by dirty food and water",
+      "Virus; itchy blisters",
+      "Virus; fever, aches, cough",
+      "Virus; fever and red rash",
+      "Virus; spread by mosquitoes"
+    ],
+    "reason": "Typhoid is caused by bacteria; the other four are caused by viruses.",
+    "explain": "Doctors group diseases by the kind of germ that causes them, because that decides the treatment. Chickenpox, flu, measles and dengue are caused by viruses. Typhoid is caused by bacteria, usually spread through dirty food or water, which is why antibiotics can treat it but cannot treat the other four."
+  },
+  {
+    "id": "germs-odd-03",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Malaria",
+      "Dengue",
+      "Chikungunya",
+      "Cholera",
+      "Yellow fever"
+    ],
+    "answer": "Cholera",
+    "notes": [
+      "Spread by mosquito bites",
+      "Spread by mosquito bites",
+      "Spread by mosquito bites",
+      "Spread through dirty drinking water",
+      "Spread by mosquito bites"
+    ],
+    "reason": "Cholera spreads through dirty water; the other four are spread by mosquitoes.",
+    "explain": "Some germs need a carrier to move from person to person. Mosquitoes pick up the germs of malaria, dengue, chikungunya and yellow fever when they bite a sick person and pass them on with the next bite. Cholera spreads when drinking water or food is dirtied with sewage. Removing standing water stops mosquitoes breeding, while clean water and toilets stop cholera.",
+    "fact": "Only female mosquitoes bite; they need blood to make their eggs."
+  },
+  {
+    "id": "germs-odd-04",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cholera",
+      "Tuberculosis",
+      "Typhoid",
+      "Hepatitis A",
+      "Food poisoning"
+    ],
+    "answer": "Tuberculosis",
+    "notes": [
+      "Spread by dirty water",
+      "Spread through the air by coughing",
+      "Spread by dirty food and water",
+      "Liver infection from dirty food or water",
+      "From spoiled or dirty food"
+    ],
+    "reason": "Tuberculosis spreads through the air; the other four spread through dirty food or water.",
+    "explain": "Knowing how a germ travels tells you how to stop it. Cholera, typhoid, hepatitis A and food poisoning spread when food or water is dirtied with germs, so clean water, hand washing and safe cooking prevent them. Tuberculosis (TB) spreads through tiny droplets in the air when a person with TB of the lungs coughs, so it needs different protection."
+  },
+  {
+    "id": "germs-odd-05",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Skin",
+      "Mucus",
+      "Tears",
+      "White blood cells",
+      "Insulin"
+    ],
+    "answer": "Insulin",
+    "notes": [
+      "Wall that keeps germs out",
+      "Sticky layer that traps germs",
+      "Wash germs out of the eyes",
+      "Attack germs that get inside",
+      "Hormone that controls blood sugar"
+    ],
+    "reason": "Insulin controls blood sugar; the other four defend the body against germs.",
+    "explain": "Your body has layers of defence. Skin is a wall, sticky mucus in the nose traps germs, and tears wash the eyes and contain germ-killing substances. If germs still get in, white blood cells attack them. Insulin is a hormone that controls blood sugar and has no role in fighting germs."
+  },
+  {
+    "id": "germs-odd-06",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "X-ray",
+      "MRI scan",
+      "Blood test",
+      "CT scan",
+      "Ultrasound"
+    ],
+    "answer": "Blood test",
+    "notes": [
+      "Rays show bones and lungs",
+      "Magnet shows soft parts in detail",
+      "Lab checks a sample of blood",
+      "X-rays from many angles make slices",
+      "Sound waves show organs and unborn babies"
+    ],
+    "reason": "A blood test studies a sample in a lab; the other four make pictures of the inside of the body.",
+    "explain": "Imaging tests let doctors see inside the body without surgery. X-rays and CT scans use X-rays, MRI uses a strong magnet and radio waves, and ultrasound uses sound waves. A blood test makes no picture: a small sample is taken and checked in a laboratory for things like germs, sugar or the number of blood cells."
+  },
+  {
+    "id": "germs-odd-07",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "MRI scan",
+      "Chest X-ray",
+      "Dental X-ray",
+      "Knee X-ray",
+      "CT scan"
+    ],
+    "answer": "MRI scan",
+    "notes": [
+      "Uses a magnet and radio waves",
+      "Uses X-rays",
+      "Uses X-rays",
+      "Uses X-rays",
+      "Uses X-rays from many angles"
+    ],
+    "reason": "MRI uses a magnet and radio waves; the other four use X-rays.",
+    "explain": "X-rays are invisible rays that pass through soft parts but are blocked by bones and teeth, which show up white on the picture. A CT scan uses X-rays too, taken from many angles and joined by a computer into slices. An MRI scan uses no X-rays at all: a very strong magnet and radio waves make detailed pictures, especially of soft parts like the brain and muscles."
+  },
+  {
+    "id": "germs-odd-08",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cardiologist",
+      "Dermatologist",
+      "Neurologist",
+      "Pharmacist",
+      "Paediatrician"
+    ],
+    "answer": "Pharmacist",
+    "notes": [
+      "Doctor for the heart",
+      "Doctor for the skin",
+      "Doctor for brain and nerves",
+      "Expert who prepares and gives out medicines",
+      "Doctor for children"
+    ],
+    "reason": "A pharmacist is a medicines expert; the other four are doctors who examine and treat patients.",
+    "explain": "Doctors examine patients, find out what is wrong and decide on treatment. Many specialise in one part of the body or one age group. A pharmacist is a different health expert who checks a doctor's prescription, prepares the medicine and explains how to take it safely."
+  },
+  {
+    "id": "germs-odd-09",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Cardiologist: Heart",
+      "Neurologist: Bones",
+      "Ophthalmologist: Eyes",
+      "Dermatologist: Skin",
+      "Nephrologist: Kidneys"
+    ],
+    "answer": "Neurologist: Bones",
+    "notes": [
+      "Correct pair",
+      "Wrong: neurologists treat brain and nerves",
+      "Correct pair",
+      "Correct pair",
+      "Correct pair"
+    ],
+    "reason": "A neurologist treats the brain and nerves, not bones; the other four pairs are correct.",
+    "explain": "A specialist's name often comes from Greek words for the body part. 'Cardio' means heart, 'ophthalmo' means eye, 'derma' means skin, 'nephro' means kidney and 'neuro' means nerve. Bones and joints are treated by an orthopaedic doctor.",
+    "fact": "The ending '-ologist' means 'someone who studies'."
+  },
+  {
+    "id": "germs-odd-10",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Tuberculosis",
+      "Typhoid",
+      "Cholera",
+      "Strep throat",
+      "Common cold"
+    ],
+    "answer": "Common cold",
+    "notes": [
+      "Bacteria; treated with antibiotics",
+      "Bacteria; treated with antibiotics",
+      "Bacteria; fluids first, antibiotics may help",
+      "Bacteria; treated with antibiotics",
+      "Virus; antibiotics do not work"
+    ],
+    "reason": "The common cold is caused by viruses, so antibiotics do not help; the other four are bacterial infections.",
+    "explain": "Antibiotics are medicines that kill bacteria or stop them multiplying. They work by attacking parts that bacteria have, such as their cell wall. Viruses do not have those parts, so antibiotics have no effect on a cold. A cold gets better on its own with rest and fluids."
+  },
+  {
+    "id": "germs-odd-11",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Washing hands with soap",
+      "Covering coughs",
+      "Sharing a toothbrush",
+      "Drinking boiled water",
+      "Using your own towel"
+    ],
+    "answer": "Sharing a toothbrush",
+    "notes": [
+      "Removes germs from hands",
+      "Stops droplets reaching others",
+      "Passes mouth germs between people",
+      "Heat kills germs in water",
+      "Stops germs passing between people"
+    ],
+    "reason": "Sharing a toothbrush spreads germs; the other four stop germs spreading.",
+    "explain": "Germs move from person to person on hands, in droplets from coughs, in dirty water and on shared objects. Soap washes germs off, covering coughs blocks droplets, boiling kills germs in water, and having your own towel keeps germs to yourself. A toothbrush carries germs from your mouth and gums, so sharing one passes them to someone else."
+  },
+  {
+    "id": "germs-odd-12",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Diabetes",
+      "Polio",
+      "Measles",
+      "Tetanus",
+      "Hepatitis B"
+    ],
+    "answer": "Diabetes",
+    "notes": [
+      "Not caused by a germ; no vaccine",
+      "Prevented by drops or a shot",
+      "Prevented by a vaccine",
+      "Prevented by a vaccine",
+      "Prevented by a vaccine"
+    ],
+    "reason": "Diabetes is not caused by a germ and has no vaccine; the other four are prevented by vaccines.",
+    "explain": "A vaccine trains your immune system to recognise a particular germ before you ever meet it. Polio, measles, tetanus and hepatitis B are all caused by germs, and children in India get vaccines against them. Diabetes is a problem with the hormone insulin, not an infection, so no vaccine can prevent it.",
+    "fact": "India was declared free of polio in 2014, thanks largely to mass vaccination."
+  },
+  {
+    "id": "germs-odd-13",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Curd bacteria",
+      "Baker's yeast",
+      "Penicillium mould",
+      "Malaria parasite",
+      "Root nodule bacteria"
+    ],
+    "answer": "Malaria parasite",
+    "notes": [
+      "Turn milk into curd",
+      "Makes bread dough rise",
+      "Gave us the first antibiotic",
+      "Causes fever and chills",
+      "Help plants get nitrogen"
+    ],
+    "reason": "The malaria parasite causes disease; the other four microbes are useful to people.",
+    "explain": "Most microbes are harmless and many are useful. Bacteria turn milk into curd, yeast makes dough rise, the mould Penicillium gave us penicillin, and bacteria in the roots of pea and bean plants add nitrogen to the soil. Only a few microbes cause disease, such as the parasite that causes malaria."
+  },
+  {
+    "id": "germs-odd-14",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Ringworm",
+      "Chickenpox",
+      "Athlete's foot",
+      "Oral thrush",
+      "Fungal nail infection"
+    ],
+    "answer": "Chickenpox",
+    "notes": [
+      "Fungus; ring-shaped itchy patch",
+      "Virus; itchy blisters all over",
+      "Fungus; itchy skin between toes",
+      "Fungus; white patches in the mouth",
+      "Fungus; thick, discoloured nails"
+    ],
+    "reason": "Chickenpox is caused by a virus; the other four are fungal infections.",
+    "explain": "Some fungi can grow on the skin, nails or inside the mouth, especially where it is warm and damp. Ringworm is caused by a fungus, not a worm; it gets its name from its ring shape. Fungal infections are treated with antifungal medicine. Chickenpox is caused by a virus and spreads through the air and by touch."
+  },
+  {
+    "id": "germs-odd-15",
+    "system": "germs",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Spreading redness",
+      "Swelling",
+      "Warmth",
+      "Pus",
+      "Dry scab"
+    ],
+    "answer": "Dry scab",
+    "notes": [
+      "Sign of infection",
+      "Sign of infection",
+      "Sign of infection",
+      "Sign of infection",
+      "Normal part of healing"
+    ],
+    "reason": "A dry scab is a normal sign of healing; the other four can be signs that a wound is infected.",
+    "explain": "When germs get into a wound, the body sends extra blood and white blood cells to fight them. This causes redness, swelling and warmth, and dead white cells and germs collect as pus. A dry scab is the body's natural plaster that protects new skin growing underneath. An adult should show an infected wound to a doctor."
+  },
+  {
+    "id": "germs-odd-16",
+    "system": "germs",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Finish the full course",
+      "Take only if a doctor prescribes",
+      "Save leftovers for next time",
+      "Never share them",
+      "Take at the set times"
+    ],
+    "answer": "Save leftovers for next time",
+    "notes": [
+      "Kills all the bacteria",
+      "Doctor checks they are needed",
+      "Leads to wrong use later",
+      "Each prescription suits one person",
+      "Keeps the medicine level steady"
+    ],
+    "reason": "Saving leftover antibiotics is unsafe; the other four are correct rules for taking them.",
+    "explain": "If antibiotics are stopped early or used when they are not needed, the toughest bacteria can survive and multiply. Over time this creates bacteria that antibiotics cannot kill, called antibiotic resistance. Taking the full course exactly as prescribed, and never using leftovers, helps keep these medicines working."
+  },
+  {
+    "id": "germs-odd-17",
+    "system": "germs",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Isaac Newton",
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Ronald Ross"
+    ],
+    "answer": "Isaac Newton",
+    "notes": [
+      "Studied gravity, motion and light",
+      "Made the first vaccine, for smallpox",
+      "Showed germs cause disease and spoiling",
+      "Discovered penicillin in 1928",
+      "Showed mosquitoes spread malaria"
+    ],
+    "reason": "Isaac Newton was a physicist; the other four made discoveries about germs and disease.",
+    "explain": "Our fight against germs was built step by step. Jenner made the first vaccine in 1796, Pasteur showed that microbes cause disease and spoil food, Ross proved in 1897, while working in India, that mosquitoes carry malaria, and Fleming discovered penicillin, the first antibiotic. Newton was a famous scientist too, but he studied physics.",
+    "fact": "Ronald Ross won the Nobel Prize in 1902 for his malaria work."
+  },
+  {
+    "id": "germs-taboo-01",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Vaccine",
+    "forbidden": [
+      "Injection",
+      "Disease",
+      "Immune",
+      "Protect"
+    ],
+    "clues": [
+      "Edward Jenner made the first one in 1796, using material from cowpox sores.",
+      "It contains a weakened, killed or harmless piece of a germ, so the body can practise fighting it.",
+      "Babies get several of these, some as drops in the mouth and many as shots, to stay safe from polio and measles."
+    ],
+    "decoys": [
+      "Antibiotic",
+      "Vitamin",
+      "Painkiller"
+    ],
+    "explain": "A vaccine shows your immune system a harmless version or piece of a germ. Your body makes antibodies and memory cells against it, without you getting ill. If the real germ arrives later, the body recognises it and fights it off quickly. Antibiotics kill bacteria that are already causing an infection; vaccines prevent infection in the first place."
+  },
+  {
+    "id": "germs-taboo-02",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Antibiotic",
+    "forbidden": [
+      "Bacteria",
+      "Medicine",
+      "Penicillin",
+      "Infection"
+    ],
+    "clues": [
+      "Taking too many of these, or stopping them too early, can help germs become resistant.",
+      "It kills or stops microbes like those causing typhoid or TB, but does nothing against viruses.",
+      "Alexander Fleming discovered the first one, made by a mould, in 1928."
+    ],
+    "decoys": [
+      "Vaccine",
+      "Antiseptic",
+      "Antibody"
+    ],
+    "explain": "Antibiotics are medicines that kill bacteria or stop them multiplying. They do not work on viruses such as colds and flu. Using them wrongly lets resistant bacteria survive and spread, so they should only be taken when a doctor prescribes them, for the full course."
+  },
+  {
+    "id": "germs-taboo-03",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Antibody",
+    "forbidden": [
+      "Protein",
+      "White blood cells",
+      "Immune",
+      "Germ"
+    ],
+    "clues": [
+      "A mother passes some of these to her baby through breast milk.",
+      "Each kind is Y-shaped and fits only one particular invader, like a key in a lock.",
+      "Your body makes them after an infection or a vaccine, and they stick to invaders to mark them for destruction."
+    ],
+    "decoys": [
+      "Antibiotic",
+      "Platelet",
+      "Hormone"
+    ],
+    "explain": "Antibodies are Y-shaped proteins made by certain white blood cells. Each one fits a particular germ, sticks to it and flags it for other cells to destroy. After an infection or vaccine, the body remembers how to make that antibody, so it can respond fast next time. Antibiotics are medicines; antibodies are made by your own body."
+  },
+  {
+    "id": "germs-taboo-04",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "White blood cell",
+    "forbidden": [
+      "Germs",
+      "Blood",
+      "Infection",
+      "Fight"
+    ],
+    "clues": [
+      "Pus is made mostly of these, after they have done their job.",
+      "Some of them swallow invaders whole; others make antibodies.",
+      "These cells, made in the bone marrow, are the body's soldiers against microbes."
+    ],
+    "decoys": [
+      "Red blood cell",
+      "Platelet",
+      "Nerve cell"
+    ],
+    "explain": "White blood cells are the body's defence force. They travel in the blood and can leave it to reach any place where germs have entered. Some swallow and digest germs, while others make antibodies. A blood test showing many more white blood cells than usual often means the body is fighting an infection."
+  },
+  {
+    "id": "germs-taboo-05",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Virus",
+    "forbidden": [
+      "Cold",
+      "Flu",
+      "Tiny",
+      "Germ"
+    ],
+    "clues": [
+      "It is so small that it can only be seen with a special electron microscope.",
+      "It cannot multiply on its own; it must get inside a living cell and use it to make copies.",
+      "Chickenpox, measles and dengue are caused by this type of microbe, and antibiotics do not work on it."
+    ],
+    "decoys": [
+      "Bacterium",
+      "Fungus",
+      "Parasite"
+    ],
+    "explain": "A virus is much smaller than a bacterium. It is just genetic instructions wrapped in a coat of protein, and it can only multiply inside a living cell, which it takes over to make copies of itself. Antibiotics cannot harm viruses. Vaccines, and in some cases antiviral medicines, are used against them."
+  },
+  {
+    "id": "germs-taboo-06",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Malaria",
+    "forbidden": [
+      "Mosquito",
+      "Fever",
+      "Parasite",
+      "Chills"
+    ],
+    "clues": [
+      "Ronald Ross worked out how it spreads while working in India in 1897.",
+      "Its germ lives inside red blood cells and bursts them, causing shivering and a high temperature every few days.",
+      "It is passed on by the bite of an infected female Anopheles insect."
+    ],
+    "decoys": [
+      "Dengue",
+      "Typhoid",
+      "Cholera"
+    ],
+    "explain": "Malaria is caused by a single-celled parasite called Plasmodium. An infected female Anopheles mosquito injects it with a bite. It multiplies in the liver, then in red blood cells, bursting them in cycles, which causes repeated bouts of fever and chills. It is diagnosed with a blood test and treated with medicines; bed nets and removing standing water help prevent it."
+  },
+  {
+    "id": "germs-taboo-07",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Dengue",
+    "forbidden": [
+      "Mosquito",
+      "Platelets",
+      "Fever",
+      "Aedes"
+    ],
+    "clues": [
+      "Cases rise during and after the monsoon, when water collects in pots, tyres and coolers.",
+      "It causes a high temperature, severe body ache and pain behind the eyes.",
+      "It is a viral illness spread by striped insects that bite during the day."
+    ],
+    "decoys": [
+      "Malaria",
+      "Typhoid",
+      "Chickenpox"
+    ],
+    "explain": "Dengue is caused by a virus carried by the striped Aedes mosquito, which breeds in small pools of clean standing water and bites in the daytime. There is no medicine that kills the virus, so doctors give rest and fluids and watch the platelet count closely. Emptying water from coolers, pots and tyres each week helps prevent it."
+  },
+  {
+    "id": "germs-taboo-08",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Tuberculosis",
+    "forbidden": [
+      "Lungs",
+      "Cough",
+      "TB",
+      "BCG"
+    ],
+    "clues": [
+      "It is caused by a slow-growing bacterium, and treatment usually lasts at least six months.",
+      "It spreads through tiny droplets in the air and often causes night sweats and weight loss.",
+      "It mostly attacks the organs of breathing, and babies in India get a vaccine against it soon after birth."
+    ],
+    "decoys": [
+      "Pneumonia",
+      "Asthma",
+      "Typhoid"
+    ],
+    "explain": "Tuberculosis (TB) is caused by bacteria that grow very slowly, so treatment needs several medicines taken every day for six months or more. It usually affects the lungs and spreads when an infected person coughs. TB can be cured if the full course is completed. Babies in India receive the BCG vaccine at birth."
+  },
+  {
+    "id": "germs-taboo-09",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Chickenpox",
+    "forbidden": [
+      "Itchy",
+      "Spots",
+      "Rash",
+      "Blisters"
+    ],
+    "clues": [
+      "Years later, the same virus can wake up and cause a painful illness called shingles.",
+      "It spreads very easily, and a vaccine against it is available.",
+      "It causes a mild temperature and many small, fluid-filled bumps that crust over, usually in children."
+    ],
+    "decoys": [
+      "Measles",
+      "Ringworm",
+      "Mumps"
+    ],
+    "explain": "Chickenpox is caused by a virus that spreads through the air and by touching the fluid in the blisters. The blisters crust over in about a week. Children with it should stay home until all the blisters have crusted. The virus stays asleep in nerves afterwards and can return in adults as shingles."
+  },
+  {
+    "id": "germs-taboo-10",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cholera",
+    "forbidden": [
+      "Diarrhoea",
+      "Water",
+      "Vomiting",
+      "Dehydration"
+    ],
+    "clues": [
+      "In 1854, John Snow traced an outbreak in London to one public pump.",
+      "Its bacteria spread when sewage gets into wells, ponds or pipes used for drinking.",
+      "It causes sudden, severe loose motions, and oral rehydration solution can save the patient's life."
+    ],
+    "decoys": [
+      "Typhoid",
+      "Malaria",
+      "Dengue"
+    ],
+    "explain": "Cholera is caused by bacteria that spread through drinking water dirtied with sewage. It causes so much diarrhoea that the body can lose water dangerously fast. Oral rehydration solution (ORS), a mix of clean water, salt and sugar, replaces what is lost and saves most patients. Clean water and toilets prevent it.",
+    "fact": "John Snow's map of cholera cases is one of the first uses of maps to track a disease."
+  },
+  {
+    "id": "germs-taboo-11",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "X-ray",
+    "forbidden": [
+      "Bones",
+      "Fracture",
+      "Radiation",
+      "Picture"
+    ],
+    "clues": [
+      "Wilhelm Roentgen discovered these invisible rays in 1895.",
+      "Dentists use small ones to spot hidden cavities between teeth.",
+      "This test shows hard parts of the body as white shapes on a dark film."
+    ],
+    "decoys": [
+      "MRI scan",
+      "Ultrasound",
+      "ECG"
+    ],
+    "explain": "X-rays are invisible rays that pass easily through skin and muscle but are blocked by bone and teeth. So hard parts show up white and soft parts look dark. X-rays are quick and painless and help doctors spot broken bones, chest infections and swallowed metal objects. The dose is small, but doctors still use them only when needed."
+  },
+  {
+    "id": "germs-taboo-12",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "MRI",
+    "forbidden": [
+      "Magnet",
+      "Scan",
+      "Brain",
+      "Tunnel"
+    ],
+    "clues": [
+      "It uses radio waves and a computer, but no X-rays.",
+      "Patients must remove metal objects first, and the machine makes loud knocking sounds.",
+      "Doctors use it to see soft parts like nerves, muscles and the spinal cord in great detail."
+    ],
+    "decoys": [
+      "CT scan",
+      "X-ray",
+      "Ultrasound"
+    ],
+    "explain": "MRI stands for magnetic resonance imaging. The patient lies inside a large tube with a very strong magnet, which works with radio waves to make detailed pictures of soft tissues. It uses no X-rays, but metal must be kept away from the magnet. Patients need to lie very still, and the machine is noisy."
+  },
+  {
+    "id": "germs-taboo-13",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Fever",
+    "forbidden": [
+      "Temperature",
+      "Hot",
+      "Thermometer",
+      "Sick"
+    ],
+    "clues": [
+      "It is one way the body makes life harder for germs, and often a sign the immune system is working.",
+      "A reading above about 38 degrees Celsius counts as this.",
+      "When you have it, your forehead feels warm and you may shiver even under a blanket."
+    ],
+    "decoys": [
+      "Cough",
+      "Rash",
+      "Headache"
+    ],
+    "explain": "Normal body temperature is about 37 degrees Celsius. When germs invade, the brain raises the body's temperature setting, which slows many germs and speeds up the immune system. You may shiver while the temperature is rising. A fever in a young baby, a very high fever, or one lasting more than a few days needs a doctor."
+  },
+  {
+    "id": "germs-taboo-14",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Fungus",
+    "forbidden": [
+      "Mushroom",
+      "Mould",
+      "Yeast",
+      "Spores"
+    ],
+    "clues": [
+      "Ringworm and athlete's foot are caused by these, not by worms.",
+      "They grow well in warm, damp places, and many feed on dead things.",
+      "This group of living things includes the fluffy growth on stale bread and the tiny cells that make dough rise."
+    ],
+    "decoys": [
+      "Bacterium",
+      "Virus",
+      "Algae"
+    ],
+    "explain": "Fungi are a group of living things that includes mushrooms, moulds and yeasts. They cannot make their own food, so they feed on dead or living material. Most are harmless or useful, but a few can infect skin, nails or the mouth, especially where it is warm and damp. Keeping skin clean and dry helps prevent this."
+  },
+  {
+    "id": "germs-taboo-15",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Immunity",
+    "forbidden": [
+      "Vaccine",
+      "Antibodies",
+      "Defence",
+      "Resistance"
+    ],
+    "clues": [
+      "It is why most people catch measles only once in their life.",
+      "You can gain it by recovering from an illness or by getting a shot, and it means your body is ready for that germ.",
+      "It is your body's ability to fight off a particular infection before it makes you ill."
+    ],
+    "decoys": [
+      "Allergy",
+      "Infection",
+      "Inflammation"
+    ],
+    "explain": "Immunity means your body can recognise and destroy a particular germ quickly. After an infection or a vaccine, memory cells remember the germ, so the next time it arrives the body makes antibodies fast. That is why you rarely get measles twice. An allergy is the opposite kind of problem: the body overreacts to something harmless."
+  },
+  {
+    "id": "germs-taboo-16",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Pathologist",
+    "forbidden": [
+      "Laboratory",
+      "Microscope",
+      "Samples",
+      "Tests"
+    ],
+    "clues": [
+      "Patients rarely meet this doctor, even though their work guides many diagnoses.",
+      "They study blood, urine and tiny pieces of tissue to find out what disease a person has.",
+      "Their reports might show which germ is causing an infection, or whether a lump is harmful."
+    ],
+    "decoys": [
+      "Radiologist",
+      "Pharmacist",
+      "Surgeon"
+    ],
+    "explain": "A pathologist is a doctor who works in the lab. They study blood, urine and tissue under a microscope and with other tests to find the cause of disease. Their reports tell other doctors which germ is present or whether cells look healthy. A radiologist reads X-rays and scans instead."
+  },
+  {
+    "id": "germs-taboo-17",
+    "system": "germs",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Quarantine",
+    "forbidden": [
+      "Isolation",
+      "Separate",
+      "Covid",
+      "Spread"
+    ],
+    "clues": [
+      "The word comes from the Italian for forty, the number of days ships once had to wait before landing.",
+      "People who may have been near an infection are kept apart from others for a while, even if they feel fine.",
+      "It is a waiting period that stops a germ passing to new people."
+    ],
+    "decoys": [
+      "Vaccination",
+      "Sterilisation",
+      "Fumigation"
+    ],
+    "explain": "Quarantine keeps people who may have caught a germ away from others until it is clear whether they are ill. It is different from isolation, which keeps people who are already ill apart. Because some germs spread before symptoms appear, quarantine can stop an outbreak growing."
+  },
+  {
+    "id": "germs-case-01",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "A 4-year-old swallowed a small coin an hour ago. She is breathing normally and not in pain. The doctor wants to see exactly where the coin is now. Which test is best?",
+    "options": [
+      "Blood test",
+      "X-ray",
+      "Urine test",
+      "ECG"
+    ],
+    "answer": "X-ray",
+    "optionNotes": [
+      "Cannot show objects inside",
+      "Metal shows up clearly as white",
+      "Checks kidneys and infection, not position",
+      "Records the heart's signals"
+    ],
+    "explain": "Metal blocks X-rays, so a coin shows up as a bright white circle on the picture. The doctor can see whether it is in the food pipe or has reached the stomach. Most small coins in the stomach pass out naturally, but one stuck in the food pipe needs to be removed. A swallowed button battery is more dangerous and needs urgent care."
+  },
+  {
+    "id": "germs-case-02",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Ravi lives near a pond with many mosquitoes. For a week he has had bouts of high fever with shivering, which come and go every couple of days and end with heavy sweating. Which disease is most likely?",
+    "options": [
+      "Typhoid",
+      "Malaria",
+      "Chickenpox",
+      "Cholera"
+    ],
+    "answer": "Malaria",
+    "optionNotes": [
+      "Steady rising fever from dirty food",
+      "Repeated fever and chills from mosquitoes",
+      "Fever with itchy blisters",
+      "Severe watery diarrhoea"
+    ],
+    "explain": "The malaria parasite multiplies inside red blood cells and bursts out in cycles. Each burst causes a bout of shivering, high fever and then sweating, often every two or three days. A blood test confirms it, and the right medicines cure it. Mosquito nets and removing standing water help prevent it."
+  },
+  {
+    "id": "germs-case-03",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "During the monsoon, a girl has a high fever, severe body ache and pain behind her eyes. Her blood test shows her platelet count is falling. Which disease is most likely?",
+    "options": [
+      "Tuberculosis",
+      "Common cold",
+      "Typhoid",
+      "Dengue"
+    ],
+    "answer": "Dengue",
+    "optionNotes": [
+      "Long cough, weight loss",
+      "Runny nose, mild illness",
+      "Slowly rising fever, stomach pain",
+      "High fever, eye pain, low platelets"
+    ],
+    "explain": "Dengue is a virus spread by Aedes mosquitoes, which breed in standing water after rain. It causes high fever, strong body aches and pain behind the eyes. It can lower platelets, the blood cells that help stop bleeding, so doctors check them with repeated blood tests and keep the patient well hydrated."
+  },
+  {
+    "id": "germs-case-04",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "General Physician",
+    "scenario": "A man has coughed for over three weeks, sweats at night and has lost weight. The doctor wants to look for the bacteria that cause tuberculosis. Which sample should the lab test?",
+    "options": [
+      "Urine",
+      "Hair",
+      "Phlegm (sputum)",
+      "Sweat"
+    ],
+    "answer": "Phlegm (sputum)",
+    "optionNotes": [
+      "Used for kidney and bladder infections",
+      "Not used to find TB",
+      "Coughed up from deep in the lungs",
+      "Not used to find TB"
+    ],
+    "explain": "TB of the lungs causes a long cough, night sweats and weight loss. The bacteria live deep in the lungs, so the patient coughs up phlegm, also called sputum, and the lab looks for the bacteria in it. A chest X-ray is often done too. In India, TB testing and treatment are free at government centres."
+  },
+  {
+    "id": "germs-case-05",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A 7-year-old has a mild fever and an itchy rash of small fluid-filled blisters on her chest, face and back. Two classmates had the same rash last week. Which disease is most likely?",
+    "options": [
+      "Ringworm",
+      "Sunburn",
+      "Measles",
+      "Chickenpox"
+    ],
+    "answer": "Chickenpox",
+    "optionNotes": [
+      "Single ring-shaped patch, from a fungus",
+      "Red skin only where sun reached",
+      "Flat red rash, no fluid blisters",
+      "Itchy fluid blisters, spreads in class"
+    ],
+    "explain": "Chickenpox is caused by a virus that spreads very easily. It starts with a mild fever, then itchy, fluid-filled blisters appear in crops and crust over in about a week. The child should stay home until all blisters have crusted, and avoid scratching to prevent scars and infection."
+  },
+  {
+    "id": "germs-case-06",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "After drinking from the same well, several villagers have sudden, very watery diarrhoea and are getting weak. While they are taken to a doctor, what is the most important first step?",
+    "options": [
+      "Stop all drinks until the diarrhoea ends",
+      "Give ORS (oral rehydration solution) to drink",
+      "Give leftover tablets from home",
+      "Give spicy food for strength"
+    ],
+    "answer": "Give ORS (oral rehydration solution) to drink",
+    "optionNotes": [
+      "Makes water loss more dangerous",
+      "Replaces lost water and salts",
+      "May be the wrong medicine",
+      "Can upset the gut further"
+    ],
+    "explain": "Sudden watery diarrhoea in many people who share a water source suggests cholera. The real danger is losing too much water and salt. ORS, a mix of clean water, salt and sugar, is absorbed by the gut even during diarrhoea and replaces what is lost. Doctors may also give antibiotics, and the well must be checked and cleaned."
+  },
+  {
+    "id": "germs-case-07",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "A girl has flu, with fever, body aches and a cough. Her parent asks the doctor for antibiotics to cure it fast. What is the best advice?",
+    "options": [
+      "Take leftover antibiotics from last year",
+      "Take a double dose of antibiotics",
+      "Antibiotics do not work on flu; rest and drink fluids",
+      "Any antibiotic will cure it in a day"
+    ],
+    "answer": "Antibiotics do not work on flu; rest and drink fluids",
+    "optionNotes": [
+      "Wrong medicine and unsafe",
+      "Harmful and does nothing to a virus",
+      "Flu is a virus; the body clears it",
+      "Antibiotics cannot kill viruses"
+    ],
+    "explain": "Flu is caused by a virus. Antibiotics only work on bacteria, so they will not help and may cause side effects and antibiotic resistance. Rest, fluids and the doctor's advice help the body clear the virus in about a week. A yearly flu vaccine lowers the chance of catching it."
+  },
+  {
+    "id": "germs-case-08",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A boy steps on a nail in a muddy field. The wound is cleaned well. His last tetanus shot was over ten years ago. What should the doctor give to protect him?",
+    "options": [
+      "Polio drops",
+      "Chickenpox vaccine",
+      "Eye drops",
+      "Tetanus booster vaccine"
+    ],
+    "answer": "Tetanus booster vaccine",
+    "optionNotes": [
+      "Protects against polio, not tetanus",
+      "Protects against chickenpox only",
+      "Nothing to do with the wound",
+      "Refreshes protection against tetanus"
+    ],
+    "explain": "Tetanus bacteria live in soil and dust and can enter through deep or dirty wounds; the rust on a nail is not the cause. Their poison makes muscles lock tight. Protection from the tetanus vaccine fades over time, so a booster dose is needed after some years, and sooner after a dirty wound."
+  },
+  {
+    "id": "germs-case-09",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Cardiologist",
+    "scenario": "A teenager says her heart sometimes feels like it is fluttering or skipping beats. The doctor wants to record the heart's electrical signals using small stickers on her chest. Which test is this?",
+    "options": [
+      "ECG",
+      "MRI scan",
+      "Urine test",
+      "X-ray"
+    ],
+    "answer": "ECG",
+    "optionNotes": [
+      "Records the heart's electrical rhythm",
+      "Detailed pictures using a magnet",
+      "Checks kidneys and urine",
+      "Picture of bones and lungs"
+    ],
+    "explain": "Each heartbeat is started by a tiny electrical signal. An ECG (electrocardiogram) picks up these signals through stickers on the skin and draws them as a wavy line. Doctors read the pattern to see if the heart's rhythm is normal. The test is quick and painless."
+  },
+  {
+    "id": "germs-case-10",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "General Physician",
+    "scenario": "A girl feels a burning pain when she pees and needs to go very often. She also has a mild fever. The doctor suspects germs in her urine. Which test should come first?",
+    "options": [
+      "ECG",
+      "Eye test",
+      "Urine test",
+      "Hearing test"
+    ],
+    "answer": "Urine test",
+    "optionNotes": [
+      "Checks the heart",
+      "Checks eyesight",
+      "Looks for germs and white cells in urine",
+      "Checks the ears"
+    ],
+    "explain": "Burning and needing to pee often are common signs of a urinary infection, usually caused by bacteria. A urine test checks for germs and for white blood cells, which gather where there is infection. If bacteria are found, the doctor prescribes the right antibiotic. Drinking enough water helps flush germs out."
+  },
+  {
+    "id": "germs-case-11",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "Neurologist",
+    "scenario": "A girl has had bad headaches for months. Her doctor wants a very detailed picture of the soft tissue inside her head, without using X-rays. Which test should be ordered?",
+    "options": [
+      "Chest X-ray",
+      "MRI scan",
+      "ECG",
+      "Blood sugar test"
+    ],
+    "answer": "MRI scan",
+    "optionNotes": [
+      "Uses X-rays, shows the chest",
+      "Detailed soft-tissue pictures, no X-rays",
+      "Records heart signals",
+      "Measures glucose"
+    ],
+    "explain": "An MRI scan uses a strong magnet and radio waves to make very detailed pictures of soft tissues like the brain. It uses no X-rays. The patient lies still inside a tube for some minutes while the machine knocks loudly. Most headaches have simple causes, but MRI helps doctors rule out other problems."
+  },
+  {
+    "id": "germs-case-12",
+    "system": "germs",
+    "mode": "case",
+    "level": 2,
+    "role": "General Physician",
+    "scenario": "Grandma says her vision has become cloudy and blurry, like looking through a foggy window. The family doctor refers her to a specialist. Which doctor should she see?",
+    "options": [
+      "Orthopaedic Doctor",
+      "Dermatologist",
+      "Ophthalmologist",
+      "Cardiologist"
+    ],
+    "answer": "Ophthalmologist",
+    "optionNotes": [
+      "Treats bones and joints",
+      "Treats skin",
+      "Treats eyes",
+      "Treats the heart"
+    ],
+    "explain": "General physicians treat common problems and send patients to specialists when needed. An ophthalmologist is an eye doctor who can examine the eye closely and do eye surgery. Cloudy vision in older people is often caused by a cataract, a clouding of the eye's lens, which can be fixed with a short operation."
+  },
+  {
+    "id": "germs-case-13",
+    "system": "germs",
+    "mode": "case",
+    "level": 1,
+    "role": "Paediatrician",
+    "scenario": "A baby gets her measles vaccine. Her older brother asks how a shot today can stop measles years later. What is the best answer?",
+    "options": [
+      "It teaches her immune system to recognise measles and remember it",
+      "It kills every germ in her body forever",
+      "It is a vitamin that makes her stronger",
+      "It only works after she catches measles"
+    ],
+    "answer": "It teaches her immune system to recognise measles and remember it",
+    "optionNotes": [
+      "Memory cells stay ready for years",
+      "Vaccines target one germ, not all",
+      "Vaccines are not vitamins",
+      "Vaccines prevent illness in advance"
+    ],
+    "explain": "The vaccine contains a weakened measles virus that cannot cause the real illness. Her immune system makes antibodies and memory cells against it. If real measles ever enters her body, the memory cells recognise it and respond fast. That is why the vaccine protects for many years."
+  },
+  {
+    "id": "germs-case-14",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "Immunologist",
+    "scenario": "A newborn is too young for some vaccines. The doctor asks the parents, grandparents and older siblings to make sure their own vaccines are up to date. Why?",
+    "options": [
+      "Their vaccines travel to the baby through the air",
+      "Vaccinated family members are less likely to catch germs and pass them to the baby",
+      "It makes the baby's blood stronger",
+      "Only vaccinated people may legally hold babies"
+    ],
+    "answer": "Vaccinated family members are less likely to catch germs and pass them to the baby",
+    "optionNotes": [
+      "Vaccines do not pass through air",
+      "Protects the baby by blocking spread",
+      "Family vaccines do not change baby's blood",
+      "There is no such law"
+    ],
+    "explain": "A newborn's immune system is still learning. If the people around the baby are vaccinated, germs have a much harder time reaching the baby. When enough people in a community are vaccinated, a germ cannot spread easily, which also protects those who cannot be vaccinated. This is called herd immunity."
+  },
+  {
+    "id": "germs-case-15",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "General Physician",
+    "scenario": "After eating cut fruit from a roadside stall, a boy's fever rises slowly, day by day, over a week. He has stomach pain and feels very weak. A blood culture grows bacteria. Which disease is most likely?",
+    "options": [
+      "Dengue",
+      "Chickenpox",
+      "Flu",
+      "Typhoid"
+    ],
+    "answer": "Typhoid",
+    "optionNotes": [
+      "Virus; sudden high fever",
+      "Virus; itchy blisters",
+      "Virus; sudden fever and cough",
+      "Bacteria from dirty food; slowly rising fever"
+    ],
+    "explain": "Typhoid is caused by bacteria that spread through food or water dirtied with germs. Its fever typically climbs step by step over several days, with stomach pain and weakness. A blood culture, where blood is kept warm in the lab so any bacteria can grow, confirms it, and antibiotics treat it. A typhoid vaccine and safe food and water help prevent it."
+  },
+  {
+    "id": "germs-case-16",
+    "system": "germs",
+    "mode": "case",
+    "level": 3,
+    "role": "Pathologist",
+    "scenario": "A blood test shows a child has many more white blood cells than normal. She also has a fever and a painful ear. What does the high white cell count most likely suggest?",
+    "options": [
+      "Her body is fighting an infection",
+      "She has a broken bone",
+      "She needs glasses",
+      "She has been sleeping too much"
+    ],
+    "answer": "Her body is fighting an infection",
+    "optionNotes": [
+      "White cells multiply to fight germs",
+      "Shown by an X-ray, not white cells",
+      "Found with an eye test",
+      "Does not raise white cells"
+    ],
+    "explain": "When germs invade, the bone marrow makes and releases more white blood cells to fight them. A complete blood count counts the different blood cells, so a high white cell number, together with fever and ear pain, points to an infection such as an ear infection. The doctor then decides on treatment."
+  }
+]

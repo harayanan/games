@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "bones-odd-01",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Fingernail",
+      "Ends of bones in joints",
+      "Tip of the nose",
+      "Outer ear flap",
+      "Discs between vertebrae"
+    ],
+    "answer": "Fingernail",
+    "notes": [
+      "Made of keratin, not cartilage",
+      "Smooth cartilage lets bones glide",
+      "Bendy cartilage gives its shape",
+      "Bendy cartilage gives its shape",
+      "Cartilage cushions between backbones"
+    ],
+    "reason": "A fingernail is made of keratin; the other four contain cartilage.",
+    "explain": "Cartilage is a firm but bendy tissue. It shapes the tip of your nose and your outer ear, cushions the spaces between the bones of your spine, and covers the ends of bones in joints so they slide smoothly. Fingernails are made of keratin, the same tough protein found in hair.",
+    "fact": "Before birth, much of the skeleton is cartilage, which slowly turns into bone through childhood."
+  },
+  {
+    "id": "bones-odd-02",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Toe joint",
+      "Elbow",
+      "Knee",
+      "Shoulder",
+      "Finger joint"
+    ],
+    "answer": "Shoulder",
+    "notes": [
+      "Hinge joint, bends one way",
+      "Hinge joint, bends one way",
+      "Hinge joint, bends one way",
+      "Ball-and-socket, moves in circles",
+      "Hinge joint, bends one way"
+    ],
+    "reason": "The shoulder is a ball-and-socket joint; the other four are hinge joints.",
+    "explain": "A hinge joint works like a door hinge: it lets a body part bend and straighten in one direction. Your elbow, knee, fingers and toes all bend this way. The shoulder is a ball-and-socket joint, where the round top of the arm bone sits in a cup, so the arm can swing in a full circle."
+  },
+  {
+    "id": "bones-odd-03",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Biceps",
+      "Heart muscle",
+      "Triceps",
+      "Calf muscle",
+      "Thigh muscle"
+    ],
+    "answer": "Heart muscle",
+    "notes": [
+      "You choose when to bend the arm",
+      "Works on its own, never rests",
+      "You choose when to straighten the arm",
+      "You choose when to stand on tiptoe",
+      "You choose when to kick"
+    ],
+    "reason": "Heart muscle is involuntary; the others are skeletal muscles you control.",
+    "explain": "Skeletal muscles are attached to bones and move when you decide to move, so they are called voluntary muscles. Heart muscle, also called cardiac muscle, contracts by itself about 70 times a minute without you thinking about it. It is an involuntary muscle and is found only in the heart."
+  },
+  {
+    "id": "bones-odd-04",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Backbone",
+      "Pelvis",
+      "Skull",
+      "Rib cage",
+      "Toe bones"
+    ],
+    "answer": "Toe bones",
+    "notes": [
+      "Protects the spinal cord",
+      "Protects the bladder and lower organs",
+      "Protects the brain",
+      "Protects heart and lungs",
+      "Help with balance and walking"
+    ],
+    "reason": "Toe bones help you walk and balance; the others mainly protect soft organs.",
+    "explain": "One big job of the skeleton is protection. The skull is a hard helmet for the brain, the rib cage guards the heart and lungs, the backbone surrounds the spinal cord, and the pelvis shields organs low in the belly. Toe bones are mainly for balance and pushing off when you walk or run."
+  },
+  {
+    "id": "bones-odd-05",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Vitamin D",
+      "Running and jumping",
+      "Lying in bed all day",
+      "Some time in sunlight",
+      "Calcium-rich food"
+    ],
+    "answer": "Lying in bed all day",
+    "notes": [
+      "Helps the body absorb calcium",
+      "Pressure on bones makes them stronger",
+      "Unused bones lose strength",
+      "Skin makes vitamin D in sunlight",
+      "Mineral that makes bones hard"
+    ],
+    "reason": "Lying still all day weakens bones; the other four help build strong bones.",
+    "explain": "Bone is living tissue that keeps rebuilding itself. It needs calcium to stay hard and vitamin D to absorb that calcium, and your skin makes vitamin D in sunlight. Bones also get stronger when they carry your weight during running, jumping and skipping. When bones are not used, for example in long bed rest, they slowly lose calcium and weaken.",
+    "fact": "Astronauts in space can lose bone strength because their bones do not carry body weight in low gravity."
+  },
+  {
+    "id": "bones-odd-06",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Clavicle",
+      "Cranium",
+      "Cheekbone",
+      "Nasal bone",
+      "Mandible"
+    ],
+    "answer": "Clavicle",
+    "notes": [
+      "Collarbone, joins shoulder to chest",
+      "Dome that covers the brain",
+      "Forms the bump below the eye",
+      "Bridge at the top of the nose",
+      "Lower jaw bone"
+    ],
+    "reason": "The clavicle is the collarbone; the other four are skull bones.",
+    "explain": "The skull is made of many bones. The cranium forms a dome around the brain, and the face bones include the cheekbones, nasal bones and the mandible, or lower jaw. The mandible is the only skull bone that moves freely, which is how you chew and talk. The clavicle, or collarbone, connects the shoulder to the breastbone."
+  },
+  {
+    "id": "bones-odd-07",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Joint capsule",
+      "Cartilage",
+      "Ligament",
+      "Enamel",
+      "Synovial fluid"
+    ],
+    "answer": "Enamel",
+    "notes": [
+      "Tough bag around the joint",
+      "Smooth cover on bone ends",
+      "Tough band holding bones together",
+      "Hard outer coat of teeth",
+      "Slippery oil inside the joint"
+    ],
+    "reason": "Enamel coats teeth; the other four are parts of a movable joint.",
+    "explain": "A movable joint such as the knee has several parts. Smooth cartilage covers the bone ends, a tough capsule wraps around the joint, and synovial fluid inside works like oil so the bones glide. Ligaments hold the bones together. Enamel is the hard coating on the outside of teeth."
+  },
+  {
+    "id": "bones-odd-08",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Stomach wall",
+      "Biceps",
+      "Intestine wall",
+      "Bladder wall",
+      "Blood vessel wall"
+    ],
+    "answer": "Biceps",
+    "notes": [
+      "Smooth muscle churns food",
+      "Skeletal muscle that bends the elbow",
+      "Smooth muscle pushes food along",
+      "Smooth muscle squeezes out urine",
+      "Smooth muscle narrows or widens the vessel"
+    ],
+    "reason": "The biceps is skeletal (voluntary) muscle; the others are smooth (involuntary) muscle.",
+    "explain": "Smooth muscle lines hollow organs like the stomach, intestines, bladder and blood vessels. It contracts slowly and on its own, without you deciding to. The biceps is skeletal muscle: it is attached to bones by tendons and moves only when your brain tells it to. Under a microscope, skeletal muscle looks striped and smooth muscle does not."
+  },
+  {
+    "id": "bones-odd-09",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Knee",
+      "Elbow",
+      "Shoulder",
+      "Hip",
+      "Skull sutures"
+    ],
+    "answer": "Skull sutures",
+    "notes": [
+      "Movable hinge joint",
+      "Movable hinge joint",
+      "Movable ball-and-socket joint",
+      "Movable ball-and-socket joint",
+      "Fixed joints that do not move"
+    ],
+    "reason": "Skull sutures are fixed joints; the others are movable joints.",
+    "explain": "A joint is any place where two bones meet, but not every joint moves. In the skull, the bones are locked together along wavy lines called sutures, making a strong case for the brain. In a newborn baby these joints are still soft and slightly open, which lets the skull grow along with the brain.",
+    "fact": "The soft spot on a baby's head is a gap between skull bones that closes by about age two."
+  },
+  {
+    "id": "bones-odd-10",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Sacrum",
+      "Cervical vertebrae",
+      "Sternum",
+      "Thoracic vertebrae",
+      "Lumbar vertebrae"
+    ],
+    "answer": "Sternum",
+    "notes": [
+      "Fused bones at the base of the spine",
+      "Neck part of the spine",
+      "Breastbone in the front of the chest",
+      "Upper back, joined to ribs",
+      "Lower back, carries most weight"
+    ],
+    "reason": "The sternum is the breastbone; the other four are parts of the spine.",
+    "explain": "The spine is a column of small bones called vertebrae stacked on top of each other. It has regions: cervical in the neck, thoracic in the upper back where the ribs attach, lumbar in the lower back, and the sacrum at the base. The sternum, or breastbone, is a flat bone at the front of the chest where most ribs join.",
+    "fact": "Humans and giraffes both have seven neck vertebrae; a giraffe's are just much longer."
+  },
+  {
+    "id": "bones-odd-11",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Tongue",
+      "Kneecap",
+      "Jawbone",
+      "Skull",
+      "Rib"
+    ],
+    "answer": "Tongue",
+    "notes": [
+      "A muscle in the mouth",
+      "Small bone in front of the knee",
+      "Bone that holds the lower teeth",
+      "Bone around the brain",
+      "Curved bone in the chest"
+    ],
+    "reason": "The tongue is a muscle; the other four are bones.",
+    "explain": "Bones are hard because they contain calcium and other minerals. The skull, ribs, kneecap and jawbone are all bones. The tongue has no bone in it at all: it is made of several muscles working together, which is why it can change shape to help you talk, chew and swallow."
+  },
+  {
+    "id": "bones-odd-12",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Fracture",
+      "Sprain",
+      "Dislocation",
+      "Tooth cavity",
+      "Muscle strain"
+    ],
+    "answer": "Tooth cavity",
+    "notes": [
+      "A broken or cracked bone",
+      "Overstretched or torn ligament",
+      "Bone pushed out of its joint",
+      "Hole in a tooth from decay",
+      "Overstretched or torn muscle"
+    ],
+    "reason": "A tooth cavity comes from decay; the others are injuries to bones, joints or muscles.",
+    "explain": "Injuries to the moving parts of the body have different names. A fracture is a broken bone, a sprain is a stretched or torn ligament, a strain is a stretched or torn muscle or tendon, and a dislocation is when a bone slips out of its joint. A cavity is a hole in a tooth caused by decay from germs and sugar, not by an injury."
+  },
+  {
+    "id": "bones-odd-13",
+    "system": "bones",
+    "mode": "odd",
+    "level": 2,
+    "items": [
+      "Radius",
+      "Fibula",
+      "Ulna",
+      "Carpals",
+      "Humerus"
+    ],
+    "answer": "Fibula",
+    "notes": [
+      "Forearm bone, thumb side",
+      "Thin lower leg bone",
+      "Forearm bone, little-finger side",
+      "Small wrist bones",
+      "Upper arm bone"
+    ],
+    "reason": "The fibula is in the leg; the other four are arm and wrist bones.",
+    "explain": "Your arm has one bone above the elbow, the humerus, and two below it, the radius and the ulna. The wrist has eight small carpal bones. The leg follows a similar plan: one thigh bone (the femur) and two lower leg bones, the tibia and the thinner fibula."
+  },
+  {
+    "id": "bones-odd-14",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Make blood cells",
+      "Store calcium",
+      "Support the body",
+      "Protect organs",
+      "Digest food"
+    ],
+    "answer": "Digest food",
+    "notes": [
+      "Bone marrow makes them",
+      "Bones are the body's calcium bank",
+      "Holds you upright",
+      "Skull guards the brain",
+      "Done by the stomach and intestines"
+    ],
+    "reason": "Digesting food is not a job of bones; the other four are.",
+    "explain": "Bones do much more than hold you up. They protect soft organs, give muscles something to pull on, store calcium for the rest of the body, and the soft red marrow inside many bones makes blood cells. Digestion is done by the stomach, intestines and other digestive organs."
+  },
+  {
+    "id": "bones-odd-15",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Biceps",
+      "Triceps",
+      "Thigh bone",
+      "Calf muscle",
+      "Thigh muscle"
+    ],
+    "answer": "Thigh bone",
+    "notes": [
+      "Muscle at the front of the upper arm",
+      "Muscle at the back of the upper arm",
+      "Longest bone in the body",
+      "Muscle at the back of the lower leg",
+      "Muscle at the front of the thigh"
+    ],
+    "reason": "The thigh bone is a bone; the other four are muscles.",
+    "explain": "Muscles and bones work as a team. Bones form a firm frame, and muscles attached to them by tendons pull on them to make movement. The thigh bone, or femur, is the longest and strongest bone in your body. The muscle on top of it, the quadriceps, straightens your knee when you kick."
+  },
+  {
+    "id": "bones-odd-16",
+    "system": "bones",
+    "mode": "odd",
+    "level": 1,
+    "items": [
+      "Slouching over a phone",
+      "Feet flat on the floor",
+      "Back against the chair",
+      "Screen at eye level",
+      "Bag on both shoulders"
+    ],
+    "answer": "Slouching over a phone",
+    "notes": [
+      "Strains the neck and back",
+      "Supports a steady sitting position",
+      "Supports the spine's natural curves",
+      "Keeps the neck straight",
+      "Shares weight evenly"
+    ],
+    "reason": "Slouching is poor posture; the other four are good posture habits.",
+    "explain": "Posture is the way you hold your body when you sit, stand or move. Good posture keeps the spine in its natural curves, so muscles and joints are not overworked. Bending the head forward over a phone makes the neck muscles hold up much more strain than usual, which can cause neck and back aches."
+  },
+  {
+    "id": "bones-odd-17",
+    "system": "bones",
+    "mode": "odd",
+    "level": 3,
+    "items": [
+      "Radius",
+      "Femur",
+      "Humerus",
+      "Scapula",
+      "Tibia"
+    ],
+    "answer": "Scapula",
+    "notes": [
+      "Long bone of the forearm",
+      "Long bone of the thigh",
+      "Long bone of the upper arm",
+      "Flat triangle-shaped shoulder blade",
+      "Long bone of the shin"
+    ],
+    "reason": "The scapula is a flat bone; the other four are long bones.",
+    "explain": "Bones are grouped by shape. Long bones, like the femur, humerus, tibia and radius, are longer than they are wide and act as levers for movement. Flat bones, like the scapula (shoulder blade), skull bones and ribs, are thin and wide, which gives large areas for muscles to attach and protects what lies beneath."
+  },
+  {
+    "id": "bones-taboo-01",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Skeleton",
+    "forbidden": [
+      "Bones",
+      "Frame",
+      "206",
+      "Body"
+    ],
+    "clues": [
+      "Insects wear theirs on the outside, but yours is on the inside.",
+      "It holds you up, protects your organs and gives muscles something to pull on.",
+      "In a science lab, a plastic model of this often hangs from a stand."
+    ],
+    "decoys": [
+      "Muscle",
+      "Skin",
+      "Spine"
+    ],
+    "explain": "The skeleton is the full set of bones that supports the body. An adult human skeleton has 206 bones. It holds the body up, protects organs like the brain and heart, and works with muscles to make movement possible. Insects and crabs have an outer skeleton called an exoskeleton instead."
+  },
+  {
+    "id": "bones-taboo-02",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Skull",
+    "forbidden": [
+      "Head",
+      "Brain",
+      "Bone",
+      "Cranium"
+    ],
+    "clues": [
+      "In a newborn baby it has soft spots that close up over time.",
+      "Its lower jaw is the only part of it that moves freely.",
+      "It is the hard helmet built into you that keeps your thinking organ safe."
+    ],
+    "decoys": [
+      "Spine",
+      "Rib cage",
+      "Pelvis"
+    ],
+    "explain": "The skull is the bony case that protects the brain and gives the face its shape. It is made of about 22 bones. Most of them are locked together by fixed joints called sutures; only the lower jaw moves freely so you can chew and talk."
+  },
+  {
+    "id": "bones-taboo-03",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Rib cage",
+    "forbidden": [
+      "Chest",
+      "Ribs",
+      "Lungs",
+      "Heart"
+    ],
+    "clues": [
+      "It rises and falls a little every time you take a breath.",
+      "It is made of 12 pairs of curved bones joined to the spine at the back.",
+      "This bony shield around your upper body guards the organs that pump blood and breathe air."
+    ],
+    "decoys": [
+      "Pelvis",
+      "Skull",
+      "Spine"
+    ],
+    "explain": "The rib cage is made of 12 pairs of ribs, the breastbone in front and the spine at the back. It protects the heart and lungs. It is also flexible: muscles between the ribs lift the cage when you breathe in, making more room for air."
+  },
+  {
+    "id": "bones-taboo-04",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Spine",
+    "forbidden": [
+      "Backbone",
+      "Vertebrae",
+      "Back",
+      "Column"
+    ],
+    "clues": [
+      "Fish, birds and mammals all have one, but jellyfish and worms do not.",
+      "It is made of 33 small bones stacked like a tower, some of them joined together.",
+      "The bundle of nerves from your brain runs down through the middle of it, from neck to hips."
+    ],
+    "decoys": [
+      "Rib cage",
+      "Pelvis",
+      "Skull"
+    ],
+    "explain": "The spine is a column of small bones called vertebrae, stacked one on top of another with cushions of cartilage between them. It holds the body upright but can still bend and twist. A tunnel through the vertebrae protects the spinal cord, the bundle of nerves that carries messages between the brain and the body."
+  },
+  {
+    "id": "bones-taboo-05",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Biceps",
+    "forbidden": [
+      "Arm",
+      "Muscle",
+      "Flex",
+      "Bend"
+    ],
+    "clues": [
+      "Its name means 'two heads' because it is attached at the top in two places.",
+      "Its partner on the opposite side is the triceps.",
+      "When you lift a heavy bag and show off, this bulges at the front of your upper limb."
+    ],
+    "decoys": [
+      "Triceps",
+      "Calf",
+      "Quadriceps"
+    ],
+    "explain": "The biceps is a skeletal muscle at the front of the upper arm. When it contracts it gets shorter and fatter, pulling the forearm up and bending the elbow. Muscles can only pull, never push, so the triceps on the back of the arm pulls the other way to straighten it."
+  },
+  {
+    "id": "bones-taboo-06",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Fracture",
+    "forbidden": [
+      "Broken",
+      "Bone",
+      "Crack",
+      "Cast"
+    ],
+    "clues": [
+      "A doctor usually confirms it with an X-ray picture.",
+      "The injured part is kept still in a splint or plaster until it heals.",
+      "It is the medical word for when a hard part of your skeleton snaps."
+    ],
+    "decoys": [
+      "Sprain",
+      "Bruise",
+      "Cramp"
+    ],
+    "explain": "A fracture is a break or crack in a bone. Bone is living tissue, so it can heal: bone cells build new bone across the break over several weeks. Keeping the bone still with a cast or splint lets the two ends join in the right position."
+  },
+  {
+    "id": "bones-taboo-07",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 1,
+    "word": "Kneecap",
+    "forbidden": [
+      "Knee",
+      "Patella",
+      "Leg",
+      "Joint"
+    ],
+    "clues": [
+      "Babies are born with this as soft cartilage that hardens into bone later.",
+      "It sits inside a tendon at the front of your thigh muscle.",
+      "This small bone shields the front of the place where your thigh meets your shin."
+    ],
+    "decoys": [
+      "Shin bone",
+      "Ankle bone",
+      "Hip bone"
+    ],
+    "explain": "The kneecap, or patella, is a small triangle-shaped bone at the front of the knee. It sits inside the tendon of the thigh muscle and helps that muscle straighten the leg with less effort. It also shields the front of the knee joint from knocks."
+  },
+  {
+    "id": "bones-taboo-08",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Joint",
+    "forbidden": [
+      "Elbow",
+      "Knee",
+      "Bend",
+      "Hinge"
+    ],
+    "clues": [
+      "Your shoulder has a ball-and-socket type of this.",
+      "Some, like those in the skull, do not move at all.",
+      "It is any place where two bones meet."
+    ],
+    "decoys": [
+      "Tendon",
+      "Muscle",
+      "Cartilage"
+    ],
+    "explain": "A joint is a place where two or more bones meet. Some joints are fixed, like those in the skull. Others move freely: hinge joints in the elbow and knee bend one way, while ball-and-socket joints in the shoulder and hip let a limb swing in a circle."
+  },
+  {
+    "id": "bones-taboo-09",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Tendon",
+    "forbidden": [
+      "Muscle",
+      "Bone",
+      "Achilles",
+      "Attach"
+    ],
+    "clues": [
+      "You can feel one as a hard cord at the back of your ankle, above the heel.",
+      "It is a tough, rope-like band that does not stretch much.",
+      "When the meat of your arm or leg pulls, this cord passes the pull on to the skeleton."
+    ],
+    "decoys": [
+      "Ligament",
+      "Nerve",
+      "Cartilage"
+    ],
+    "explain": "A tendon is a strong cord that connects a muscle to a bone. When a muscle contracts, it pulls on the tendon, and the tendon pulls the bone, so the body part moves. A ligament looks similar but connects bone to bone instead."
+  },
+  {
+    "id": "bones-taboo-10",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Ligament",
+    "forbidden": [
+      "Bone",
+      "Sprain",
+      "Tendon",
+      "Joint"
+    ],
+    "clues": [
+      "Footballers sometimes tear the ACL, a famous one inside the knee.",
+      "It is a tough, slightly stretchy band.",
+      "It holds the skeleton's pieces together where they meet, so they do not slip apart."
+    ],
+    "decoys": [
+      "Cartilage",
+      "Muscle",
+      "Nerve"
+    ],
+    "explain": "A ligament is a strong band of tissue that connects one bone to another at a joint. Ligaments keep joints stable while still letting them move. If a ligament is stretched too far or torn, for example by twisting an ankle, the injury is called a sprain."
+  },
+  {
+    "id": "bones-taboo-11",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cartilage",
+    "forbidden": [
+      "Bendy",
+      "Nose",
+      "Ear",
+      "Gristle"
+    ],
+    "clues": [
+      "Sharks have a skeleton made entirely of it.",
+      "It covers the ends of bones so they slide smoothly in a joint.",
+      "This firm but flexible tissue shapes the tip of your smelling organ."
+    ],
+    "decoys": [
+      "Ligament",
+      "Tendon",
+      "Bone marrow"
+    ],
+    "explain": "Cartilage is a smooth, firm and flexible tissue. It covers the ends of bones in joints so they move without grinding, cushions the spine, and shapes the nose and ears. It has no blood vessels, so it heals much more slowly than bone.",
+    "fact": "Sharks and rays have no bones; their whole skeleton is cartilage."
+  },
+  {
+    "id": "bones-taboo-12",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Sprain",
+    "forbidden": [
+      "Ankle",
+      "Twist",
+      "Ligament",
+      "Swelling"
+    ],
+    "clues": [
+      "It is often treated with rest, a wrapped ice pack and keeping the injured part raised.",
+      "It is not a break, but it can hurt just as much.",
+      "It happens when the bands holding a joint together are stretched too far or torn."
+    ],
+    "decoys": [
+      "Fracture",
+      "Cramp",
+      "Bruise"
+    ],
+    "explain": "A sprain is an injury to a ligament, the band that holds bones together at a joint. It usually happens when a joint is bent or twisted too far, often the ankle or wrist. Rest, an ice pack wrapped in cloth, gentle support and raising the limb help the swelling go down. A doctor may take an X-ray to check that no bone is broken."
+  },
+  {
+    "id": "bones-taboo-13",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Bone marrow",
+    "forbidden": [
+      "Blood cells",
+      "Inside",
+      "Soft",
+      "Spongy"
+    ],
+    "clues": [
+      "In adults, much of the active kind is found in flat bones like the hip and breastbone.",
+      "It comes in a red type and a yellow, fatty type.",
+      "This tissue in the hollow middle of bones makes red cells, white cells and platelets."
+    ],
+    "decoys": [
+      "Cartilage",
+      "Ligament",
+      "Tendon"
+    ],
+    "explain": "Bone marrow is the soft tissue that fills the spaces inside many bones. Red marrow makes all the body's blood cells: red cells, white cells and platelets. Yellow marrow is mostly fat. Children have lots of red marrow, and in adults much of it is replaced by yellow marrow, except in bones like the hip, ribs and breastbone."
+  },
+  {
+    "id": "bones-taboo-14",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 2,
+    "word": "Cramp",
+    "forbidden": [
+      "Muscle",
+      "Pain",
+      "Stretch",
+      "Spasm"
+    ],
+    "clues": [
+      "Swimmers and runners sometimes get one in the calf after hard exercise.",
+      "It usually goes away within a few minutes.",
+      "It is a sudden, tight squeeze in part of your body that you cannot relax on purpose."
+    ],
+    "decoys": [
+      "Sprain",
+      "Fracture",
+      "Bruise"
+    ],
+    "explain": "A cramp is when a muscle suddenly tightens and will not relax for a while. It is common in the calf and can happen after hard exercise or tiredness. Gently stretching and rubbing the muscle usually eases it within minutes. Drinking enough water during sport may help prevent cramps."
+  },
+  {
+    "id": "bones-taboo-15",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Femur",
+    "forbidden": [
+      "Thigh",
+      "Longest",
+      "Leg",
+      "Hip"
+    ],
+    "clues": [
+      "Its top is a ball that fits into a socket in the pelvis.",
+      "Its lower end forms the upper half of the knee.",
+      "It is the biggest and strongest bone in your skeleton, above the knee."
+    ],
+    "decoys": [
+      "Tibia",
+      "Humerus",
+      "Fibula"
+    ],
+    "explain": "The femur is the thigh bone, the longest and strongest bone in the body. Its rounded top fits into the hip socket to form a ball-and-socket joint, and its lower end forms part of the knee. Its length is roughly a quarter of a person's height."
+  },
+  {
+    "id": "bones-taboo-16",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Osteoporosis",
+    "forbidden": [
+      "Weak",
+      "Brittle",
+      "Old age",
+      "Calcium"
+    ],
+    "clues": [
+      "A special scan that measures bone density helps doctors find it.",
+      "Its name means 'porous bone', because the inside of the bone becomes full of larger holes.",
+      "It makes bones thin and easy to break, and is most common in grandparents."
+    ],
+    "decoys": [
+      "Arthritis",
+      "Scoliosis",
+      "Fracture"
+    ],
+    "explain": "Osteoporosis is a condition in which bones lose minerals and become thin and fragile, so they break more easily. It is most common in older adults. Building strong bones in childhood, with calcium, vitamin D and active play, lowers the chance of getting it later in life."
+  },
+  {
+    "id": "bones-taboo-17",
+    "system": "bones",
+    "mode": "taboo",
+    "level": 3,
+    "word": "Ball-and-socket joint",
+    "forbidden": [
+      "Shoulder",
+      "Hip",
+      "Round",
+      "Cup"
+    ],
+    "clues": [
+      "It allows the widest range of movement of any kind of connection between bones.",
+      "Your arm can swing in a full circle because of one.",
+      "The knob-like end of one bone sits in a hollow of another."
+    ],
+    "decoys": [
+      "Hinge joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "explain": "In a ball-and-socket joint, the rounded end of one bone fits into a hollow in another. This lets the limb move forwards, backwards, sideways and in circles. The shoulder and hip are ball-and-socket joints. The shoulder moves more freely, while the hip has a deeper socket that makes it more stable."
+  },
+  {
+    "id": "bones-case-01",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Radiologist",
+    "scenario": "A boy fell off his bicycle. His wrist is swollen and very painful to move. Which test will show whether a bone is broken?",
+    "options": [
+      "Eye test",
+      "Blood sugar test",
+      "X-ray",
+      "ECG"
+    ],
+    "answer": "X-ray",
+    "optionNotes": [
+      "Checks how well you see",
+      "Measures sugar in the blood",
+      "Shows bones clearly",
+      "Records the heart's electrical signals"
+    ],
+    "explain": "X-rays pass easily through soft parts like skin and muscle but are blocked by hard bone. So on an X-ray picture, bones show up white and any break appears as a dark line or gap. This helps the doctor decide whether the arm needs a cast."
+  },
+  {
+    "id": "bones-case-02",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "During a game, a girl twists her ankle. It is swollen and sore, but she can stand a little. What is the best first thing to do?",
+    "options": [
+      "Rest it, hold an ice pack wrapped in cloth on it, and tell an adult",
+      "Rub it hard",
+      "Keep playing to loosen it up",
+      "Put ice straight on bare skin for an hour"
+    ],
+    "answer": "Rest it, hold an ice pack wrapped in cloth on it, and tell an adult",
+    "optionNotes": [
+      "Calms swelling and gets help",
+      "Can increase swelling and pain",
+      "Can make the injury worse",
+      "Bare ice can damage skin"
+    ],
+    "explain": "A twisted ankle is often a sprain, where the ligaments are stretched or torn. Resting stops further damage, and a cold pack wrapped in a cloth for about 15–20 minutes reduces swelling. Raising the foot also helps. An adult should decide whether a doctor needs to check for a broken bone."
+  },
+  {
+    "id": "bones-case-03",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Emergency Doctor",
+    "scenario": "A child falls from a climbing frame. His forearm looks bent in an odd shape and hurts badly. What should the people around him do first?",
+    "options": [
+      "Try to straighten the arm",
+      "Ask him to move his fingers fast",
+      "Lift him and carry him home quickly",
+      "Keep the arm still and supported, and get adult help"
+    ],
+    "answer": "Keep the arm still and supported, and get adult help",
+    "optionNotes": [
+      "Can damage nerves and blood vessels",
+      "Movement can cause more damage",
+      "Moving him can worsen the injury",
+      "Stops further damage until medical help comes"
+    ],
+    "explain": "An arm that looks bent the wrong way may be broken. Moving the broken ends can hurt nearby nerves and blood vessels, so the arm should be kept still and supported, for example with a cushion or folded cloth. An adult should call for medical help. Only a doctor should straighten, or 'set', a broken bone."
+  },
+  {
+    "id": "bones-case-04",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A doctor tells a child that milk, curd, ragi and leafy greens help build hard, strong bones. Which mineral do these foods provide?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iron",
+      "Iodine"
+    ],
+    "answer": "Calcium",
+    "optionNotes": [
+      "Found in salt",
+      "Main mineral that makes bones hard",
+      "Needed for healthy blood",
+      "Needed by the thyroid gland"
+    ],
+    "explain": "About 99% of the body's calcium is stored in bones and teeth, and it is what makes them hard. Childhood and the teenage years are when bones grow fastest and store the most calcium. Calcium-rich foods, vitamin D from sunlight, and active play together build bones that stay strong in adult life.",
+    "fact": "Ragi (finger millet) has more calcium than most other grains."
+  },
+  {
+    "id": "bones-case-05",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A student spends hours bending his head down over his phone. Now his neck and upper back often ache. Which change will help most?",
+    "options": [
+      "Lie on the stomach while using the phone",
+      "Stop all exercise",
+      "Hold the screen up near eye level and take regular breaks",
+      "Bend the head down even further"
+    ],
+    "answer": "Hold the screen up near eye level and take regular breaks",
+    "optionNotes": [
+      "Bends the neck back awkwardly",
+      "Exercise keeps muscles strong",
+      "Keeps the neck straight and relaxed",
+      "Adds more strain to the neck"
+    ],
+    "explain": "The head is heavy, and when it tips forward the neck muscles must work much harder to hold it up. Over hours, this strain causes aches. Keeping the screen near eye level keeps the spine in a natural line, and short breaks let the muscles rest and move."
+  },
+  {
+    "id": "bones-case-06",
+    "system": "bones",
+    "mode": "case",
+    "level": 1,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A child asks the doctor how many bones are in a grown-up's skeleton. What is the correct answer?",
+    "options": [
+      "50",
+      "100",
+      "500",
+      "206"
+    ],
+    "answer": "206",
+    "optionNotes": [
+      "Far too few",
+      "Too few",
+      "Far too many",
+      "Correct number for most adults"
+    ],
+    "explain": "A typical adult skeleton has 206 bones. A newborn baby has around 300 bones and bony pieces, many of them partly cartilage. As a child grows, some of these fuse together, such as those in the skull and at the base of the spine, which brings the number down to 206.",
+    "fact": "More than half of your bones are in your hands and feet."
+  },
+  {
+    "id": "bones-case-07",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A girl's broken forearm is set and wrapped in a hard cast for six weeks. Why does it need a cast?",
+    "options": [
+      "It keeps the bone still so new bone can join the ends correctly",
+      "The cast feeds calcium into the bone",
+      "The cast keeps germs out of the bone",
+      "The cast makes the bone grow longer"
+    ],
+    "answer": "It keeps the bone still so new bone can join the ends correctly",
+    "optionNotes": [
+      "Healing needs the ends kept in place",
+      "Calcium comes from food, not the cast",
+      "That is not its job",
+      "Casts do not change bone length"
+    ],
+    "explain": "Bone is living tissue that can repair itself. After a break, a soft bridge forms between the broken ends and slowly hardens into new bone over several weeks. If the bone keeps moving, it can heal crooked or slowly, so a cast holds it in the right position while it mends."
+  },
+  {
+    "id": "bones-case-08",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Sports Medicine Doctor",
+    "scenario": "While sprinting, a runner feels a sudden snap at the back of his lower leg, just above the heel. Now he cannot rise onto his toes. Which part is most likely injured?",
+    "options": [
+      "Spinal cord",
+      "Kneecap",
+      "Collarbone",
+      "Achilles tendon"
+    ],
+    "answer": "Achilles tendon",
+    "optionNotes": [
+      "Inside the spine",
+      "Front of the knee",
+      "Shoulder area",
+      "Links calf muscle to heel bone"
+    ],
+    "explain": "The Achilles tendon is the thickest and strongest tendon in the body. It connects the calf muscles to the heel bone, so when the calf contracts, the heel lifts and you rise onto your toes. If this tendon tears, the calf can no longer pull the heel, so standing on tiptoe becomes impossible on that side."
+  },
+  {
+    "id": "bones-case-09",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A grandmother's knees have become painful and stiff over many years. An X-ray shows the gap between her bones has narrowed because the smooth cushion on the bone ends has worn thin. What is this condition called?",
+    "options": [
+      "Dislocation",
+      "Arthritis",
+      "Muscle cramp",
+      "Fracture"
+    ],
+    "answer": "Arthritis",
+    "optionNotes": [
+      "Bone pushed out of its joint",
+      "Joint inflammation and wear",
+      "Sudden tightening of a muscle",
+      "A broken bone"
+    ],
+    "explain": "Arthritis means swelling and pain in a joint. In the most common kind, osteoarthritis, the cartilage that covers the ends of bones wears thin over many years. Without that smooth cushion, the joint becomes stiff and painful. Gentle exercise, keeping a healthy weight and treatment from a doctor help people manage it."
+  },
+  {
+    "id": "bones-case-10",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Emergency Doctor",
+    "scenario": "A player falls on his outstretched arm. The round top of his upper arm bone has slipped completely out of its shoulder socket. What is this injury called?",
+    "options": [
+      "Strain",
+      "Sprain",
+      "Dislocation",
+      "Cramp"
+    ],
+    "answer": "Dislocation",
+    "optionNotes": [
+      "Stretched or torn muscle",
+      "Stretched or torn ligament",
+      "Bone pushed out of its joint",
+      "Sudden muscle tightening"
+    ],
+    "explain": "A dislocation happens when the bones of a joint are forced out of their normal position. The shoulder dislocates more often than any other large joint because its shallow socket lets it move so freely. A doctor must put the bone back in place, and the arm is then rested in a sling."
+  },
+  {
+    "id": "bones-case-11",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Paediatrician",
+    "scenario": "An X-ray of a seven-year-old's forearm shows the bone has bent and cracked on one side only, like a fresh green twig. What type of injury is this?",
+    "options": [
+      "Greenstick fracture",
+      "Sprain",
+      "Dislocation",
+      "Cramp"
+    ],
+    "answer": "Greenstick fracture",
+    "optionNotes": [
+      "Partial break in a bendy young bone",
+      "Injury to a ligament",
+      "Bone out of its joint",
+      "Muscle tightening"
+    ],
+    "explain": "Children's bones are softer and more flexible than adults' because they contain more collagen and are still growing. Instead of snapping straight through, a child's bone may bend and crack on one side, like a green twig. This is called a greenstick fracture. It still needs a doctor and usually a cast."
+  },
+  {
+    "id": "bones-case-12",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Physiotherapist",
+    "scenario": "After an injury, a patient can bend his elbow normally but cannot straighten it against any resistance. Which muscle is most likely not working?",
+    "options": [
+      "Heart muscle",
+      "Biceps",
+      "Calf muscle",
+      "Triceps"
+    ],
+    "answer": "Triceps",
+    "optionNotes": [
+      "Pumps blood",
+      "Bends the elbow",
+      "Works the ankle",
+      "Straightens the elbow"
+    ],
+    "explain": "Muscles can only pull, not push, so they work in opposite pairs. The biceps on the front of the upper arm bends the elbow, and the triceps on the back straightens it. If the triceps is not working, the arm can still bend but cannot push or straighten with force."
+  },
+  {
+    "id": "bones-case-13",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Radiologist",
+    "scenario": "A footballer's X-ray shows no broken bones, but the doctor suspects a torn ligament inside his knee. Which scan shows soft tissues like ligaments most clearly?",
+    "options": [
+      "Another X-ray",
+      "MRI scan",
+      "Thermometer reading",
+      "Urine test"
+    ],
+    "answer": "MRI scan",
+    "optionNotes": [
+      "Good for bones, poor for soft tissue",
+      "Shows soft tissues in detail",
+      "Only measures temperature",
+      "Checks the kidneys and urine"
+    ],
+    "explain": "X-rays show hard bone well but show soft tissues like ligaments, tendons and cartilage poorly. An MRI scan uses a strong magnet and radio waves to make detailed pictures of soft tissues. It does not use X-rays. The patient lies still inside a tunnel-shaped machine while the pictures are taken."
+  },
+  {
+    "id": "bones-case-14",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Sports Medicine Doctor",
+    "scenario": "During a long swim, a boy suddenly feels his calf muscle go tight and hard. He cannot relax it. What should he do first?",
+    "options": [
+      "Wait for an X-ray",
+      "Ask for a plaster cast",
+      "Get to the side safely, then gently stretch and rub the calf",
+      "Swim faster to work it out"
+    ],
+    "answer": "Get to the side safely, then gently stretch and rub the calf",
+    "optionNotes": [
+      "Not needed for a cramp",
+      "Only for broken bones",
+      "Eases a cramp safely",
+      "Can make it worse and is unsafe"
+    ],
+    "explain": "This is a muscle cramp: a sudden, strong tightening that the swimmer cannot relax on purpose. The first step is to get somewhere safe out of deep water. Gently stretching the calf, by pulling the toes towards the shin, and rubbing it usually makes the cramp ease within minutes."
+  },
+  {
+    "id": "bones-case-15",
+    "system": "bones",
+    "mode": "case",
+    "level": 3,
+    "role": "Orthopaedic Doctor",
+    "scenario": "During a school check-up, a doctor asks a girl to bend forward. One shoulder blade sticks out more, and an X-ray shows her spine curves sideways like an 'S'. What is this condition?",
+    "options": [
+      "Scoliosis",
+      "Arthritis",
+      "Sprain",
+      "Osteoporosis"
+    ],
+    "answer": "Scoliosis",
+    "optionNotes": [
+      "Sideways curve of the spine",
+      "Joint wear and swelling",
+      "Injured ligament",
+      "Thin, fragile bones"
+    ],
+    "explain": "Seen from behind, a healthy spine runs straight down the back. In scoliosis, it curves to one side, often in an S or C shape. It often shows up during the growth spurt around the start of the teenage years. Many cases are mild and only need check-ups, while others are treated with a brace or, rarely, an operation."
+  },
+  {
+    "id": "bones-case-16",
+    "system": "bones",
+    "mode": "case",
+    "level": 2,
+    "role": "Orthopaedic Doctor",
+    "scenario": "A basketball player twisted her knee and tore a ligament inside it. Her knee now feels wobbly. What is the normal job of a ligament?",
+    "options": [
+      "To make blood cells",
+      "To carry messages to the brain",
+      "To join muscle to bone",
+      "To join bone to bone and keep the joint steady"
+    ],
+    "answer": "To join bone to bone and keep the joint steady",
+    "optionNotes": [
+      "Done by bone marrow",
+      "Done by nerves",
+      "That is a tendon's job",
+      "Holds a joint together"
+    ],
+    "explain": "Ligaments are strong bands that connect bones to other bones at a joint. They let the joint move in the right directions but stop it moving too far. When a ligament inside the knee tears, the bones are not held firmly in place, so the knee feels loose or gives way."
+  }
+]
