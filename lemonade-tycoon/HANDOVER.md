@@ -6,14 +6,13 @@ Playable single-file HTML game. Deployed to Cloudflare Workers (Static Assets).
 
 - **Live**: https://lemonade-tycoon.harayanan.workers.dev
 - **Also served at**: https://shaktinarayanan.com/games/lemonade-tycoon/ (copied in by `../../shakti-website`)
-- **Local**: `python3 server.py` → port 9114, or `npm run dev` → port 8787 (Workers runtime emulator)
+- **Local**: `npm run dev` → port 8787 (Workers runtime emulator), or `python3 -m http.server 9114 -d public`
 
 ## Layout
 
 ```
 public/index.html    the entire game — HTML, CSS, JS in one file
 wrangler.jsonc       Cloudflare Workers config
-server.py            local Python static server (serves from public/)
 PLAYTEST-NOTES.md    playtest feedback
 ```
 
