@@ -18,7 +18,14 @@ writing the first 500 sticks and when generating the next batch.
 
 ## Files
 
-- One file per body system: `content/<system>.json`, a JSON array of sticks.
+- Each batch of 500 adds one file per body system: `content/<system>.json` (batch 1),
+  `content/<system>-2.json` (batch 2), and so on. Each file is a JSON array of sticks.
+- Ids continue the numbering across batches. In batch 2: odd 18–34, taboo 18–34,
+  case 17–32 (e.g. `heart-odd-18`). Batch N continues from where batch N−1 ended.
+- A new batch must not repeat earlier batches: no reused taboo target word, no
+  odd-one-out with the same item set or the same grouping idea, and no case with the
+  same scenario and answer. Read the earlier files for the system before writing.
+- `node scripts/build.mjs <system>` validates all of that system's files together.
 - Run `node scripts/build.mjs` to validate all files and write
   `public/data/sticks.json`. The build fails on any schema error.
 

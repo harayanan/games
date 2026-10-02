@@ -272,7 +272,10 @@
   }
 
   function beginTurn(mode) {
-    const stick = drawStick(mode);
+    beginTurnWith(drawStick(mode));
+  }
+
+  function beginTurnWith(stick) {
     S.round.used.add(stick.id);
     S.clock++;
     const t = { stick, phase: 'question', locked: new Set(), answering: null, wrong: new Set(), clues: 1 };
@@ -289,7 +292,8 @@
   function stickHead(stick) {
     const m = MODES[stick.mode];
     const lvl = ['', 'Easy', 'Medium', 'Hard'][stick.level];
-    return `<div class="stick-meta"><span>${m.name}</span><span>${esc(SYS[stick.system].name)}</span><span>${lvl}</span></div>`;
+    const done = S.progress[stick.id]?.c > 0 ? '<span class="done-tag">Done before ✓</span>' : '';
+    return `<div class="stick-meta"><span>${m.name}</span><span>${esc(SYS[stick.system].name)}</span><span>${lvl}</span>${done}</div>`;
   }
 
   function renderStick() {
@@ -311,12 +315,14 @@
         ? (c.text === answerOf(stick) ? 'right' : t.wrong.has(c.text) ? 'wrong' : '')
         : t.wrong.has(c.text) ? 'wrong' : '';
       const dis = !optsLive || t.wrong.has(c.text);
-      return `<button class="opt ${cls}" data-i="${i}" ${dis ? 'disabled' : ''} type="button"><span class="num">${i + 1}</span>${esc(c.text)}</button>`;
+      return `<button class="opt ${cls}" data-i="${i}" ${dis ? 'disabled' : ''} type="button"><span class="num">${i + 1}</span><span class="opt-text">${esc(c.text)}</span></button>`;
     }).join('');
 
     let below = '';
-    if (t.phase === 'question' && stick.mode === 'taboo' && t.clues < stick.clues.length) {
-      below = `<div class="action-row"><button class="btn secondary" id="moreClue" type="button">Show another clue</button></div>`;
+    if (t.phase === 'question' && !party) {
+      const more = stick.mode === 'taboo' && t.clues < stick.clues.length
+        ? '<button class="btn secondary" id="moreClue" type="button">Show another clue</button>' : '';
+      below = `<div class="action-row">${more}<button class="btn secondary" data-skip type="button">Skip this stick</button></div>`;
     }
     if (t.phase === 'question' && party) {
       const r = S.round;
@@ -324,7 +330,7 @@
         below = `<div class="buzz"><h3>Know it? Tap your name, then pick your answer.</h3>
           <div class="buzz-row">${r.players.map((p, i) => t.locked.has(i) ? '' :
             `<button class="btn" data-buzz="${i}" type="button">${esc(p.name)}</button>`).join('')}</div>
-          <div class="action-row"><button class="btn secondary" id="nobody" type="button">Nobody knows — show the answer</button></div></div>`;
+          <div class="action-row"><button class="btn secondary" id="nobody" type="button">Nobody knows — show the answer</button><button class="btn secondary" data-skip type="button">Skip this stick</button></div></div>`;
       } else {
         below = `<div class="buzz"><h3>${esc(r.players[t.answering].name)}, pick your answer.</h3></div>`;
       }
@@ -345,7 +351,22 @@
     if (more) more.onclick = () => { t.clues++; renderStick(); };
     const nobody = document.getElementById('nobody');
     if (nobody) nobody.onclick = () => resolve(null);
+    bindSkip();
     bindReveal();
+  }
+
+  // Skip draws another stick of the same colour. Not counted as right or wrong;
+  // the skipped stick is pushed back so it does not come up again straight away.
+  function bindSkip() {
+    $app.querySelectorAll('[data-skip]').forEach(b => b.onclick = skipStick);
+  }
+  function skipStick() {
+    const t = S.t;
+    if (!t || t.phase === 'reveal') return;
+    stopTimer();
+    const p = S.progress[t.stick.id];
+    if (p) { p.last = S.clock; saveProgress(); }
+    beginTurnWith(drawStick(t.stick.mode));
   }
 
   const answerOf = s => s.mode === 'taboo' ? s.word : s.answer;
@@ -375,7 +396,9 @@
           <h2>Don't Say It</h2>
           <p class="muted">${esc(describer.name)} describes. Everyone else, look away from the screen!</p>
           <div class="action-row"><button class="btn big" id="ready" type="button">${esc(describer.name)} is ready</button></div>
+          <div class="action-row"><button class="btn secondary" data-skip type="button">Skip this stick</button></div>
         </div>`;
+      bindSkip();
       document.getElementById('ready').onclick = () => { t.phase = 'describe'; t.left = TABOO_SECONDS; renderTabooParty(); startTabooTimer(); };
       return;
     }
@@ -395,7 +418,8 @@
         </article>
         <div class="timer" id="timer">${t.left}s</div>
         <div class="buzz"><h3>Who guessed it first?</h3><div class="buzz-row">${guessers}</div>
-          <div class="action-row"><button class="btn secondary" id="skip" type="button">Nobody got it</button></div></div>`;
+          <div class="action-row"><button class="btn secondary" id="skip" type="button">Nobody got it</button><button class="btn secondary" data-skip type="button">Skip this stick</button></div></div>`;
+      bindSkip();
       $app.querySelectorAll('[data-g]').forEach(b => b.onclick = () => { stopTimer(); resolve(+b.dataset.g); });
       document.getElementById('skip').onclick = () => { stopTimer(); resolve(null); };
       return;
@@ -606,6 +630,18 @@
       S.sticks = data;
       S.byId = Object.fromEntries(data.map(s => [s.id, s]));
       renderHome();
+      // Layout testing only: ?debug exposes a hook to open any stick directly.
+      if (new URLSearchParams(location.search).has('debug')) {
+        window.__bs = {
+          show(id, players = 1, phase) {
+            startRound(Array.from({ length: players }, (_, i) => ({ name: `Player ${i + 1}` })));
+            const stick = S.byId[id];
+            beginTurnWith(stick);
+            if (phase === 'reveal') resolve(null, null);
+            if (phase === 'describe') { S.t.phase = 'describe'; S.t.left = TABOO_SECONDS; renderStick(); }
+          },
+        };
+      }
     })
     .catch(() => { $app.innerHTML = '<div class="panel">Could not load the sticks. Check your connection and refresh.</div>'; });
 })();

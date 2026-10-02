@@ -1,6 +1,7 @@
 // Validates content/*.json against CONTENT-SPEC.md and writes public/data/sticks.json.
 // Usage: node scripts/build.mjs            (validate all + build)
-//        node scripts/build.mjs heart      (validate one system only, no build)
+//        node scripts/build.mjs heart      (validate one system's files only, no build)
+// Each system can have several batch files: content/heart.json, content/heart-2.json, …
 import { readFileSync, writeFileSync, readdirSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -11,7 +12,7 @@ const MODES = ['odd', 'taboo', 'case'];
 
 const only = process.argv[2];
 const files = readdirSync(join(root, 'content')).filter(f => f.endsWith('.json'))
-  .filter(f => !only || f === `${only}.json`);
+  .filter(f => !only || f.replace(/(-\d+)?\.json$/, '') === only);
 
 const errors = [];
 const all = [];
@@ -24,7 +25,7 @@ const words = s => s.trim().split(/\s+/).length;
 const norm = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
 
 for (const file of files) {
-  const system = file.replace('.json', '');
+  const system = file.replace(/(-\d+)?\.json$/, '');
   let sticks;
   try { sticks = JSON.parse(readFileSync(join(root, 'content', file), 'utf8')); }
   catch (e) { errors.push(`${file}: invalid JSON (${e.message})`); continue; }
@@ -89,7 +90,7 @@ for (const file of files) {
   const count = m => sticks.filter(s => s.mode === m).length;
   const summary = `${system}: ${sticks.length} sticks (odd ${count('odd')}, taboo ${count('taboo')}, case ${count('case')}; ` +
     `L1 ${sticks.filter(s => s.level === 1).length} L2 ${sticks.filter(s => s.level === 2).length} L3 ${sticks.filter(s => s.level === 3).length})`;
-  console.log(summary);
+  console.log(summary.replace(`${system}:`, `${file}:`));
   all.push(...sticks);
 }
 
