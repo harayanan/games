@@ -1,11 +1,14 @@
 // Routing and page rendering. Routes: #/ (home), #/basics, #/game/<id>.
 
 const TYPES = {
+  original: { label: 'Made up here', note: 'New games invented for this table. Not yet tested by real players: change any rule that doesn\'t work for you.' },
   strategy: { label: 'Classic & strategy', note: 'Turn-based games where planning ahead wins.' },
   speed: { label: 'Fast & loud', note: 'Quick reactions, everyone playing at once.' },
   math: { label: 'Maths games', note: 'Number cards turned into sums, times tables and puzzles.' },
 };
-const TYPE_ORDER = ['strategy', 'speed', 'math'];
+const TYPE_ORDER = ['original', 'strategy', 'speed', 'math'];
+const GAME_BY_ID = Object.fromEntries(GAMES.map(g => [g.id, g]));
+const groupOf = g => (g.original ? 'original' : g.type);
 const LEVELS = ['', 'Easy', 'Medium', 'Challenging'];
 
 const filters = { players: 'any', type: 'any', decks: 'any', extras: 'any' };
@@ -20,7 +23,8 @@ function playersText(g) {
 
 function matches(g) {
   if (filters.players !== 'any' && !g.players.includes(+filters.players)) return false;
-  if (filters.type !== 'any' && !g.tags.includes(filters.type)) return false;
+  if (filters.type === 'original' && !g.original) return false;
+  if (filters.type !== 'any' && filters.type !== 'original' && !g.tags.includes(filters.type)) return false;
   if (filters.decks !== 'any' && g.decks !== +filters.decks) return false;
   if (filters.extras === 'none' && g.needs.some(n => !n.includes('optional'))) return false;
   if (filters.extras === 'timer' && !g.needs.some(n => n.startsWith('timer'))) return false;
@@ -30,6 +34,7 @@ function matches(g) {
 
 function tile(g) {
   return `<a class="tile ${g.type}" href="#/game/${g.id}">
+    ${g.original ? '<span class="new">New</span>' : ''}
     ${fan(g.icon)}
     <h3>${g.name}</h3>
     <p>${g.blurb}</p>
@@ -51,7 +56,7 @@ function renderList() {
   const shown = GAMES.filter(matches);
   const filtered = Object.values(filters).some(v => v !== 'any');
   const groups = TYPE_ORDER.map(type => {
-    const list = shown.filter(g => g.type === type);
+    const list = shown.filter(g => groupOf(g) === type);
     if (!list.length) return '';
     return `<section class="group">
       <h2><span class="dot ${type}"></span>${TYPES[type].label}</h2>
@@ -71,7 +76,7 @@ function renderHome() {
   app.innerHTML = `
     <div class="hero">
       <h1>Card games for the kitchen table</h1>
-      <p>${GAMES.length} games for two or three players with one or two ordinary decks. Every game has step-by-step rules, pictures of the table, and ideas for keeping it fair between an adult and a child.</p>
+      <p>${GAMES.length} games for two or three players with one or two ordinary decks, including ${GAMES.filter(g => g.original).length} new ones made up for this site. Every game has step-by-step rules, pictures of the table, and ideas for keeping it fair between an adult and a child.</p>
     </div>
     <div class="callout">
       <h2>New to card games?</h2>
@@ -80,7 +85,7 @@ function renderHome() {
     </div>
     <div class="filters">
       ${chipRow('players', 'Players', [['any', 'Any'], ['2', '2 players'], ['3', '3 players']])}
-      ${chipRow('type', 'Kind', [['any', 'All'], ['strategy', 'Classic & strategy'], ['speed', 'Fast & loud'], ['math', 'Maths']])}
+      ${chipRow('type', 'Kind', [['any', 'All'], ['strategy', 'Classic & strategy'], ['speed', 'Fast & loud'], ['math', 'Maths'], ['original', 'Made up here']])}
       ${chipRow('decks', 'Decks', [['any', 'Any'], ['1', '1 deck'], ['2', '2 decks']])}
       ${chipRow('extras', 'Extras', [['any', 'Any'], ['none', 'Just cards'], ['timer', 'Uses a timer'], ['clock', 'Uses the chess clock']])}
       <div class="frow-f"><button class="btn" id="pick">Pick a game for us</button><small id="count" class="count"></small></div>
@@ -122,6 +127,7 @@ function renderGame(g) {
       <p class="blurb">${g.blurb}</p>
       <p class="learn"><b>Practises:</b> ${g.learn}</p>
     </header>
+    ${g.original ? `<div class="newnote"><b>New game, made up for this site.</b> It hasn't been tried at a real table yet. If a rule feels wrong, change it and write your version down.</div>` : ''}
     <div class="meta">
       <div><small>Players</small><b>${playersText(g)}</b></div>
       <div><small>Cards</small><b>${g.decks} deck${g.decks > 1 ? 's' : ''}</b></div>
@@ -243,6 +249,7 @@ function renderBasics() {
         ['Next', '<a href="#/game/kings-corner">Kings Corner</a>, <a href="#/game/golf">Golf</a>, <a href="#/game/salute">Salute!</a>, <a href="#/game/make-24">Make 24</a>, <a href="#/game/times-showdown">Times Table Showdown</a>'],
         ['Then', '<a href="#/game/rummy">Rummy</a>, <a href="#/game/egyptian-ratscrew">Egyptian Ratscrew</a>, <a href="#/game/number-builder">Number Builder</a>, <a href="#/game/target">Target</a>'],
         ['With a third player', '<a href="#/game/spoons">Spoons</a>, <a href="#/game/oh-hell">Oh Hell!</a>, three-player <a href="#/game/salute">Salute!</a>'],
+        ['Made up here', '<a href="#/game/treasure-dive">Treasure Dive</a>, <a href="#/game/bridge-builders">Bridge Builders</a> (a team game), <a href="#/game/card-cricket">Card Cricket</a>, <a href="#/game/turnabout">Turnabout</a>'],
         ['When the rest feel easy', '<a href="#/game/german-whist">German Whist</a>, <a href="#/game/spite-and-malice">Spite and Malice</a>, <a href="#/game/casino">Casino</a>'],
       ])}
     </section>`;

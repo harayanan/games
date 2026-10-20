@@ -7,7 +7,7 @@ Shakti's website (`../shakti-website`) copies each game in at build time and ser
 | Folder | Game | What it teaches | Build | Also hosted at |
 |---|---|---|---|---|
 | `biogame/` | Body Sticks | Biology (1,000 question sticks, three modes) | `npm run build` (validates content, writes `public/data/sticks.json`) | — |
-| `card-games/` | Card Table | Rules for 17 card games with one or two decks, including maths games | none | — |
+| `card-games/` | Card Table | Rules for 27 card games with one or two decks (10 made up here), including maths games | none | — |
 | `lemonade-tycoon/` | Lemonade Tycoon | Money and running a business | none | Cloudflare Workers: lemonade-tycoon.harayanan.workers.dev |
 | `piggy-bank-quest/` | Piggy Bank Quest | Saving towards a goal | none | — |
 

@@ -278,6 +278,19 @@ table.simple td.n, table.simple th.n { text-align: center; }
 
 .grid3 { display: grid; grid-template-columns: repeat(3, auto); gap: 10px 14px; justify-items: center; align-items: center; }
 
+/* sideways cards (Turnabout) and square grids */
+.card.side { transform: rotate(90deg); }
+.card.side.hl { transform: rotate(90deg) translateX(-4px); }
+.gridn { display: grid; gap: 8px; justify-content: center; align-items: center; justify-items: center; }
+.gridn.sq .cell { width: calc(var(--cw) * 1.5); height: calc(var(--cw) * 1.5); display: flex; align-items: center; justify-content: center; }
+.gridn .cell b { font-family: 'Fredoka', sans-serif; font-weight: 600; }
+.token { display: inline-flex; align-items: center; justify-content: center; min-width: 28px; height: 28px; padding: 0 8px; border-radius: 999px; background: #fff; color: var(--ink); font-weight: 800; font-size: 0.78rem; box-shadow: 0 1px 3px rgba(0,0,0,.3); }
+.token.a { background: #ffd6e4; } .token.b { background: #d6e8ff; }
+.mark { font-size: 1.1rem; letter-spacing: 2px; }
+.newnote { background: #eef4ff; border: 1px solid #c9d9f5; border-radius: 12px; padding: 10px 14px; margin: 12px 0; font-size: 0.95rem; }
+.tile .new { position: absolute; top: 12px; right: 12px; background: var(--gold); color: var(--ink); font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 0.75rem; border-radius: 999px; padding: 1px 9px; }
+.dot.original { background: var(--gold); }
+
 /* person with a card on the forehead (Salute) */
 .person { display: flex; flex-direction: column; align-items: center; gap: 4px; max-width: 150px; text-align: center; }
 .person .head { width: 54px; height: 54px; border-radius: 50%; background: #f1c9a5; border: 2px solid #c99a74; margin-top: -10px; }

@@ -1,6 +1,6 @@
 // Helpers that draw playing cards and table layouts as HTML.
 // Card codes: rank + suit letter, e.g. "7h", "10s", "Kd", "Ac". "x" is a face-down card.
-// Add "!" to highlight a card and "~" to fade it: "8s!", "Kc~".
+// Add "!" to highlight a card, "~" to fade it and ">" to turn it sideways: "8s!", "Kc~", "9h>".
 
 const SUIT = { s: ['♠', 'spades'], h: ['♥', 'hearts'], d: ['♦', 'diamonds'], c: ['♣', 'clubs'] };
 const RANK_NAME = { A: 'Ace', J: 'Jack', Q: 'Queen', K: 'King' };
@@ -8,8 +8,8 @@ const RANK_NAME = { A: 'Ace', J: 'Jack', Q: 'Queen', K: 'King' };
 function parseCode(raw) {
   let code = raw;
   let mods = '';
-  while (/[!~]$/.test(code)) { mods += code.slice(-1); code = code.slice(0, -1); }
-  return { code, extra: (mods.includes('!') ? ' hl' : '') + (mods.includes('~') ? ' dim' : '') };
+  while (/[!~>]$/.test(code)) { mods += code.slice(-1); code = code.slice(0, -1); }
+  return { code, extra: (mods.includes('!') ? ' hl' : '') + (mods.includes('~') ? ' dim' : '') + (mods.includes('>') ? ' side' : '') };
 }
 
 // One card.
@@ -43,6 +43,10 @@ const rowNoWrap = (...a) => `<div class="frow nowrap">${a.join('')}</div>`;
 const col = (...a) => `<div class="fcol">${a.join('')}</div>`;
 const felt = (...a) => `<div class="felt">${a.join('')}</div>`;
 const grid3 = (...a) => `<div class="grid3">${a.join('')}</div>`;
+// A grid of n columns. Cells are HTML strings; '' leaves a cell empty.
+const gridN = (n, cells, cls = '') => `<div class="gridn ${cls}" style="grid-template-columns: repeat(${n}, auto)">${cells.map(x => `<span class="cell">${x}</span>`).join('')}</div>`;
+// A game piece (bunny, coin) with a short label.
+const token = (label, cls = '') => `<span class="token ${cls}">${label}</span>`;
 const divider = () => '<div class="divider"></div>';
 
 const op = s => `<span class="op">${s}</span>`;

@@ -1163,5 +1163,3 @@ const GAMES = [
   },
 ];
 
-// Quick lookup by id, in the order the games are listed.
-const GAME_BY_ID = Object.fromEntries(GAMES.map(g => [g.id, g]));
